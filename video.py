@@ -1,23 +1,38 @@
 import subprocess
 import cv2
 import pickle
+from enum import StrEnum
 
 from find_table import Cell, get_best_table_from_image
 
 
-def get_reference_colors() -> dict[str, list[cv2.typing.Scalar]]:
+class Color(StrEnum):
+    BLACK = "black"
+    ORANGE = "orange"
+    RED = "red"
+    BLUE = "blue"
+    GREEN = "green"
+    PURPLE = "purple"
+    NAVY = "navy"
+    TEAL = "teal"
+    BROWN = "brown"
+    PINK = "pink"
+    YELLOW = "yellow"
+
+
+def get_reference_colors() -> dict[Color, list[cv2.typing.Scalar]]:
     files = {
-        "black": ["./colors/black.png", "./colors/black_highlight.png"],
-        "orange": ["./colors/orange.png", "./colors/orange_highlight.png"],
-        "red": ["./colors/red.png", "./colors/red_highlight.png"],
-        "blue": ["./colors/blue.png", "./colors/blue_highlight.png"],
-        "green": ["./colors/green.png", "./colors/green_highlight.png"],
-        "purple": ["./colors/purple.png", "./colors/purple_highlight.png"],
-        "navy": ["./colors/navy.png", "./colors/navy_highlight.png"],
-        "teal": ["./colors/teal.png", "./colors/teal_highlight.png"],
-        "brown": ["./colors/brown.png", "./colors/brown_highlight.png"],
-        "pink": ["./colors/pink.png", "./colors/pink_highlight.png"],
-        "yellow": ["./colors/yellow.png", "./colors/yellow_highlight.png"],
+        Color.BLACK: ["./colors/black.png", "./colors/black_highlight.png"],
+        Color.ORANGE: ["./colors/orange.png", "./colors/orange_highlight.png"],
+        Color.RED: ["./colors/red.png", "./colors/red_highlight.png"],
+        Color.BLUE: ["./colors/blue.png", "./colors/blue_highlight.png"],
+        Color.GREEN: ["./colors/green.png", "./colors/green_highlight.png"],
+        Color.PURPLE: ["./colors/purple.png", "./colors/purple_highlight.png"],
+        Color.NAVY: ["./colors/navy.png", "./colors/navy_highlight.png"],
+        Color.TEAL: ["./colors/teal.png", "./colors/teal_highlight.png"],
+        Color.BROWN: ["./colors/brown.png", "./colors/brown_highlight.png"],
+        Color.PINK: ["./colors/pink.png", "./colors/pink_highlight.png"],
+        Color.YELLOW: ["./colors/yellow.png", "./colors/yellow_highlight.png"],
     }
     return {
         name: [cv2.mean(cv2.imread(img)) for img in imgs]
@@ -29,10 +44,10 @@ reference_colors = get_reference_colors()
 
 
 def get_closest_color_name(
-    all_colors: dict[str, list[cv2.typing.Scalar]], color: cv2.typing.Scalar
-) -> str:
+    all_colors: dict[Color, list[cv2.typing.Scalar]], color: cv2.typing.Scalar
+) -> Color:
     best_dist = None
-    best_name = ""
+    best_name = Color.BLACK
 
     for name, bgrs in all_colors.items():
         for bgr in bgrs:
@@ -82,7 +97,7 @@ def get_raw_colors(
     ]
 
 
-def get_named_colors(table: list[Cell], frame: cv2.typing.MatLike) -> list[str]:
+def get_named_colors(table: list[Cell], frame: cv2.typing.MatLike) -> list[Color]:
     raw_colors = get_raw_colors(table, frame)
     return [get_closest_color_name(reference_colors, rc) for rc in raw_colors]
 
@@ -94,39 +109,39 @@ def get_named_colors(table: list[Cell], frame: cv2.typing.MatLike) -> list[str]:
 # cmd = ["twitch-dl", "download", url, "-q", "source", "--output", title]
 
 # youtube
-url = "https://www.youtube.com/watch?v=YuiX19wZRcg"
-cmd = ["yt-dlp", "--quiet", "--no-warnings", "--get-filename", "--no-simulate", url]
+# url = "https://www.youtube.com/watch?v=YuiX19wZRcg"
+# cmd = ["yt-dlp", "--quiet", "--no-warnings", "--get-filename", "--no-simulate", url]
 # video_filename = subprocess.getoutput(cmd)
-video_filename = "[UFO 50] BINGO LEAGUE WEEK 8 ! Frank VS Pizza ! OCTAVIO GOT SNIPED... [YuiX19wZRcg].mkv"
+# video_filename = "[UFO 50] BINGO LEAGUE WEEK 8 ! Frank VS Pizza ! OCTAVIO GOT SNIPED... [YuiX19wZRcg].mkv"
 
-cap = cv2.VideoCapture(video_filename)
+# cap = cv2.VideoCapture(video_filename)
 # table = find_table_from_video(cap)
 
 # file = open("table.pickle", "wb")
 # pickle.dump(table, file)
 # file.close()
 
-file = open("table.pickle", "rb")
-table = pickle.load(file)
-file.close()
+# file = open("table.pickle", "rb")
+# table = pickle.load(file)
+# file.close()
 
 
-if table is None:
-    print("Could not find table!")
-else:
-    for i in range(0, len(table)):
-        print(table[i].text)
-        if i % 5 == 4:
-            print("----------------------------")
-    fps = cap.get(cv2.CAP_PROP_FPS)
-    cap.set(cv2.CAP_PROP_POS_FRAMES, fps * 60 * 30)
-    ret, frame = cap.read()
-    raw_colors = get_colors(table, frame)
-    for i in range(0, len(raw_colors)):
-        # print(raw_colors[i])
-        print(get_closest_color_name(reference_colors, raw_colors[i]))
-        if i % 5 == 4:
-            print("----------------------------")
+# if table is None:
+#     print("Could not find table!")
+# else:
+#     for i in range(0, len(table)):
+#         print(table[i].text)
+#         if i % 5 == 4:
+#             print("----------------------------")
+#     fps = cap.get(cv2.CAP_PROP_FPS)
+#     cap.set(cv2.CAP_PROP_POS_FRAMES, fps * 60 * 30)
+#     ret, frame = cap.read()
+#     raw_colors = get_colors(table, frame)
+#     for i in range(0, len(raw_colors)):
+#         # print(raw_colors[i])
+#         print(get_closest_color_name(reference_colors, raw_colors[i]))
+#         if i % 5 == 4:
+#             print("----------------------------")
 
 
 # cap = cv2.VideoCapture(title)
