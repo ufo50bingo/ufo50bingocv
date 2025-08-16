@@ -12,4 +12,5 @@ def get_all_matches() -> list[Match]:
 
 test_match = get_all_matches()[134]
 test = test_match.get_match_with_video()
+print("starting to find colors")
 print(test.find_end())

@@ -29,7 +29,11 @@ class Match:
         self.id = (self.week + "__" + self.p1_name + "__" + self.p2_name).replace(
             " ", "_"
         )
-        self.dir = os.path.join("output", "self.id")
+
+        self.dir = os.path.join("output", self.id)
+
+        if not os.path.isdir("output"):
+            os.mkdir("output")
         if not os.path.isdir(self.dir):
             os.mkdir(self.dir)
 
@@ -50,7 +54,6 @@ class Match:
             self.vod,
         ]
         fname = subprocess.getoutput(cmd)
-        print("downloaded video:", fname)
         return MatchWithVideo(self, fname)
 
 
@@ -115,4 +118,4 @@ class MatchWithVideo(Match):
             cv2.imwrite(self.frame_name, frame)
             if self.is_done(frame):
                 return time
-            time += 1 * self.fps
+            time += 1
