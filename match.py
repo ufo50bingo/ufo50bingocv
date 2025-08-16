@@ -92,32 +92,44 @@ class MatchWithVideo(Match):
 
         return table
 
-    def is_done(self, frame: cv2.typing.MatLike) -> bool:
+    def get_colors(self, frame: cv2.typing.MatLike) -> None | list[Color]:
         colors = get_named_colors(self.table, frame)
         counter = Counter([c for c in colors if c != Color.BLACK])
         # this can happen if there are stream effects like sub notifications
         # that render on top of the table
-        if len(counter) > 3:
-            return False
-        winner_first = counter.most_common()
+        if len(counter) > 2:
+            return None
+        return colors
+
+    def is_done(self, colors: list[Color]) -> bool:
+        counter = Counter([c for c in colors if c != Color.BLACK])
+        high_first = counter.most_common()
         high_score = 0
         low_score = 0
-        if len(winner_first) > 0:
-            high_score = winner_first[0][1]
-        if len(winner_first) > 1:
-            low_score = winner_first[1][1]
-        return (self.p1_score == high_score and self.p2_score == low_score) or (
-            self.p1_score == low_score and self.p2_score == high_score
+        if len(high_first) > 0:
+            high_score = high_first[0][1]
+        if len(high_first) > 1:
+            low_score = high_first[1][1]
+        return (self.p1_score <= high_score and self.p2_score <= low_score) or (
+            self.p1_score <= low_score and self.p2_score <= high_score
         )
 
-    def find_end(self) -> float | None:
+    def get_distinct_states(self) -> list[tuple[float, list[Color]]]:
+        states: list[tuple[float, list[Color]]] = []
+        recent_colors = None
         time = self.start
         while True:
             self.move_to_sec(time)
             has_frame, frame = self.cap.read()
             if not has_frame:
-                return None
+                return states
             cv2.imwrite(self.frame_name, frame)
-            if self.is_done(frame):
-                return time
-            time += 1
+            colors = self.get_colors(frame)
+            if colors is None:
+                time += 5
+                continue
+            if recent_colors != colors:
+                states.append((time, colors))
+                recent_colors = colors
+            if self.is_done(colors):
+                return states
