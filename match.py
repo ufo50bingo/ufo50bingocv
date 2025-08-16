@@ -41,7 +41,7 @@ class Match:
         # we don't know what the video file extension is
         for fname in os.listdir(self.dir):
             if fname.startswith("video"):
-                return MatchWithVideo(self, fname)
+                return MatchWithVideo(self, os.path.join(self.dir, fname))
 
         cmd = [
             "yt-dlp",
@@ -95,8 +95,10 @@ class MatchWithVideo(Match):
     def is_done(self, frame: cv2.typing.MatLike) -> bool:
         colors = get_named_colors(self.table, frame)
         counter = Counter([c for c in colors if c != Color.BLACK])
+        # this can happen if there are stream effects like sub notifications
+        # that render on top of the table
         if len(counter) > 3:
-            raise Exception(f"Too many colors found for ID: {self.id}")
+            return False
         winner_first = counter.most_common()
         high_score = 0
         low_score = 0
