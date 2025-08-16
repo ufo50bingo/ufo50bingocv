@@ -68,7 +68,9 @@ def find_table_from_video(cap: cv2.VideoCapture) -> list[Cell] | None:
 
 
 # color is bgr instead of rgb
-def get_colors(table: list[Cell], frame: cv2.typing.MatLike) -> list[cv2.typing.Scalar]:
+def get_raw_colors(
+    table: list[Cell], frame: cv2.typing.MatLike
+) -> list[cv2.typing.Scalar]:
     return [
         cv2.mean(
             frame[
@@ -78,6 +80,11 @@ def get_colors(table: list[Cell], frame: cv2.typing.MatLike) -> list[cv2.typing.
         )
         for cell in table
     ]
+
+
+def get_named_colors(table: list[Cell], frame: cv2.typing.MatLike) -> list[str]:
+    raw_colors = get_raw_colors(table, frame)
+    return [get_closest_color_name(reference_colors, rc) for rc in raw_colors]
 
 
 # SHOULDN'T NEED THIS!! yt-dlp handles twitch also
