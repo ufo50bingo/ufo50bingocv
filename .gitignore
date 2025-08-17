@@ -210,3 +210,6 @@ __marimo__/
 *.mkv
 *.mp4
 *.avi
+*.part
+*.ytdl
+*.webm

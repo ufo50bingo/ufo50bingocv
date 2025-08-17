@@ -15,21 +15,24 @@ def get_all_matches() -> list[Match]:
 
 all_matches = get_all_matches()
 for i in range(len(all_matches)):
-    match = all_matches[i]
-    if os.path.isfile(os.path.join(match.dir, "changelog.pickle")):
-        continue
-    print(
-        f"Starting match {match.id} ({i+1} of {len(all_matches)}) at {datetime.datetime.now().time()}"
-    )
-    start_time = time.time()
-    with_video = match.get_match_with_video()
-    _ = with_video.get_changelog()
+    try:
+        match = all_matches[i]
+        if os.path.isfile(os.path.join(match.dir, "changelog.pickle")):
+            continue
+        print(
+            f"Starting match {match.id} ({i+1} of {len(all_matches)}) at {datetime.datetime.now().time()}"
+        )
+        start_time = time.time()
+        with_video = match.get_match_with_video()
+        _ = with_video.get_changelog()
 
-    # delete video
-    with_video.cap.release()
-    os.remove(with_video.video_filename)
+        # delete video
+        with_video.cap.release()
+        os.remove(with_video.video_filename)
 
-    elapsed_time = time.time() - start_time
-    print(
-        f"Finished {match.id} ({i+1} of {len(all_matches)}) in {elapsed_time / 60} mins"
-    )
+        elapsed_time = time.time() - start_time
+        print(
+            f"Finished {match.id} ({i+1} of {len(all_matches)}) in {elapsed_time / 60} mins"
+        )
+    except BaseException as error:
+        print("An exception occurred: {}".format(error))
