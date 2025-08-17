@@ -15,6 +15,8 @@ def get_all_matches() -> list[Match]:
 all_matches = get_all_matches()
 for i in range(len(all_matches)):
     match = all_matches[i]
+    if os.path.isfile(os.path.join(match.dir, "changelog.pickle")):
+        continue
     print(f"Starting match {match.id} ({i+1} of {len(all_matches)})")
     start_time = time.time()
     with_video = match.get_match_with_video()
