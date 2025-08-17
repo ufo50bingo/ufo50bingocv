@@ -83,7 +83,7 @@ def run_table_model(
     output_json_path: str | None = None,
 ) -> dict[str, Any]:
     model = TableCellsDetection(model_name="RT-DETR-L_wired_table_cell_det")
-    output = model.predict(img_path, threshold=0.5, batch_size=1)
+    output = model.predict(img_path, threshold=0.3, batch_size=1)
     res = output[0]
     if output_img_path is not None:
         res.save_to_img(output_img_path)

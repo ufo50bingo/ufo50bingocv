@@ -43,6 +43,7 @@ class Match:
             if fname.startswith("video"):
                 return MatchWithVideo(self, os.path.join(self.dir, fname))
 
+        print(f"Downloading video for {self.id}")
         cmd = [
             "yt-dlp",
             "--quiet",
@@ -54,6 +55,7 @@ class Match:
             self.vod,
         ]
         fname = subprocess.getoutput(cmd)
+        print(f"Done downloading video for id {self.id}")
         return MatchWithVideo(self, fname)
 
 
@@ -77,6 +79,7 @@ class MatchWithVideo(Match):
             with open(pickle_name, "rb") as file:
                 return pickle.load(file)
 
+        print(f"Starting to OCR for id {self.id}")
         time = self.start
         while True:
             self.move_to_sec(time)
@@ -87,8 +90,11 @@ class MatchWithVideo(Match):
             table = get_best_table_from_image(self.frame_name)
 
             if table is None:
+                print(f"Failed to find table at time {time} for id {self.id}")
                 time += 5
                 continue
+
+            print(f"Done OCRing table for id {self.id}")
 
             with open(pickle_name, "wb") as file:
                 pickle.dump(table, file)
@@ -118,6 +124,7 @@ class MatchWithVideo(Match):
         )
 
     def get_distinct_states(self) -> tuple[bool, list[tuple[float, list[Color]]]]:
+        print(f"Starting to get distinct states for id {self.id}")
         states: list[tuple[float, list[Color]]] = []
         recent_colors = None
         time = self.start
@@ -153,6 +160,7 @@ class MatchWithVideo(Match):
         pickle_name = os.path.join(self.dir, "changelog.pickle")
         with open(pickle_name, "wb") as file:
             pickle.dump(changelog, file)
-        with open(os.path.join(self.dir, "NOT_DONE.txt"), "w") as file:
-            file.write("DID NOT FINISH")
+        if not is_done:
+            with open(os.path.join(self.dir, "NOT_DONE.txt"), "w") as file:
+                file.write("DID NOT FINISH")
         return is_done, changelog
