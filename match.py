@@ -117,15 +117,17 @@ class MatchWithVideo(Match):
             self.p1_score <= low_score and self.p2_score <= high_score
         )
 
-    def get_distinct_states(self) -> list[tuple[float, list[Color]]]:
+    def get_distinct_states(self) -> tuple[bool, list[tuple[float, list[Color]]]]:
         states: list[tuple[float, list[Color]]] = []
         recent_colors = None
         time = self.start
-        while True:
+        max_time = self.cap.get(cv2.CAP_PROP_FRAME_COUNT)
+        while time <= max_time:
             self.move_to_sec(time)
             has_frame, frame = self.cap.read()
             if not has_frame:
-                return states
+                time += 5
+                continue
             cv2.imwrite(self.frame_name, frame)
             colors = self.get_colors(frame)
             if colors is None:
@@ -134,12 +136,13 @@ class MatchWithVideo(Match):
             if recent_colors != colors:
                 states.append((time, colors))
                 recent_colors = colors
-            time += 5
             if self.is_done(colors):
-                return states
+                return (True, states)
+            time += 5
+        return (False, states)
 
-    def get_changelog(self) -> list[tuple[float, int, Color]]:
-        states = self.get_distinct_states()
+    def get_changelog(self) -> tuple[bool, list[tuple[float, int, Color]]]:
+        is_done, states = self.get_distinct_states()
         changelog: list[tuple[float, int, Color]] = []
         for i in range(1, len(states)):
             old_colors = states[i - 1][1]
@@ -150,4 +153,6 @@ class MatchWithVideo(Match):
         pickle_name = os.path.join(self.dir, "changelog.pickle")
         with open(pickle_name, "wb") as file:
             pickle.dump(changelog, file)
-        return changelog
+        with open(os.path.join(self.dir, "NOT_DONE.txt"), "w") as file:
+            file.write("DID NOT FINISH")
+        return is_done, changelog
