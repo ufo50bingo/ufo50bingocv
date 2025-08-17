@@ -119,9 +119,16 @@ class MatchWithVideo(Match):
             high_score = high_first[0][1]
         if len(high_first) > 1:
             low_score = high_first[1][1]
-        return (self.p1_score <= high_score and self.p2_score <= low_score) or (
+        is_exact = (self.p1_score == high_score and self.p2_score == low_score) or (
+            self.p1_score == low_score and self.p2_score == high_score
+        )
+        is_at_least = (self.p1_score <= high_score and self.p2_score <= low_score) or (
             self.p1_score <= low_score and self.p2_score <= high_score
         )
+        if is_at_least and not is_exact:
+            with open(os.path.join(self.dir, "FINAL_SCORE_WRONG.txt"), "w") as file:
+                file.write("FINAL SCORE WRONG")
+        return is_at_least
 
     def get_distinct_states(self) -> tuple[bool, list[tuple[float, list[Color]]]]:
         print(f"Starting to get distinct states for id {self.id}")
