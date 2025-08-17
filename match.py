@@ -77,27 +77,30 @@ class MatchWithVideo(Match):
             with open(pickle_name, "rb") as file:
                 return pickle.load(file)
 
-        self.move_to_sec(self.start)
-        ret, frame = self.cap.read()
-        if not ret:
-            raise Exception(f"Failed to read video for ID: {self.id}")
-        cv2.imwrite(self.frame_name, frame)
-        table = get_best_table_from_image(self.frame_name)
+        time = self.start
+        while True:
+            self.move_to_sec(time)
+            ret, frame = self.cap.read()
+            if not ret:
+                raise Exception(f"Failed to read video for ID: {self.id}")
+            cv2.imwrite(self.frame_name, frame)
+            table = get_best_table_from_image(self.frame_name)
 
-        if table is None:
-            raise Exception(f"Failed to find table for ID: {self.id}")
+            if table is None:
+                time += 5
+                continue
 
-        with open(pickle_name, "wb") as file:
-            pickle.dump(table, file)
+            with open(pickle_name, "wb") as file:
+                pickle.dump(table, file)
 
-        return table
+            return table
 
     def get_colors(self, frame: cv2.typing.MatLike) -> None | list[Color]:
         colors = get_named_colors(self.table, frame)
-        counter = Counter([c for c in colors if c != Color.BLACK])
+        counter = Counter([c for c in colors])
         # this can happen if there are stream effects like sub notifications
         # that render on top of the table
-        if len(counter) > 2:
+        if len(counter) > 3:
             return None
         return colors
 
@@ -131,5 +134,20 @@ class MatchWithVideo(Match):
             if recent_colors != colors:
                 states.append((time, colors))
                 recent_colors = colors
+            time += 5
             if self.is_done(colors):
                 return states
+
+    def get_changelog(self) -> list[tuple[float, int, Color]]:
+        states = self.get_distinct_states()
+        changelog: list[tuple[float, int, Color]] = []
+        for i in range(1, len(states)):
+            old_colors = states[i - 1][1]
+            new_colors = states[i][1]
+            for j in range(0, 25):
+                if old_colors[j] != new_colors[j]:
+                    changelog.append((states[i][0], j, new_colors[j]))
+        pickle_name = os.path.join(self.dir, "changelog.pickle")
+        with open(pickle_name, "wb") as file:
+            pickle.dump(changelog, file)
+        return changelog

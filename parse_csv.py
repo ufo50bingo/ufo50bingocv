@@ -1,3 +1,4 @@
+import os
 import time
 from match import Match
 import csv
@@ -11,10 +12,19 @@ def get_all_matches() -> list[Match]:
         return [Match(row) for row in matches]
 
 
-test_match = get_all_matches()[134]
-test = test_match.get_match_with_video()
-print("starting to find colors")
-start_time = time.time()
-print(test.get_distinct_states())
-elapsed_time = time.time() - start_time
-print("elapsed time:", elapsed_time)
+all_matches = get_all_matches()
+for i in range(len(all_matches)):
+    match = all_matches[i]
+    print(f"Starting match {match.id} ({i+1} of {len(all_matches)})")
+    start_time = time.time()
+    with_video = match.get_match_with_video()
+    _ = with_video.get_changelog()
+
+    # delete video
+    with_video.cap.release()
+    os.remove(with_video.video_filename)
+
+    elapsed_time = time.time() - start_time
+    print(
+        f"Finished {match.id} ({i+1} of {len(all_matches)}) in {elapsed_time / 60} mins"
+    )

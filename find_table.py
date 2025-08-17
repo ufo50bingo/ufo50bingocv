@@ -222,7 +222,7 @@ def get_texts(data: dict[str, Any]) -> list[Text]:
 def get_best_table_from_image(img_path: str) -> list[Cell] | None:
     ocr_data = run_ocr_model(img_path)
     texts = get_texts(ocr_data)
-    cell_data = run_table_model(img_path)
+    cell_data = run_table_model(img_path, output_img_path="tempimg.png")
     cells = get_sorted_cells(cell_data, 0.2, texts, 0.05)
     if cells is None:
         return None
