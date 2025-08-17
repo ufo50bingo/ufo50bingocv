@@ -1,3 +1,4 @@
+import datetime
 import os
 import time
 from match import Match
@@ -17,7 +18,9 @@ for i in range(len(all_matches)):
     match = all_matches[i]
     if os.path.isfile(os.path.join(match.dir, "changelog.pickle")):
         continue
-    print(f"Starting match {match.id} ({i+1} of {len(all_matches)})")
+    print(
+        f"Starting match {match.id} ({i+1} of {len(all_matches)}) at {datetime.datetime.now().time()}"
+    )
     start_time = time.time()
     with_video = match.get_match_with_video()
     _ = with_video.get_changelog()
