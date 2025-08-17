@@ -121,7 +121,7 @@ class MatchWithVideo(Match):
         states: list[tuple[float, list[Color]]] = []
         recent_colors = None
         time = self.start
-        max_time = self.cap.get(cv2.CAP_PROP_FRAME_COUNT)
+        max_time = self.cap.get(cv2.CAP_PROP_FRAME_COUNT) * self.fps
         while time <= max_time:
             self.move_to_sec(time)
             has_frame, frame = self.cap.read()
