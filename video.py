@@ -82,16 +82,32 @@ def find_table_from_video(cap: cv2.VideoCapture) -> list[Cell] | None:
     return None
 
 
+# get a 1/4 size rectangle with the same center as Cell
+def get_center_rect(cell: Cell, frame: cv2.typing.MatLike) -> cv2.typing.MatLike:
+    x_delta = (cell.x_max - cell.x_min) / 4
+    y_delta = (cell.y_max - cell.y_min) / 4
+
+    x_min = round(cell.x_min + x_delta)
+    x_max = round(cell.x_max - x_delta)
+    y_min = round(cell.y_min + x_delta)
+    y_max = round(cell.y_max - y_delta)
+
+    return frame[
+        y_min:y_max,
+        x_min:x_max,
+    ]
+
+
 # color is bgr instead of rgb
 def get_raw_colors(
     table: list[Cell], frame: cv2.typing.MatLike
 ) -> list[cv2.typing.Scalar]:
     return [
         cv2.mean(
-            frame[
-                round(cell.y_min) : round(cell.y_max),
-                round(cell.x_min) : round(cell.x_max),
-            ]
+            # the detected cell bounday might include some extra pixels from
+            # the border, so instead of getting the mean color across the
+            # whole cell, we shrink to a cell 1/4 the size
+            get_center_rect(cell, frame)
         )
         for cell in table
     ]
