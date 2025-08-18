@@ -24,14 +24,21 @@ class GoalCompletion:
         self.start_time = start_time
         self.end_time = end_time
 
+    @staticmethod
+    def get_final_board_from_changelog(
+        changelog: list[tuple[float, int, Color]],
+    ) -> list[Color]:
+        final_board = [Color.BLACK for _ in range(0, 25)]
+        for c in changelog:
+            final_board[c[1]] = c[2]
+        return final_board
+
     # (winner color, winner score, has bingo, loser color, loser score)
     @staticmethod
     def get_final_stats(
         changelog: list[tuple[float, int, Color]],
-    ) -> tuple[Color, int, bool, Color, int]:
-        final_board = [Color.BLACK for _ in range(0, 25)]
-        for c in changelog:
-            final_board[c[1]] = c[2]
+    ) -> None | tuple[Color, int, bool, Color, int]:
+        final_board = GoalCompletion.get_final_board_from_changelog(changelog)
         bingo_lines = [
             # rows
             [0, 1, 2, 3, 4],
@@ -89,7 +96,7 @@ class GoalCompletion:
                 losing_color = c[2]
                 break
             if losing_color is None:
-                raise Exception("No winner found!")
+                return None
             if losing_color == color1:
                 return (color2, color2_score, False, color1, color1_score)
             else:
@@ -251,25 +258,25 @@ class MatchWithVideo(Match):
             return None
         return colors
 
-    def is_done(self, colors: list[Color]) -> bool:
-        counter = Counter([c for c in colors if c != Color.BLACK])
-        high_first = counter.most_common()
-        high_score = 0
-        low_score = 0
-        if len(high_first) > 0:
-            high_score = high_first[0][1]
-        if len(high_first) > 1:
-            low_score = high_first[1][1]
-        is_exact = (self.p1_score == high_score and self.p2_score == low_score) or (
-            self.p1_score == low_score and self.p2_score == high_score
-        )
-        is_at_least = (self.p1_score <= high_score and self.p2_score <= low_score) or (
-            self.p1_score <= low_score and self.p2_score <= high_score
-        )
-        if is_at_least and not is_exact:
-            with open(os.path.join(self.dir, "FINAL_SCORE_WRONG.txt"), "w") as file:
-                file.write("FINAL SCORE WRONG")
-        return is_at_least
+    # def is_done(self, colors: list[Color]) -> bool:
+    #     counter = Counter([c for c in colors if c != Color.BLACK])
+    #     high_first = counter.most_common()
+    #     high_score = 0
+    #     low_score = 0
+    #     if len(high_first) > 0:
+    #         high_score = high_first[0][1]
+    #     if len(high_first) > 1:
+    #         low_score = high_first[1][1]
+    #     is_exact = (self.p1_score == high_score and self.p2_score == low_score) or (
+    #         self.p1_score == low_score and self.p2_score == high_score
+    #     )
+    #     is_at_least = (self.p1_score <= high_score and self.p2_score <= low_score) or (
+    #         self.p1_score <= low_score and self.p2_score <= high_score
+    #     )
+    #     if is_at_least and not is_exact:
+    #         with open(os.path.join(self.dir, "FINAL_SCORE_WRONG.txt"), "w") as file:
+    #             file.write("FINAL SCORE WRONG")
+    #     return is_at_least
 
     # return value is
     # (first_done_time, [time, list of colors])
@@ -278,13 +285,12 @@ class MatchWithVideo(Match):
     # due to squares being unmarked by refs
     def get_distinct_states(
         self,
-    ) -> tuple[None | float, list[tuple[float, list[Color]]]]:
+    ) -> list[tuple[float, list[Color]]]:
         print(f"Starting to get distinct states for id {self.id}")
         states: list[tuple[float, list[Color]]] = []
         recent_colors = None
         time = self.start
         max_time = self.cap.get(cv2.CAP_PROP_FRAME_COUNT) / self.fps
-        first_done_time = None
         while time <= max_time:
             self.move_to_sec(time)
             has_frame, frame = self.cap.read()
@@ -299,36 +305,35 @@ class MatchWithVideo(Match):
             if recent_colors != colors:
                 states.append((time, colors))
                 recent_colors = colors
-            if self.is_done(colors):
-                first_done_time = time
             time += 5
-        return (first_done_time, states)
+        return states
 
     def get_changelog(self) -> tuple[bool, list[tuple[float, int, Color]]]:
-        first_done_time, states = self.get_distinct_states()
+        states = self.get_distinct_states()
         changelog: list[tuple[float, int, Color]] = []
-        changelog_after_first_done_time: list[tuple[float, int, Color]] = []
         for i in range(1, len(states)):
             old_colors = states[i - 1][1]
             new_colors = states[i][1]
             for j in range(0, 25):
                 if old_colors[j] != new_colors[j]:
-                    if first_done_time is not None and states[i][0] > first_done_time:
-                        changelog_after_first_done_time.append(
-                            (states[i][0], j, new_colors[j])
-                        )
-                    else:
-                        changelog.append((states[i][0], j, new_colors[j]))
+                    changelog.append((states[i][0], j, new_colors[j]))
         pickle_name = os.path.join(self.dir, "changelog.pickle")
         with open(pickle_name, "wb") as file:
             pickle.dump(changelog, file)
-        if len(changelog_after_first_done_time) > 0:
-            pickle_name = os.path.join(
-                self.dir, "changelog_after_first_done_time.pickle"
-            )
-            with open(pickle_name, "wb") as file:
-                pickle.dump(changelog_after_first_done_time, file)
-        if first_done_time is None:
-            with open(os.path.join(self.dir, "NOT_DONE.txt"), "w") as file:
-                file.write("DID NOT FINISH")
-        return first_done_time is not None, changelog
+        final_stats = GoalCompletion.get_final_stats(changelog)
+        wrong_end_state = final_stats is None or not GoalCompletion.verify_stats(
+            final_stats, self
+        )
+        if wrong_end_state:
+            with open(os.path.join(self.dir, "FINAL_SCORE_WRONG.txt"), "w") as file:
+                if self.p1_is_winner:
+                    expected_stats = (self.p1_score, self.bingo, self.p2_score)
+                else:
+                    expected_stats = (self.p2_score, self.bingo, self.p1_score)
+                file.writelines(
+                    [
+                        f"Actual stats: {final_stats}",
+                        f"Expected stats: {expected_stats}",
+                    ]
+                )
+        return not wrong_end_state, changelog
