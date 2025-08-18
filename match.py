@@ -8,6 +8,135 @@ from video import Color, get_named_colors
 from collections import Counter
 
 
+class GoalCompletion:
+    def __init__(
+        self,
+        match: "Match",
+        player_name: str,
+        start_time: float,
+        end_time: float,
+    ):
+        self.player_name = player_name
+        if match.p1_name != player_name:
+            self.opponent_name = match.p1_name
+        else:
+            self.opponent_name = match.p2_name
+        self.start_time = start_time
+        self.end_time = end_time
+
+    # (winner color, winner score, has bingo, loser color, loser score)
+    @staticmethod
+    def get_final_stats(
+        changelog: list[tuple[float, int, Color]],
+    ) -> tuple[Color, int, bool, Color, int]:
+        final_board = [Color.BLACK for _ in range(0, 25)]
+        for c in changelog:
+            final_board[c[1]] = c[2]
+        bingo_lines = [
+            # rows
+            [0, 1, 2, 3, 4],
+            [5, 6, 7, 8, 9],
+            [10, 11, 12, 13, 14],
+            [15, 16, 17, 18, 19],
+            [20, 21, 22, 23, 24],
+            # columns
+            [0, 5, 10, 15, 20],
+            [1, 6, 11, 16, 21],
+            [2, 7, 12, 17, 22],
+            [3, 8, 13, 18, 23],
+            [4, 9, 14, 19, 24],
+            # diagonals
+            [0, 6, 12, 18, 24],
+            [4, 8, 12, 16, 20],
+        ]
+        bingo_first_square = next(
+            (
+                line[0]
+                for line in bingo_lines
+                if final_board[line[0]] != Color.BLACK
+                and (
+                    final_board[line[0]]
+                    == final_board[line[1]]
+                    == final_board[line[2]]
+                    == final_board[line[3]]
+                    == final_board[line[4]]
+                )
+            ),
+            None,
+        )
+        bingo_winner = None
+        if bingo_first_square is not None:
+            bingo_winner = final_board[bingo_first_square]
+        square_count = Counter(c for c in final_board if c != Color.BLACK)
+        most_common = square_count.most_common()
+        [color1, color1_score] = most_common[0]
+        [color2, color2_score] = most_common[1]
+
+        if bingo_winner is not None:
+            if color1 == bingo_winner:
+                return (color1, color1_score, True, color2, color2_score)
+            else:
+                return (color2, color2_score, True, color1, color1_score)
+        elif color1_score > color2_score:
+            return (color1, color1_score, False, color2, color2_score)
+        elif color2_score > color1_score:
+            return (color2, color2_score, False, color1, color1_score)
+        else:
+            losing_color = None
+            for c in reversed(changelog):
+                if c[2] == Color.BLACK or final_board[c[1]] != c[2]:
+                    continue
+                losing_color = c[2]
+                break
+            if losing_color is None:
+                raise Exception("No winner found!")
+            if losing_color == color1:
+                return (color2, color2_score, False, color1, color1_score)
+            else:
+                return (color1, color1_score, False, color2, color2_score)
+
+    @staticmethod
+    def verify_stats(
+        stats: tuple[Color, int, bool, Color, int],
+        match: "Match",
+    ) -> bool:
+        _, winner_score, bingo, _, loser_score = stats
+        if match.p1_is_winner:
+            return (
+                match.p1_score == winner_score
+                and match.bingo == bingo
+                and match.p2_score == loser_score
+            )
+        else:
+            return (
+                match.p2_score == winner_score
+                and match.bingo == bingo
+                and match.p1_score == loser_score
+            )
+
+    # @staticmethod
+    # def getFromChangelog(
+    #     changelog: list[tuple[float, int, Color]],
+    # ) -> list["GoalCompletion"]:
+    #     index_to_changelog_items: dict[int, list[tuple[float, int, Color]]] = {}
+    #     for item in changelog:
+    #         index = item[1]
+    #         existing = index_to_changelog_items.get(index)
+    #         if existing is None:
+    #             existing = [item]
+    #         else:
+    #             existing.append(item)
+    #         index_to_changelog_items[index] = existing
+    #     # TODO
+    #     for goal_number, goal_changelog in index_to_changelog_items.items():
+    #         final = goal_changelog[-1]
+    #         if final[2] == Color.BLACK:
+    #             continue
+    #         first_of_same_color = next(gc for gc in goal_changelog if gc[2] == final[2])
+
+    #     return []
+
+
 class Match:
     def __init__(
         self,
@@ -40,7 +169,11 @@ class Match:
     def get_match_with_video(self) -> "MatchWithVideo":
         # we don't know what the video file extension is
         for fname in os.listdir(self.dir):
-            if fname.startswith("video"):
+            if (
+                fname.startswith("video")
+                and not fname.endswith(".part")
+                and not fname.endswith(".ytdl")
+            ):
                 return MatchWithVideo(self, os.path.join(self.dir, fname))
 
         print(f"Downloading video for {self.id}")
@@ -81,17 +214,24 @@ class MatchWithVideo(Match):
 
         print(f"Starting to OCR for id {self.id}")
         time = self.start
-        while True:
+        max_time = self.cap.get(cv2.CAP_PROP_FRAME_COUNT) / self.fps
+        while time <= max_time:
             self.move_to_sec(time)
             ret, frame = self.cap.read()
             if not ret:
                 raise Exception(f"Failed to read video for ID: {self.id}")
+
+            # manual frame in case background is too noisy
+            # only relevant for mordaak vs stnfwds
+            # frame = cv2.imread("manual_frame.png")
+            # frame = cv2.imread("maual_frame_glove_redrobot.png")
+
             cv2.imwrite(self.frame_name, frame)
             table = get_best_table_from_image(self.frame_name)
 
             if table is None:
                 print(f"Failed to find table at time {time} for id {self.id}")
-                time += 5
+                time += 120
                 continue
 
             print(f"Done OCRing table for id {self.id}")
@@ -100,6 +240,7 @@ class MatchWithVideo(Match):
                 pickle.dump(table, file)
 
             return table
+        raise Exception(f"Failed to find table at ANY time for id {self.id}")
 
     def get_colors(self, frame: cv2.typing.MatLike) -> None | list[Color]:
         colors = get_named_colors(self.table, frame)
