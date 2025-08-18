@@ -326,14 +326,11 @@ class MatchWithVideo(Match):
         )
         if wrong_end_state:
             with open(os.path.join(self.dir, "FINAL_SCORE_WRONG.txt"), "w") as file:
-                if self.p1_is_winner:
-                    expected_stats = (self.p1_score, self.bingo, self.p2_score)
-                else:
-                    expected_stats = (self.p2_score, self.bingo, self.p1_score)
-                file.writelines(
-                    [
-                        f"Actual stats: {final_stats}",
-                        f"Expected stats: {expected_stats}",
-                    ]
+                file.write("Actual stats: {final_stats}\n")
+                expected_stats = (
+                    (self.p1_score, self.bingo, self.p2_score)
+                    if self.p1_is_winner
+                    else (self.p2_score, self.bingo, self.p1_score)
                 )
+                file.write(f"Expected stats: {expected_stats}")
         return not wrong_end_state, changelog
