@@ -271,12 +271,20 @@ class MatchWithVideo(Match):
                 file.write("FINAL SCORE WRONG")
         return is_at_least
 
-    def get_distinct_states(self) -> tuple[bool, list[tuple[float, list[Color]]]]:
+    # return value is
+    # (first_done_time, [time, list of colors])
+    # we include first_done_time because it's possible we can get to a state
+    # where we've already detected a finished state, but the game isn't actually over
+    # due to squares being unmarked by refs
+    def get_distinct_states(
+        self,
+    ) -> tuple[None | float, list[tuple[float, list[Color]]]]:
         print(f"Starting to get distinct states for id {self.id}")
         states: list[tuple[float, list[Color]]] = []
         recent_colors = None
         time = self.start
         max_time = self.cap.get(cv2.CAP_PROP_FRAME_COUNT) / self.fps
+        first_done_time = None
         while time <= max_time:
             self.move_to_sec(time)
             has_frame, frame = self.cap.read()
@@ -292,23 +300,35 @@ class MatchWithVideo(Match):
                 states.append((time, colors))
                 recent_colors = colors
             if self.is_done(colors):
-                return (True, states)
+                first_done_time = time
             time += 5
-        return (False, states)
+        return (first_done_time, states)
 
     def get_changelog(self) -> tuple[bool, list[tuple[float, int, Color]]]:
-        is_done, states = self.get_distinct_states()
+        first_done_time, states = self.get_distinct_states()
         changelog: list[tuple[float, int, Color]] = []
+        changelog_after_first_done_time: list[tuple[float, int, Color]] = []
         for i in range(1, len(states)):
             old_colors = states[i - 1][1]
             new_colors = states[i][1]
             for j in range(0, 25):
                 if old_colors[j] != new_colors[j]:
-                    changelog.append((states[i][0], j, new_colors[j]))
+                    if first_done_time is not None and states[i][0] > first_done_time:
+                        changelog_after_first_done_time.append(
+                            (states[i][0], j, new_colors[j])
+                        )
+                    else:
+                        changelog.append((states[i][0], j, new_colors[j]))
         pickle_name = os.path.join(self.dir, "changelog.pickle")
         with open(pickle_name, "wb") as file:
             pickle.dump(changelog, file)
-        if not is_done:
+        if len(changelog_after_first_done_time) > 0:
+            pickle_name = os.path.join(
+                self.dir, "changelog_after_first_done_time.pickle"
+            )
+            with open(pickle_name, "wb") as file:
+                pickle.dump(changelog_after_first_done_time, file)
+        if first_done_time is None:
             with open(os.path.join(self.dir, "NOT_DONE.txt"), "w") as file:
                 file.write("DID NOT FINISH")
-        return is_done, changelog
+        return first_done_time is not None, changelog

@@ -1,6 +1,4 @@
-import subprocess
 import cv2
-import pickle
 from enum import StrEnum
 
 from find_table import Cell, get_best_table_from_image
