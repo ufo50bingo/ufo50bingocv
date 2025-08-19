@@ -180,13 +180,15 @@ def find_table(cells: list[Cell]) -> None | list[Cell]:
     for i in range(len(cells)):
         table = find_table_from_index(cells, i)
         if table is not None:
-            num_with_text = sum(1 for index in table if cells[index].text != "")
+            num_with_text = sum(1 for index in table if len(cells[index].text) > 10)
             if num_with_text == 25:
                 return [cells[index] for index in table]
             elif best_count is None or num_with_text > best_count:
                 best_count = num_with_text
                 best_table = table
     if best_table is None:
+        return None
+    if best_count is None or best_count < 20:
         return None
     return [cells[index] for index in best_table]
 
@@ -200,10 +202,10 @@ def draw_cells(cells: list[Cell], img_path: str, out_path: str):
             top_right = (round(cell.x_max), round(cell.y_min))
             bottom_left = (round(cell.x_min), round(cell.y_max))
             bottom_right = (round(cell.x_max), round(cell.y_max))
-            draw.line(top_left + top_right, fill=red, width=16)
-            draw.line(top_left + bottom_left, fill=red, width=16)
-            draw.line(top_right + bottom_right, fill=red, width=16)
-            draw.line(bottom_left + bottom_right, fill=red, width=16)
+            draw.line(top_left + top_right, fill=red, width=4)
+            draw.line(top_left + bottom_left, fill=red, width=4)
+            draw.line(top_right + bottom_right, fill=red, width=4)
+            draw.line(bottom_left + bottom_right, fill=red, width=4)
         im.save(out_path, "PNG")
 
 
@@ -220,13 +222,16 @@ def get_texts(data: dict[str, Any]) -> list[Text]:
 
 
 def get_best_table_from_image(img_path: str) -> list[Cell] | None:
-    ocr_data = run_ocr_model(img_path)
+    ocr_data = run_ocr_model(img_path, "ocrtext.png")
     texts = get_texts(ocr_data)
     cell_data = run_table_model(img_path, output_img_path="tempimg.png")
     cells = get_sorted_cells(cell_data, 0.2, texts, 0.05)
     if cells is None:
         return None
-    return find_table(cells)
+    table = find_table(cells)
+    if table is not None:
+        draw_cells(table, "ocrtext.png", "celldebug.png")
+    return table
 
 
 # img_path = "videotest.jpg"

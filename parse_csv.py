@@ -1,6 +1,7 @@
 import datetime
 import os
 import time
+import traceback
 from match import Match
 import csv
 
@@ -24,15 +25,16 @@ for i in range(len(all_matches)):
         )
         start_time = time.time()
         with_video = match.get_match_with_video()
-        _ = with_video.get_changelog()
+        final_score_matches, _ = with_video.get_changelog()
 
-        # delete video
         with_video.cap.release()
-        os.remove(with_video.video_filename)
+        # if there's a problem with the final score, don't delete the video
+        if final_score_matches:
+            os.remove(with_video.video_filename)
 
         elapsed_time = time.time() - start_time
         print(
             f"Finished {match.id} ({i+1} of {len(all_matches)}) in {elapsed_time / 60} mins"
         )
-    except BaseException as error:
-        print("An exception occurred: {}".format(error))
+    except Exception as error:
+        print(traceback.format_exc())

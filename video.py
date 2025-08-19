@@ -82,12 +82,12 @@ def find_table_from_video(cap: cv2.VideoCapture) -> list[Cell] | None:
 
 # get a 1/4 size rectangle with the same center as Cell
 def get_center_rect(cell: Cell, frame: cv2.typing.MatLike) -> cv2.typing.MatLike:
-    x_delta = (cell.x_max - cell.x_min) / 4
-    y_delta = (cell.y_max - cell.y_min) / 4
+    x_delta = (cell.x_max - cell.x_min) / 8
+    y_delta = (cell.y_max - cell.y_min) / 8
 
     x_min = round(cell.x_min + x_delta)
     x_max = round(cell.x_max - x_delta)
-    y_min = round(cell.y_min + x_delta)
+    y_min = round(cell.y_min + y_delta)
     y_max = round(cell.y_max - y_delta)
 
     return frame[
@@ -111,9 +111,20 @@ def get_raw_colors(
     ]
 
 
-def get_named_colors(table: list[Cell], frame: cv2.typing.MatLike) -> list[Color]:
+def get_named_colors(
+    table: list[Cell], frame: cv2.typing.MatLike, color_restrictions: None | set[Color]
+) -> list[Color]:
     raw_colors = get_raw_colors(table, frame)
-    return [get_closest_color_name(reference_colors, rc) for rc in raw_colors]
+    valid_colors = (
+        reference_colors
+        if color_restrictions is None
+        else {
+            color: avgs
+            for color, avgs in reference_colors.items()
+            if color in color_restrictions
+        }
+    )
+    return [get_closest_color_name(valid_colors, rc) for rc in raw_colors]
 
 
 # SHOULDN'T NEED THIS!! yt-dlp handles twitch also

@@ -1,3 +1,5 @@
+import json
+import math
 import os
 import pickle
 import subprocess
@@ -23,6 +25,27 @@ class GoalCompletion:
             self.opponent_name = match.p2_name
         self.start_time = start_time
         self.end_time = end_time
+
+    @staticmethod
+    def print_distinct_states(distinct_states: list[tuple[float, list[Color]]]):
+        for state in distinct_states:
+            hrs = math.trunc(state[0] / 3600)
+            remaining = state[0] - 3600 * hrs
+            mins = math.trunc(remaining / 60)
+            remaining = remaining - 60 * mins
+            secs = round(remaining)
+
+            print(f"{hrs}:{mins:02d}:{secs:02d}")
+            GoalCompletion.print_board_state(state[1])
+
+    @staticmethod
+    def print_board_state(
+        board: list[Color],
+    ):
+        for i in range(0, 5):
+            row = board[5 * i : 5 * i + 5]
+            # 6 is max length. Add 4 extra spaces for gaps
+            print("".join([color.value.ljust(10) for color in row]))
 
     @staticmethod
     def get_final_board_from_changelog(
@@ -76,8 +99,27 @@ class GoalCompletion:
             bingo_winner = final_board[bingo_first_square]
         square_count = Counter(c for c in final_board if c != Color.BLACK)
         most_common = square_count.most_common()
+
+        if len(most_common) > 2:
+            return None
         [color1, color1_score] = most_common[0]
-        [color2, color2_score] = most_common[1]
+
+        # at least one match (QTR_stnfwds_Khana) has only one color on the final board
+        if len(most_common) == 1:
+            color2_score = 0
+            remaining_colors = [
+                change[2]
+                for change in changelog
+                if change[2] != Color.BLACK and change[2] != color1
+            ]
+            if len(remaining_colors) > 0:
+                color2 = remaining_colors[0]
+            elif color1 != Color.GREEN:
+                color2 = Color.GREEN
+            else:
+                color2 = Color.NAVY
+        else:
+            [color2, color2_score] = most_common[1]
 
         if bingo_winner is not None:
             if color1 == bingo_winner:
@@ -222,6 +264,22 @@ class MatchWithVideo(Match):
         print(f"Starting to OCR for id {self.id}")
         time = self.start
         max_time = self.cap.get(cv2.CAP_PROP_FRAME_COUNT) / self.fps
+
+        override_path = os.path.join(self.dir, "ocr_override_frame.png")
+        if os.path.isfile(override_path):
+            table = get_best_table_from_image(override_path)
+
+            if table is None:
+                raise Exception(
+                    f"Failed to find table in override frame for id {self.id}"
+                )
+
+            print(f"Done OCRing table for id {self.id}")
+
+            with open(pickle_name, "wb") as file:
+                pickle.dump(table, file)
+            return table
+
         while time <= max_time:
             self.move_to_sec(time)
             ret, frame = self.cap.read()
@@ -249,12 +307,15 @@ class MatchWithVideo(Match):
             return table
         raise Exception(f"Failed to find table at ANY time for id {self.id}")
 
-    def get_colors(self, frame: cv2.typing.MatLike) -> None | list[Color]:
-        colors = get_named_colors(self.table, frame)
+    def get_colors(
+        self, frame: cv2.typing.MatLike, color_restrictions: None | set[Color]
+    ) -> None | list[Color]:
+        colors = get_named_colors(self.table, frame, color_restrictions)
         counter = Counter([c for c in colors])
         # this can happen if there are stream effects like sub notifications
         # that render on top of the table
         if len(counter) > 3:
+            print(f"Found more than 3 colors {counter}")
             return None
         return colors
 
@@ -287,29 +348,51 @@ class MatchWithVideo(Match):
         self,
     ) -> list[tuple[float, list[Color]]]:
         print(f"Starting to get distinct states for id {self.id}")
+        color_restrictions = None
+        color_restrictions_name = os.path.join(self.dir, "color_restrictions.json")
+        if os.path.isfile(color_restrictions_name):
+            with open(color_restrictions_name, "r") as file:
+                color_name_arr: list[str] = json.load(file)
+                color_restrictions = {Color(color_str) for color_str in color_name_arr}
+
         states: list[tuple[float, list[Color]]] = []
         recent_colors = None
         time = self.start
         max_time = self.cap.get(cv2.CAP_PROP_FRAME_COUNT) / self.fps
+        frame = None
         while time <= max_time:
             self.move_to_sec(time)
             has_frame, frame = self.cap.read()
             if not has_frame:
                 time += 5
                 continue
-            cv2.imwrite(self.frame_name, frame)
-            colors = self.get_colors(frame)
+            # cv2.imwrite(self.frame_name, frame)
+            colors = self.get_colors(frame, color_restrictions)
             if colors is None:
                 time += 5
                 continue
+            # GoalCompletion.print_distinct_states([(time, colors)])
             if recent_colors != colors:
-                states.append((time, colors))
-                recent_colors = colors
+                num_changes = 0
+                if recent_colors is not None:
+                    num_changes = sum(
+                        1 for idx in range(0, 25) if recent_colors[idx] != colors[idx]
+                    )
+                # trying to handle cases where the screen transitions to something else
+                # after the match is over
+                if num_changes < 5:
+                    states.append((time, colors))
+                    recent_colors = colors
             time += 5
+        if frame is not None:
+            cv2.imwrite(self.frame_name, frame)
         return states
 
     def get_changelog(self) -> tuple[bool, list[tuple[float, int, Color]]]:
         states = self.get_distinct_states()
+        pickle_name = os.path.join(self.dir, "states.pickle")
+        with open(pickle_name, "wb") as file:
+            pickle.dump(states, file)
         changelog: list[tuple[float, int, Color]] = []
         for i in range(1, len(states)):
             old_colors = states[i - 1][1]
@@ -326,11 +409,17 @@ class MatchWithVideo(Match):
         )
         if wrong_end_state:
             with open(os.path.join(self.dir, "FINAL_SCORE_WRONG.txt"), "w") as file:
-                file.write("Actual stats: {final_stats}\n")
+                file.write(f"Actual stats: {final_stats}\n")
                 expected_stats = (
                     (self.p1_score, self.bingo, self.p2_score)
                     if self.p1_is_winner
                     else (self.p2_score, self.bingo, self.p1_score)
                 )
                 file.write(f"Expected stats: {expected_stats}")
+        all_colors = {
+            change[2].value for change in changelog if change[2] != Color.BLACK
+        }
+        if len(all_colors) != 2:
+            with open(os.path.join(self.dir, "BAD_COLORS.txt"), "w") as file:
+                file.write(f"Found colors {all_colors}\n")
         return not wrong_end_state, changelog
