@@ -99,10 +99,11 @@ CYBER OWLS: Complete 2 non-rescue missions
 CYBER OWLS: Earn a 1-Up (extra owl)
 CYBER OWLS: GETM-EOUT allowed; rescue each owl in the mini-game
 CYBER OWLS: HAWK-BASE allowed; beat Antarctica
-CYBER OWLS: Destroy the DIM SUM truck
+CYBER OWLS: Destroy the DIM SUM truck in Hong Kong
 DAY JOB: Bug Hunter: Beat a job; Onion Delivery: Complete 2 days; Rail Heist: Earn 3 pacifist stars
 Defeat 10 bosses
 Defeat 7 bosses
+Defeat a boss in 3 different games
 Defeat a boss in 5 different games
 DEVILITION: Beat 5 rounds
 DEVILITION: Beat three levels while placing the maximum number of pieces each round
@@ -149,7 +150,7 @@ GRIMSTONE: Have 3 Skills learned at once
 GRIMSTONE: Reach Level 4 with any character
 HOT FOOT: Get 3 blowouts in one tournament
 HOT FOOT: Get a blowout without using star abilities
-HOT FOOT: Win without using star abilities
+HOT FOOT: Win a game without using star abilities
 HOT FOOT: Gold disk
 HOT FOOT: Win 2 games in a row without jumping
 HOT FOOT: Win three games in a row
@@ -354,3 +355,31 @@ Beat 2 levels in 8 games
 Beat 4 levels in 5 games
 Beat 8 levels in 3 games
 MORTOL II: Use BENE-DIKT; collect 5 keys
+CYBER OWLS: Complete 2 missions
+CAMPANELLA: Use BEAN-DRIP; Score 6,000 points in the Bonus Game
+VAINGER: Collect 2 upgrade modules
+BARBUTA: Wield both secret weapons
+Enter a top 5 score on 3 arcade leaderboards
+CAMPANELLA: Have 15 lives
+WARPTANK: Beat 6 levels
+PORGY: Return 5 fish eggs to their mother
+Enter a top 5 score on 5 arcade leaderboards
+WARPTANK: Talk to 3 NPCs
+BUG HUNTER: Use 3 different 4-cost modules in one job
+FIST HELL: Clear 2nd Scare
+VELGRESS: Gold disk without Jump Pads
+BUG HUNTER: Push 4 bugs into pits
+Enter a top 3 score on 4 arcade leaderboards
+Collect 3 gold disks
+BARBUTA: Die to the Red Phantom
+GRIMSTONE: Learn 3 Skills
+BUG HUNTER: Complete your first job
+PARTY HOUSE: Beat 2 random scenarios
+STAR WASPIR: Have a 15x multiplier
+DEVILITION: Clear the screen of demons with at least ten pieces remaining
+PARTY HOUSE Beat 2 random scenarios
+AVIANOS: Win a Fledgling game
+BUSHIDO BALL: Win a 16-point match on Hyper speed w/ no time limit
+BUG HUNTER: Get 4 kils by stomping on bugs
+BUG HUNTER: Get 4 kills by pushing bugs into pits
+CAMPANELLA: Finish Stage C with 2000 points or less (kill only bosses)

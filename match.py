@@ -16,11 +16,13 @@ class GoalCompletion:
         self,
         match: "Match",
         player_name: str,
+        text: str,
         start_time: float,
         end_time: float,
     ):
         self.player_name = player_name
         self.match = match
+        self.text = text
         if match.p1_name != player_name:
             self.opponent_name = match.p1_name
         else:
@@ -178,6 +180,7 @@ class GoalCompletion:
     @staticmethod
     def get_from_changelog(
         changelog: list[tuple[float, int, Color]],
+        table: list[Cell],
         match: "Match",
     ) -> list["GoalCompletion"]:
         goal_index_to_changelog_indices: dict[int, list[int]] = {}
@@ -213,17 +216,22 @@ class GoalCompletion:
                 c_index -= 1
 
             # TODO: Proper player name
-            completions.append(GoalCompletion(match, "Unknown", start_time, end_time))
+            completions.append(
+                GoalCompletion(
+                    match, "Unknown", table[goal_index].text, start_time, end_time
+                )
+            )
         return completions
 
-    # week, tier, player name, opponent name, time(mins), start_url, end_url
-    def get_csv_row(self) -> tuple[str, str, str, str, str, str, str]:
+    # week, tier, player name, opponent name, goal, time(mins), start_url, end_url
+    def get_csv_row(self) -> tuple[str, str, str, str, str, str, str, str]:
         return (
             self.match.week,
             self.match.tier,
             self.player_name,
             self.opponent_name,
-            f"{(self.start_time - self.end_time) / 60:.2f}",
+            self.text,
+            f"{(self.end_time - self.start_time) / 60:.1f}",
             get_url_at_time(self.match.vod, self.start_time),
             get_url_at_time(self.match.vod, self.end_time),
         )
@@ -316,6 +324,8 @@ class MatchWithVideo(Match):
         # when a higher quality video is available. In that case just throw
         # an exception and we'll retry later
         if height < 700:
+            self.cap.release()
+            os.remove(self.video_filename)
             raise Exception("Video quality too poor for OCR. Try again")
         print(f"Starting to OCR for id {self.id}")
         time = self.start
