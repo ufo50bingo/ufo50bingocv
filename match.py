@@ -6,6 +6,7 @@ import subprocess
 import cv2
 
 from find_table import Cell, get_best_table_from_image
+from make_url import get_url_at_time
 from video import Color, get_named_colors
 from collections import Counter
 
@@ -19,12 +20,23 @@ class GoalCompletion:
         end_time: float,
     ):
         self.player_name = player_name
+        self.match = match
         if match.p1_name != player_name:
             self.opponent_name = match.p1_name
         else:
             self.opponent_name = match.p2_name
         self.start_time = start_time
         self.end_time = end_time
+
+    @staticmethod
+    def print_changelog(changelog: list[tuple[float, int, Color]]):
+        for change in changelog:
+            hrs = math.trunc(change[0] / 3600)
+            remaining = change[0] - 3600 * hrs
+            mins = math.trunc(remaining / 60)
+            remaining = remaining - 60 * mins
+            secs = round(remaining)
+            print(f"{hrs}:{mins:02d}:{secs:02d} - {change[1]} - {change[2].value}")
 
     @staticmethod
     def print_distinct_states(distinct_states: list[tuple[float, list[Color]]]):
@@ -163,27 +175,58 @@ class GoalCompletion:
                 and match.p1_score == loser_score
             )
 
-    # @staticmethod
-    # def getFromChangelog(
-    #     changelog: list[tuple[float, int, Color]],
-    # ) -> list["GoalCompletion"]:
-    #     index_to_changelog_items: dict[int, list[tuple[float, int, Color]]] = {}
-    #     for item in changelog:
-    #         index = item[1]
-    #         existing = index_to_changelog_items.get(index)
-    #         if existing is None:
-    #             existing = [item]
-    #         else:
-    #             existing.append(item)
-    #         index_to_changelog_items[index] = existing
-    #     # TODO
-    #     for goal_number, goal_changelog in index_to_changelog_items.items():
-    #         final = goal_changelog[-1]
-    #         if final[2] == Color.BLACK:
-    #             continue
-    #         first_of_same_color = next(gc for gc in goal_changelog if gc[2] == final[2])
+    @staticmethod
+    def get_from_changelog(
+        changelog: list[tuple[float, int, Color]],
+        match: "Match",
+    ) -> list["GoalCompletion"]:
+        goal_index_to_changelog_indices: dict[int, list[int]] = {}
+        for changelog_index in range(len(changelog)):
+            item = changelog[changelog_index]
+            goal_index = item[1]
+            existing = goal_index_to_changelog_indices.get(goal_index)
+            if existing is None:
+                existing = [changelog_index]
+            else:
+                existing.append(changelog_index)
+            goal_index_to_changelog_indices[goal_index] = existing
+        completions: list[GoalCompletion] = []
+        for goal_index, changelog_indices in goal_index_to_changelog_indices.items():
+            final_change = changelog[changelog_indices[-1]]
+            final_color = final_change[2]
+            # if goal ended black, don't track the completion
+            if final_color == Color.BLACK:
+                continue
+            end_time = final_change[0]
+            first_change_of_same_color = next(
+                c_index
+                for c_index in changelog_indices
+                if changelog[c_index][2] == final_color
+            )
+            c_index = first_change_of_same_color - 1
+            start_time = match.start
+            while c_index >= 0:
+                change = changelog[c_index]
+                if change[2] == final_color:
+                    start_time = change[0]
+                    break
+                c_index -= 1
 
-    #     return []
+            # TODO: Proper player name
+            completions.append(GoalCompletion(match, "Unknown", start_time, end_time))
+        return completions
+
+    # week, tier, player name, opponent name, time(mins), start_url, end_url
+    def get_csv_row(self) -> tuple[str, str, str, str, str, str, str]:
+        return (
+            self.match.week,
+            self.match.tier,
+            self.player_name,
+            self.opponent_name,
+            f"{(self.start_time - self.end_time) / 60:.2f}",
+            get_url_at_time(self.match.vod, self.start_time),
+            get_url_at_time(self.match.vod, self.end_time),
+        )
 
 
 class Match:
@@ -222,6 +265,7 @@ class Match:
                 fname.startswith("video")
                 and not fname.endswith(".part")
                 and not fname.endswith(".ytdl")
+                and fname.count(".") == 1
             ):
                 return MatchWithVideo(self, os.path.join(self.dir, fname))
 
@@ -261,6 +305,18 @@ class MatchWithVideo(Match):
             with open(pickle_name, "rb") as file:
                 return pickle.load(file)
 
+        # Unfortunately the best video quality for this is 360p.
+        if self.id == "2__Marshmallow__CodeMeRight1":
+            raise Exception(
+                "Video quality too poor for OCR. Create table.pickle manually"
+            )
+
+        height = self.cap.get(cv2.CAP_PROP_FRAME_HEIGHT)
+        # for some reason yt-dlp will sometimes download a low quality video even
+        # when a higher quality video is available. In that case just throw
+        # an exception and we'll retry later
+        if height < 700:
+            raise Exception("Video quality too poor for OCR. Try again")
         print(f"Starting to OCR for id {self.id}")
         time = self.start
         max_time = self.cap.get(cv2.CAP_PROP_FRAME_COUNT) / self.fps
@@ -308,14 +364,20 @@ class MatchWithVideo(Match):
         raise Exception(f"Failed to find table at ANY time for id {self.id}")
 
     def get_colors(
-        self, frame: cv2.typing.MatLike, color_restrictions: None | set[Color]
+        self,
+        frame: cv2.typing.MatLike,
+        color_restrictions: None | set[Color],
+        time: float,
     ) -> None | list[Color]:
         colors = get_named_colors(self.table, frame, color_restrictions)
+        # Manual correction. Flesh accidentally marked this as Red instead of Purple
+        if self.id == "2__boardsofhannahda__Flesh177" and colors[3] == Color.RED:
+            colors[3] = Color.PURPLE
         counter = Counter([c for c in colors])
         # this can happen if there are stream effects like sub notifications
         # that render on top of the table
         if len(counter) > 3:
-            print(f"Found more than 3 colors {counter}")
+            print(f"Found more than 3 colors at time {time}: {counter}")
             return None
         return colors
 
@@ -367,7 +429,7 @@ class MatchWithVideo(Match):
                 time += 5
                 continue
             # cv2.imwrite(self.frame_name, frame)
-            colors = self.get_colors(frame, color_restrictions)
+            colors = self.get_colors(frame, color_restrictions, time)
             if colors is None:
                 time += 5
                 continue

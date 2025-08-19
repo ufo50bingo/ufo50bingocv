@@ -1,0 +1,2 @@
+Actual stats: (<Color.BLUE: 'blue'>, 10, False, <Color.RED: 'red'>, 5)
+Expected stats: (11, True, 5)
