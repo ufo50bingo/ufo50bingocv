@@ -7,6 +7,7 @@ import cv2
 
 from find_table import Cell, get_best_table_from_image
 from make_url import get_url_at_time
+from text_correction import get_confirmed_text
 from video import Color, get_named_colors
 from collections import Counter
 
@@ -183,6 +184,11 @@ class GoalCompletion:
         table: list[Cell],
         match: "Match",
     ) -> list["GoalCompletion"]:
+        final_stats = GoalCompletion.get_final_stats(changelog)
+        if final_stats is None:
+            raise Exception(f"Failed to get final stats for id {match.id}")
+        winning_color = final_stats[0]
+
         goal_index_to_changelog_indices: dict[int, list[int]] = {}
         for changelog_index in range(len(changelog)):
             item = changelog[changelog_index]
@@ -215,26 +221,35 @@ class GoalCompletion:
                     break
                 c_index -= 1
 
-            # TODO: Proper player name
+            if winning_color == final_color:
+                if match.p1_is_winner:
+                    player_name = match.p1_name
+                else:
+                    player_name = match.p2_name
+            else:
+                if match.p1_is_winner:
+                    player_name = match.p2_name
+                else:
+                    player_name = match.p1_name
             completions.append(
                 GoalCompletion(
-                    match, "Unknown", table[goal_index].text, start_time, end_time
+                    match, player_name, table[goal_index].text, start_time, end_time
                 )
             )
         return completions
 
     # week, tier, player name, opponent name, goal, time(mins), start_url, end_url
-    def get_csv_row(self) -> tuple[str, str, str, str, str, str, str, str]:
-        return (
+    def get_csv_row(self) -> list[str]:
+        return [
             self.match.week,
             self.match.tier,
             self.player_name,
             self.opponent_name,
-            self.text,
+            get_confirmed_text(self.text),
             f"{(self.end_time - self.start_time) / 60:.1f}",
             get_url_at_time(self.match.vod, self.start_time),
             get_url_at_time(self.match.vod, self.end_time),
-        )
+        ]
 
 
 class Match:
