@@ -9,5 +9,6 @@ Merge equivalent goal names
 Fix smo vs winnerbit issue with half black frame
 Investigate a few more extremely short/long completions
 Filter out color changes that last less than 10(?) seconds
+Reorganize code a bit (move GoalCompletion, separate applying corrections from generating corrections)
 
 https://docs.google.com/spreadsheets/d/1bW8zjoR2bpr74w-dA4HHt04SqvGg1aj8FJeOs3EqdNE/edit?gid=1417606056#gid=1417606056
