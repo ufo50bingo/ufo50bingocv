@@ -1,6 +1,6 @@
 import math
 import pickle
-from video import Color
+from color import Color
 
 
 class Change:

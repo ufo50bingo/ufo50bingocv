@@ -4,7 +4,7 @@ from changelog import get_changelog_from_pickle
 from find_table import Cell
 from match import GoalCompletion
 from parse_csv import get_all_matches
-from video import Color
+from color import Color
 from text_correction import add_correction, get_best_matches, get_confirmed_text
 
 matches = get_all_matches()

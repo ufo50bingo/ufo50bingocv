@@ -1,21 +1,7 @@
 import cv2
-from enum import StrEnum
 
+from color import Color
 from find_table import Cell, get_best_table_from_image
-
-
-class Color(StrEnum):
-    BLACK = "black"
-    ORANGE = "orange"
-    RED = "red"
-    BLUE = "blue"
-    GREEN = "green"
-    PURPLE = "purple"
-    NAVY = "navy"
-    TEAL = "teal"
-    BROWN = "brown"
-    PINK = "pink"
-    YELLOW = "yellow"
 
 
 def get_reference_colors() -> dict[Color, list[cv2.typing.Scalar]]:

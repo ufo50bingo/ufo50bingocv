@@ -9,7 +9,8 @@ from changelog import Change
 from find_table import Cell, get_best_table_from_image
 from make_url import get_url_at_time
 from text_correction import get_confirmed_text
-from video import Color, get_named_colors
+from color import Color
+from video import get_named_colors
 from collections import Counter
 
 
