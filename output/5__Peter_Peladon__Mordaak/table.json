@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 11.942899703979492,
+    "y_min": 385.6826171875,
+    "x_max": 89.49610900878906,
+    "y_max": 457.2580261230469,
+    "text": "RAILHEIST: Collect 9 total stars"
+  },
+  {
+    "x_min": 88.72818756103516,
+    "y_min": 386.1664733886719,
+    "x_max": 156.50534057617188,
+    "y_max": 456.7973937988281,
+    "text": "MAGIC GARDEN: Defeat an onemy worth at least 500 points"
+  },
+  {
+    "x_min": 156.10093688964844,
+    "y_min": 384.7626647949219,
+    "x_max": 226.09693908691406,
+    "y_max": 457.0089416503906,
+    "text": "DAY JOB: Bug Hunter. Beat a Job; Onian Delivary: Camplata 2 days; Rail Halst: Eam 3 peciflat stars"
+  },
+  {
+    "x_min": 225.8209228515625,
+    "y_min": 382.99774169921875,
+    "x_max": 295.35186767578125,
+    "y_max": 457.23699951171875,
+    "text": "BARBUTA: Obtaln the Rod and Blood Sword"
+  },
+  {
+    "x_min": 294.1866760253906,
+    "y_min": 380.4384765625,
+    "x_max": 369.5247802734375,
+    "y_max": 457.123291015625,
+    "text": "ROCK ON! ISLAND: HaVe 20chickens in a main level"
+  },
+  {
+    "x_min": 14.275018692016602,
+    "y_min": 456.85089111328125,
+    "x_max": 89.43518829345703,
+    "y_max": 519.8321533203125,
+    "text": "CAMPANELLA: Finish Stage C with 2000 points or less (kll only bosses)"
+  },
+  {
+    "x_min": 88.38733673095703,
+    "y_min": 456.6342468261719,
+    "x_max": 157.14414978027344,
+    "y_max": 519.7320556640625,
+    "text": "DEVILITION: Beat 5 rounds"
+  },
+  {
+    "x_min": 156.40516662597656,
+    "y_min": 456.78607177734375,
+    "x_max": 227.0169677734375,
+    "y_max": 519.9788208007812,
+    "text": "MAGIC GARDEN Reach a score of50.000+"
+  },
+  {
+    "x_min": 226.0143280029297,
+    "y_min": 457.0387268066406,
+    "x_max": 295.325439453125,
+    "y_max": 519.9349365234375,
+    "text": "BLOCK KOALA:Beat 5 story levels"
+  },
+  {
+    "x_min": 294.1922607421875,
+    "y_min": 456.99334716796875,
+    "x_max": 368.65936279296875,
+    "y_max": 519.8380126953125,
+    "text": "Collect 4 cherry disks"
+  },
+  {
+    "x_min": 13.788520812988281,
+    "y_min": 519.4906005859375,
+    "x_max": 89.63988494873047,
+    "y_max": 583.0473022460938,
+    "text": "PARTY HOUSE Have a party with 4 Celebrities without getting busted"
+  },
+  {
+    "x_min": 88.42254638671875,
+    "y_min": 519.5497436523438,
+    "x_max": 157.2578582763672,
+    "y_max": 582.9548950195312,
+    "text": "Collect a beverage in 6 different games"
+  },
+  {
+    "x_min": 156.5150604248047,
+    "y_min": 519.7310791015625,
+    "x_max": 227.09840393066406,
+    "y_max": 582.8974609375,
+    "text": "KICKCLUB: Have 5 extra lives at once"
+  },
+  {
+    "x_min": 226.34437561035156,
+    "y_min": 519.7404174804688,
+    "x_max": 295.3118896484375,
+    "y_max": 582.9226684570312,
+    "text": "CYBER OWLS: Eam a 1-Up (extra owl)"
+  },
+  {
+    "x_min": 294.5941467285156,
+    "y_min": 519.631591796875,
+    "x_max": 368.6087341308594,
+    "y_max": 583.0936279296875,
+    "text": "PORGY: Defeat a boss"
+  },
+  {
+    "x_min": 14.632369995117188,
+    "y_min": 582.8147583007812,
+    "x_max": 89.63577270507812,
+    "y_max": 646.0353393554688,
+    "text": "CAMOUFLAGE Get eaten by a Frog, Gator, & Bird"
+  },
+  {
+    "x_min": 88.5152587890625,
+    "y_min": 582.7530517578125,
+    "x_max": 157.18115234375,
+    "y_max": 645.8494873046875,
+    "text": "MOONCAT: Find 2 of 3 eggs"
+  },
+  {
+    "x_min": 156.52268981933594,
+    "y_min": 582.7254638671875,
+    "x_max": 227.1322784423828,
+    "y_max": 645.9058227539062,
+    "text": "THE BIG BELL RACE: Gold diisk"
+  },
+  {
+    "x_min": 226.44515991210938,
+    "y_min": 582.6649169921875,
+    "x_max": 295.40850830078125,
+    "y_max": 645.8368530273438,
+    "text": "Defeat 7 bosses"
+  },
+  {
+    "x_min": 294.62353515625,
+    "y_min": 582.8360595703125,
+    "x_max": 368.6671142578125,
+    "y_max": 645.7039794921875,
+    "text": "PLANET ZOLDATH: Collect the overworidground Map Piece"
+  },
+  {
+    "x_min": 13.827674865722656,
+    "y_min": 645.7694702148438,
+    "x_max": 89.24623107910156,
+    "y_max": 708.9924926757812,
+    "text": "Enter a top 5 score on 4 arcade leaderboards"
+  },
+  {
+    "x_min": 88.16226959228516,
+    "y_min": 645.6587524414062,
+    "x_max": 157.4286651611328,
+    "y_max": 708.8047485351562,
+    "text": "SEASIDE DRIVE:Reach 200,000+ points"
+  },
+  {
+    "x_min": 156.76730346679688,
+    "y_min": 645.7216186523438,
+    "x_max": 227.2376251220703,
+    "y_max": 708.5780639648438,
+    "text": "WALDORF'S JOURNEY: Knock 2 plgs into the water"
+  },
+  {
+    "x_min": 226.7388916015625,
+    "y_min": 645.7285766601562,
+    "x_max": 295.48846435546875,
+    "y_max": 708.608642578125,
+    "text": "MINI& MAX: Turn off the lamp"
+  },
+  {
+    "x_min": 294.6864013671875,
+    "y_min": 645.4280395507812,
+    "x_max": 368.8511657714844,
+    "y_max": 708.6235961914062,
+    "text": "CAMPANELLA 3:Clear 4 waves 100%"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 700.7470703125,
+    "y_min": 599.4234008789062,
+    "x_max": 806.009033203125,
+    "y_max": 698.47412109375,
+    "text": "DEVILITION Gold disk"
+  },
+  {
+    "x_min": 805.4998168945312,
+    "y_min": 600.3348388671875,
+    "x_max": 908.7885131835938,
+    "y_max": 698.8375244140625,
+    "text": "VELGRESS: Collect all 3 keys in a single run"
+  },
+  {
+    "x_min": 908.2410888671875,
+    "y_min": 601.001708984375,
+    "x_max": 1013.2041625976562,
+    "y_max": 698.9652099609375,
+    "text": "THEBIGBELL RACE: Give all opponents a lap headstart and win on 3 separate tracks"
+  },
+  {
+    "x_min": 1012.4107666015625,
+    "y_min": 601.6952514648438,
+    "x_max": 1116.990478515625,
+    "y_max": 699.0377807617188,
+    "text": "HOT FOOT: Win three games in a row"
+  },
+  {
+    "x_min": 1116.7322998046875,
+    "y_min": 601.1655883789062,
+    "x_max": 1220.021240234375,
+    "y_max": 698.6680297851562,
+    "text": "Find an easter egg UFO in 5 games"
+  },
+  {
+    "x_min": 700.7725830078125,
+    "y_min": 698.4636840820312,
+    "x_max": 805.64404296875,
+    "y_max": 795.2804565429688,
+    "text": "VELGRESS: Hold 50 coins at once"
+  },
+  {
+    "x_min": 804.981201171875,
+    "y_min": 698.6016845703125,
+    "x_max": 910.346923828125,
+    "y_max": 794.0219116210938,
+    "text": "Collect 4 cherry disks"
+  },
+  {
+    "x_min": 909.7474365234375,
+    "y_min": 698.8380737304688,
+    "x_max": 1012.5023803710938,
+    "y_max": 794.1287231445312,
+    "text": "RAIL HEIST: LAZY-COPS allowed; beat Vengeance! and The Final Score"
+  },
+  {
+    "x_min": 1011.8663330078125,
+    "y_min": 698.7885131835938,
+    "x_max": 1117.2830810546875,
+    "y_max": 794.4365234375,
+    "text": "SEASIDE DRIVE:Reach 200,000+ points"
+  },
+  {
+    "x_min": 1116.84912109375,
+    "y_min": 698.1293334960938,
+    "x_max": 1219.7177734375,
+    "y_max": 795.3055419921875,
+    "text": "HYPER CONTENDER: Beat Draft Mode (Default settings)"
+  },
+  {
+    "x_min": 700.6896362304688,
+    "y_min": 794.771240234375,
+    "x_max": 805.5302124023438,
+    "y_max": 888.47412109375,
+    "text": "ONION DELIVERY: Have 99 seconds remaining"
+  },
+  {
+    "x_min": 805.007080078125,
+    "y_min": 793.83349609375,
+    "x_max": 909.605224609375,
+    "y_max": 888.8880004882812,
+    "text": "CAMOUFLAGE Gold disk"
+  },
+  {
+    "x_min": 908.8629150390625,
+    "y_min": 794.0550537109375,
+    "x_max": 1012.27099609375,
+    "y_max": 888.8521728515625,
+    "text": "NINPEK: Collect 3 crowns"
+  },
+  {
+    "x_min": 1011.75341796875,
+    "y_min": 794.240478515625,
+    "x_max": 1117.166015625,
+    "y_max": 888.93408203125,
+    "text": "Enter a top 3 Score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 1116.9197998046875,
+    "y_min": 795.0123291015625,
+    "x_max": 1219.1611328125,
+    "y_max": 888.5145263671875,
+    "text": "MINI&MAX: Turn off the lamp"
+  },
+  {
+    "x_min": 700.6719970703125,
+    "y_min": 887.8286743164062,
+    "x_max": 805.6073608398438,
+    "y_max": 984.2225952148438,
+    "text": "TREASURE HUNTER: Divers & Barbuta: Open 2 chests in each; Waldorfs Joumey: Open 2 chests in a run"
+  },
+  {
+    "x_min": 805.1279296875,
+    "y_min": 888.7044067382812,
+    "x_max": 907.9974975585938,
+    "y_max": 983.9634399414062,
+    "text": "PLANET ZOLDATH: Collect the trade Map Piece"
+  },
+  {
+    "x_min": 907.7086791992188,
+    "y_min": 888.668701171875,
+    "x_max": 1012.181396484375,
+    "y_max": 984.0067138671875,
+    "text": "CAMOUFLAGE Escape with 3/3 collectibles on 5 levels"
+  },
+  {
+    "x_min": 1011.7618408203125,
+    "y_min": 888.794677734375,
+    "x_max": 1117.097412109375,
+    "y_max": 983.7922973632812,
+    "text": "PILOT QUEST: Make a friend at the crash site"
+  },
+  {
+    "x_min": 1116.8919677734375,
+    "y_min": 888.2605590820312,
+    "x_max": 1218.8826904296875,
+    "y_max": 983.4771118164062,
+    "text": "BLOCK KOALA:Beat 2 story levels as Koalarana (Pink Koala)"
+  },
+  {
+    "x_min": 700.6351928710938,
+    "y_min": 983.9368896484375,
+    "x_max": 805.3635864257812,
+    "y_max": 1079.577880859375,
+    "text": "ROCKON! ISLAND: Beat Initial Encounter w/o upgrading at the cave"
+  },
+  {
+    "x_min": 804.9215698242188,
+    "y_min": 983.817626953125,
+    "x_max": 907.8099365234375,
+    "y_max": 1079.5030517578125,
+    "text": "CAMPANELLA 3:Beat Galbrain"
+  },
+  {
+    "x_min": 907.821533203125,
+    "y_min": 983.8106079101562,
+    "x_max": 1012.1156005859375,
+    "y_max": 1079.4658203125,
+    "text": "Beat 8 levels in 3 different games"
+  },
+  {
+    "x_min": 1012.1204223632812,
+    "y_min": 983.5348510742188,
+    "x_max": 1116.947998046875,
+    "y_max": 1079.24169921875,
+    "text": "NINPEK:Use HARD-LOOP; defeat the boss with a score of 20,000+"
+  },
+  {
+    "x_min": 1116.41943359375,
+    "y_min": 983.2738037109375,
+    "x_max": 1219.1470947265625,
+    "y_max": 1079.678466796875,
+    "text": "BARBUTA: Gold disk"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 719.1795043945312,
+    "y_min": 642.4424438476562,
+    "x_max": 817.7951049804688,
+    "y_max": 728.0319213867188,
+    "text": "Defeat a boss in 3 different games"
+  },
+  {
+    "x_min": 816.9992065429688,
+    "y_min": 641.6282958984375,
+    "x_max": 914.014404296875,
+    "y_max": 728.0562744140625,
+    "text": "GOLFARIA: Collect 3 clubs"
+  },
+  {
+    "x_min": 913.4230346679688,
+    "y_min": 641.1267700195312,
+    "x_max": 1010.2554931640625,
+    "y_max": 728.0947265625,
+    "text": "ONION DELIVERY: Deliver 12 onions in a single day"
+  },
+  {
+    "x_min": 1009.9153442382812,
+    "y_min": 640.6895751953125,
+    "x_max": 1109.6956787109375,
+    "y_max": 728.1663208007812,
+    "text": "FIST HELL: Clear the first scare and enter the shop with $20 or more"
+  },
+  {
+    "x_min": 1109.2763671875,
+    "y_min": 641.5462646484375,
+    "x_max": 1207.7960205078125,
+    "y_max": 728.7548217773438,
+    "text": "BARBUTA: Visit at least 25 rooms"
+  },
+  {
+    "x_min": 721.739013671875,
+    "y_min": 727.7459716796875,
+    "x_max": 817.553955078125,
+    "y_max": 815.7048950195312,
+    "text": "AVIANOS: Win a Custom game with 8 Mountains (change no other settings)"
+  },
+  {
+    "x_min": 816.8883056640625,
+    "y_min": 727.9881591796875,
+    "x_max": 913.5178833007812,
+    "y_max": 815.470703125,
+    "text": "COMBATANTS Beat 'Surprise!'"
+  },
+  {
+    "x_min": 913.1571655273438,
+    "y_min": 728.0006103515625,
+    "x_max": 1009.8546752929688,
+    "y_max": 815.4552001953125,
+    "text": "Collect 5 gold disks"
+  },
+  {
+    "x_min": 1009.7447509765625,
+    "y_min": 727.9764404296875,
+    "x_max": 1106.9794921875,
+    "y_max": 815.3165893554688,
+    "text": "SEASIDE DRIVE: Destroy the UFO in Stage 3"
+  },
+  {
+    "x_min": 1106.479736328125,
+    "y_min": 728.4759521484375,
+    "x_max": 1205.8704833984375,
+    "y_max": 815.8250122070312,
+    "text": "RAKSHASA: Gold disk"
+  },
+  {
+    "x_min": 722.7357177734375,
+    "y_min": 815.4375,
+    "x_max": 817.7542724609375,
+    "y_max": 902.82763671875,
+    "text": "BUG HUNTER: Complete a job with your energy maxed out"
+  },
+  {
+    "x_min": 817.034912109375,
+    "y_min": 815.3642578125,
+    "x_max": 914.1915893554688,
+    "y_max": 903.004150390625,
+    "text": "WARPTANK: Beat any 9 levels and talk to 3 NPCs"
+  },
+  {
+    "x_min": 913.8265380859375,
+    "y_min": 815.3358764648438,
+    "x_max": 1010.0338134765625,
+    "y_max": 902.8136596679688,
+    "text": "CAMPANELLA: Use BEAN- DRIP; Score 6,000 points in the Bonus Game"
+  },
+  {
+    "x_min": 1010.1115112304688,
+    "y_min": 815.3641357421875,
+    "x_max": 1106.62451171875,
+    "y_max": 902.8574829101562,
+    "text": "ATTACTICS: Beat 8 levels"
+  },
+  {
+    "x_min": 1105.9923095703125,
+    "y_min": 815.5750732421875,
+    "x_max": 1206.0191650390625,
+    "y_max": 902.8427734375,
+    "text": "Enter a top 5 score on 5 arcade leaderboards"
+  },
+  {
+    "x_min": 722.3863525390625,
+    "y_min": 902.7501831054688,
+    "x_max": 817.3999633789062,
+    "y_max": 990.9103393554688,
+    "text": "MORTOL II: Defeat all three mini bosses"
+  },
+  {
+    "x_min": 817.0771484375,
+    "y_min": 902.9679565429688,
+    "x_max": 914.2147216796875,
+    "y_max": 990.85205078125,
+    "text": "Buy an item from a shop in 8 different games"
+  },
+  {
+    "x_min": 913.892578125,
+    "y_min": 902.7872924804688,
+    "x_max": 1009.9986572265625,
+    "y_max": 990.3571166992188,
+    "text": "RAIL HEIST: LAZY-COPS; Beat Vengeancel and The Final Score"
+  },
+  {
+    "x_min": 1010.0988159179688,
+    "y_min": 902.8924560546875,
+    "x_max": 1107.43359375,
+    "y_max": 990.6489868164062,
+    "text": "MORTOL: OPEN-TOMB allowed; Clear all world 2 levels"
+  },
+  {
+    "x_min": 1107.3980712890625,
+    "y_min": 902.751708984375,
+    "x_max": 1206.1839599609375,
+    "y_max": 991.17822265625,
+    "text": "NINPEK: Collect 3 crowns"
+  },
+  {
+    "x_min": 722.0045166015625,
+    "y_min": 990.4595336914062,
+    "x_max": 817.5471801757812,
+    "y_max": 1078.7266845703125,
+    "text": "VELGRESS: Gold disk"
+  },
+  {
+    "x_min": 817.4623413085938,
+    "y_min": 990.3399047851562,
+    "x_max": 913.9995727539062,
+    "y_max": 1078.535888671875,
+    "text": "LORDS OF DISKONIA: Win a Quick Battle"
+  },
+  {
+    "x_min": 913.9651489257812,
+    "y_min": 989.9480590820312,
+    "x_max": 1010.2448120117188,
+    "y_max": 1078.6219482421875,
+    "text": "FIST HELL: Survive 9 waves in the gym"
+  },
+  {
+    "x_min": 1010.2679443359375,
+    "y_min": 990.3522338867188,
+    "x_max": 1106.7247314453125,
+    "y_max": 1078.6669921875,
+    "text": "ALPHA TRILOGY: Gold Velgress, Overbold, and Quibble Race as Alpha"
+  },
+  {
+    "x_min": 1106.465576171875,
+    "y_min": 990.8841552734375,
+    "x_max": 1206.47509765625,
+    "y_max": 1078.3193359375,
+    "text": "VALBRACE: Level up at a throne"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 715.782958984375,
+    "y_min": 639.6824340820312,
+    "x_max": 818.8519897460938,
+    "y_max": 729.3135375976562,
+    "text": "ELFAZAR'S HAT: Clear stages 1 and 2 without any upgrades or healing"
+  },
+  {
+    "x_min": 817.5418090820312,
+    "y_min": 640.444091796875,
+    "x_max": 914.7019653320312,
+    "y_max": 729.4376220703125,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 913.4953002929688,
+    "y_min": 641.3121337890625,
+    "x_max": 1009.507568359375,
+    "y_max": 729.4090576171875,
+    "text": "MORTOL: Beat a level with a total of 30 or more additional lives than you began the run with"
+  },
+  {
+    "x_min": 1008.904052734375,
+    "y_min": 642.3413696289062,
+    "x_max": 1104.9666748046875,
+    "y_max": 729.4734497070312,
+    "text": "BUG HUNTER Get 4 kills by stomping on bugs"
+  },
+  {
+    "x_min": 1104.380859375,
+    "y_min": 643.6654663085938,
+    "x_max": 1208.15380859375,
+    "y_max": 729.6882934570312,
+    "text": "PORGY: Return 4 fish eggs to their mother"
+  },
+  {
+    "x_min": 721.1522827148438,
+    "y_min": 729.2260131835938,
+    "x_max": 817.7969970703125,
+    "y_max": 817.665771484375,
+    "text": "MINI&MAX: Rid the books ofSilverfish"
+  },
+  {
+    "x_min": 817.0523681640625,
+    "y_min": 729.2531127929688,
+    "x_max": 913.5402221679688,
+    "y_max": 817.5259399414062,
+    "text": "ROCKON! ISLAND:CLUB PASS allowed: Clear The Oasis with 20+ HP remaining"
+  },
+  {
+    "x_min": 913.0840454101562,
+    "y_min": 729.3624877929688,
+    "x_max": 1009.6625366210938,
+    "y_max": 817.419921875,
+    "text": "CAMPANELLA: Defeat the Stage B Boss"
+  },
+  {
+    "x_min": 1009.2968139648438,
+    "y_min": 729.3522338867188,
+    "x_max": 1104.6334228515625,
+    "y_max": 817.3074340820312,
+    "text": "GRIDLOCK:Rock On! Island: CLUB- PASS allowed, Beat The Spiral; Deviltion Beat 5 rounds; Cyber Owis:Rescue an owl"
+  },
+  {
+    "x_min": 1104.0316162109375,
+    "y_min": 729.4755249023438,
+    "x_max": 1206.34765625,
+    "y_max": 817.5883178710938,
+    "text": "CAMPANELLA 3:Beat Joe Pulp (Stage 3 Boss)"
+  },
+  {
+    "x_min": 722.396728515625,
+    "y_min": 817.3306884765625,
+    "x_max": 817.679443359375,
+    "y_max": 905.1985473632812,
+    "text": "Enter a top 3 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 817.085693359375,
+    "y_min": 817.397216796875,
+    "x_max": 913.43310546875,
+    "y_max": 904.9599609375,
+    "text": "WALDORF'S JOURNEY: Gold disk"
+  },
+  {
+    "x_min": 913.2392578125,
+    "y_min": 817.3182983398438,
+    "x_max": 1010.0772705078125,
+    "y_max": 904.922119140625,
+    "text": "COMBATANTS Beat 'First Blood' without shooting"
+  },
+  {
+    "x_min": 1009.5676879882812,
+    "y_min": 817.5327758789062,
+    "x_max": 1105.006591796875,
+    "y_max": 905.004150390625,
+    "text": "PARTY HOUSE: Bet a random soenario having purchased the madmum number of Old Friends and Rich Pals"
+  },
+  {
+    "x_min": 1104.496826171875,
+    "y_min": 817.3450927734375,
+    "x_max": 1205.70458984375,
+    "y_max": 904.9237060546875,
+    "text": "PILOT QUEST: Make a friend at the crash site"
+  },
+  {
+    "x_min": 722.3682861328125,
+    "y_min": 905.352294921875,
+    "x_max": 817.5369262695312,
+    "y_max": 993.0784301757812,
+    "text": "VAINGER:Get the Force Mod from Verde Sector"
+  },
+  {
+    "x_min": 816.85546875,
+    "y_min": 904.9688110351562,
+    "x_max": 913.6145629882812,
+    "y_max": 992.8495483398438,
+    "text": "HOT FOOT: Win 2 games in a row without jumping"
+  },
+  {
+    "x_min": 913.0169677734375,
+    "y_min": 904.8651123046875,
+    "x_max": 1009.84912109375,
+    "y_max": 992.8609619140625,
+    "text": "Collect a food item in 8 different games"
+  },
+  {
+    "x_min": 1009.7327880859375,
+    "y_min": 905.016357421875,
+    "x_max": 1105.681396484375,
+    "y_max": 993.1153564453125,
+    "text": "GOLFARIA: Destroy 3 parbots"
+  },
+  {
+    "x_min": 1105.560302734375,
+    "y_min": 904.970458984375,
+    "x_max": 1205.8555908203125,
+    "y_max": 993.201171875,
+    "text": "THE BIG BELL RACE:KO an opponent with 3 unique power- ups"
+  },
+  {
+    "x_min": 721.7485961914062,
+    "y_min": 992.6646118164062,
+    "x_max": 817.5518798828125,
+    "y_max": 1079.01611328125,
+    "text": "VALBRACE: Level up at a throne"
+  },
+  {
+    "x_min": 817.477294921875,
+    "y_min": 992.5669555664062,
+    "x_max": 913.8298950195312,
+    "y_max": 1078.3289794921875,
+    "text": "AVIANOS: Max out blessings from one Ancestor"
+  },
+  {
+    "x_min": 913.489013671875,
+    "y_min": 992.5618286132812,
+    "x_max": 1009.5271606445312,
+    "y_max": 1078.797607421875,
+    "text": "CAMPANELLA 2: Obtain 6 power- up items in one run (square icons on left of screen)"
+  },
+  {
+    "x_min": 1009.8716430664062,
+    "y_min": 992.716064453125,
+    "x_max": 1105.5797119140625,
+    "y_max": 1078.792724609375,
+    "text": "NIGHT MANOR: Collect the diamond"
+  },
+  {
+    "x_min": 1105.2451171875,
+    "y_min": 992.6566162109375,
+    "x_max": 1206.3350830078125,
+    "y_max": 1078.3006591796875,
+    "text": "Collect 4 cherry disks"
+  }
+]

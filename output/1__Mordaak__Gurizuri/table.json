@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 718.7817993164062,
+    "y_min": 641.7689208984375,
+    "x_max": 817.8652954101562,
+    "y_max": 727.4212036132812,
+    "text": "CYBER OWLS: Complete 2 missions"
+  },
+  {
+    "x_min": 817.2640380859375,
+    "y_min": 641.553955078125,
+    "x_max": 914.0264282226562,
+    "y_max": 727.4721069335938,
+    "text": "RAKSHASA: Use each of the three weapon types in one run"
+  },
+  {
+    "x_min": 913.6040649414062,
+    "y_min": 640.1787719726562,
+    "x_max": 1009.6625366210938,
+    "y_max": 727.3778076171875,
+    "text": "Collect 15 gifts for the garden"
+  },
+  {
+    "x_min": 1009.13623046875,
+    "y_min": 638.9623413085938,
+    "x_max": 1109.7391357421875,
+    "y_max": 727.2890625,
+    "text": "CAMOUFLAGE Reach 70% completion or more"
+  },
+  {
+    "x_min": 1108.178466796875,
+    "y_min": 640.1952514648438,
+    "x_max": 1207.908447265625,
+    "y_max": 728.4216918945312,
+    "text": "MORTOL:Beat a level with a total of 30 or more additional lives than you began the run with"
+  },
+  {
+    "x_min": 722.2979125976562,
+    "y_min": 727.1707763671875,
+    "x_max": 817.7642822265625,
+    "y_max": 815.533203125,
+    "text": "DEVILITION: Clear the screen of demons with at least ten pieces remaining"
+  },
+  {
+    "x_min": 817.1917724609375,
+    "y_min": 727.5016479492188,
+    "x_max": 913.759033203125,
+    "y_max": 815.5468139648438,
+    "text": "MINI &MAX: Return the stolen Termite Egg to the outlet"
+  },
+  {
+    "x_min": 913.3238525390625,
+    "y_min": 727.3681030273438,
+    "x_max": 1009.804931640625,
+    "y_max": 815.4991455078125,
+    "text": "DIVERS: Open the chest containing the Parasite Hammer"
+  },
+  {
+    "x_min": 1009.1869506835938,
+    "y_min": 727.3215942382812,
+    "x_max": 1106.5631103515625,
+    "y_max": 815.4889526367188,
+    "text": "MORTOL II: In one run, defeat at least 2 enemies with each player class"
+  },
+  {
+    "x_min": 1106.02197265625,
+    "y_min": 728.1332397460938,
+    "x_max": 1206.311279296875,
+    "y_max": 815.7971801757812,
+    "text": "Collect 3 gold disks"
+  },
+  {
+    "x_min": 723.5612182617188,
+    "y_min": 815.3296508789062,
+    "x_max": 817.8811645507812,
+    "y_max": 902.6080932617188,
+    "text": "CAMPANELLA: Use BEAN- DRIP;Score 6,000 points in the Bonus Game"
+  },
+  {
+    "x_min": 817.1927490234375,
+    "y_min": 815.4243774414062,
+    "x_max": 913.7868041992188,
+    "y_max": 903.2083129882812,
+    "text": "Increase your max HP in 5 games"
+  },
+  {
+    "x_min": 913.2138061523438,
+    "y_min": 815.3883666992188,
+    "x_max": 1009.6222534179688,
+    "y_max": 903.3057861328125,
+    "text": "MOONCAT: Visit 12 different rooms"
+  },
+  {
+    "x_min": 1009.2283935546875,
+    "y_min": 815.4381713867188,
+    "x_max": 1107.24609375,
+    "y_max": 903.34375,
+    "text": "CARAMEL CARAMEL: TEST- LENS allowed; defeat Dino Lord in Dino Planet"
+  },
+  {
+    "x_min": 1106.85791015625,
+    "y_min": 815.7124633789062,
+    "x_max": 1206.276611328125,
+    "y_max": 903.0755004882812,
+    "text": "VAINGER: Collect 2 upgrade modules"
+  },
+  {
+    "x_min": 722.9165649414062,
+    "y_min": 902.6591186523438,
+    "x_max": 817.526123046875,
+    "y_max": 990.8925170898438,
+    "text": "ATTACTICS: Score 1000+ points in Survival Mode"
+  },
+  {
+    "x_min": 817.0132446289062,
+    "y_min": 903.2129516601562,
+    "x_max": 913.5969848632812,
+    "y_max": 991.2657470703125,
+    "text": "GOLFARIA: Obtain the Brakes"
+  },
+  {
+    "x_min": 913.423095703125,
+    "y_min": 903.3094482421875,
+    "x_max": 1009.5161743164062,
+    "y_max": 991.3275756835938,
+    "text": "MINI & MAX: Rid the books of Silverfish"
+  },
+  {
+    "x_min": 1009.2943725585938,
+    "y_min": 903.3894653320312,
+    "x_max": 1108.1624755859375,
+    "y_max": 991.31982421875,
+    "text": "UFO OPEN: Golfaria: Hit a Parbot; Pingolf: Gold Disk; Lords of Diskonia: Destroy 5 enemy disks"
+  },
+  {
+    "x_min": 1108.2386474609375,
+    "y_min": 903.033447265625,
+    "x_max": 1206.288818359375,
+    "y_max": 991.4804077148438,
+    "text": "PLANET ZOLDATH: Collect the dungeon Map Piece"
+  },
+  {
+    "x_min": 722.2805786132812,
+    "y_min": 990.6845092773438,
+    "x_max": 817.55859375,
+    "y_max": 1078.5545654296875,
+    "text": "Defeat a boss in 3 different games"
+  },
+  {
+    "x_min": 817.4075927734375,
+    "y_min": 990.970947265625,
+    "x_max": 913.6983032226562,
+    "y_max": 1078.68212890625,
+    "text": "PORGY: Achieve 20% Completion"
+  },
+  {
+    "x_min": 913.4562377929688,
+    "y_min": 990.9741821289062,
+    "x_max": 1009.8258666992188,
+    "y_max": 1078.6199951171875,
+    "text": "FIST HELL: Destroy 2 UFOs"
+  },
+  {
+    "x_min": 1009.7850341796875,
+    "y_min": 991.049072265625,
+    "x_max": 1107.94921875,
+    "y_max": 1078.3477783203125,
+    "text": "BARBUTA: Wield both secret weapons"
+  },
+  {
+    "x_min": 1107.726806640625,
+    "y_min": 990.9774169921875,
+    "x_max": 1206.74658203125,
+    "y_max": 1078.3221435546875,
+    "text": "RAIL HEIST: Kill 5 chickens"
+  }
+]

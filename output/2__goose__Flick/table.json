@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 698.0472412109375,
+    "y_min": 601.435546875,
+    "x_max": 798.9420166015625,
+    "y_max": 713.6917724609375,
+    "text": "AVIANOS: Gold disk"
+  },
+  {
+    "x_min": 798.4151611328125,
+    "y_min": 616.4876098632812,
+    "x_max": 901.8477783203125,
+    "y_max": 713.8863525390625,
+    "text": "RAKSHASA: Beat the first Mid Boss w/ 4+ skulls"
+  },
+  {
+    "x_min": 901.4169311523438,
+    "y_min": 616.4847412109375,
+    "x_max": 1009.0900268554688,
+    "y_max": 713.5802001953125,
+    "text": "CYBER OWLS: HAWK-BASE allowed; Clear the H.A.W.K. Base stage"
+  },
+  {
+    "x_min": 1008.51171875,
+    "y_min": 616.955810546875,
+    "x_max": 1113.882568359375,
+    "y_max": 713.1492919921875,
+    "text": "WAR IS BAD: Attactics: Win 3 ranked battles in a row; Avianos: Win with a blessing from each ancestor"
+  },
+  {
+    "x_min": 1113.3375244140625,
+    "y_min": 607.6637573242188,
+    "x_max": 1220.6268310546875,
+    "y_max": 713.8931274414062,
+    "text": "GRIMSTONE: Learn 3 Skills"
+  },
+  {
+    "x_min": 697.9896240234375,
+    "y_min": 713.6723022460938,
+    "x_max": 798.4378662109375,
+    "y_max": 808.97509765625,
+    "text": "Collect 4 cherry disks"
+  },
+  {
+    "x_min": 797.7845458984375,
+    "y_min": 713.8366088867188,
+    "x_max": 902.0823364257812,
+    "y_max": 808.967041015625,
+    "text": "NINPEK: Collect 3 crowns"
+  },
+  {
+    "x_min": 901.572998046875,
+    "y_min": 713.3285522460938,
+    "x_max": 1009.1887817382812,
+    "y_max": 808.6685791015625,
+    "text": "CARAMEL CARAMEL: Snap 10 bonus background elements"
+  },
+  {
+    "x_min": 1008.5780029296875,
+    "y_min": 713.0795288085938,
+    "x_max": 1113.667236328125,
+    "y_max": 808.9935302734375,
+    "text": "LORDS OF DISKONIA: Have 5 enemy disks drown"
+  },
+  {
+    "x_min": 1112.8853759765625,
+    "y_min": 712.819091796875,
+    "x_max": 1220.091552734375,
+    "y_max": 809.2171630859375,
+    "text": "BUG HUNTER: Complete a job with your energy maxed out"
+  },
+  {
+    "x_min": 698.7587280273438,
+    "y_min": 808.6972045898438,
+    "x_max": 798.4310302734375,
+    "y_max": 903.2271728515625,
+    "text": "KICK CLUB: Eat 10 hidden desserts"
+  },
+  {
+    "x_min": 798.0211181640625,
+    "y_min": 808.6992797851562,
+    "x_max": 902.898681640625,
+    "y_max": 903.2523193359375,
+    "text": "BLOCK KOALA: Use WORM-1234; clear any 9 levels"
+  },
+  {
+    "x_min": 902.3815307617188,
+    "y_min": 808.4691162109375,
+    "x_max": 1009.3209228515625,
+    "y_max": 903.6146240234375,
+    "text": "Find an easter egg UFO in 3 games"
+  },
+  {
+    "x_min": 1008.9517822265625,
+    "y_min": 808.8197631835938,
+    "x_max": 1114.0653076171875,
+    "y_max": 903.7939453125,
+    "text": "MINI&MAX: Rid the books of Silverfish"
+  },
+  {
+    "x_min": 1113.564208984375,
+    "y_min": 808.8722534179688,
+    "x_max": 1220.1822509765625,
+    "y_max": 903.8154907226562,
+    "text": "ONION DELIVERY: Deliver 10 onions in a single day"
+  },
+  {
+    "x_min": 698.8369750976562,
+    "y_min": 903.003173828125,
+    "x_max": 798.714111328125,
+    "y_max": 999.02880859375,
+    "text": "WALDORF'S JOURNEY: Knock 2 pigs into the water"
+  },
+  {
+    "x_min": 798.1498413085938,
+    "y_min": 903.1843872070312,
+    "x_max": 902.826416015625,
+    "y_max": 998.4716186523438,
+    "text": "PINGOLF: Gold disk"
+  },
+  {
+    "x_min": 902.4946899414062,
+    "y_min": 903.5458984375,
+    "x_max": 1009.0447998046875,
+    "y_max": 998.2392578125,
+    "text": "PAINT CHASE: Beat 7 levels without using power ups (boost pads allowed)"
+  },
+  {
+    "x_min": 1008.8696899414062,
+    "y_min": 903.768798828125,
+    "x_max": 1114.335693359375,
+    "y_max": 998.4761962890625,
+    "text": "VELGRESS: Gold disk"
+  },
+  {
+    "x_min": 1113.775390625,
+    "y_min": 903.6807861328125,
+    "x_max": 1220.8677978515625,
+    "y_max": 998.1441650390625,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 697.4727172851562,
+    "y_min": 998.9539794921875,
+    "x_max": 798.0797729492188,
+    "y_max": 1079.931884765625,
+    "text": "VALBRACE: Defeat the Phantom Knight onFloor2"
+  },
+  {
+    "x_min": 798.0216674804688,
+    "y_min": 998.3833618164062,
+    "x_max": 903.01708984375,
+    "y_max": 1079.866455078125,
+    "text": "Enter a top 3 score on 4 arcade leaderhoards"
+  },
+  {
+    "x_min": 902.3983764648438,
+    "y_min": 998.093017578125,
+    "x_max": 1008.8296508789062,
+    "y_max": 1079.544189453125,
+    "text": "ONION DELIVERY: Dellver 8 onlons In a single day and"
+  },
+  {
+    "x_min": 1008.3775024414062,
+    "y_min": 998.327880859375,
+    "x_max": 1114.1929931640625,
+    "y_max": 1079.64208984375,
+    "text": "PLANET ZOLDATH: Collect the overworld ground"
+  },
+  {
+    "x_min": 1113.8978271484375,
+    "y_min": 997.5850219726562,
+    "x_max": 1221.565673828125,
+    "y_max": 1080.0,
+    "text": "DIVERS:Kill a Slime Eel"
+  }
+]

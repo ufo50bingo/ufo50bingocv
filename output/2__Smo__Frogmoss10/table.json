@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 718.9419555664062,
+    "y_min": 642.3074340820312,
+    "x_max": 818.1846313476562,
+    "y_max": 728.5343627929688,
+    "text": "Enter a top 5 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 817.2301025390625,
+    "y_min": 641.73583984375,
+    "x_max": 914.02880859375,
+    "y_max": 728.2869873046875,
+    "text": "OVERBOLD: Max out four upgrades"
+  },
+  {
+    "x_min": 913.7308349609375,
+    "y_min": 641.90283203125,
+    "x_max": 1010.317138671875,
+    "y_max": 727.9290771484375,
+    "text": "KICKCLUB: Have 5 extra lives at once"
+  },
+  {
+    "x_min": 1009.9276123046875,
+    "y_min": 642.286865234375,
+    "x_max": 1108.3729248046875,
+    "y_max": 727.5884399414062,
+    "text": "ROCK ON! ISLAND: CLUB- PASS allowed; beat Terror Overhead"
+  },
+  {
+    "x_min": 1107.1156005859375,
+    "y_min": 642.7771606445312,
+    "x_max": 1210.309326171875,
+    "y_max": 728.4885864257812,
+    "text": "CYBER OWLS: Destroy the DIM SUM truck in Hong Kong"
+  },
+  {
+    "x_min": 721.92578125,
+    "y_min": 728.1332397460938,
+    "x_max": 818.2194213867188,
+    "y_max": 815.702392578125,
+    "text": "PARTY HOUSE: Have 6 star guests on screen at once"
+  },
+  {
+    "x_min": 817.4215087890625,
+    "y_min": 728.001220703125,
+    "x_max": 913.9699096679688,
+    "y_max": 815.75244140625,
+    "text": "QUIBBLE RACE:Gold disk"
+  },
+  {
+    "x_min": 913.2554931640625,
+    "y_min": 727.5645751953125,
+    "x_max": 1010.130126953125,
+    "y_max": 815.7194213867188,
+    "text": "ARCADE ACE: Gold Disk any 3 of the 16 \"ARCADE\" games"
+  },
+  {
+    "x_min": 1009.8768920898438,
+    "y_min": 727.577880859375,
+    "x_max": 1106.7918701171875,
+    "y_max": 815.507568359375,
+    "text": "WALDORF'S JOURNEY: Have four puffins at once"
+  },
+  {
+    "x_min": 1106.490966796875,
+    "y_min": 728.149169921875,
+    "x_max": 1206.7288818359375,
+    "y_max": 815.678466796875,
+    "text": "AVIANOS: Gold disk"
+  },
+  {
+    "x_min": 722.4876098632812,
+    "y_min": 815.3727416992188,
+    "x_max": 818.0872192382812,
+    "y_max": 903.1337890625,
+    "text": "ELFAZAR'S HAT: Clear stages 1 and 2 without any upgrades or healing"
+  },
+  {
+    "x_min": 817.5059814453125,
+    "y_min": 815.4793090820312,
+    "x_max": 913.827392578125,
+    "y_max": 903.2127685546875,
+    "text": "CARAMEL CARAMEL: Beat the Egg"
+  },
+  {
+    "x_min": 913.4307861328125,
+    "y_min": 815.4097900390625,
+    "x_max": 1010.5435180664062,
+    "y_max": 902.9740600585938,
+    "text": "CAMPANELLA: Gold disk"
+  },
+  {
+    "x_min": 1009.9791259765625,
+    "y_min": 815.396240234375,
+    "x_max": 1107.3326416015625,
+    "y_max": 902.8507080078125,
+    "text": "NIGHT MANOR: Complete the hiding minigame twice"
+  },
+  {
+    "x_min": 1107.151611328125,
+    "y_min": 815.5482177734375,
+    "x_max": 1206.7730712890625,
+    "y_max": 902.9584350585938,
+    "text": "Buy an item from a shop in 8 different games"
+  },
+  {
+    "x_min": 722.610107421875,
+    "y_min": 902.9935302734375,
+    "x_max": 818.0241088867188,
+    "y_max": 990.9219360351562,
+    "text": "ONION DELIVERY: Deliver 8 onions in a single day and complete the day"
+  },
+  {
+    "x_min": 817.411376953125,
+    "y_min": 903.0611572265625,
+    "x_max": 913.9239501953125,
+    "y_max": 991.1148071289062,
+    "text": "Collect 3 cherry disks"
+  },
+  {
+    "x_min": 913.5389404296875,
+    "y_min": 902.7532958984375,
+    "x_max": 1010.6748046875,
+    "y_max": 991.2072143554688,
+    "text": "BLOCK KOALA:Beat 5 story levels"
+  },
+  {
+    "x_min": 1010.2930297851562,
+    "y_min": 902.8088989257812,
+    "x_max": 1108.1044921875,
+    "y_max": 991.486083984375,
+    "text": "DEVILITION: Clear the screen of demons with at least 20 pieces remaining"
+  },
+  {
+    "x_min": 1107.773681640625,
+    "y_min": 902.7225952148438,
+    "x_max": 1206.694091796875,
+    "y_max": 991.814453125,
+    "text": "PLANET ZOLDATH: Collect the trade Map Piece"
+  },
+  {
+    "x_min": 722.4500122070312,
+    "y_min": 990.488037109375,
+    "x_max": 818.0964965820312,
+    "y_max": 1079.0439453125,
+    "text": "DEVILITION: Have 6 villagers at once"
+  },
+  {
+    "x_min": 817.5866088867188,
+    "y_min": 990.6773681640625,
+    "x_max": 913.8966674804688,
+    "y_max": 1079.1409912109375,
+    "text": "CAMPANELLA 2: Obtain 6 power- up items in one run (square icons on left of screen)"
+  },
+  {
+    "x_min": 913.508056640625,
+    "y_min": 990.7457885742188,
+    "x_max": 1011.0283813476562,
+    "y_max": 1079.4034423828125,
+    "text": "GRIMSTONE: Learn 3 Skills"
+  },
+  {
+    "x_min": 1010.9668579101562,
+    "y_min": 991.1946411132812,
+    "x_max": 1109.3477783203125,
+    "y_max": 1079.1129150390625,
+    "text": "Defeat a boss in 3 different games"
+  },
+  {
+    "x_min": 1108.3939208984375,
+    "y_min": 991.1472778320312,
+    "x_max": 1207.82666015625,
+    "y_max": 1078.197021484375,
+    "text": "MAGIC GARDEN: Gold disk"
+  }
+]

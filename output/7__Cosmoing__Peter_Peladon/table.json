@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 9.571468353271484,
+    "y_min": 388.6677551269531,
+    "x_max": 81.24269104003906,
+    "y_max": 456.91387939453125,
+    "text": "CAMPANELLA 3:Clear 4 waves 100%"
+  },
+  {
+    "x_min": 81.01409912109375,
+    "y_min": 388.6175537109375,
+    "x_max": 149.5413055419922,
+    "y_max": 456.9944763183594,
+    "text": "MAGIC GARDEN: Reach a score of10,000+"
+  },
+  {
+    "x_min": 149.37356567382812,
+    "y_min": 388.3679504394531,
+    "x_max": 219.09848022460938,
+    "y_max": 457.1001281738281,
+    "text": "Collect 3 cherry disks"
+  },
+  {
+    "x_min": 218.86737060546875,
+    "y_min": 385.7938232421875,
+    "x_max": 289.7438049316406,
+    "y_max": 456.9320373535156,
+    "text": "OVERBOLD: Purchase 3 price hiked items in one run"
+  },
+  {
+    "x_min": 288.66558837890625,
+    "y_min": 382.14080810546875,
+    "x_max": 368.670654296875,
+    "y_max": 456.7152099609375,
+    "text": "ONION DELIVERY: Complete 2 days of deliveries"
+  },
+  {
+    "x_min": 10.10749626159668,
+    "y_min": 456.773681640625,
+    "x_max": 81.06690979003906,
+    "y_max": 519.22119140625,
+    "text": "PAINT CHASE: Beat 6 levels"
+  },
+  {
+    "x_min": 80.4398193359375,
+    "y_min": 456.7660217285156,
+    "x_max": 149.70838928222656,
+    "y_max": 519.4409790039062,
+    "text": "MOONCAT: Visit 12 different rooms"
+  },
+  {
+    "x_min": 149.3121337890625,
+    "y_min": 456.8691711425781,
+    "x_max": 218.9385986328125,
+    "y_max": 519.4815063476562,
+    "text": "RAKSHASA: Beat the first stage"
+  },
+  {
+    "x_min": 218.71368408203125,
+    "y_min": 456.79736328125,
+    "x_max": 288.78607177734375,
+    "y_max": 519.540771484375,
+    "text": "PILOT QUEST Return a ship part to the crash site"
+  },
+  {
+    "x_min": 288.11029052734375,
+    "y_min": 456.6119384765625,
+    "x_max": 362.96234130859375,
+    "y_max": 519.6534423828125,
+    "text": "Enter a top 3 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 10.608458518981934,
+    "y_min": 519.0078735351562,
+    "x_max": 81.21269226074219,
+    "y_max": 583.0775756835938,
+    "text": "OVERBOLD: Gold disk"
+  },
+  {
+    "x_min": 80.75328826904297,
+    "y_min": 519.265380859375,
+    "x_max": 149.35560607910156,
+    "y_max": 582.9978637695312,
+    "text": "TRIATHLON Gold Disk any 3 of the 5 \"SPORT\" games"
+  },
+  {
+    "x_min": 148.9345703125,
+    "y_min": 519.3203125,
+    "x_max": 219.06121826171875,
+    "y_max": 583.04638671875,
+    "text": "DIVERS: Reach level 3"
+  },
+  {
+    "x_min": 218.77606201171875,
+    "y_min": 519.360107421875,
+    "x_max": 288.8954162597656,
+    "y_max": 583.0103149414062,
+    "text": "GRIMSTONE: Reach Level 4 with any character"
+  },
+  {
+    "x_min": 288.13812255859375,
+    "y_min": 519.3436889648438,
+    "x_max": 361.83502197265625,
+    "y_max": 582.896240234375,
+    "text": "LORDS OF DISKONIA: Have 50+ gold"
+  },
+  {
+    "x_min": 10.50114631652832,
+    "y_min": 582.9485473632812,
+    "x_max": 81.161376953125,
+    "y_max": 646.01611328125,
+    "text": "BUG HUNTER Eam 3 kills with one module use"
+  },
+  {
+    "x_min": 80.73712158203125,
+    "y_min": 582.9705810546875,
+    "x_max": 149.0919189453125,
+    "y_max": 645.8550415039062,
+    "text": "SEASIDE DRIVE Clear Stage 1 with 3lhes and exactly 10,000 polnts (defeat only the boss)"
+  },
+  {
+    "x_min": 148.72824096679688,
+    "y_min": 582.9638671875,
+    "x_max": 219.11888122558594,
+    "y_max": 645.8602905273438,
+    "text": "MAGIC GARDEN: Reach a score of50.000+"
+  },
+  {
+    "x_min": 218.69833374023438,
+    "y_min": 582.8877563476562,
+    "x_max": 288.9673767089844,
+    "y_max": 645.8411865234375,
+    "text": "Collect a beverage in 6 different games"
+  },
+  {
+    "x_min": 288.38775634765625,
+    "y_min": 582.7424926757812,
+    "x_max": 360.44622802734375,
+    "y_max": 645.9057006835938,
+    "text": "BUSHIDO BALL: Win the first match as every character"
+  },
+  {
+    "x_min": 9.717123031616211,
+    "y_min": 645.8277587890625,
+    "x_max": 80.88875579833984,
+    "y_max": 709.456787109375,
+    "text": "Defeat7 bosses"
+  },
+  {
+    "x_min": 80.62828063964844,
+    "y_min": 645.7489624023438,
+    "x_max": 149.45355224609375,
+    "y_max": 708.8281860351562,
+    "text": "PINGOLF: Score under par on 5 courses"
+  },
+  {
+    "x_min": 149.15011596679688,
+    "y_min": 645.753173828125,
+    "x_max": 219.0917205810547,
+    "y_max": 708.6799926757812,
+    "text": "WALDORF'S JOURNEY: Gold disk"
+  },
+  {
+    "x_min": 218.80642700195312,
+    "y_min": 645.7093505859375,
+    "x_max": 289.17242431640625,
+    "y_max": 708.653076171875,
+    "text": "MORTOL II: Collect 10 keys"
+  },
+  {
+    "x_min": 288.7521667480469,
+    "y_min": 645.6488647460938,
+    "x_max": 363.3009033203125,
+    "y_max": 708.8308715820312,
+    "text": "MORTOL: OPEN-TOMB allowod; clear all world 2 levels"
+  }
+]

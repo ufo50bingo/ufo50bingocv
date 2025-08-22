@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 700.9031982421875,
+    "y_min": 599.2051391601562,
+    "x_max": 806.8418579101562,
+    "y_max": 697.8632202148438,
+    "text": "DAYJOB:Bug Hunter: Beaf a job; Onion Delivery: Complete 2 days; Rail Heist: Eam 3 pacifist stars"
+  },
+  {
+    "x_min": 806.0963134765625,
+    "y_min": 599.0792846679688,
+    "x_max": 909.145751953125,
+    "y_max": 698.5382080078125,
+    "text": "BARBUTA: Collect the reward from a green skull"
+  },
+  {
+    "x_min": 908.0755004882812,
+    "y_min": 597.9396362304688,
+    "x_max": 1012.8088989257812,
+    "y_max": 698.3440551757812,
+    "text": "PARTY HOUSE:Beat a random scenario having purchased the maximum number of Old Friends and Rich Pals"
+  },
+  {
+    "x_min": 1012.1437377929688,
+    "y_min": 596.8162841796875,
+    "x_max": 1117.1705322265625,
+    "y_max": 698.2233276367188,
+    "text": "NINPEK:Eat 5 sandwiches"
+  },
+  {
+    "x_min": 1116.26611328125,
+    "y_min": 595.8310546875,
+    "x_max": 1221.40576171875,
+    "y_max": 696.9820556640625,
+    "text": "MORTOL Clear all levels in World 1"
+  },
+  {
+    "x_min": 701.2786865234375,
+    "y_min": 697.3601684570312,
+    "x_max": 806.3626708984375,
+    "y_max": 794.7327270507812,
+    "text": "MAGIC GARDEN: Defeat an enemy worth at least 500 points"
+  },
+  {
+    "x_min": 805.7322387695312,
+    "y_min": 698.2870483398438,
+    "x_max": 908.804931640625,
+    "y_max": 793.662109375,
+    "text": "DEVILITION: Have 6 villagers at once"
+  },
+  {
+    "x_min": 908.5447387695312,
+    "y_min": 698.1383056640625,
+    "x_max": 1012.802001953125,
+    "y_max": 793.7272338867188,
+    "text": "\u2605 Collect 10 gifts for the garden"
+  },
+  {
+    "x_min": 1012.1597900390625,
+    "y_min": 697.714111328125,
+    "x_max": 1117.2254638671875,
+    "y_max": 793.6844482421875,
+    "text": "WARPTANK: Complete the three levels in the initial hub room"
+  },
+  {
+    "x_min": 1116.4495849609375,
+    "y_min": 696.6001586914062,
+    "x_max": 1220.7828369140625,
+    "y_max": 794.4024658203125,
+    "text": "VELGRESS Cherry disk without Upgrades or Jump Pads"
+  },
+  {
+    "x_min": 701.3427124023438,
+    "y_min": 794.0855102539062,
+    "x_max": 805.8651123046875,
+    "y_max": 888.0101318359375,
+    "text": "RAKSHASA: Have 0 skulls by using bell pickups"
+  },
+  {
+    "x_min": 805.3513793945312,
+    "y_min": 793.4098510742188,
+    "x_max": 908.6403198242188,
+    "y_max": 888.7150268554688,
+    "text": "ELFAZAR'S HAT: Defeat Elfazar in Stage 4 (Grand Palace)"
+  },
+  {
+    "x_min": 908.21044921875,
+    "y_min": 793.543212890625,
+    "x_max": 1012.921630859375,
+    "y_max": 888.9185791015625,
+    "text": "NIGHT MANOR:Find 10 joumal entries"
+  },
+  {
+    "x_min": 1012.1416625976562,
+    "y_min": 793.5285034179688,
+    "x_max": 1117.6463623046875,
+    "y_max": 888.8394165039062,
+    "text": "FIST HELL: Survive 9 waves in the gym"
+  },
+  {
+    "x_min": 1116.837890625,
+    "y_min": 794.3103637695312,
+    "x_max": 1219.8533935546875,
+    "y_max": 888.2123413085938,
+    "text": "\u2605 Find an egg in 10 different games"
+  },
+  {
+    "x_min": 701.1055297851562,
+    "y_min": 887.6735229492188,
+    "x_max": 805.8974609375,
+    "y_max": 983.381103515625,
+    "text": "PAINT CHASE: Reach a score of 240+"
+  },
+  {
+    "x_min": 805.5134887695312,
+    "y_min": 888.5934448242188,
+    "x_max": 908.1686401367188,
+    "y_max": 983.3855590820312,
+    "text": "Collect 3 cherry disks"
+  },
+  {
+    "x_min": 907.7930908203125,
+    "y_min": 888.8431396484375,
+    "x_max": 1012.768798828125,
+    "y_max": 983.2903442382812,
+    "text": "PLANET ZOLDATH: Kill a Mosquito"
+  },
+  {
+    "x_min": 1012.1688232421875,
+    "y_min": 888.6285400390625,
+    "x_max": 1117.56884765625,
+    "y_max": 983.395263671875,
+    "text": "ONION DELIVERY: Complete a day of deliveries driving only in reverse"
+  },
+  {
+    "x_min": 1116.9747314453125,
+    "y_min": 887.9375,
+    "x_max": 1219.4447021484375,
+    "y_max": 983.5670776367188,
+    "text": "AVIANOS: Control15+ tiles at once"
+  },
+  {
+    "x_min": 701.095703125,
+    "y_min": 983.1715698242188,
+    "x_max": 805.6203002929688,
+    "y_max": 1077.9564208984375,
+    "text": "DEVILITION: Clearthe screen of demons with at least 20 pieces remaining"
+  },
+  {
+    "x_min": 805.4471435546875,
+    "y_min": 983.1552124023438,
+    "x_max": 908.206298828125,
+    "y_max": 1077.6605224609375,
+    "text": "KICKCLUB: Eat 10 hidden desserts"
+  },
+  {
+    "x_min": 907.8118286132812,
+    "y_min": 983.03369140625,
+    "x_max": 1012.6163940429688,
+    "y_max": 1078.68603515625,
+    "text": "CAMPANELLA: Have 20 lives"
+  },
+  {
+    "x_min": 1012.1514282226562,
+    "y_min": 983.1097412109375,
+    "x_max": 1117.8133544921875,
+    "y_max": 1077.7379150390625,
+    "text": "\u2605 Beat 8 levels in 3 different games"
+  },
+  {
+    "x_min": 1117.130859375,
+    "y_min": 983.0497436523438,
+    "x_max": 1219.6373291015625,
+    "y_max": 1077.552001953125,
+    "text": "HOT FOOT: Win three games in a row"
+  }
+]

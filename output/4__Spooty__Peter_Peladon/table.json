@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 698.8091430664062,
+    "y_min": 599.654541015625,
+    "x_max": 803.4797973632812,
+    "y_max": 694.7449340820312,
+    "text": "ONION DELIVERY: Deliver 8 onions in a single day and complete the day"
+  },
+  {
+    "x_min": 802.4368286132812,
+    "y_min": 599.6749877929688,
+    "x_max": 906.9497680664062,
+    "y_max": 695.7840576171875,
+    "text": "VALBRACE: Level up at a throne"
+  },
+  {
+    "x_min": 906.5869140625,
+    "y_min": 599.6744384765625,
+    "x_max": 1011.818603515625,
+    "y_max": 695.7783203125,
+    "text": "CYBER OWLS:Clear Moscow with 1200+ score"
+  },
+  {
+    "x_min": 1011.1951293945312,
+    "y_min": 599.0745849609375,
+    "x_max": 1116.8641357421875,
+    "y_max": 695.5365600585938,
+    "text": "GRIMSTONE: Collect the money from the burned house"
+  },
+  {
+    "x_min": 1116.0860595703125,
+    "y_min": 598.5202026367188,
+    "x_max": 1221.2034912109375,
+    "y_max": 694.5281982421875,
+    "text": "DAY JOB: Bug Hunter: Beat a job; Onion Delivery: Complete 2 days; Rail Heist: Eam 3 pacifist stars"
+  },
+  {
+    "x_min": 698.8023071289062,
+    "y_min": 693.9660034179688,
+    "x_max": 803.6524658203125,
+    "y_max": 793.2012939453125,
+    "text": "DIVERS: Kill a Slime Eel"
+  },
+  {
+    "x_min": 803.04052734375,
+    "y_min": 695.63916015625,
+    "x_max": 906.6944580078125,
+    "y_max": 790.4110107421875,
+    "text": "Collect 12 gifts for the garden"
+  },
+  {
+    "x_min": 906.2852783203125,
+    "y_min": 695.6773071289062,
+    "x_max": 1011.7101440429688,
+    "y_max": 790.3771362304688,
+    "text": "HYPER CONTENDER: Win 4 fights in a row without rematches"
+  },
+  {
+    "x_min": 1010.8741455078125,
+    "y_min": 695.45947265625,
+    "x_max": 1116.3834228515625,
+    "y_max": 790.3125,
+    "text": "NIGHT MANOR: Successfully complete the hiding minigame in five different rooms"
+  },
+  {
+    "x_min": 1115.8411865234375,
+    "y_min": 694.0224609375,
+    "x_max": 1221.224609375,
+    "y_max": 791.4121704101562,
+    "text": "COMBATANTS Slay a spider"
+  },
+  {
+    "x_min": 698.99853515625,
+    "y_min": 791.529052734375,
+    "x_max": 803.421630859375,
+    "y_max": 884.9872436523438,
+    "text": "WALDORF'S JOURNEY: Gold disk"
+  },
+  {
+    "x_min": 802.7039794921875,
+    "y_min": 790.2939453125,
+    "x_max": 906.5472412109375,
+    "y_max": 885.5853271484375,
+    "text": "SEASIDE DRIVE: Gold disk"
+  },
+  {
+    "x_min": 906.226806640625,
+    "y_min": 790.2532348632812,
+    "x_max": 1011.8158569335938,
+    "y_max": 885.65576171875,
+    "text": "BLOCK KOALA: Beat 5 story levels"
+  },
+  {
+    "x_min": 1011.178466796875,
+    "y_min": 790.3081665039062,
+    "x_max": 1116.5556640625,
+    "y_max": 885.887939453125,
+    "text": "Collect 4 cherry disks"
+  },
+  {
+    "x_min": 1116.0826416015625,
+    "y_min": 790.7185668945312,
+    "x_max": 1221.347900390625,
+    "y_max": 885.3937377929688,
+    "text": "AVIANOS: Max out blessings from one Ancestor"
+  },
+  {
+    "x_min": 699.1439819335938,
+    "y_min": 884.7216796875,
+    "x_max": 803.0270385742188,
+    "y_max": 980.9974365234375,
+    "text": "Collect a food item in 8 different games"
+  },
+  {
+    "x_min": 802.1221923828125,
+    "y_min": 885.5745849609375,
+    "x_max": 906.991455078125,
+    "y_max": 980.9877319335938,
+    "text": "MINI & MAX: Slay the Water Bear in the west pot"
+  },
+  {
+    "x_min": 906.6954956054688,
+    "y_min": 885.5736083984375,
+    "x_max": 1011.9682006835938,
+    "y_max": 980.9512329101562,
+    "text": "BUG HUNTER: Use 3 different 4-cost modules in one job"
+  },
+  {
+    "x_min": 1011.3147583007812,
+    "y_min": 885.8253784179688,
+    "x_max": 1116.530517578125,
+    "y_max": 980.9496459960938,
+    "text": "PORGY: Achieve 20% Completion"
+  },
+  {
+    "x_min": 1116.164306640625,
+    "y_min": 885.143310546875,
+    "x_max": 1220.5494384765625,
+    "y_max": 980.3654174804688,
+    "text": "QUIBBLE RACE: WILD- BETS allowed; Have $25,000"
+  },
+  {
+    "x_min": 698.8148193359375,
+    "y_min": 980.6179809570312,
+    "x_max": 802.137939453125,
+    "y_max": 1078.080322265625,
+    "text": "PILOT QUEST: Defeat Unktomi (Spider boss)"
+  },
+  {
+    "x_min": 801.6865234375,
+    "y_min": 980.75634765625,
+    "x_max": 907.1776733398438,
+    "y_max": 1074.78125,
+    "text": "AVIANOS: Control 15+ tiles at once"
+  },
+  {
+    "x_min": 907.3204345703125,
+    "y_min": 980.6395874023438,
+    "x_max": 1012.1380004882812,
+    "y_max": 1074.552978515625,
+    "text": "Beat 8 levels in 3 different games"
+  },
+  {
+    "x_min": 1011.6033325195312,
+    "y_min": 980.6620483398438,
+    "x_max": 1116.609130859375,
+    "y_max": 1074.7025146484375,
+    "text": "WALDORF'S JOURNEY: Have 35 shells at once"
+  },
+  {
+    "x_min": 1116.328125,
+    "y_min": 979.9129638671875,
+    "x_max": 1220.5645751953125,
+    "y_max": 1076.1307373046875,
+    "text": "PINGOLF: Gold disk"
+  }
+]

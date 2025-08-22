@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 714.5494384765625,
+    "y_min": 643.442626953125,
+    "x_max": 818.49560546875,
+    "y_max": 730.9189453125,
+    "text": "GRIMSTONE: Reach Level 4 with any character"
+  },
+  {
+    "x_min": 817.3384399414062,
+    "y_min": 642.5326538085938,
+    "x_max": 914.726318359375,
+    "y_max": 730.9641723632812,
+    "text": "Enter a top 5 score on 4 arcade leaderboards"
+  },
+  {
+    "x_min": 913.94580078125,
+    "y_min": 642.663330078125,
+    "x_max": 1010.4771728515625,
+    "y_max": 731.00830078125,
+    "text": "PORGY: Reach the Abyss (lowest depth area)"
+  },
+  {
+    "x_min": 1009.6781005859375,
+    "y_min": 642.6126098632812,
+    "x_max": 1107.6541748046875,
+    "y_max": 730.8057861328125,
+    "text": "BLOCK KOALA: Beat 2 story levels as Koalarana (Pink Koala)"
+  },
+  {
+    "x_min": 1106.8529052734375,
+    "y_min": 643.369140625,
+    "x_max": 1208.66455078125,
+    "y_max": 730.6983642578125,
+    "text": "VALBRACE: Defeat the Phantom Knight on Floor 2"
+  },
+  {
+    "x_min": 721.0501708984375,
+    "y_min": 731.0081787109375,
+    "x_max": 817.801513671875,
+    "y_max": 818.5620727539062,
+    "text": "CAMPANELLA 3:Clear 4 waves 0%"
+  },
+  {
+    "x_min": 817.1490478515625,
+    "y_min": 731.0406494140625,
+    "x_max": 914.2442016601562,
+    "y_max": 818.8177490234375,
+    "text": "STAR WASPIR: Clear wave 3"
+  },
+  {
+    "x_min": 913.6146240234375,
+    "y_min": 730.9775390625,
+    "x_max": 1010.219970703125,
+    "y_max": 818.9530639648438,
+    "text": "HYPER CONTENDER: Win 3 fights in a row on Hyper difficulty"
+  },
+  {
+    "x_min": 1009.742919921875,
+    "y_min": 730.855712890625,
+    "x_max": 1107.901611328125,
+    "y_max": 818.894287109375,
+    "text": "Collect 5 gold disks"
+  },
+  {
+    "x_min": 1107.2437744140625,
+    "y_min": 730.80615234375,
+    "x_max": 1206.4434814453125,
+    "y_max": 819.2784423828125,
+    "text": "MORTOL II: Collect 10 keys"
+  },
+  {
+    "x_min": 722.5698852539062,
+    "y_min": 818.2796630859375,
+    "x_max": 818.1450805664062,
+    "y_max": 906.1237182617188,
+    "text": "DAY JOB: Bug Hunter: Beat a job; Onion Delivery: Complete 2 days; Rail Heist Earn 3 pacifist stars"
+  },
+  {
+    "x_min": 817.4061279296875,
+    "y_min": 818.5706787109375,
+    "x_max": 914.6044311523438,
+    "y_max": 906.4720458984375,
+    "text": "SEASIDE DRIVE: Clear Stage 1 with 3 lives and exaclly 10,000 points (defeat only the boss)"
+  },
+  {
+    "x_min": 913.9270629882812,
+    "y_min": 818.6635131835938,
+    "x_max": 1010.0244140625,
+    "y_max": 906.6987915039062,
+    "text": "KICKCLUB: Score 50,000+ points"
+  },
+  {
+    "x_min": 1009.7349853515625,
+    "y_min": 818.6675415039062,
+    "x_max": 1108.2979736328125,
+    "y_max": 906.5203857421875,
+    "text": "COMBATANTS Beat 4 levels"
+  },
+  {
+    "x_min": 1108.135986328125,
+    "y_min": 818.713134765625,
+    "x_max": 1206.6629638671875,
+    "y_max": 906.1569213867188,
+    "text": "CAMPANELLA 3:Beat Joe Pulp (Stage 3 Boss)"
+  },
+  {
+    "x_min": 722.7670288085938,
+    "y_min": 906.13427734375,
+    "x_max": 818.0355224609375,
+    "y_max": 994.2470092773438,
+    "text": "RAKSHASA: Score 25,000"
+  },
+  {
+    "x_min": 817.46337890625,
+    "y_min": 906.4556884765625,
+    "x_max": 914.47119140625,
+    "y_max": 994.4010620117188,
+    "text": "COMBATANTS Beat 'Surprise!'"
+  },
+  {
+    "x_min": 913.9869384765625,
+    "y_min": 906.6471557617188,
+    "x_max": 1010.0916748046875,
+    "y_max": 994.4194946289062,
+    "text": "Beat 2 levels in 8 different games"
+  },
+  {
+    "x_min": 1009.54443359375,
+    "y_min": 906.530029296875,
+    "x_max": 1107.590576171875,
+    "y_max": 994.5202026367188,
+    "text": "PAINTCHASE: Beat 7 levels without using power ups (boost pads allowed)"
+  },
+  {
+    "x_min": 1107.037109375,
+    "y_min": 906.1458129882812,
+    "x_max": 1206.7774658203125,
+    "y_max": 994.701171875,
+    "text": "STAR WASPIR: Clear wave 1 without dying and a score of exactly 600 (defeat only the boss)"
+  },
+  {
+    "x_min": 721.89306640625,
+    "y_min": 993.716796875,
+    "x_max": 818.1256713867188,
+    "y_max": 1079.883056640625,
+    "text": "CAMOUFLAGE Gold disk"
+  },
+  {
+    "x_min": 817.7478637695312,
+    "y_min": 993.767333984375,
+    "x_max": 914.7863159179688,
+    "y_max": 1079.72900390625,
+    "text": "PILOT QUEST:Plant 4 seeds at the crash site"
+  },
+  {
+    "x_min": 914.291748046875,
+    "y_min": 993.8909301757812,
+    "x_max": 1009.5631103515625,
+    "y_max": 1079.555419921875,
+    "text": "PARTY HOUSE: Have 6 star guests on screen at once"
+  },
+  {
+    "x_min": 1009.2308959960938,
+    "y_min": 994.1727294921875,
+    "x_max": 1107.2724609375,
+    "y_max": 1079.7821044921875,
+    "text": "CARAMEL CARAMEL: Beat the Egg"
+  },
+  {
+    "x_min": 1106.801025390625,
+    "y_min": 994.29638671875,
+    "x_max": 1207.000732421875,
+    "y_max": 1079.4849853515625,
+    "text": "Buy an item from a shop in 10 different games"
+  }
+]

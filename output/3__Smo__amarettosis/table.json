@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 467.75506591796875,
+    "y_min": 398.8827209472656,
+    "x_max": 537.10498046875,
+    "y_max": 464.3922119140625,
+    "text": "MINI& MAX: Return the stolen Termite Egg to the outlet"
+  },
+  {
+    "x_min": 536.5910034179688,
+    "y_min": 399.2555236816406,
+    "x_max": 604.9656372070312,
+    "y_max": 465.04510498046875,
+    "text": "CAMPANEL Have 20 lives"
+  },
+  {
+    "x_min": 604.4564208984375,
+    "y_min": 400.1253662109375,
+    "x_max": 672.8753051757812,
+    "y_max": 464.9947509765625,
+    "text": "PORGY: Collect 3 torpedo upgrades"
+  },
+  {
+    "x_min": 672.3016357421875,
+    "y_min": 401.0220947265625,
+    "x_max": 742.8555297851562,
+    "y_max": 464.83050537109375,
+    "text": "RAKSHASA: Have 0 skulls by using bell pickups"
+  },
+  {
+    "x_min": 742.6015625,
+    "y_min": 400.7291564941406,
+    "x_max": 813.1781616210938,
+    "y_max": 464.423583984375,
+    "text": "Beat 4 levels in 5 different games"
+  },
+  {
+    "x_min": 468.6973876953125,
+    "y_min": 463.281494140625,
+    "x_max": 537.0689086914062,
+    "y_max": 528.2445678710938,
+    "text": "CAMPANEL 3:Beat Galbrain"
+  },
+  {
+    "x_min": 536.5870971679688,
+    "y_min": 464.6501770019531,
+    "x_max": 604.9280395507812,
+    "y_max": 528.297607421875,
+    "text": "Enter a top 5 score on 4 arcade leaderboard"
+  },
+  {
+    "x_min": 604.6112670898438,
+    "y_min": 464.713134765625,
+    "x_max": 672.8685913085938,
+    "y_max": 528.3367919921875,
+    "text": "CAMPANEL Gold disk"
+  },
+  {
+    "x_min": 672.3953247070312,
+    "y_min": 464.56988525390625,
+    "x_max": 742.794189453125,
+    "y_max": 528.3159790039062,
+    "text": "PINGOLF: Gold disk"
+  },
+  {
+    "x_min": 742.3986206054688,
+    "y_min": 464.1252746582031,
+    "x_max": 812.7869262695312,
+    "y_max": 528.3419799804688,
+    "text": "PAINT CHASE: Beat 12 levels"
+  },
+  {
+    "x_min": 468.6021423339844,
+    "y_min": 527.9185180664062,
+    "x_max": 537.0494384765625,
+    "y_max": 591.569580078125,
+    "text": "MOONCAT: VisIt 12 different rooms"
+  },
+  {
+    "x_min": 536.40478515625,
+    "y_min": 528.0304565429688,
+    "x_max": 605.0814208984375,
+    "y_max": 591.5394287109375,
+    "text": "DIVERS: Open the chest containing the Parasile Hammer"
+  },
+  {
+    "x_min": 604.7943725585938,
+    "y_min": 528.1514892578125,
+    "x_max": 673.0516967773438,
+    "y_max": 591.5653686523438,
+    "text": "WARPTANK: Complete the three levels In the initial hub room"
+  },
+  {
+    "x_min": 672.6075439453125,
+    "y_min": 528.1024169921875,
+    "x_max": 743.0593872070312,
+    "y_max": 591.6099243164062,
+    "text": "Find an easter egg UFO in 5 games"
+  },
+  {
+    "x_min": 742.4791870117188,
+    "y_min": 528.117919921875,
+    "x_max": 812.2530517578125,
+    "y_max": 591.4837036132812,
+    "text": "BARBUTA Defeat the Mimic"
+  },
+  {
+    "x_min": 468.68206787109375,
+    "y_min": 591.3501586914062,
+    "x_max": 536.91259765625,
+    "y_max": 655.4056396484375,
+    "text": "AMY:Hot Foot Win 2 gamas with Amy, Fist Hell: Clear 2nd scare as Amy; Party House: Beat a random soenarlo"
+  },
+  {
+    "x_min": 536.46142578125,
+    "y_min": 591.3878784179688,
+    "x_max": 604.9642333984375,
+    "y_max": 655.3701171875,
+    "text": "RAIL HEIST LAZY-COPS allowed; Beal Vengeance! and The Final Score"
+  },
+  {
+    "x_min": 604.6719970703125,
+    "y_min": 591.3451538085938,
+    "x_max": 673.0948486328125,
+    "y_max": 655.4033813476562,
+    "text": "CARAMEL CARAMEL Score 8.000+ points in the prologue"
+  },
+  {
+    "x_min": 672.6793823242188,
+    "y_min": 591.3783569335938,
+    "x_max": 743.1876220703125,
+    "y_max": 655.4201049804688,
+    "text": "CAMOUFLA Gold disk"
+  },
+  {
+    "x_min": 742.7547607421875,
+    "y_min": 591.298828125,
+    "x_max": 812.181640625,
+    "y_max": 655.1417236328125,
+    "text": "MINI& MAX: Slay the Water Bear in the west pot"
+  },
+  {
+    "x_min": 468.5906982421875,
+    "y_min": 654.998046875,
+    "x_max": 537.0032348632812,
+    "y_max": 718.6790161132812,
+    "text": "KICK CLUB: Beat Track World"
+  },
+  {
+    "x_min": 536.5424194335938,
+    "y_min": 654.9860229492188,
+    "x_max": 605.0609130859375,
+    "y_max": 718.3202514648438,
+    "text": "ONION DELIVERY: Dellver 8 onions in a single day and complete the dny"
+  },
+  {
+    "x_min": 604.6017456054688,
+    "y_min": 654.9949340820312,
+    "x_max": 673.0968627929688,
+    "y_max": 718.2761840820312,
+    "text": "Collect3 cherry disks"
+  },
+  {
+    "x_min": 672.85205078125,
+    "y_min": 654.9876098632812,
+    "x_max": 743.1767578125,
+    "y_max": 718.4139404296875,
+    "text": "WALDORF'S JOURNEY: Enter the palace with 6 Puffins"
+  },
+  {
+    "x_min": 742.9308471679688,
+    "y_min": 654.8043212890625,
+    "x_max": 812.7686157226562,
+    "y_max": 719.2138671875,
+    "text": "FIST HELL: Have $50 at once"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 466.4599914550781,
+    "y_min": 401.05328369140625,
+    "x_max": 537.172607421875,
+    "y_max": 465.1139831542969,
+    "text": "MOONCAT: Use 2 warps"
+  },
+  {
+    "x_min": 536.7339477539062,
+    "y_min": 401.4679260253906,
+    "x_max": 606.7581176757812,
+    "y_max": 465.2882080078125,
+    "text": "WARPTANK: Collect 3 coffees"
+  },
+  {
+    "x_min": 606.605712890625,
+    "y_min": 401.16217041015625,
+    "x_max": 674.9483642578125,
+    "y_max": 465.42822265625,
+    "text": "Collect 10 gifts for the garden"
+  },
+  {
+    "x_min": 674.1311645507812,
+    "y_min": 400.9644470214844,
+    "x_max": 744.6624755859375,
+    "y_max": 465.468017578125,
+    "text": "VALBRACE: ClearFloor 1"
+  },
+  {
+    "x_min": 744.1414794921875,
+    "y_min": 400.67889404296875,
+    "x_max": 815.8157958984375,
+    "y_max": 465.2607421875,
+    "text": "NIGHTMANOR Successfully complete the hiding minigame in five difflerent rooms"
+  },
+  {
+    "x_min": 466.47686767578125,
+    "y_min": 464.9879150390625,
+    "x_max": 537.4754028320312,
+    "y_max": 528.327392578125,
+    "text": "ONION DELIVERY: Complete a day of deliverles driving only in reverse"
+  },
+  {
+    "x_min": 536.8474731445312,
+    "y_min": 465.3367919921875,
+    "x_max": 606.9566650390625,
+    "y_max": 528.153076171875,
+    "text": "NINPEK Gold disk"
+  },
+  {
+    "x_min": 606.6188354492188,
+    "y_min": 465.3633117675781,
+    "x_max": 674.8463134765625,
+    "y_max": 528.2906494140625,
+    "text": "FIST HELL: Clear the first scare and enter the shop with $20 or more"
+  },
+  {
+    "x_min": 674.2591552734375,
+    "y_min": 465.3788757324219,
+    "x_max": 744.589111328125,
+    "y_max": 528.5182495117188,
+    "text": "AVIANOS: WIn a Fledgling game in the campaign"
+  },
+  {
+    "x_min": 744.2169799804688,
+    "y_min": 465.0104675292969,
+    "x_max": 816.0291137695312,
+    "y_max": 528.6290893554688,
+    "text": "Collect a food item in 8 different games"
+  },
+  {
+    "x_min": 466.5988464355469,
+    "y_min": 528.2413940429688,
+    "x_max": 537.6396484375,
+    "y_max": 591.24365234375,
+    "text": "LORDS OF DISKONIA: Have 50+ gold"
+  },
+  {
+    "x_min": 537.1793212890625,
+    "y_min": 528.123779296875,
+    "x_max": 606.9110107421875,
+    "y_max": 591.1524047851562,
+    "text": "WARIS BAD: Allactica: Wn 3 ranked baltles in a row; Avlanos: Win with a blessing from each ancestor"
+  },
+  {
+    "x_min": 606.5765991210938,
+    "y_min": 528.2646484375,
+    "x_max": 674.7244873046875,
+    "y_max": 591.2930908203125,
+    "text": "DIVERS: Obtain any Lance weapon"
+  },
+  {
+    "x_min": 674.2850341796875,
+    "y_min": 528.4469604492188,
+    "x_max": 744.8944702148438,
+    "y_max": 591.3200073242188,
+    "text": "OVERBOLD: Maxout four upgrades"
+  },
+  {
+    "x_min": 744.6024169921875,
+    "y_min": 528.5521850585938,
+    "x_max": 815.7726440429688,
+    "y_max": 591.0564575195312,
+    "text": "HOTFOOT Win three games in a row"
+  },
+  {
+    "x_min": 466.9294738769531,
+    "y_min": 591.1224365234375,
+    "x_max": 537.5902709960938,
+    "y_max": 653.960205078125,
+    "text": "COMBATANTS: Beat \"Surprisel'"
+  },
+  {
+    "x_min": 536.9927368164062,
+    "y_min": 591.1159057617188,
+    "x_max": 606.8593139648438,
+    "y_max": 653.7681274414062,
+    "text": "PORGY: Collect the Buster Torpedos"
+  },
+  {
+    "x_min": 606.7340087890625,
+    "y_min": 591.1973876953125,
+    "x_max": 674.937255859375,
+    "y_max": 653.793701171875,
+    "text": "ATTACTICS: 5 levels no damage"
+  },
+  {
+    "x_min": 674.518798828125,
+    "y_min": 591.2359008789062,
+    "x_max": 744.8369750976562,
+    "y_max": 653.848876953125,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 744.4888916015625,
+    "y_min": 590.8723754882812,
+    "x_max": 815.2953491210938,
+    "y_max": 653.8916015625,
+    "text": "NINPEK: USe HARD-LOOP, defeat the boss with a score of 20,000+"
+  },
+  {
+    "x_min": 466.890625,
+    "y_min": 653.7254028320312,
+    "x_max": 537.3796997070312,
+    "y_max": 717.8283081054688,
+    "text": "Collect 4 gold disks"
+  },
+  {
+    "x_min": 536.9708862304688,
+    "y_min": 653.6180419921875,
+    "x_max": 607.0299072265625,
+    "y_max": 716.8153076171875,
+    "text": "VELGRESS Cherry disk without Upgrades or Jump Pads"
+  },
+  {
+    "x_min": 606.9114990234375,
+    "y_min": 653.6045532226562,
+    "x_max": 675.0267333984375,
+    "y_max": 716.92724609375,
+    "text": "HYPER CONTENDER: Win 3 fights in a row on Hyper difficulty"
+  },
+  {
+    "x_min": 674.7766723632812,
+    "y_min": 653.6763305664062,
+    "x_max": 744.5049438476562,
+    "y_max": 716.470703125,
+    "text": "BUG HUNTER: Get 4 kills by pushing bugs Into pits"
+  },
+  {
+    "x_min": 744.2705078125,
+    "y_min": 653.6622924804688,
+    "x_max": 815.546142578125,
+    "y_max": 716.9878540039062,
+    "text": "KICKCLUB Eat 10 hidden desserts"
+  }
+]

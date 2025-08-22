@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 698.9638061523438,
+    "y_min": 599.7845458984375,
+    "x_max": 801.8812255859375,
+    "y_max": 695.6265869140625,
+    "text": "\u2605VERBOLD: Gold disk with exactly $900 stake in round 7"
+  },
+  {
+    "x_min": 801.4019165039062,
+    "y_min": 599.8189697265625,
+    "x_max": 906.9574584960938,
+    "y_max": 696.4715576171875,
+    "text": "RAKSHASA: Beat the first Mid Boss w/ 4+ skulls"
+  },
+  {
+    "x_min": 907.2285766601562,
+    "y_min": 599.0590209960938,
+    "x_max": 1010.4312744140625,
+    "y_max": 696.5455322265625,
+    "text": "MORTOL II: In one run, defeat at least 2 enemies with each player class"
+  },
+  {
+    "x_min": 1009.814208984375,
+    "y_min": 598.5675659179688,
+    "x_max": 1114.2655029296875,
+    "y_max": 696.3798828125,
+    "text": "GOLFARIA: Obtain the Brakes"
+  },
+  {
+    "x_min": 1113.8017578125,
+    "y_min": 598.7557983398438,
+    "x_max": 1220.15673828125,
+    "y_max": 695.2862548828125,
+    "text": "Collect 5 gold disks"
+  },
+  {
+    "x_min": 699.2324829101562,
+    "y_min": 694.8826904296875,
+    "x_max": 801.58935546875,
+    "y_max": 791.869140625,
+    "text": "PAINT CHASE: Reach a score of 240+"
+  },
+  {
+    "x_min": 801.2952880859375,
+    "y_min": 696.4852905273438,
+    "x_max": 907.0216064453125,
+    "y_max": 791.7658081054688,
+    "text": "Collect 7 gifts for the garden"
+  },
+  {
+    "x_min": 907.0450439453125,
+    "y_min": 696.1954956054688,
+    "x_max": 1009.9097290039062,
+    "y_max": 791.6593017578125,
+    "text": "MORTOL: OPEN-TOMB allowed; clear all world 2 levels"
+  },
+  {
+    "x_min": 1009.396728515625,
+    "y_min": 696.2181396484375,
+    "x_max": 1114.5804443359375,
+    "y_max": 791.908203125,
+    "text": "RAIL HEIST: Beat 5 levels"
+  },
+  {
+    "x_min": 1114.31591796875,
+    "y_min": 694.7381591796875,
+    "x_max": 1217.6297607421875,
+    "y_max": 791.9754028320312,
+    "text": "BUG HUNTER: Get 4 kills by pushing bugs into pits"
+  },
+  {
+    "x_min": 699.4151611328125,
+    "y_min": 791.6063842773438,
+    "x_max": 801.9091186523438,
+    "y_max": 885.9033203125,
+    "text": "MOONCAT: Defeat 6 unique enemy types"
+  },
+  {
+    "x_min": 801.277099609375,
+    "y_min": 791.6022338867188,
+    "x_max": 906.69580078125,
+    "y_max": 886.0465087890625,
+    "text": "NINPEK: Collect 3 crowns"
+  },
+  {
+    "x_min": 906.5004272460938,
+    "y_min": 791.395751953125,
+    "x_max": 1009.4299926757812,
+    "y_max": 886.0953979492188,
+    "text": "PLANET ZOLDATH: Collect the overworld ground Map Piece"
+  },
+  {
+    "x_min": 1009.3657836914062,
+    "y_min": 791.7723388671875,
+    "x_max": 1116.1474609375,
+    "y_max": 886.2303466796875,
+    "text": "Beat 4 levels in 5 different games"
+  },
+  {
+    "x_min": 1115.3323974609375,
+    "y_min": 791.7498168945312,
+    "x_max": 1217.179931640625,
+    "y_max": 886.0202026367188,
+    "text": "BARBUTA: Visit at least 25 rooms"
+  },
+  {
+    "x_min": 699.91748046875,
+    "y_min": 885.829345703125,
+    "x_max": 802.1220092773438,
+    "y_max": 981.2197265625,
+    "text": "Increase your max HP in 6 games"
+  },
+  {
+    "x_min": 801.6004638671875,
+    "y_min": 885.9418334960938,
+    "x_max": 906.2465209960938,
+    "y_max": 981.5318603515625,
+    "text": "SEASIDE DRIVE: Gold disk"
+  },
+  {
+    "x_min": 905.9431762695312,
+    "y_min": 885.9541015625,
+    "x_max": 1009.960205078125,
+    "y_max": 982.0325317382812,
+    "text": "WALDORF'S JOURNEY: Have four puffins at once"
+  },
+  {
+    "x_min": 1009.4927368164062,
+    "y_min": 886.10498046875,
+    "x_max": 1116.0655517578125,
+    "y_max": 982.3036499023438,
+    "text": "CAMPANELLA Collect 5 coffees"
+  },
+  {
+    "x_min": 1115.459228515625,
+    "y_min": 885.7837524414062,
+    "x_max": 1217.2513427734375,
+    "y_max": 981.6197509765625,
+    "text": "AVIANOS: Win the campaign Hatchling game without using any Miracles"
+  },
+  {
+    "x_min": 699.7257080078125,
+    "y_min": 980.9560546875,
+    "x_max": 802.1525268554688,
+    "y_max": 1078.968994140625,
+    "text": "DEVILITION: Beat 5 rounds"
+  },
+  {
+    "x_min": 801.9092407226562,
+    "y_min": 981.34423828125,
+    "x_max": 906.4481811523438,
+    "y_max": 1078.339599609375,
+    "text": "PINGOLF: Gold disk"
+  },
+  {
+    "x_min": 907.0380859375,
+    "y_min": 981.7513427734375,
+    "x_max": 1010.94384765625,
+    "y_max": 1077.68115234375,
+    "text": "GIRL POWER: Magic Garden: Save 50 oppies; Cyber Owls: Beat Congo: Fist Hell: Surive 6 gym waves as Cat"
+  },
+  {
+    "x_min": 1010.3631591796875,
+    "y_min": 982.0438842773438,
+    "x_max": 1116.1533203125,
+    "y_max": 1077.586181640625,
+    "text": "CARAMEL CARAMEL: Score 50,000+ points"
+  },
+  {
+    "x_min": 1115.217041015625,
+    "y_min": 981.186279296875,
+    "x_max": 1218.7451171875,
+    "y_max": 1078.4578857421875,
+    "text": "NIGHT MANOR: Find 10 journal entries"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 466.89935302734375,
+    "y_min": 399.6755676269531,
+    "x_max": 538.60205078125,
+    "y_max": 465.3499755859375,
+    "text": "PILOT QUEST: Defeat Unktomi (Splder boss)"
+  },
+  {
+    "x_min": 537.8941040039062,
+    "y_min": 400.5547790527344,
+    "x_max": 608.0067749023438,
+    "y_max": 465.3229675292969,
+    "text": "Magie Ganden Save 50 oppies; Cyber Owis: Beat Congec Fist Hell: Suvive 6 gym waves as Cat"
+  },
+  {
+    "x_min": 607.385498046875,
+    "y_min": 400.6697998046875,
+    "x_max": 675.3134765625,
+    "y_max": 465.2995300292969,
+    "text": "MOONCAT. Defeat 6 unique enemy types"
+  },
+  {
+    "x_min": 674.6123046875,
+    "y_min": 401.2641906738281,
+    "x_max": 745.9510498046875,
+    "y_max": 465.2737121582031,
+    "text": "ONION DELIVERY: Hi 6 time boxes in one day and complele the day"
+  },
+  {
+    "x_min": 745.2900390625,
+    "y_min": 400.8369445800781,
+    "x_max": 815.779541015625,
+    "y_max": 464.853759765625,
+    "text": "ROCK ONI ISLAND:Have 20 chickens in a main level"
+  },
+  {
+    "x_min": 466.54302978515625,
+    "y_min": 464.137939453125,
+    "x_max": 538.7294921875,
+    "y_max": 528.7125854492188,
+    "text": "HOT FOOT. Gel 3 blowouts In one toumnament"
+  },
+  {
+    "x_min": 537.7835693359375,
+    "y_min": 465.2357177734375,
+    "x_max": 607.9215087890625,
+    "y_max": 528.3153686523438,
+    "text": "BUG HUNTER Get 4 kills in one job by stomping on bugs"
+  },
+  {
+    "x_min": 607.4378662109375,
+    "y_min": 465.1501159667969,
+    "x_max": 675.38134765625,
+    "y_max": 528.3007202148438,
+    "text": "BLOCK KOALA: WORM-1234 allowed;clear any 9 levels"
+  },
+  {
+    "x_min": 674.7317504882812,
+    "y_min": 465.1053466796875,
+    "x_max": 745.716552734375,
+    "y_max": 528.4491577148438,
+    "text": "Colect 7 gifts for the garden"
+  },
+  {
+    "x_min": 745.1452026367188,
+    "y_min": 463.7323913574219,
+    "x_max": 817.0838012695312,
+    "y_max": 528.4464111328125,
+    "text": "HYPER CONTENDER: Beat Draft Mode (Default settings)"
+  },
+  {
+    "x_min": 466.8752746582031,
+    "y_min": 528.5401000976562,
+    "x_max": 538.1510009765625,
+    "y_max": 591.3753662109375,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 537.5095825195312,
+    "y_min": 528.2242431640625,
+    "x_max": 607.6851806640625,
+    "y_max": 591.2864379882812,
+    "text": "MORTOLII Activate all the switches"
+  },
+  {
+    "x_min": 607.2693481445312,
+    "y_min": 528.223876953125,
+    "x_max": 675.6444091796875,
+    "y_max": 591.4308471679688,
+    "text": "VELGRESS: Collect all 3 keys in a single run"
+  },
+  {
+    "x_min": 675.1140747070312,
+    "y_min": 528.380859375,
+    "x_max": 745.5518188476562,
+    "y_max": 591.4238891601562,
+    "text": "RAIL HEIST: LAZY- COPS allowed; beat Root Around while destroying every barrel"
+  },
+  {
+    "x_min": 744.9673461914062,
+    "y_min": 528.3212890625,
+    "x_max": 816.7184448242188,
+    "y_max": 591.227294921875,
+    "text": "OVERBOLD: Clear a round with maximum stakes"
+  },
+  {
+    "x_min": 466.9537658691406,
+    "y_min": 591.297119140625,
+    "x_max": 537.9932250976562,
+    "y_max": 653.6895751953125,
+    "text": "CYBER OWLS: Eam a 1-Up(extra owl)"
+  },
+  {
+    "x_min": 537.44970703125,
+    "y_min": 591.1563110351562,
+    "x_max": 607.53271484375,
+    "y_max": 653.7089233398438,
+    "text": "MINI & MAX: Turn off the lamp"
+  },
+  {
+    "x_min": 607.0780029296875,
+    "y_min": 591.34423828125,
+    "x_max": 675.4821166992188,
+    "y_max": 653.8155517578125,
+    "text": "Find an easter egg UFO in 5 games"
+  },
+  {
+    "x_min": 675.0753173828125,
+    "y_min": 591.3461303710938,
+    "x_max": 745.2591552734375,
+    "y_max": 653.8457641601562,
+    "text": "PARTY HOUSE Have a party with4Celeb without getting busted"
+  },
+  {
+    "x_min": 744.817626953125,
+    "y_min": 591.0963745117188,
+    "x_max": 816.5516357421875,
+    "y_max": 653.788818359375,
+    "text": "BARBUTA: Speak to three different Bean NPCs"
+  },
+  {
+    "x_min": 466.3011474609375,
+    "y_min": 653.5078125,
+    "x_max": 537.8258056640625,
+    "y_max": 717.7685546875,
+    "text": "WARPTANK: Beat Healing Sector"
+  },
+  {
+    "x_min": 537.2946166992188,
+    "y_min": 653.5430297851562,
+    "x_max": 607.4468383789062,
+    "y_max": 716.5803833007812,
+    "text": "CAMPANELLA 3:Beat Joe Pulp (Stage 3 BosS)"
+  },
+  {
+    "x_min": 607.3155517578125,
+    "y_min": 653.6170654296875,
+    "x_max": 675.8399658203125,
+    "y_max": 716.5448608398438,
+    "text": "DIVERS: Reach level 3"
+  },
+  {
+    "x_min": 675.330078125,
+    "y_min": 653.671875,
+    "x_max": 745.228759765625,
+    "y_max": 716.0104370117188,
+    "text": "PILOT QUEST: Collect a ship part"
+  },
+  {
+    "x_min": 744.8450927734375,
+    "y_min": 653.5916748046875,
+    "x_max": 816.673583984375,
+    "y_max": 716.8834228515625,
+    "text": "Collect 3 cherry disks"
+  }
+]

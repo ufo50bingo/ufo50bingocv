@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 465.79107666015625,
+    "y_min": 399.5332336425781,
+    "x_max": 535.2666625976562,
+    "y_max": 463.2579650878906,
+    "text": "CAMPANELLA 2:Clear Moire Woods ll or Rink II"
+  },
+  {
+    "x_min": 534.6691284179688,
+    "y_min": 399.4971923828125,
+    "x_max": 605.7109375,
+    "y_max": 463.88812255859375,
+    "text": "Collect 4 cherry disks"
+  },
+  {
+    "x_min": 605.3604736328125,
+    "y_min": 399.2032165527344,
+    "x_max": 674.7402954101562,
+    "y_max": 463.9429931640625,
+    "text": "WARPTANK: Complete the three levels in the initial hub room"
+  },
+  {
+    "x_min": 674.001953125,
+    "y_min": 399.12091064453125,
+    "x_max": 745.2684326171875,
+    "y_max": 464.12664794921875,
+    "text": "BLOCK KOALA: Beat 5 story levels"
+  },
+  {
+    "x_min": 744.6566162109375,
+    "y_min": 398.6751403808594,
+    "x_max": 815.76513671875,
+    "y_max": 463.9442138671875,
+    "text": "CAMOUFLAGE Reach 70% completion or more"
+  },
+  {
+    "x_min": 465.8761901855469,
+    "y_min": 463.025634765625,
+    "x_max": 535.21826171875,
+    "y_max": 527.7883911132812,
+    "text": "HYPER CONTENDER Beat Draft Mode (Default settings)"
+  },
+  {
+    "x_min": 534.8452758789062,
+    "y_min": 463.88568115234375,
+    "x_max": 605.32568359375,
+    "y_max": 527.7401123046875,
+    "text": "RAIL HEIST: Collect 9 total stars"
+  },
+  {
+    "x_min": 604.9344482421875,
+    "y_min": 463.85797119140625,
+    "x_max": 674.473388671875,
+    "y_max": 527.8201904296875,
+    "text": "BUG HUNTER: Complete a job with your energy maxed out"
+  },
+  {
+    "x_min": 673.8778076171875,
+    "y_min": 463.9424133300781,
+    "x_max": 744.94970703125,
+    "y_max": 527.9752197265625,
+    "text": "Enter a top 3 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 744.7755126953125,
+    "y_min": 463.3966979980469,
+    "x_max": 815.63916015625,
+    "y_max": 527.9564819335938,
+    "text": "PAINT CHASE:Beat 6 levels"
+  },
+  {
+    "x_min": 466.0174865722656,
+    "y_min": 527.65625,
+    "x_max": 535.3897705078125,
+    "y_max": 591.26806640625,
+    "text": "Defeat 7 bosses"
+  },
+  {
+    "x_min": 534.91552734375,
+    "y_min": 527.68017578125,
+    "x_max": 605.198486328125,
+    "y_max": 591.3217163085938,
+    "text": "VELGRESS: Hold 50 coins at once"
+  },
+  {
+    "x_min": 604.953125,
+    "y_min": 527.7220458984375,
+    "x_max": 674.7081909179688,
+    "y_max": 591.5491943359375,
+    "text": "MOONCAT Defeat 6 unique enemy types"
+  },
+  {
+    "x_min": 674.2807006835938,
+    "y_min": 527.9085083007812,
+    "x_max": 745.2993774414062,
+    "y_max": 591.6199340820312,
+    "text": "CAMPANELLA2 Obtain B power- up items in one run (square icons on left of screen"
+  },
+  {
+    "x_min": 744.8434448242188,
+    "y_min": 527.6920776367188,
+    "x_max": 815.508544921875,
+    "y_max": 591.6744384765625,
+    "text": "VALBRACE Give the Red Knight 5 Items"
+  },
+  {
+    "x_min": 466.2307434082031,
+    "y_min": 591.221435546875,
+    "x_max": 535.3895263671875,
+    "y_max": 655.18408203125,
+    "text": "MINI&MAX Save the brainwashed mouse near the portralt"
+  },
+  {
+    "x_min": 534.9722900390625,
+    "y_min": 591.2987060546875,
+    "x_max": 605.094482421875,
+    "y_max": 655.03515625,
+    "text": "WALDORF'S JOURNEY:Kill 3 squids in three different ways"
+  },
+  {
+    "x_min": 604.9421997070312,
+    "y_min": 591.4925537109375,
+    "x_max": 674.7409057617188,
+    "y_max": 655.0750732421875,
+    "text": "Increase your max HP in 6 games"
+  },
+  {
+    "x_min": 674.3499145507812,
+    "y_min": 591.574951171875,
+    "x_max": 745.5640258789062,
+    "y_max": 655.12890625,
+    "text": "COMBATANTS Beat'First Blood'without shooting"
+  },
+  {
+    "x_min": 745.2193603515625,
+    "y_min": 591.60107421875,
+    "x_max": 815.361083984375,
+    "y_max": 655.1718139648438,
+    "text": "GRIMSTONE: Collect the money from the bured house"
+  },
+  {
+    "x_min": 466.17279052734375,
+    "y_min": 654.9834594726562,
+    "x_max": 535.2240600585938,
+    "y_max": 719.42626953125,
+    "text": "CAMPANELLA 3: Win the bonus game"
+  },
+  {
+    "x_min": 534.97021484375,
+    "y_min": 654.8030395507812,
+    "x_max": 605.18994140625,
+    "y_max": 719.159423828125,
+    "text": "CAMOUFLAGE Save 5 babies"
+  },
+  {
+    "x_min": 605.1531372070312,
+    "y_min": 654.7544555664062,
+    "x_max": 674.53564453125,
+    "y_max": 719.3759765625,
+    "text": "MAGIC GARDEN: Reach a score of10.000+"
+  },
+  {
+    "x_min": 674.3987426757812,
+    "y_min": 654.8076782226562,
+    "x_max": 745.7599487304688,
+    "y_max": 719.3817138671875,
+    "text": "NINPEK:Gol disk"
+  },
+  {
+    "x_min": 745.2617797851562,
+    "y_min": 654.94140625,
+    "x_max": 815.2544555664062,
+    "y_max": 719.3770141601562,
+    "text": "GIRLPOWER: Magio Garden: Save 50 oppies Cyber Owls: Baat Congo; Fist Hell: Survive 0 gym waven as Cat"
+  }
+]

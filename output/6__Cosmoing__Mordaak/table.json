@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 465.962646484375,
+    "y_min": 398.7239685058594,
+    "x_max": 535.9700927734375,
+    "y_max": 463.3165588378906,
+    "text": "CAMPANELLA: Defeat the Stage B Boss"
+  },
+  {
+    "x_min": 535.2439575195312,
+    "y_min": 398.6894226074219,
+    "x_max": 606.027099609375,
+    "y_max": 464.0528564453125,
+    "text": "\u98df Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 605.5552978515625,
+    "y_min": 399.1332702636719,
+    "x_max": 675.2183837890625,
+    "y_max": 463.9913024902344,
+    "text": "HYPER CONTENDER Gold disk"
+  },
+  {
+    "x_min": 674.5595703125,
+    "y_min": 399.4551086425781,
+    "x_max": 745.710205078125,
+    "y_max": 463.84918212890625,
+    "text": "CYBEROWLS Clear Hong Kong only destroying Road Toad"
+  },
+  {
+    "x_min": 745.09375,
+    "y_min": 399.4383850097656,
+    "x_max": 816.0698852539062,
+    "y_max": 463.3711853027344,
+    "text": "WALDORF'S JOURNEY: Have 35 shells at once"
+  },
+  {
+    "x_min": 466.40643310546875,
+    "y_min": 463.0320739746094,
+    "x_max": 535.5671997070312,
+    "y_max": 527.6981811523438,
+    "text": "ONION DELIVERY: Gold disk"
+  },
+  {
+    "x_min": 535.1986083984375,
+    "y_min": 463.90850830078125,
+    "x_max": 605.7967529296875,
+    "y_max": 527.727783203125,
+    "text": "MINI& MAX: Slay the Water Bear in the west pot"
+  },
+  {
+    "x_min": 605.4696044921875,
+    "y_min": 463.875732421875,
+    "x_max": 675.1185302734375,
+    "y_max": 527.559326171875,
+    "text": "WARPTANK: Beat Healing Sector"
+  },
+  {
+    "x_min": 674.5472412109375,
+    "y_min": 463.7001647949219,
+    "x_max": 745.3297119140625,
+    "y_max": 527.61279296875,
+    "text": "\u2605 Collect 10 gifts for the garden"
+  },
+  {
+    "x_min": 744.9530639648438,
+    "y_min": 462.8303527832031,
+    "x_max": 816.340576171875,
+    "y_max": 527.6983032226562,
+    "text": "MOONCAT: Visil 12 different rooms"
+  },
+  {
+    "x_min": 466.6502380371094,
+    "y_min": 527.537353515625,
+    "x_max": 535.6896362304688,
+    "y_max": 591.737548828125,
+    "text": "\u2605Collect a beverage in 6 different games"
+  },
+  {
+    "x_min": 535.142333984375,
+    "y_min": 527.688232421875,
+    "x_max": 605.684814453125,
+    "y_max": 591.801513671875,
+    "text": "MORTOL: Beat 2 levels without killing any enemies"
+  },
+  {
+    "x_min": 605.4968872070312,
+    "y_min": 527.4842529296875,
+    "x_max": 675.0960693359375,
+    "y_max": 591.7555541992188,
+    "text": "CAMOUFLAGE Reach 70% completion or more"
+  },
+  {
+    "x_min": 674.6673583984375,
+    "y_min": 527.57763671875,
+    "x_max": 745.3009033203125,
+    "y_max": 591.7099609375,
+    "text": "WARPTANK: Complete the three levels in the initial hub room"
+  },
+  {
+    "x_min": 744.7570190429688,
+    "y_min": 527.4559936523438,
+    "x_max": 817.2522583007812,
+    "y_max": 592.007080078125,
+    "text": "ROCK ON! ISLAND: Beat Initial Encounter wlo upgrading at the cave"
+  },
+  {
+    "x_min": 466.6605224609375,
+    "y_min": 591.6943969726562,
+    "x_max": 535.4654541015625,
+    "y_max": 654.7947998046875,
+    "text": "BARBUTA: Collect the reward from a green skull"
+  },
+  {
+    "x_min": 535.0560302734375,
+    "y_min": 591.83642578125,
+    "x_max": 605.492431640625,
+    "y_max": 654.8341674804688,
+    "text": "ELFAZAR'S HAT Clear stages 1 and 2 without any upgrades or healing"
+  },
+  {
+    "x_min": 605.2741088867188,
+    "y_min": 591.7097778320312,
+    "x_max": 674.9686279296875,
+    "y_max": 654.958740234375,
+    "text": "* Collect 4 cherry disks"
+  },
+  {
+    "x_min": 674.6734619140625,
+    "y_min": 591.6771240234375,
+    "x_max": 745.311279296875,
+    "y_max": 654.9514770507812,
+    "text": "DEVILITION Have 6 villagers at once"
+  },
+  {
+    "x_min": 745.0386962890625,
+    "y_min": 591.8474731445312,
+    "x_max": 816.7197265625,
+    "y_max": 654.817626953125,
+    "text": "MAGIC GARDEN Reach a score of 10.000+"
+  },
+  {
+    "x_min": 466.4599609375,
+    "y_min": 654.6448364257812,
+    "x_max": 535.283935546875,
+    "y_max": 719.429931640625,
+    "text": "GRIMSTONE: Reach Level 4 with any character"
+  },
+  {
+    "x_min": 534.7977905273438,
+    "y_min": 654.690185546875,
+    "x_max": 605.5834350585938,
+    "y_max": 719.2807006835938,
+    "text": "COMBATANTS Beat 4 levels"
+  },
+  {
+    "x_min": 605.4842529296875,
+    "y_min": 654.6576538085938,
+    "x_max": 674.8978271484375,
+    "y_max": 719.3311767578125,
+    "text": "AVIANOS: Max out blessings from one Ancestor"
+  },
+  {
+    "x_min": 674.8461303710938,
+    "y_min": 654.6574096679688,
+    "x_max": 745.8716430664062,
+    "y_max": 719.335693359375,
+    "text": "CAMOUFLAGE Save 5 babies"
+  },
+  {
+    "x_min": 745.17236328125,
+    "y_min": 654.529541015625,
+    "x_max": 815.4764404296875,
+    "y_max": 719.0010375976562,
+    "text": "WAR IS BAD Altactics: Win 3 rankedbaesina row, AManos: Win with a blessing from each ancestor"
+  }
+]

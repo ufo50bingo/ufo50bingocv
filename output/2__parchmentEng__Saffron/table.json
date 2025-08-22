@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 700.7054443359375,
+    "y_min": 599.5499877929688,
+    "x_max": 805.6161499023438,
+    "y_max": 696.2559204101562,
+    "text": "PLANET ZOLDATH: Collect the overworld ground Map Piece"
+  },
+  {
+    "x_min": 804.597900390625,
+    "y_min": 599.3876953125,
+    "x_max": 909.380859375,
+    "y_max": 696.733642578125,
+    "text": "Collect 4 cherry disks"
+  },
+  {
+    "x_min": 908.6804809570312,
+    "y_min": 599.39306640625,
+    "x_max": 1012.61865234375,
+    "y_max": 696.6500244140625,
+    "text": "DEVILITION: Beat 5 rounds"
+  },
+  {
+    "x_min": 1012.3450317382812,
+    "y_min": 599.1309814453125,
+    "x_max": 1117.836669921875,
+    "y_max": 696.6929321289062,
+    "text": "STAR WASPIR: Score50.000+ points"
+  },
+  {
+    "x_min": 1117.5439453125,
+    "y_min": 598.89013671875,
+    "x_max": 1220.3260498046875,
+    "y_max": 695.8593139648438,
+    "text": "WARPTANK: Beat any 9 levels and talk to 3 NPCs"
+  },
+  {
+    "x_min": 701.1653442382812,
+    "y_min": 695.6918334960938,
+    "x_max": 806.1104125976562,
+    "y_max": 793.3121948242188,
+    "text": "KICKCLUB Beat Track World"
+  },
+  {
+    "x_min": 805.1339111328125,
+    "y_min": 696.4615478515625,
+    "x_max": 908.2649536132812,
+    "y_max": 791.39892578125,
+    "text": "PORGY: Achieve 20% Completion"
+  },
+  {
+    "x_min": 908.1202392578125,
+    "y_min": 696.4841918945312,
+    "x_max": 1012.4551391601562,
+    "y_max": 791.1522827148438,
+    "text": "CAMOUFLAGE Escape with 3/3 collectibles on 5 levels"
+  },
+  {
+    "x_min": 1011.7095336914062,
+    "y_min": 696.508544921875,
+    "x_max": 1117.5634765625,
+    "y_max": 791.49609375,
+    "text": "Find an easter egg UFO in 3 games"
+  },
+  {
+    "x_min": 1116.9561767578125,
+    "y_min": 695.4710083007812,
+    "x_max": 1219.8326416015625,
+    "y_max": 792.8779296875,
+    "text": "OVERBOLD Purchase 3 price hiked items in one run"
+  },
+  {
+    "x_min": 701.26611328125,
+    "y_min": 792.2891845703125,
+    "x_max": 805.9847412109375,
+    "y_max": 886.1693725585938,
+    "text": "Defeat a boss in5different games"
+  },
+  {
+    "x_min": 805.2774047851562,
+    "y_min": 791.27783203125,
+    "x_max": 908.9828491210938,
+    "y_max": 886.37841796875,
+    "text": "PLANET ZOLDATH: Max out health by collecting 4 energy cubes"
+  },
+  {
+    "x_min": 908.8094482421875,
+    "y_min": 791.1358032226562,
+    "x_max": 1012.5908813476562,
+    "y_max": 886.38134765625,
+    "text": "SEASIDE DRIVE: Clear Stage 1 with 3lives and exactly 10,000 points (defeat only the boss)"
+  },
+  {
+    "x_min": 1011.7265014648438,
+    "y_min": 791.3662109375,
+    "x_max": 1117.7747802734375,
+    "y_max": 886.4010009765625,
+    "text": "RAKSHASA: Revive yourself 6 times in one run"
+  },
+  {
+    "x_min": 1117.0894775390625,
+    "y_min": 792.4044189453125,
+    "x_max": 1219.36376953125,
+    "y_max": 885.6231079101562,
+    "text": "ONION DELIVERY: Deliver 10 onions in a single day"
+  },
+  {
+    "x_min": 701.2758178710938,
+    "y_min": 886.0257568359375,
+    "x_max": 805.9595947265625,
+    "y_max": 982.2863159179688,
+    "text": "MINI&MAX: Turn off the lamp"
+  },
+  {
+    "x_min": 805.1998901367188,
+    "y_min": 886.1216430664062,
+    "x_max": 909.8041381835938,
+    "y_max": 982.275390625,
+    "text": "BARBUTA: Fill 5 item slots (you start at 1)"
+  },
+  {
+    "x_min": 909.5118408203125,
+    "y_min": 886.1567993164062,
+    "x_max": 1012.7300415039062,
+    "y_max": 982.37451171875,
+    "text": "TREASURE HUNTER: Divers: Open 2 chests; Waldorf's Joumey: Open 2 chests in a run"
+  },
+  {
+    "x_min": 1012.2059936523438,
+    "y_min": 886.1563110351562,
+    "x_max": 1118.099365234375,
+    "y_max": 982.2955932617188,
+    "text": "BLOCK KOALA: Beat 2 story levels as Koalarana (Pink Koala)"
+  },
+  {
+    "x_min": 1117.5875244140625,
+    "y_min": 885.3092041015625,
+    "x_max": 1219.3779296875,
+    "y_max": 982.3223266601562,
+    "text": "RAKSHASA: Beat the first Mid Boss W/ 4+ skulls"
+  },
+  {
+    "x_min": 700.7612915039062,
+    "y_min": 981.9950561523438,
+    "x_max": 805.6088256835938,
+    "y_max": 1079.276611328125,
+    "text": "CYBER OWLS: Destroy the DIM SUM truck in Hong Kong"
+  },
+  {
+    "x_min": 805.3713989257812,
+    "y_min": 981.9932250976562,
+    "x_max": 910.2577514648438,
+    "y_max": 1078.133544921875,
+    "text": "PARTY HOUSE:Beat a random scenario"
+  },
+  {
+    "x_min": 909.5424194335938,
+    "y_min": 982.109130859375,
+    "x_max": 1012.2066650390625,
+    "y_max": 1077.9049072265625,
+    "text": "RAIL HEIST: LAZY-COPS allowed, Beat Vengeance! and The Final Score"
+  },
+  {
+    "x_min": 1012.1072387695312,
+    "y_min": 981.9677734375,
+    "x_max": 1118.463623046875,
+    "y_max": 1078.7615966796875,
+    "text": "PINGOLF: Gold disk"
+  },
+  {
+    "x_min": 1117.84521484375,
+    "y_min": 981.8832397460938,
+    "x_max": 1219.6165771484375,
+    "y_max": 1079.298095703125,
+    "text": "Enter a top 3 score on 4 arcade leaderboards"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 479.10687255859375,
+    "y_min": 599.3572387695312,
+    "x_max": 581.7720947265625,
+    "y_max": 695.7378540039062,
+    "text": "OVERBOLD: Cherry disk"
+  },
+  {
+    "x_min": 580.986083984375,
+    "y_min": 600.0682983398438,
+    "x_max": 685.0134887695312,
+    "y_max": 695.7709350585938,
+    "text": "Collect 7 gifts for the garden"
+  },
+  {
+    "x_min": 684.1786499023438,
+    "y_min": 600.7583618164062,
+    "x_max": 789.6679077148438,
+    "y_max": 695.83056640625,
+    "text": "WARPTANK: Collect 3 coffees"
+  },
+  {
+    "x_min": 789.4087524414062,
+    "y_min": 600.9863891601562,
+    "x_max": 894.9112548828125,
+    "y_max": 695.8234252929688,
+    "text": "MOONCAT: Visit 12 different rooms"
+  },
+  {
+    "x_min": 893.5604858398438,
+    "y_min": 601.0136108398438,
+    "x_max": 1009.6068115234375,
+    "y_max": 695.7548217773438,
+    "text": "RAIL HEIST: LAZY- COPS allowed; beat Root Around while destroying every barrel"
+  },
+  {
+    "x_min": 480.3015441894531,
+    "y_min": 695.751220703125,
+    "x_max": 581.5909423828125,
+    "y_max": 790.1226806640625,
+    "text": "VAINGER: Collect the Multi Mod from Latom Sector"
+  },
+  {
+    "x_min": 581.0704956054688,
+    "y_min": 695.7446899414062,
+    "x_max": 684.927490234375,
+    "y_max": 790.330810546875,
+    "text": "BARBUTA: Collect the reward from a green skull"
+  },
+  {
+    "x_min": 684.5023193359375,
+    "y_min": 695.6757202148438,
+    "x_max": 790.2369384765625,
+    "y_max": 790.1729736328125,
+    "text": "MORTOL: OPEN-TOMB allowed; clear all world 2 levels"
+  },
+  {
+    "x_min": 789.9559326171875,
+    "y_min": 695.6107177734375,
+    "x_max": 895.1124877929688,
+    "y_max": 790.0579833984375,
+    "text": "GIRLPOWER: Magic Garden: Save 50 oppies; Cyber Owls: Beat Congo: Fist Hell: Survive 6 gym waves as Cat"
+  },
+  {
+    "x_min": 894.1339721679688,
+    "y_min": 695.6243286132812,
+    "x_max": 1003.4122314453125,
+    "y_max": 789.955810546875,
+    "text": "CAMPANELLA Defeat the Stage B Boss"
+  },
+  {
+    "x_min": 480.52655029296875,
+    "y_min": 790.1347045898438,
+    "x_max": 581.6669311523438,
+    "y_max": 885.5729370117188,
+    "text": "Collect 4 gold disks"
+  },
+  {
+    "x_min": 580.84228515625,
+    "y_min": 790.3856811523438,
+    "x_max": 685.485595703125,
+    "y_max": 885.6133422851562,
+    "text": "PAINTCHASE Beat 7 levels without using power ups (boost pads allowed)"
+  },
+  {
+    "x_min": 685.2801513671875,
+    "y_min": 790.265869140625,
+    "x_max": 790.6826782226562,
+    "y_max": 885.7606811523438,
+    "text": "BUG HUNTER: Earn 3 kills with one module use"
+  },
+  {
+    "x_min": 790.4689331054688,
+    "y_min": 790.0753784179688,
+    "x_max": 895.25439453125,
+    "y_max": 885.8765869140625,
+    "text": "WALDORF'S JOURNEY: Knock 2 pigs into the water"
+  },
+  {
+    "x_min": 894.473388671875,
+    "y_min": 789.90185546875,
+    "x_max": 1003.2319946289062,
+    "y_max": 885.5108642578125,
+    "text": "PLANET ZOLDATH: Gold disk"
+  },
+  {
+    "x_min": 480.5680236816406,
+    "y_min": 885.4443359375,
+    "x_max": 580.6625366210938,
+    "y_max": 980.8217163085938,
+    "text": "VELGRESS Clear out a shop's stock"
+  },
+  {
+    "x_min": 579.869873046875,
+    "y_min": 885.6281127929688,
+    "x_max": 685.5377197265625,
+    "y_max": 980.2664794921875,
+    "text": "COMBATANTS Beat 4 levels"
+  },
+  {
+    "x_min": 685.20751953125,
+    "y_min": 885.7843017578125,
+    "x_max": 790.4020385742188,
+    "y_max": 980.37646484375,
+    "text": "Beat 8 levels in 3 different games"
+  },
+  {
+    "x_min": 790.3601684570312,
+    "y_min": 885.8259887695312,
+    "x_max": 895.1453857421875,
+    "y_max": 980.6608276367188,
+    "text": "SEASIDE DRIVE Destroy the UFO in Stage 3"
+  },
+  {
+    "x_min": 894.2987670898438,
+    "y_min": 885.3898315429688,
+    "x_max": 1003.0509643554688,
+    "y_max": 980.8385009765625,
+    "text": "AVIANOS: Win the campaign Hatchling game without using any Miracles"
+  },
+  {
+    "x_min": 480.6231384277344,
+    "y_min": 980.5441284179688,
+    "x_max": 579.8516235351562,
+    "y_max": 1076.8631591796875,
+    "text": "PARTY HOUSE: Have a party with 4 Celebrities without getting busted"
+  },
+  {
+    "x_min": 579.4003295898438,
+    "y_min": 980.1317138671875,
+    "x_max": 685.29736328125,
+    "y_max": 1076.5062255859375,
+    "text": "GRIMSTONE: Reach Level 4 with any character"
+  },
+  {
+    "x_min": 684.87744140625,
+    "y_min": 980.1115112304688,
+    "x_max": 790.3460693359375,
+    "y_max": 1076.53955078125,
+    "text": "THE BIG BELL RACE: KO an opponent with 3 unique power- ups"
+  },
+  {
+    "x_min": 790.1256713867188,
+    "y_min": 980.2500610351562,
+    "x_max": 895.2428588867188,
+    "y_max": 1076.642333984375,
+    "text": "PLANET ZOLDATH: Collect the dungeon Map Piece"
+  },
+  {
+    "x_min": 894.4310302734375,
+    "y_min": 980.3612670898438,
+    "x_max": 1003.6337890625,
+    "y_max": 1078.130615234375,
+    "text": "Collect a food item in 8 different games"
+  }
+]

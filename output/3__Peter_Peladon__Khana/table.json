@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 719.6548461914062,
+    "y_min": 641.623046875,
+    "x_max": 818.6163940429688,
+    "y_max": 730.7791748046875,
+    "text": "PAINT CHASE:Beat 6 levels"
+  },
+  {
+    "x_min": 817.52783203125,
+    "y_min": 641.5534057617188,
+    "x_max": 914.725830078125,
+    "y_max": 730.9317016601562,
+    "text": "Beat 4 levels in 5 different games"
+  },
+  {
+    "x_min": 914.36376953125,
+    "y_min": 642.12109375,
+    "x_max": 1010.1043090820312,
+    "y_max": 730.9589233398438,
+    "text": "THE BIG BELL RACE: Give all opponents a lap headstart and win on 3 separate tracks"
+  },
+  {
+    "x_min": 1009.54052734375,
+    "y_min": 642.726318359375,
+    "x_max": 1105.7451171875,
+    "y_max": 730.93603515625,
+    "text": "GOLFARIA: Achieve 20% Completion"
+  },
+  {
+    "x_min": 1105.3900146484375,
+    "y_min": 643.7528076171875,
+    "x_max": 1207.623046875,
+    "y_max": 730.6550903320312,
+    "text": "FISTHELL: Have $50 at once"
+  },
+  {
+    "x_min": 721.6127319335938,
+    "y_min": 730.5360107421875,
+    "x_max": 818.361572265625,
+    "y_max": 818.9003295898438,
+    "text": "PILOT QUEST: Defeat Unktomi (Spider boss)"
+  },
+  {
+    "x_min": 817.9140014648438,
+    "y_min": 730.819091796875,
+    "x_max": 914.5263671875,
+    "y_max": 818.7071533203125,
+    "text": "WALDORF'S JOURNEY: Gold disk"
+  },
+  {
+    "x_min": 913.918212890625,
+    "y_min": 730.8212890625,
+    "x_max": 1010.2849731445312,
+    "y_max": 818.6626586914062,
+    "text": "PARTY HOUSE: Get busted by the fire department"
+  },
+  {
+    "x_min": 1010.0228271484375,
+    "y_min": 730.8972778320312,
+    "x_max": 1106.5052490234375,
+    "y_max": 818.9083251953125,
+    "text": "Collect 5 gold disks"
+  },
+  {
+    "x_min": 1105.81689453125,
+    "y_min": 730.4436645507812,
+    "x_max": 1206.64990234375,
+    "y_max": 818.7033081054688,
+    "text": "LORDS OF DISKONIA: Have 50+ gold"
+  },
+  {
+    "x_min": 722.5662231445312,
+    "y_min": 818.7180786132812,
+    "x_max": 818.3775634765625,
+    "y_max": 906.135986328125,
+    "text": "Collect a beverage in 6 different games"
+  },
+  {
+    "x_min": 817.6685180664062,
+    "y_min": 818.5669555664062,
+    "x_max": 914.3218994140625,
+    "y_max": 906.1079711914062,
+    "text": "MINI & MAX: Speak to King Mittens in the doorknob"
+  },
+  {
+    "x_min": 913.7831420898438,
+    "y_min": 818.5648803710938,
+    "x_max": 1010.0620727539062,
+    "y_max": 906.1438598632812,
+    "text": "PLANET ZOLDATH: Gold disk"
+  },
+  {
+    "x_min": 1009.6443481445312,
+    "y_min": 818.77734375,
+    "x_max": 1107.2420654296875,
+    "y_max": 905.9268188476562,
+    "text": "BARBUTA: Obtain the Rod and Blood Sword"
+  },
+  {
+    "x_min": 1106.8046875,
+    "y_min": 818.491455078125,
+    "x_max": 1206.8487548828125,
+    "y_max": 905.9097290039062,
+    "text": "MORTOL: Earn six 1-ups by killing enemies"
+  },
+  {
+    "x_min": 722.9193115234375,
+    "y_min": 905.92626953125,
+    "x_max": 817.8267822265625,
+    "y_max": 994.4291381835938,
+    "text": "ELFAZAR'S HAT: Clear Stage 3 (Frostin Town)"
+  },
+  {
+    "x_min": 817.24267578125,
+    "y_min": 906.0158081054688,
+    "x_max": 914.175048828125,
+    "y_max": 994.059326171875,
+    "text": "PORGY: Collect 3 fuel tanks"
+  },
+  {
+    "x_min": 913.7705078125,
+    "y_min": 905.9649047851562,
+    "x_max": 1009.75927734375,
+    "y_max": 993.7653198242188,
+    "text": "TRIATHLON: Gold Disk any 3 of the 5 \"SPORT\" games"
+  },
+  {
+    "x_min": 1009.4484252929688,
+    "y_min": 905.818603515625,
+    "x_max": 1107.734619140625,
+    "y_max": 994.07177734375,
+    "text": "PILOT QUEST: Make a friend at the crash site"
+  },
+  {
+    "x_min": 1107.360107421875,
+    "y_min": 905.8346557617188,
+    "x_max": 1206.382080078125,
+    "y_max": 994.130126953125,
+    "text": "MORTOL II: Defeat two mini bosses without damaging them as the Bomber"
+  },
+  {
+    "x_min": 722.8203125,
+    "y_min": 993.9844360351562,
+    "x_max": 817.7642822265625,
+    "y_max": 1080.0,
+    "text": "HYPER CONTENDER: Beat Draft Mode (Default settings)"
+  },
+  {
+    "x_min": 817.3580932617188,
+    "y_min": 993.6544799804688,
+    "x_max": 914.3182983398438,
+    "y_max": 1080.0,
+    "text": "ROCK ON! ISLAND: CLUB- PASS allowed; beat Terror Overhead"
+  },
+  {
+    "x_min": 913.762451171875,
+    "y_min": 993.4266357421875,
+    "x_max": 1009.7653198242188,
+    "y_max": 1079.8291015625,
+    "text": "GRIMSTONE: Reach Level 4 with any character"
+  },
+  {
+    "x_min": 1009.749267578125,
+    "y_min": 993.6827392578125,
+    "x_max": 1108.187744140625,
+    "y_max": 1079.60205078125,
+    "text": "COMBATANTS: Beat 'First Blood' without shooting"
+  },
+  {
+    "x_min": 1107.6595458984375,
+    "y_min": 993.5289306640625,
+    "x_max": 1206.80322265625,
+    "y_max": 1079.228759765625,
+    "text": "Collect 7 gifts for the garden"
+  }
+]

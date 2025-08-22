@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 466.5045471191406,
+    "y_min": 399.8561096191406,
+    "x_max": 537.1952514648438,
+    "y_max": 465.6536865234375,
+    "text": "BUG HUNTER Use WORK HARD; Complete Job 1"
+  },
+  {
+    "x_min": 536.7803955078125,
+    "y_min": 400.3873596191406,
+    "x_max": 606.2572631835938,
+    "y_max": 465.8979797363281,
+    "text": "SEASIDE DRIVE: Reach 200.000+ points"
+  },
+  {
+    "x_min": 606.135498046875,
+    "y_min": 400.54290771484375,
+    "x_max": 674.8892211914062,
+    "y_max": 465.9388427734375,
+    "text": "ATTACTICS Beat 8 levels"
+  },
+  {
+    "x_min": 674.4256591796875,
+    "y_min": 400.75115966796875,
+    "x_max": 744.970703125,
+    "y_max": 465.80352783203125,
+    "text": "DAYJOB:Bug Hunter: Beat a job Onion Delvery: Complele 2 days, Rail Heist: Earn 3 pacifisl stars"
+  },
+  {
+    "x_min": 744.63525390625,
+    "y_min": 400.3428649902344,
+    "x_max": 813.3521118164062,
+    "y_max": 465.5171203613281,
+    "text": "PLANET ZOLDATH: Eat 10 slabs of meat"
+  },
+  {
+    "x_min": 467.4136962890625,
+    "y_min": 465.4433898925781,
+    "x_max": 537.128173828125,
+    "y_max": 530.0386352539062,
+    "text": "Buy an item from a shop in 8 different games"
+  },
+  {
+    "x_min": 536.8594360351562,
+    "y_min": 465.8101501464844,
+    "x_max": 605.9586181640625,
+    "y_max": 529.0604248046875,
+    "text": "MOONCAT: Use 2 warps"
+  },
+  {
+    "x_min": 605.7682495117188,
+    "y_min": 465.7971496582031,
+    "x_max": 674.934814453125,
+    "y_max": 529.0054321289062,
+    "text": "BUG HUNTER Kill 3 bugs with one module use"
+  },
+  {
+    "x_min": 674.5870971679688,
+    "y_min": 465.75189208984375,
+    "x_max": 744.6240234375,
+    "y_max": 529.083984375,
+    "text": "Beat 4 levels"
+  },
+  {
+    "x_min": 744.377685546875,
+    "y_min": 465.1861877441406,
+    "x_max": 813.0682983398438,
+    "y_max": 529.5315551757812,
+    "text": "Gold disk"
+  },
+  {
+    "x_min": 467.4469299316406,
+    "y_min": 529.6505737304688,
+    "x_max": 537.2554321289062,
+    "y_max": 592.4232788085938,
+    "text": "CARAMEL CARAMEL Gold disk"
+  },
+  {
+    "x_min": 536.8717041015625,
+    "y_min": 528.9942626953125,
+    "x_max": 605.9041137695312,
+    "y_max": 592.5209350585938,
+    "text": "BARBUTA Visit at least 25 rooms"
+  },
+  {
+    "x_min": 605.69677734375,
+    "y_min": 528.9034423828125,
+    "x_max": 675.0037231445312,
+    "y_max": 592.4447631835938,
+    "text": "Enter a top 3 score on 2 arcade leaderboards"
+  },
+  {
+    "x_min": 674.6361083984375,
+    "y_min": 528.9955444335938,
+    "x_max": 744.3687744140625,
+    "y_max": 592.400634765625,
+    "text": "ROCK ONI ISLAND: Have 20 chickens in a main level"
+  },
+  {
+    "x_min": 744.156982421875,
+    "y_min": 529.3758544921875,
+    "x_max": 812.725341796875,
+    "y_max": 592.0304565429688,
+    "text": "GOLFARIA: Collect 3 clubs"
+  },
+  {
+    "x_min": 467.6217956542969,
+    "y_min": 592.1968383789062,
+    "x_max": 537.2705688476562,
+    "y_max": 655.8052368164062,
+    "text": "GRIMSTONE Leam 3 Skills"
+  },
+  {
+    "x_min": 536.9525146484375,
+    "y_min": 592.4361572265625,
+    "x_max": 605.843994140625,
+    "y_max": 655.8088989257812,
+    "text": "STAR WASPIR. Have a 15x multiplier"
+  },
+  {
+    "x_min": 605.6282958984375,
+    "y_min": 592.3671264648438,
+    "x_max": 675.0707397460938,
+    "y_max": 655.944580078125,
+    "text": "GOLFARIA: Achieve 20% Completion"
+  },
+  {
+    "x_min": 674.7252807617188,
+    "y_min": 592.2835083007812,
+    "x_max": 744.4620361328125,
+    "y_max": 655.9744262695312,
+    "text": "CYBER OWIS Clear Hong Kong only destroying Road Toad"
+  },
+  {
+    "x_min": 744.3103637695312,
+    "y_min": 591.842529296875,
+    "x_max": 812.5316772460938,
+    "y_max": 655.83349609375,
+    "text": "Collect 3 gold disks"
+  },
+  {
+    "x_min": 467.00604248046875,
+    "y_min": 655.762939453125,
+    "x_max": 537.001220703125,
+    "y_max": 719.8858642578125,
+    "text": "MORTOL:Beat a level with a total of 30 or more addtional lives than you began the run with"
+  },
+  {
+    "x_min": 536.5672607421875,
+    "y_min": 655.7002563476562,
+    "x_max": 605.593994140625,
+    "y_max": 719.8709106445312,
+    "text": "Defeat 7 bosses"
+  },
+  {
+    "x_min": 605.7024536132812,
+    "y_min": 655.8458251953125,
+    "x_max": 674.7351684570312,
+    "y_max": 719.8579711914062,
+    "text": "LORDS OF DISKONIA Win the first mission"
+  },
+  {
+    "x_min": 674.6680297851562,
+    "y_min": 655.8497314453125,
+    "x_max": 744.4888916015625,
+    "y_max": 719.7770385742188,
+    "text": "GOLFARIA: Obtain the Brakes"
+  },
+  {
+    "x_min": 744.1674194335938,
+    "y_min": 655.6431884765625,
+    "x_max": 812.7985229492188,
+    "y_max": 719.827392578125,
+    "text": "AVIANOS: Gold disk"
+  }
+]

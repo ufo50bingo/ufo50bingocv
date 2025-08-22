@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 717.9564208984375,
+    "y_min": 643.62060546875,
+    "x_max": 818.4361572265625,
+    "y_max": 730.5559692382812,
+    "text": "Collect 7 gifts for the garden"
+  },
+  {
+    "x_min": 817.627685546875,
+    "y_min": 642.9169311523438,
+    "x_max": 913.7077026367188,
+    "y_max": 730.5438232421875,
+    "text": "PINGOLF: Gold disk"
+  },
+  {
+    "x_min": 913.0118408203125,
+    "y_min": 642.8047485351562,
+    "x_max": 1010.4351196289062,
+    "y_max": 730.6853637695312,
+    "text": "CAMOUFLAGE Gold disk"
+  },
+  {
+    "x_min": 1009.9303588867188,
+    "y_min": 642.7830810546875,
+    "x_max": 1105.6533203125,
+    "y_max": 730.5963745117188,
+    "text": "PORGY: Achieve 20% Completion"
+  },
+  {
+    "x_min": 1104.82470703125,
+    "y_min": 643.402099609375,
+    "x_max": 1208.9541015625,
+    "y_max": 730.5775756835938,
+    "text": "CAMPANELLA 3: Win the bonus game"
+  },
+  {
+    "x_min": 721.7737426757812,
+    "y_min": 730.3243408203125,
+    "x_max": 818.3809814453125,
+    "y_max": 819.0975952148438,
+    "text": "WARPTANK: Beat any 9 levels and talk to 3 NPCs"
+  },
+  {
+    "x_min": 817.8853759765625,
+    "y_min": 730.6387329101562,
+    "x_max": 913.7863159179688,
+    "y_max": 819.1624755859375,
+    "text": "CYBEROWLS: Destroy the DIM SUM truck in Hong Kong"
+  },
+  {
+    "x_min": 913.1254272460938,
+    "y_min": 730.7354736328125,
+    "x_max": 1010.0487060546875,
+    "y_max": 819.0647583007812,
+    "text": "Find an egg in 10 different games"
+  },
+  {
+    "x_min": 1009.6683959960938,
+    "y_min": 730.8314208984375,
+    "x_max": 1106.4920654296875,
+    "y_max": 819.001708984375,
+    "text": "CAMPANELLA 2:Clear Moire Woods Il or Rink II"
+  },
+  {
+    "x_min": 1105.834228515625,
+    "y_min": 730.7288208007812,
+    "x_max": 1206.3831787109375,
+    "y_max": 818.8887939453125,
+    "text": "HOTFOOT: Win 2 games in a row without jumping"
+  },
+  {
+    "x_min": 722.7177734375,
+    "y_min": 818.9546508789062,
+    "x_max": 818.1605834960938,
+    "y_max": 906.120361328125,
+    "text": "VAINGER: Collect 5 items"
+  },
+  {
+    "x_min": 817.6259765625,
+    "y_min": 818.9400634765625,
+    "x_max": 913.9488525390625,
+    "y_max": 906.27001953125,
+    "text": "KICKCLUB: Eat 10 hidden desserts"
+  },
+  {
+    "x_min": 913.2529296875,
+    "y_min": 818.9541015625,
+    "x_max": 1009.4620361328125,
+    "y_max": 906.3346557617188,
+    "text": "VALBRACE: Clear Floor 1"
+  },
+  {
+    "x_min": 1009.3041381835938,
+    "y_min": 818.9058837890625,
+    "x_max": 1107.678466796875,
+    "y_max": 906.2918701171875,
+    "text": "OVERBOLD: Purchase 3 price hiked items in one run"
+  },
+  {
+    "x_min": 1107.3299560546875,
+    "y_min": 818.6799926757812,
+    "x_max": 1206.8192138671875,
+    "y_max": 906.2875366210938,
+    "text": "DAY JOB: Bug Hunter: Beat a job; Onion Delivery: Complete 2 days; Rall Heist Eam 3 pacifist stars"
+  },
+  {
+    "x_min": 723.04296875,
+    "y_min": 906.1340942382812,
+    "x_max": 818.109375,
+    "y_max": 993.6990356445312,
+    "text": "NIGHT MANOR: Complete the hiding minigame twice"
+  },
+  {
+    "x_min": 817.4779052734375,
+    "y_min": 906.2449340820312,
+    "x_max": 913.9769287109375,
+    "y_max": 993.9969482421875,
+    "text": "Beat 4 levels in 5 different games"
+  },
+  {
+    "x_min": 913.2410278320312,
+    "y_min": 906.3557739257812,
+    "x_max": 1009.5453491210938,
+    "y_max": 994.3394165039062,
+    "text": "VELGRESS: Collect all 3 keys in a single run"
+  },
+  {
+    "x_min": 1009.48095703125,
+    "y_min": 906.3992309570312,
+    "x_max": 1106.9390869140625,
+    "y_max": 994.3875122070312,
+    "text": "WARPTANK: Collect 3 coffees"
+  },
+  {
+    "x_min": 1106.1282958984375,
+    "y_min": 906.3500366210938,
+    "x_max": 1207.7635498046875,
+    "y_max": 994.7504272460938,
+    "text": "MAGIC GARDEN: Reach a score of10,000+"
+  },
+  {
+    "x_min": 722.7418823242188,
+    "y_min": 993.5648803710938,
+    "x_max": 818.0665893554688,
+    "y_max": 1080.0,
+    "text": "PAINT CHASE:Beat 12 levels"
+  },
+  {
+    "x_min": 817.6025390625,
+    "y_min": 993.8294677734375,
+    "x_max": 913.5414428710938,
+    "y_max": 1079.9669189453125,
+    "text": "DEVILITION: Beat 3 rounds while placing the maximum number of pieces each round"
+  },
+  {
+    "x_min": 913.5704345703125,
+    "y_min": 994.0878295898438,
+    "x_max": 1009.797119140625,
+    "y_max": 1080.0,
+    "text": "GRIMSTONE: Defeat 15 enemies"
+  },
+  {
+    "x_min": 1009.7706909179688,
+    "y_min": 994.0899047851562,
+    "x_max": 1108.69873046875,
+    "y_max": 1079.88037109375,
+    "text": "Collect 5 gold disks"
+  },
+  {
+    "x_min": 1107.7720947265625,
+    "y_min": 994.0833740234375,
+    "x_max": 1207.33984375,
+    "y_max": 1078.151123046875,
+    "text": "ELFAZAR'S HAT:Clear Stage 3 (Frostin Town)"
+  }
+]

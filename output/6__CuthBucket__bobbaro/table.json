@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 442.6773376464844,
+    "y_min": 356.9591979980469,
+    "x_max": 531.3195190429688,
+    "y_max": 433.5103454589844,
+    "text": "Buy an item from a shop in 10 different games"
+  },
+  {
+    "x_min": 530.2994384765625,
+    "y_min": 362.8937072753906,
+    "x_max": 606.1594848632812,
+    "y_max": 433.4228210449219,
+    "text": "NIGHT MANOR: Gold disk"
+  },
+  {
+    "x_min": 605.4189453125,
+    "y_min": 362.80560302734375,
+    "x_max": 681.1090698242188,
+    "y_max": 433.4468994140625,
+    "text": "WALDORF'S JOURNEY: Have four puffins at once"
+  },
+  {
+    "x_min": 680.466064453125,
+    "y_min": 362.8092346191406,
+    "x_max": 757.1529541015625,
+    "y_max": 433.4842834472656,
+    "text": "MORTOL: Use BENS-MODE; beat 2-C with 50+lives"
+  },
+  {
+    "x_min": 756.455078125,
+    "y_min": 355.7907409667969,
+    "x_max": 838.892333984375,
+    "y_max": 433.56097412109375,
+    "text": "WARPTANK: SLIM-TANK allowed;clear Riot and Soft Sectors"
+  },
+  {
+    "x_min": 448.70050048828125,
+    "y_min": 433.1770935058594,
+    "x_max": 531.3693237304688,
+    "y_max": 502.0049133300781,
+    "text": "PLANET ZOLDATH: Collect the trade Map Piece"
+  },
+  {
+    "x_min": 530.7232666015625,
+    "y_min": 433.2502136230469,
+    "x_max": 605.9042358398438,
+    "y_max": 501.9158020019531,
+    "text": "HYPER CONTENDER:Mn 3fights in a row on Hyper difficuly on defaull ring settings"
+  },
+  {
+    "x_min": 605.3547973632812,
+    "y_min": 433.2945251464844,
+    "x_max": 680.7706298828125,
+    "y_max": 501.943603515625,
+    "text": "Beat 2 levels in 8 different games"
+  },
+  {
+    "x_min": 680.4102172851562,
+    "y_min": 433.33038330078125,
+    "x_max": 756.9747314453125,
+    "y_max": 501.9864501953125,
+    "text": "BUGHUNTER Get 4 kills by pushing bugs into pits"
+  },
+  {
+    "x_min": 756.634033203125,
+    "y_min": 433.3319396972656,
+    "x_max": 833.8792724609375,
+    "y_max": 501.886962890625,
+    "text": "DIVERS: Open the chest containing the Parasite Hammer"
+  },
+  {
+    "x_min": 449.994140625,
+    "y_min": 501.77984619140625,
+    "x_max": 530.918212890625,
+    "y_max": 570.6948852539062,
+    "text": "BLOCK KOALA: Beat 2 story levels as Koalarana (Pink Koala)"
+  },
+  {
+    "x_min": 530.5679321289062,
+    "y_min": 501.7431640625,
+    "x_max": 605.8533935546875,
+    "y_max": 570.5919799804688,
+    "text": "WARPTANK: Beat Healing Sector"
+  },
+  {
+    "x_min": 605.3429565429688,
+    "y_min": 501.7848205566406,
+    "x_max": 680.58447265625,
+    "y_max": 570.6929931640625,
+    "text": "MINI& MAX: Collect a big shiny"
+  },
+  {
+    "x_min": 680.2852783203125,
+    "y_min": 501.8118591308594,
+    "x_max": 756.847900390625,
+    "y_max": 570.7113647460938,
+    "text": "BARBUTA:Fill 5 Item slots (you start at 1)"
+  },
+  {
+    "x_min": 756.54248046875,
+    "y_min": 501.74774169921875,
+    "x_max": 833.8487548828125,
+    "y_max": 570.8204956054688,
+    "text": "TRIATHLON Gold Disk any 3 of the 5 \"SPORT\" games"
+  },
+  {
+    "x_min": 450.01898193359375,
+    "y_min": 570.5848388671875,
+    "x_max": 531.012451171875,
+    "y_max": 639.2979125976562,
+    "text": "NINPEK: Gold disk"
+  },
+  {
+    "x_min": 530.3812866210938,
+    "y_min": 570.6026000976562,
+    "x_max": 605.7325439453125,
+    "y_max": 639.26318359375,
+    "text": "Collect 10 gifts for the garden"
+  },
+  {
+    "x_min": 605.3424682617188,
+    "y_min": 570.6875,
+    "x_max": 680.5489501953125,
+    "y_max": 639.2804565429688,
+    "text": "PILOT QUEST: Plant 4 seeds at the crash site"
+  },
+  {
+    "x_min": 680.1538696289062,
+    "y_min": 570.7075805664062,
+    "x_max": 756.8901977539062,
+    "y_max": 639.4490356445312,
+    "text": "PINGOLF: Hole-in-one on 3 different courses"
+  },
+  {
+    "x_min": 756.5831909179688,
+    "y_min": 570.7734985351562,
+    "x_max": 833.6908569335938,
+    "y_max": 639.6549072265625,
+    "text": "ROCK ON! ISLAND:CLUB PASS allowed; beat Terror Overhead"
+  },
+  {
+    "x_min": 448.18585205078125,
+    "y_min": 639.4956665039062,
+    "x_max": 531.1266479492188,
+    "y_max": 709.8681640625,
+    "text": "CAMPANELLA 3:Clear 4 waves 100%"
+  },
+  {
+    "x_min": 530.6036376953125,
+    "y_min": 639.287841796875,
+    "x_max": 605.9537353515625,
+    "y_max": 709.4163208007812,
+    "text": "PARTY HOUSE: Beat any 3 of the 5 default scenarios"
+  },
+  {
+    "x_min": 605.5466918945312,
+    "y_min": 639.2810668945312,
+    "x_max": 680.6871948242188,
+    "y_max": 709.2225341796875,
+    "text": "FIST HELL: Destroy 2 UFOS"
+  },
+  {
+    "x_min": 680.4339599609375,
+    "y_min": 639.4642944335938,
+    "x_max": 757.12890625,
+    "y_max": 709.2434692382812,
+    "text": "Collect 3 cherry disks"
+  },
+  {
+    "x_min": 756.5361938476562,
+    "y_min": 639.4611206054688,
+    "x_max": 835.800537109375,
+    "y_max": 711.7213134765625,
+    "text": "AVIANOS: Win a Custom game with 8 Mountains (change no other settings)"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 449.19122314453125,
+    "y_min": 403.44122314453125,
+    "x_max": 534.679931640625,
+    "y_max": 470.8282775878906,
+    "text": "ONION DELIVERY: Have 99 seconds remalning"
+  },
+  {
+    "x_min": 533.5524291992188,
+    "y_min": 404.8092346191406,
+    "x_max": 604.1074829101562,
+    "y_max": 471.28192138671875,
+    "text": "ROCK ON! ISLAND:Bent Initlal Encounter wo upgrading at the cave"
+  },
+  {
+    "x_min": 603.2696533203125,
+    "y_min": 404.0229797363281,
+    "x_max": 669.3273315429688,
+    "y_max": 471.5121765136719,
+    "text": "RAKSHASA: Have O skulls by using bell pickups"
+  },
+  {
+    "x_min": 668.0591430664062,
+    "y_min": 403.09375,
+    "x_max": 740.7750854492188,
+    "y_max": 471.7379455566406,
+    "text": "Defeat a boss In 5 different games"
+  },
+  {
+    "x_min": 739.9765014648438,
+    "y_min": 402.8736267089844,
+    "x_max": 806.0305786132812,
+    "y_max": 471.45611572265625,
+    "text": "FIST HELL: Beat the 4th scare (Boardwalk Bash)"
+  },
+  {
+    "x_min": 455.3586120605469,
+    "y_min": 470.5846862792969,
+    "x_max": 535.2843017578125,
+    "y_max": 533.8108520507812,
+    "text": "Enter a top 3 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 534.4344482421875,
+    "y_min": 471.25537109375,
+    "x_max": 603.3341674804688,
+    "y_max": 534.2357177734375,
+    "text": "PARTY HOUSE:Beat any 3 of the 5 default scenarios"
+  },
+  {
+    "x_min": 602.868896484375,
+    "y_min": 471.35760498046875,
+    "x_max": 671.114013671875,
+    "y_max": 534.1928100585938,
+    "text": "HYPER CONTENDER Gold disk"
+  },
+  {
+    "x_min": 670.8125,
+    "y_min": 471.54547119140625,
+    "x_max": 740.8470458984375,
+    "y_max": 534.3240966796875,
+    "text": "NINPEK:Eat 5 sandwiches"
+  },
+  {
+    "x_min": 740.1607666015625,
+    "y_min": 470.9833679199219,
+    "x_max": 805.5487670898438,
+    "y_max": 534.8355712890625,
+    "text": "CAMOUFLAGE Collect 10 oranges"
+  },
+  {
+    "x_min": 463.4359436035156,
+    "y_min": 534.071044921875,
+    "x_max": 534.983154296875,
+    "y_max": 596.4749145507812,
+    "text": "HYPER CONTENDER: Use PAST- RULE; beat Drafl Mode"
+  },
+  {
+    "x_min": 534.3604736328125,
+    "y_min": 534.2402954101562,
+    "x_max": 602.989013671875,
+    "y_max": 596.5567016601562,
+    "text": "CAMPANELLA 2: Have 300 coins"
+  },
+  {
+    "x_min": 602.5084228515625,
+    "y_min": 534.0870971679688,
+    "x_max": 671.39697265625,
+    "y_max": 596.5706176757812,
+    "text": "Collect 5 gold disks"
+  },
+  {
+    "x_min": 671.0236206054688,
+    "y_min": 534.29638671875,
+    "x_max": 740.9362182617188,
+    "y_max": 596.4390869140625,
+    "text": "PILOT QUEST: Defeat Unktomi (Spider boss)"
+  },
+  {
+    "x_min": 740.588623046875,
+    "y_min": 534.6280517578125,
+    "x_max": 804.9490966796875,
+    "y_max": 596.3990478515625,
+    "text": "BUG HUNTER: Complete a job with your energy maxed out"
+  },
+  {
+    "x_min": 463.0847473144531,
+    "y_min": 596.3551635742188,
+    "x_max": 535.2172241210938,
+    "y_max": 658.769287109375,
+    "text": "MINI&MAX: Collect a big shiny"
+  },
+  {
+    "x_min": 534.423095703125,
+    "y_min": 596.5421142578125,
+    "x_max": 602.9805297851562,
+    "y_max": 658.2738647460938,
+    "text": "BUG HUNTER Earn 3 kills with one module use"
+  },
+  {
+    "x_min": 602.505615234375,
+    "y_min": 596.5278930664062,
+    "x_max": 671.1682739257812,
+    "y_max": 658.3106689453125,
+    "text": "CAMOUFLAGE Save 5 babies"
+  },
+  {
+    "x_min": 670.79638671875,
+    "y_min": 596.42578125,
+    "x_max": 740.9095458984375,
+    "y_max": 658.2468872070312,
+    "text": "HYPER CONTENDER:WN 4 fights in o row withouf remetches on all default settings"
+  },
+  {
+    "x_min": 740.34326171875,
+    "y_min": 596.1063842773438,
+    "x_max": 804.7339477539062,
+    "y_max": 658.6170043945312,
+    "text": "Find an easter egg UFO in 5 games"
+  },
+  {
+    "x_min": 460.11138916015625,
+    "y_min": 658.6417236328125,
+    "x_max": 535.5847778320312,
+    "y_max": 720.0,
+    "text": "COMBATANTS Beat'First Blood' without shooting"
+  },
+  {
+    "x_min": 534.275146484375,
+    "y_min": 658.3007202148438,
+    "x_max": 602.931640625,
+    "y_max": 719.8961181640625,
+    "text": "DAY JOB: BUg Huntor: Deat a job; Onion Delivery: Complete 2 days; Rall Heist Eam 3 pocifist stars"
+  },
+  {
+    "x_min": 602.70068359375,
+    "y_min": 658.314208984375,
+    "x_max": 671.130126953125,
+    "y_max": 720.0,
+    "text": "ROCK ON! ISLAND: CLUB- PASS allowed; beat Jungle Rush"
+  },
+  {
+    "x_min": 670.6926879882812,
+    "y_min": 658.2987060546875,
+    "x_max": 740.6372680664062,
+    "y_max": 719.979736328125,
+    "text": "MORTOL:Beata lovel with a total of 30 or more additional lives than you began the run with"
+  },
+  {
+    "x_min": 740.3265991210938,
+    "y_min": 658.6578979492188,
+    "x_max": 804.597412109375,
+    "y_max": 719.9837036132812,
+    "text": "THE BIG BELL RACE: Give all oppononts a lap headstart and win on 3 separate trocks"
+  }
+]

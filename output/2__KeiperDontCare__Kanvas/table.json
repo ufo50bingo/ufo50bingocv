@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 719.38427734375,
+    "y_min": 639.882568359375,
+    "x_max": 816.5556640625,
+    "y_max": 731.0950317382812,
+    "text": "NINPEK: Collect 3 crowns"
+  },
+  {
+    "x_min": 817.11376953125,
+    "y_min": 640.287353515625,
+    "x_max": 913.5283203125,
+    "y_max": 730.815673828125,
+    "text": "MAGIC GARDEN: Reach a score of 50,000+"
+  },
+  {
+    "x_min": 913.3572998046875,
+    "y_min": 641.5992431640625,
+    "x_max": 1009.7522583007812,
+    "y_max": 730.9893798828125,
+    "text": "Enter a top 5 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 1008.8106689453125,
+    "y_min": 642.3533325195312,
+    "x_max": 1108.4080810546875,
+    "y_max": 730.893310546875,
+    "text": "PORGY: Reach the Abyss (lowest depth area)"
+  },
+  {
+    "x_min": 1106.4378662109375,
+    "y_min": 642.5932006835938,
+    "x_max": 1209.1907958984375,
+    "y_max": 730.7677612304688,
+    "text": "MORTOL:Beat a level with a total of 30 or more additional lives than you began the run with"
+  },
+  {
+    "x_min": 722.603271484375,
+    "y_min": 730.6193237304688,
+    "x_max": 816.9273681640625,
+    "y_max": 818.4082641601562,
+    "text": "BUSHIDO BALL: Win a 16-point match on Hyper speed w/ no time limit"
+  },
+  {
+    "x_min": 816.4315795898438,
+    "y_min": 730.7764282226562,
+    "x_max": 913.89013671875,
+    "y_max": 818.3446044921875,
+    "text": "VAINGER: Collect 5 items"
+  },
+  {
+    "x_min": 913.3751831054688,
+    "y_min": 730.901611328125,
+    "x_max": 1009.53759765625,
+    "y_max": 818.70263671875,
+    "text": "LORDS OF DISKONIA: Win a Quick Battle"
+  },
+  {
+    "x_min": 1009.0143432617188,
+    "y_min": 730.7490844726562,
+    "x_max": 1105.044189453125,
+    "y_max": 818.8273315429688,
+    "text": "VALBRACE: Defeat the Phantom Knight on Floor 2"
+  },
+  {
+    "x_min": 1104.0897216796875,
+    "y_min": 730.7973022460938,
+    "x_max": 1206.552490234375,
+    "y_max": 819.1409301757812,
+    "text": "Defeat 10 bosses"
+  },
+  {
+    "x_min": 723.1897583007812,
+    "y_min": 817.9280395507812,
+    "x_max": 817.3776245117188,
+    "y_max": 906.8112182617188,
+    "text": "MINI& MAX: Save the brainwashed mouse near the portrait"
+  },
+  {
+    "x_min": 816.7281494140625,
+    "y_min": 818.1004638671875,
+    "x_max": 914.0203247070312,
+    "y_max": 906.61962890625,
+    "text": "GIRL POWER: Magic Garden: Save 50 oppies: Cyber Owls:Beat Congo: Fist Hell: Survive 6 gym waves as Cat"
+  },
+  {
+    "x_min": 913.4292602539062,
+    "y_min": 818.312744140625,
+    "x_max": 1009.6350708007812,
+    "y_max": 906.5113525390625,
+    "text": "OVERBOLD: Max out four upgrades"
+  },
+  {
+    "x_min": 1009.1531982421875,
+    "y_min": 818.5368041992188,
+    "x_max": 1105.419921875,
+    "y_max": 906.0614624023438,
+    "text": "CAMPANELLA 2: Obtain the Friendship Bracelet"
+  },
+  {
+    "x_min": 1104.6881103515625,
+    "y_min": 818.5523071289062,
+    "x_max": 1206.30615234375,
+    "y_max": 906.1719360351562,
+    "text": "BUG HUNTER: Complete your first job"
+  },
+  {
+    "x_min": 722.5603637695312,
+    "y_min": 906.5349731445312,
+    "x_max": 817.5942993164062,
+    "y_max": 994.5913696289062,
+    "text": "HOTFOOT: Get 3 blowouts in one tournament"
+  },
+  {
+    "x_min": 817.0827026367188,
+    "y_min": 906.5418701171875,
+    "x_max": 913.981201171875,
+    "y_max": 994.4912719726562,
+    "text": "VELGRESS: Clear out a shop's stock"
+  },
+  {
+    "x_min": 913.2671508789062,
+    "y_min": 906.2611083984375,
+    "x_max": 1009.6625366210938,
+    "y_max": 994.3607177734375,
+    "text": "BUG HUNTER: Complete a job with your energy maxed out"
+  },
+  {
+    "x_min": 1009.3938598632812,
+    "y_min": 906.0046997070312,
+    "x_max": 1105.875732421875,
+    "y_max": 994.3610229492188,
+    "text": "Collect 3 cherry disks"
+  },
+  {
+    "x_min": 1105.214111328125,
+    "y_min": 905.8995361328125,
+    "x_max": 1206.352783203125,
+    "y_max": 994.6004028320312,
+    "text": "CAMPANELLA 3:Clear 4 waves 100%"
+  },
+  {
+    "x_min": 722.1233520507812,
+    "y_min": 993.9510498046875,
+    "x_max": 817.8436889648438,
+    "y_max": 1080.0,
+    "text": "Increase your max HP in 4 games"
+  },
+  {
+    "x_min": 817.207763671875,
+    "y_min": 993.9005737304688,
+    "x_max": 913.7166137695312,
+    "y_max": 1079.7783203125,
+    "text": "MINI& MAX: Speak to King Mittens in the doorknob"
+  },
+  {
+    "x_min": 913.107177734375,
+    "y_min": 993.7764892578125,
+    "x_max": 1010.0958251953125,
+    "y_max": 1079.8388671875,
+    "text": "DEVILITION: Clear the screen of demons with at least 20 pieces remaining"
+  },
+  {
+    "x_min": 1009.723876953125,
+    "y_min": 993.9243774414062,
+    "x_max": 1105.539306640625,
+    "y_max": 1079.7412109375,
+    "text": "ROCK ON! ISLAND: Have 20 chickens in a main level"
+  },
+  {
+    "x_min": 1104.735107421875,
+    "y_min": 993.9871215820312,
+    "x_max": 1206.7718505859375,
+    "y_max": 1079.7200927734375,
+    "text": "PILOT QUEST: Defeat Big Borlg (large alien in the central ruins"
+  }
+]

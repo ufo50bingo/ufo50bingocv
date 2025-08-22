@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 701.4864501953125,
+    "y_min": 598.9383544921875,
+    "x_max": 806.5992431640625,
+    "y_max": 696.5083618164062,
+    "text": "COMBATANTS Beat 'Surprisel'"
+  },
+  {
+    "x_min": 805.3587036132812,
+    "y_min": 598.9139404296875,
+    "x_max": 910.6654052734375,
+    "y_max": 697.1420288085938,
+    "text": "MORTOL II: Collect 10 keys"
+  },
+  {
+    "x_min": 909.8456420898438,
+    "y_min": 599.5447998046875,
+    "x_max": 1012.5942993164062,
+    "y_max": 697.3305053710938,
+    "text": "FIST HELL: Clear the first scare and enter the shop with $20 or more"
+  },
+  {
+    "x_min": 1011.8206787109375,
+    "y_min": 599.840576171875,
+    "x_max": 1118.2049560546875,
+    "y_max": 697.4288940429688,
+    "text": "TRIATHLON: Gold Disk any 3 of the 5 \"SPORT\" games"
+  },
+  {
+    "x_min": 1117.4814453125,
+    "y_min": 599.6617431640625,
+    "x_max": 1220.2969970703125,
+    "y_max": 696.5018310546875,
+    "text": "MINI&MAX: Save the brainwashed mouse near the portrait"
+  },
+  {
+    "x_min": 701.5916748046875,
+    "y_min": 696.1728515625,
+    "x_max": 806.54541015625,
+    "y_max": 794.0140380859375,
+    "text": "Defeat 7 bosses"
+  },
+  {
+    "x_min": 805.6185913085938,
+    "y_min": 696.9326171875,
+    "x_max": 907.5101318359375,
+    "y_max": 791.904541015625,
+    "text": "MOONCAT: Find 2 of 3 eggs"
+  },
+  {
+    "x_min": 907.0792846679688,
+    "y_min": 697.2590942382812,
+    "x_max": 1012.6551513671875,
+    "y_max": 791.73486328125,
+    "text": "CAMOUFLAGE Escape with 3/3 collectibles on 5 levels"
+  },
+  {
+    "x_min": 1012.0065307617188,
+    "y_min": 697.18408203125,
+    "x_max": 1117.7197265625,
+    "y_max": 791.7169189453125,
+    "text": "CYBER OWLS: Complete 2 missions"
+  },
+  {
+    "x_min": 1117.12353515625,
+    "y_min": 695.9122314453125,
+    "x_max": 1219.8131103515625,
+    "y_max": 792.7276611328125,
+    "text": "GOLFARIA: Hit 3 eagles"
+  },
+  {
+    "x_min": 701.4600219726562,
+    "y_min": 792.7005615234375,
+    "x_max": 806.158203125,
+    "y_max": 885.0816650390625,
+    "text": "SEASIDE DRIVE: Destroy the UFO in Stage 3"
+  },
+  {
+    "x_min": 805.6371459960938,
+    "y_min": 791.8109130859375,
+    "x_max": 907.743408203125,
+    "y_max": 886.14453125,
+    "text": "VAINGER: Defeat a boss"
+  },
+  {
+    "x_min": 907.5245361328125,
+    "y_min": 791.5909423828125,
+    "x_max": 1012.560546875,
+    "y_max": 886.3714599609375,
+    "text": "Enter a top 3 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 1012.09033203125,
+    "y_min": 791.5368041992188,
+    "x_max": 1117.907470703125,
+    "y_max": 886.5584716796875,
+    "text": "PARTY HOUSE: Beat any 3 of the 5 default scenarios"
+  },
+  {
+    "x_min": 1117.175048828125,
+    "y_min": 791.933837890625,
+    "x_max": 1219.6436767578125,
+    "y_max": 886.0022583007812,
+    "text": "WALDORF'S JOURNEY: Gold disk"
+  },
+  {
+    "x_min": 701.37060546875,
+    "y_min": 884.1400756835938,
+    "x_max": 806.239501953125,
+    "y_max": 981.935302734375,
+    "text": "PILOT QUEST: Defeat Big Borlg (large alien in the central ruins)"
+  },
+  {
+    "x_min": 805.6062622070312,
+    "y_min": 885.8919677734375,
+    "x_max": 908.322021484375,
+    "y_max": 981.83984375,
+    "text": "BUG HUNTER: Complete a job with your energy maxed out"
+  },
+  {
+    "x_min": 908.0095825195312,
+    "y_min": 886.1321411132812,
+    "x_max": 1012.7530517578125,
+    "y_max": 982.2581787109375,
+    "text": "AVIANOS: Control 15+ tiles at once"
+  },
+  {
+    "x_min": 1012.2588500976562,
+    "y_min": 886.35107421875,
+    "x_max": 1117.7498779296875,
+    "y_max": 982.4695434570312,
+    "text": "CAMPANELLA: Use BEAN- DRIP; Score 6,000+ points in the Bonus Game"
+  },
+  {
+    "x_min": 1117.2440185546875,
+    "y_min": 885.6416625976562,
+    "x_max": 1219.612060546875,
+    "y_max": 982.4608764648438,
+    "text": "Collect a beverage in 6 different games"
+  },
+  {
+    "x_min": 700.6616821289062,
+    "y_min": 981.7902221679688,
+    "x_max": 805.7749633789062,
+    "y_max": 1079.24267578125,
+    "text": "NINPEK: Collect 3 crowns"
+  },
+  {
+    "x_min": 805.6919555664062,
+    "y_min": 981.5174560546875,
+    "x_max": 907.814453125,
+    "y_max": 1078.9891357421875,
+    "text": "Collect 2 cherry disks"
+  },
+  {
+    "x_min": 907.7108764648438,
+    "y_min": 981.9415283203125,
+    "x_max": 1012.86767578125,
+    "y_max": 1078.91162109375,
+    "text": "COMBATANTS Slay a spider"
+  },
+  {
+    "x_min": 1012.6726684570312,
+    "y_min": 982.2302856445312,
+    "x_max": 1117.634521484375,
+    "y_max": 1077.9521484375,
+    "text": "CARAMEL CARAMEL Snap 10 bonus background elements"
+  },
+  {
+    "x_min": 1117.0152587890625,
+    "y_min": 982.03173828125,
+    "x_max": 1219.4541015625,
+    "y_max": 1078.4637451171875,
+    "text": "PINGOLF: Score -2 or better on three holes"
+  }
+]

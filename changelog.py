@@ -41,6 +41,18 @@ def serialize_changelog(changelog: list[Change]) -> str:
     return "\n".join(lines)
 
 
+def deserialize_changelog_file(filename: str) -> list[Change]:
+    with open(filename, "r") as f:
+        changelog = deserialize_changelog(f.read())
+    return changelog
+
+
+def serialize_changelog_to_file(changelog: list[Change], filename: str):
+    serialized = serialize_changelog(changelog)
+    with open(filename, "w") as f:
+        f.write(serialized)
+
+
 def deserialize_changelog(serialized: str) -> list[Change]:
     lines = serialized.splitlines()
     changes: list[Change] = []

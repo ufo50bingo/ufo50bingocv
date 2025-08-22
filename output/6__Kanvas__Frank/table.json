@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 721.9585571289062,
+    "y_min": 644.1317138671875,
+    "x_max": 821.5253295898438,
+    "y_max": 729.3793334960938,
+    "text": "MORTOL: Beat 2 levels without killing any enemies"
+  },
+  {
+    "x_min": 820.7678833007812,
+    "y_min": 643.3829956054688,
+    "x_max": 918.4718017578125,
+    "y_max": 729.3409423828125,
+    "text": "PLANET ZOLDATH: Max out health by collecting 4 energy cubes"
+  },
+  {
+    "x_min": 917.6153564453125,
+    "y_min": 642.9078979492188,
+    "x_max": 1015.60205078125,
+    "y_max": 729.2183837890625,
+    "text": "MORTOL II: Gold disk"
+  },
+  {
+    "x_min": 1014.1449584960938,
+    "y_min": 643.198974609375,
+    "x_max": 1111.65087890625,
+    "y_max": 729.3280029296875,
+    "text": "PINGOLF: Score -2 or better on three holes"
+  },
+  {
+    "x_min": 1110.58056640625,
+    "y_min": 643.7590942382812,
+    "x_max": 1210.0198974609375,
+    "y_max": 729.41357421875,
+    "text": "DAYJOB:BuS Hunter: Beat a job; Onion Delivery: Complete 2 days; Rail Heist: Eam 3 pacifist stars"
+  },
+  {
+    "x_min": 723.9948120117188,
+    "y_min": 729.313232421875,
+    "x_max": 821.5442504882812,
+    "y_max": 817.2647094726562,
+    "text": "HOTFOOT: Win 2 games in a row without jumping"
+  },
+  {
+    "x_min": 820.9403076171875,
+    "y_min": 729.3525390625,
+    "x_max": 918.2689819335938,
+    "y_max": 817.2107543945312,
+    "text": "Beat 2 levels in 8 different games"
+  },
+  {
+    "x_min": 917.3179931640625,
+    "y_min": 729.17138671875,
+    "x_max": 1014.5216064453125,
+    "y_max": 817.3270263671875,
+    "text": "CAMPANELLA: Have 20 lives"
+  },
+  {
+    "x_min": 1013.9915161132812,
+    "y_min": 729.267822265625,
+    "x_max": 1110.9117431640625,
+    "y_max": 817.1682739257812,
+    "text": "DIVERS: Reach level 3"
+  },
+  {
+    "x_min": 1110.400634765625,
+    "y_min": 729.3333129882812,
+    "x_max": 1207.8187255859375,
+    "y_max": 816.9987182617188,
+    "text": "DEVILITION: Clear the screen of demons with at least 20 pleces remaining"
+  },
+  {
+    "x_min": 724.3912353515625,
+    "y_min": 817.1331787109375,
+    "x_max": 822.7164306640625,
+    "y_max": 905.46826171875,
+    "text": "WARPTANK: Complete the three levels in the initial hub room"
+  },
+  {
+    "x_min": 821.7174682617188,
+    "y_min": 817.0670776367188,
+    "x_max": 918.2238159179688,
+    "y_max": 905.41748046875,
+    "text": "PILOT QUEST: Defeat Unktomi (Spider boss)"
+  },
+  {
+    "x_min": 917.4811401367188,
+    "y_min": 817.2040405273438,
+    "x_max": 1013.256591796875,
+    "y_max": 905.4799194335938,
+    "text": "CYBEROWLS GETM-EOUT allowed; rescue each owl in the mini-game"
+  },
+  {
+    "x_min": 1012.82421875,
+    "y_min": 817.0821533203125,
+    "x_max": 1110.6876220703125,
+    "y_max": 905.4501953125,
+    "text": "Collect 5 gold \u6e05 disks"
+  },
+  {
+    "x_min": 1109.83349609375,
+    "y_min": 816.8406372070312,
+    "x_max": 1207.5255126953125,
+    "y_max": 905.321533203125,
+    "text": "PAINT CHASE: Reach a score of 240+"
+  },
+  {
+    "x_min": 725.748291015625,
+    "y_min": 905.7142944335938,
+    "x_max": 822.4127807617188,
+    "y_max": 993.2223510742188,
+    "text": "Collect a beverage in 6 \u5341 different games"
+  },
+  {
+    "x_min": 821.5682373046875,
+    "y_min": 905.5541381835938,
+    "x_max": 918.2923583984375,
+    "y_max": 993.1495971679688,
+    "text": "HOTFOOT Get 3 blowouts in one tournament"
+  },
+  {
+    "x_min": 917.6439208984375,
+    "y_min": 905.7147216796875,
+    "x_max": 1013.3336791992188,
+    "y_max": 993.0257568359375,
+    "text": "OVERBOLD: Purchase 3 price hiked items in one run"
+  },
+  {
+    "x_min": 1012.5962524414062,
+    "y_min": 905.5250244140625,
+    "x_max": 1111.4532470703125,
+    "y_max": 992.9927978515625,
+    "text": "MOONCAT: Find 2 of 3 eggs"
+  },
+  {
+    "x_min": 1110.5732421875,
+    "y_min": 905.443359375,
+    "x_max": 1207.5887451171875,
+    "y_max": 992.8068237304688,
+    "text": "GRIMSTONE: Collect the money from the burned house"
+  },
+  {
+    "x_min": 725.337158203125,
+    "y_min": 992.8291015625,
+    "x_max": 821.6163330078125,
+    "y_max": 1078.4114990234375,
+    "text": "VAINGER: Get the Force Mod from Verde Sector"
+  },
+  {
+    "x_min": 821.17041015625,
+    "y_min": 992.8292236328125,
+    "x_max": 918.4951782226562,
+    "y_max": 1079.1302490234375,
+    "text": "CAMPANELLA 3:Clear 4 waves 100%"
+  },
+  {
+    "x_min": 918.286865234375,
+    "y_min": 992.6387939453125,
+    "x_max": 1012.74365234375,
+    "y_max": 1079.5955810546875,
+    "text": "Collect 12 gifts for the garden"
+  },
+  {
+    "x_min": 1012.3677978515625,
+    "y_min": 992.66796875,
+    "x_max": 1111.635498046875,
+    "y_max": 1079.6600341796875,
+    "text": "COMBATANTS Beat 'Surprise!'"
+  },
+  {
+    "x_min": 1111.140625,
+    "y_min": 992.6192016601562,
+    "x_max": 1207.541259765625,
+    "y_max": 1079.2919921875,
+    "text": "LORDS OF DISKONIA: Win a Quick Battle"
+  }
+]

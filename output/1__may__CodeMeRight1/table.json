@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 700.2215576171875,
+    "y_min": 599.7821044921875,
+    "x_max": 802.7769165039062,
+    "y_max": 695.9756469726562,
+    "text": "MORTOL II: Activate all the switches"
+  },
+  {
+    "x_min": 802.3549194335938,
+    "y_min": 599.6380004882812,
+    "x_max": 908.0406494140625,
+    "y_max": 696.5114135742188,
+    "text": "HOT FOOT: Get 3 blowouts in one tournament"
+  },
+  {
+    "x_min": 906.9784545898438,
+    "y_min": 598.82861328125,
+    "x_max": 1005.2863159179688,
+    "y_max": 696.7241821289062,
+    "text": "SEASIDE DRIVE: Beat Stage 2"
+  },
+  {
+    "x_min": 1004.9649658203125,
+    "y_min": 599.1703491210938,
+    "x_max": 1117.03173828125,
+    "y_max": 696.708984375,
+    "text": "Collect 3 gold disks"
+  },
+  {
+    "x_min": 1116.061279296875,
+    "y_min": 599.5750122070312,
+    "x_max": 1220.09716796875,
+    "y_max": 695.3927001953125,
+    "text": "STAR WASPIR: Clear wave 3"
+  },
+  {
+    "x_min": 700.7786254882812,
+    "y_min": 695.54296875,
+    "x_max": 802.8981323242188,
+    "y_max": 792.115234375,
+    "text": "Collect 10 gifts for the garden"
+  },
+  {
+    "x_min": 802.3177490234375,
+    "y_min": 696.406982421875,
+    "x_max": 908.0286865234375,
+    "y_max": 792.015625,
+    "text": "OVERBOLD: Gold disk"
+  },
+  {
+    "x_min": 907.7164306640625,
+    "y_min": 696.378662109375,
+    "x_max": 1006.3953857421875,
+    "y_max": 791.9285888671875,
+    "text": "PARTY HOUSE: Beat 2 random scenarios"
+  },
+  {
+    "x_min": 1005.6849365234375,
+    "y_min": 696.3170166015625,
+    "x_max": 1116.484130859375,
+    "y_max": 792.0306396484375,
+    "text": "HYPER CONTENDER: Gold disk"
+  },
+  {
+    "x_min": 1115.6103515625,
+    "y_min": 694.73583984375,
+    "x_max": 1218.540283203125,
+    "y_max": 791.754638671875,
+    "text": "THE BIG BELL RACE: KO an opponent with 3 unique power- ups"
+  },
+  {
+    "x_min": 701.1256103515625,
+    "y_min": 791.7927856445312,
+    "x_max": 802.8545532226562,
+    "y_max": 886.2788696289062,
+    "text": "FIST HELL: Survive 9 waves in the gym"
+  },
+  {
+    "x_min": 802.10888671875,
+    "y_min": 791.7327880859375,
+    "x_max": 908.0346069335938,
+    "y_max": 886.3363037109375,
+    "text": "CAMOUFLAGE Collect 10 oranges"
+  },
+  {
+    "x_min": 907.5590209960938,
+    "y_min": 791.5538330078125,
+    "x_max": 1007.699462890625,
+    "y_max": 886.6132202148438,
+    "text": "Enter a top 5 score on 5 arcade leaderboards"
+  },
+  {
+    "x_min": 1006.9746704101562,
+    "y_min": 791.5446166992188,
+    "x_max": 1116.4605712890625,
+    "y_max": 886.8383178710938,
+    "text": "PLANET ZOLDATH: Collect the trade Map Piece"
+  },
+  {
+    "x_min": 1115.6697998046875,
+    "y_min": 791.2394409179688,
+    "x_max": 1218.3699951171875,
+    "y_max": 886.6813354492188,
+    "text": "MINI&MAX: Collect 7 upgrades"
+  },
+  {
+    "x_min": 701.4901733398438,
+    "y_min": 886.062744140625,
+    "x_max": 802.8828735351562,
+    "y_max": 981.5410766601562,
+    "text": "GOLFARIA: Achieve 20% Completion"
+  },
+  {
+    "x_min": 802.355224609375,
+    "y_min": 886.2600708007812,
+    "x_max": 907.8707885742188,
+    "y_max": 981.5962524414062,
+    "text": "GRIMSTONE: Collect the money from the burning house"
+  },
+  {
+    "x_min": 907.4385986328125,
+    "y_min": 886.3855590820312,
+    "x_max": 1009.6640625,
+    "y_max": 981.84375,
+    "text": "OVERBOLD: Complete a wave with $1000+ stakes without using bombs"
+  },
+  {
+    "x_min": 1008.9464111328125,
+    "y_min": 886.46875,
+    "x_max": 1116.0516357421875,
+    "y_max": 982.2681884765625,
+    "text": "ELFAZAR'S HAT: Clear Stage 1 (White Pea)"
+  },
+  {
+    "x_min": 1115.4793701171875,
+    "y_min": 886.3456420898438,
+    "x_max": 1218.411376953125,
+    "y_max": 982.0518188476562,
+    "text": "Find an easter egg UFO in 3 games"
+  },
+  {
+    "x_min": 700.8843994140625,
+    "y_min": 981.11376953125,
+    "x_max": 802.8530883789062,
+    "y_max": 1078.975830078125,
+    "text": "CAMPANELLA 3:Beat Galbrain"
+  },
+  {
+    "x_min": 802.3003540039062,
+    "y_min": 981.2018432617188,
+    "x_max": 907.8690185546875,
+    "y_max": 1078.6248779296875,
+    "text": "Defeat 7 bosses"
+  },
+  {
+    "x_min": 908.1224975585938,
+    "y_min": 981.3748779296875,
+    "x_max": 1009.7982788085938,
+    "y_max": 1078.399658203125,
+    "text": "MORTOL: Clear all world 3 levels using OPEN-TOMB"
+  },
+  {
+    "x_min": 1009.4264526367188,
+    "y_min": 981.7196655273438,
+    "x_max": 1116.91162109375,
+    "y_max": 1078.0482177734375,
+    "text": "NINPEK:Eat 5 sandwiches"
+  },
+  {
+    "x_min": 1115.688232421875,
+    "y_min": 981.3933715820312,
+    "x_max": 1218.74853515625,
+    "y_max": 1078.8099365234375,
+    "text": "FIST HELL: Destroy 2 UFOs"
+  }
+]

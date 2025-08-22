@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 718.0438232421875,
+    "y_min": 642.4087524414062,
+    "x_max": 817.8095092773438,
+    "y_max": 728.439208984375,
+    "text": "ALPHA TRILOGY: Gold Disk Velgress, Overbold, and Quibble Race as Alpha"
+  },
+  {
+    "x_min": 816.660888671875,
+    "y_min": 642.03662109375,
+    "x_max": 913.2952880859375,
+    "y_max": 728.2861938476562,
+    "text": "PAINT CHASE: Beat 6 levels"
+  },
+  {
+    "x_min": 912.908935546875,
+    "y_min": 641.9503784179688,
+    "x_max": 1009.932861328125,
+    "y_max": 727.8222045898438,
+    "text": "GRIMSTONE: Collect the money from the burning house"
+  },
+  {
+    "x_min": 1009.3492431640625,
+    "y_min": 641.731201171875,
+    "x_max": 1106.759033203125,
+    "y_max": 727.6866455078125,
+    "text": "NINPEK: Gold disk"
+  },
+  {
+    "x_min": 1105.3720703125,
+    "y_min": 642.2119140625,
+    "x_max": 1208.2135009765625,
+    "y_max": 728.2828979492188,
+    "text": "COMBATANTS Slay a spider"
+  },
+  {
+    "x_min": 720.7969970703125,
+    "y_min": 727.9242553710938,
+    "x_max": 817.0121459960938,
+    "y_max": 815.885986328125,
+    "text": "GOLFARIA: Destroy 3 parbots"
+  },
+  {
+    "x_min": 816.3577270507812,
+    "y_min": 727.8165283203125,
+    "x_max": 913.442626953125,
+    "y_max": 815.720458984375,
+    "text": "CYBEROWLS Clear Hong Kong only destroying Road Toad"
+  },
+  {
+    "x_min": 912.6939697265625,
+    "y_min": 727.56298828125,
+    "x_max": 1009.9337768554688,
+    "y_max": 815.9102172851562,
+    "text": "Buy an item from a shop in 8 different games"
+  },
+  {
+    "x_min": 1009.5879516601562,
+    "y_min": 727.5199584960938,
+    "x_max": 1105.174072265625,
+    "y_max": 815.8541259765625,
+    "text": "THE BIG BELL RACE: KO an opponent with 3 unique power- ups"
+  },
+  {
+    "x_min": 1104.653076171875,
+    "y_min": 728.031005859375,
+    "x_max": 1206.11962890625,
+    "y_max": 815.7482299804688,
+    "text": "NIGHT MANOR: Collect the diamond"
+  },
+  {
+    "x_min": 722.3169555664062,
+    "y_min": 815.49560546875,
+    "x_max": 817.4003295898438,
+    "y_max": 903.3161010742188,
+    "text": "QUIBBLERACE: Bet against your sponsored Quibble and win the round"
+  },
+  {
+    "x_min": 816.605224609375,
+    "y_min": 815.460205078125,
+    "x_max": 913.343505859375,
+    "y_max": 903.3372192382812,
+    "text": "AVIANOS: Win a Fledgling game"
+  },
+  {
+    "x_min": 912.8554077148438,
+    "y_min": 815.556396484375,
+    "x_max": 1009.7488403320312,
+    "y_max": 903.4303588867188,
+    "text": "PAINT CHASE: Reach a score of 240+"
+  },
+  {
+    "x_min": 1009.5491333007812,
+    "y_min": 815.5504760742188,
+    "x_max": 1104.4454345703125,
+    "y_max": 903.2095336914062,
+    "text": "PORGY: Defeat a boss"
+  },
+  {
+    "x_min": 1103.93212890625,
+    "y_min": 815.363037109375,
+    "x_max": 1206.380126953125,
+    "y_max": 902.8911743164062,
+    "text": "Collect 6 gold disks"
+  },
+  {
+    "x_min": 722.07958984375,
+    "y_min": 902.9865112304688,
+    "x_max": 817.371337890625,
+    "y_max": 991.1732788085938,
+    "text": "PARTY HOUSE: Beat any 3 of the 5 default scenarios"
+  },
+  {
+    "x_min": 816.8565673828125,
+    "y_min": 903.1019897460938,
+    "x_max": 913.3390502929688,
+    "y_max": 991.2901611328125,
+    "text": "Collect 10 gifts for the garden"
+  },
+  {
+    "x_min": 912.9845581054688,
+    "y_min": 903.1798095703125,
+    "x_max": 1009.6390991210938,
+    "y_max": 991.1768188476562,
+    "text": "STAR WASPIR: Have a 20x multiplier"
+  },
+  {
+    "x_min": 1009.70068359375,
+    "y_min": 903.1329345703125,
+    "x_max": 1104.7156982421875,
+    "y_max": 991.1943359375,
+    "text": "WARPTANK: Collect 3 coffees"
+  },
+  {
+    "x_min": 1104.231689453125,
+    "y_min": 902.7864379882812,
+    "x_max": 1206.112060546875,
+    "y_max": 991.2706298828125,
+    "text": "ONION DELIVERY Deliver 10 onions in a single day"
+  },
+  {
+    "x_min": 721.4632568359375,
+    "y_min": 990.4869384765625,
+    "x_max": 817.5868530273438,
+    "y_max": 1079.022705078125,
+    "text": "MAGIC GARDEN: Gold disk"
+  },
+  {
+    "x_min": 817.0078125,
+    "y_min": 990.6141357421875,
+    "x_max": 913.4161376953125,
+    "y_max": 1078.833984375,
+    "text": "DEVILITION: Have 6 villagers at once"
+  },
+  {
+    "x_min": 912.9851684570312,
+    "y_min": 990.6399536132812,
+    "x_max": 1009.6625366210938,
+    "y_max": 1079.016357421875,
+    "text": "NINPEK: Use HARD-LOOP, defeat the boss with a score of 20,000+"
+  },
+  {
+    "x_min": 1009.7098388671875,
+    "y_min": 990.7595825195312,
+    "x_max": 1106.0400390625,
+    "y_max": 1078.9737548828125,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 1104.8629150390625,
+    "y_min": 990.6716918945312,
+    "x_max": 1206.384033203125,
+    "y_max": 1078.760986328125,
+    "text": "AVIANOS: Win a Custom game with 8 Mountains (change no other settings)"
+  }
+]

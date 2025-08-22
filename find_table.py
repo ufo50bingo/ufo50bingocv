@@ -225,10 +225,10 @@ def get_texts(data: dict[str, Any]) -> list[Text]:
 
 def get_square_from_cell(cell: Cell) -> Square:
     return Square(
-        x_min=cell.x_min,
-        y_min=cell.y_min,
-        x_max=cell.x_max,
-        y_max=cell.y_max,
+        x_min=float(cell.x_min),
+        y_min=float(cell.y_min),
+        x_max=float(cell.x_max),
+        y_max=float(cell.y_max),
         text=cell.text,
     )
 

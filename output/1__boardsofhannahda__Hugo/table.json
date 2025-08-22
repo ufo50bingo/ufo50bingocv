@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 476.4952392578125,
+    "y_min": 568.1591186523438,
+    "x_max": 583.018798828125,
+    "y_max": 665.4593505859375,
+    "text": "MORTOLII: Gold disk"
+  },
+  {
+    "x_min": 582.4851684570312,
+    "y_min": 570.2466430664062,
+    "x_max": 687.3338623046875,
+    "y_max": 665.6199951171875,
+    "text": "Buy an item from a shop in 12 different games"
+  },
+  {
+    "x_min": 686.7734375,
+    "y_min": 570.46142578125,
+    "x_max": 793.4096069335938,
+    "y_max": 665.56201171875,
+    "text": "ONION DELIVERY: Deliver 8 onions in a single day and complete the day"
+  },
+  {
+    "x_min": 793.0394287109375,
+    "y_min": 570.4261474609375,
+    "x_max": 897.9761962890625,
+    "y_max": 665.4329833984375,
+    "text": "PLANET ZOLDATH: Collect the trade Map Piece"
+  },
+  {
+    "x_min": 897.8370361328125,
+    "y_min": 568.7827758789062,
+    "x_max": 1001.0032958984375,
+    "y_max": 665.7938232421875,
+    "text": "WALDORF'S JOURNEY: Purchase four unique items in one run"
+  },
+  {
+    "x_min": 477.2302551269531,
+    "y_min": 665.073974609375,
+    "x_max": 583.424560546875,
+    "y_max": 760.1332397460938,
+    "text": "VAINGER: Beat 3 bosses"
+  },
+  {
+    "x_min": 582.851318359375,
+    "y_min": 665.309814453125,
+    "x_max": 687.7127075195312,
+    "y_max": 760.5123291015625,
+    "text": "STAR WASPIR: Have a 20x multiplier"
+  },
+  {
+    "x_min": 687.395751953125,
+    "y_min": 665.2399291992188,
+    "x_max": 793.5510864257812,
+    "y_max": 760.4022216796875,
+    "text": "MINI & MAX: Save the brainwashed mouse near the portrait"
+  },
+  {
+    "x_min": 793.0508422851562,
+    "y_min": 665.1726684570312,
+    "x_max": 898.1532592773438,
+    "y_max": 760.2208862304688,
+    "text": "Enter a top 5 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 897.7110595703125,
+    "y_min": 665.3927001953125,
+    "x_max": 999.0503540039062,
+    "y_max": 760.2610473632812,
+    "text": "CAMPANELLA 3:Beat Galbrain"
+  },
+  {
+    "x_min": 478.2437744140625,
+    "y_min": 760.11572265625,
+    "x_max": 583.3659057617188,
+    "y_max": 855.618896484375,
+    "text": "ALPHA TRILOGY: Gold Velgress, Overbold, and Quibble Race as Alpha"
+  },
+  {
+    "x_min": 583.0062255859375,
+    "y_min": 760.4439697265625,
+    "x_max": 688.1237182617188,
+    "y_max": 855.6591186523438,
+    "text": "PINGOLF: Be in first place in the standings immediately after hole 9"
+  },
+  {
+    "x_min": 687.7216796875,
+    "y_min": 760.3052368164062,
+    "x_max": 793.58056640625,
+    "y_max": 855.9739990234375,
+    "text": "WARPTANK: Talk to 3 NPCs"
+  },
+  {
+    "x_min": 792.9093017578125,
+    "y_min": 760.1607666015625,
+    "x_max": 898.4408569335938,
+    "y_max": 855.9451904296875,
+    "text": "PAINT CHASE: Beat 12 levels"
+  },
+  {
+    "x_min": 897.70703125,
+    "y_min": 760.23291015625,
+    "x_max": 999.4252319335938,
+    "y_max": 855.7797241210938,
+    "text": "CARAMEL CARAMEL: Score 8,000 points in the prologue"
+  },
+  {
+    "x_min": 477.9453125,
+    "y_min": 855.521484375,
+    "x_max": 582.9735717773438,
+    "y_max": 950.2371215820312,
+    "text": "MINI &MAX: Slay the Water Bear in the west pot"
+  },
+  {
+    "x_min": 582.5870971679688,
+    "y_min": 855.6995849609375,
+    "x_max": 688.1249389648438,
+    "y_max": 950.1676025390625,
+    "text": "HYPER CONTENDER: Gold disk"
+  },
+  {
+    "x_min": 688.080810546875,
+    "y_min": 855.869384765625,
+    "x_max": 793.5510864257812,
+    "y_max": 950.4187622070312,
+    "text": "AMY: Win 2 Hot Foot games with Amy. Clear 2nd scare as Amy in Fist Hell, and beat a random Party House scenario"
+  },
+  {
+    "x_min": 793.2445678710938,
+    "y_min": 855.7943725585938,
+    "x_max": 898.236572265625,
+    "y_max": 950.46728515625,
+    "text": "QUIBBLE RACE: Gold disk"
+  },
+  {
+    "x_min": 897.5743408203125,
+    "y_min": 855.5390014648438,
+    "x_max": 998.44482421875,
+    "y_max": 950.134765625,
+    "text": "ELFAZAR'S HAT: Defeat Elfazar in Stage 4(Grand Palace)"
+  },
+  {
+    "x_min": 477.3522033691406,
+    "y_min": 950.1552734375,
+    "x_max": 583.2445678710938,
+    "y_max": 1044.61572265625,
+    "text": "ROCK ON! ISLAND: Have 20 chickens in a main level"
+  },
+  {
+    "x_min": 582.8065795898438,
+    "y_min": 950.0897827148438,
+    "x_max": 688.2169799804688,
+    "y_max": 1045.041015625,
+    "text": "MAGIC GARDEN: Reach a score of 50,000+"
+  },
+  {
+    "x_min": 687.9505004882812,
+    "y_min": 950.2308349609375,
+    "x_max": 793.3424072265625,
+    "y_max": 1045.296875,
+    "text": "NINPEK: Eat 5 sandwiches"
+  },
+  {
+    "x_min": 793.2776489257812,
+    "y_min": 950.2498168945312,
+    "x_max": 898.0309448242188,
+    "y_max": 1045.13818359375,
+    "text": "AVIANOS: Win a Fledgling game"
+  },
+  {
+    "x_min": 897.6582641601562,
+    "y_min": 949.7006225585938,
+    "x_max": 998.8673095703125,
+    "y_max": 1046.779052734375,
+    "text": "Collect 4 cherry disks"
+  }
+]

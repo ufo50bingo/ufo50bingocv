@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 471.7279357910156,
+    "y_min": 408.9297180175781,
+    "x_max": 546.9044799804688,
+    "y_max": 470.6084289550781,
+    "text": "MORTOL: Use LEAF-HEAD tum 10 enemles into vines"
+  },
+  {
+    "x_min": 545.9129028320312,
+    "y_min": 408.82525634765625,
+    "x_max": 612.4199829101562,
+    "y_max": 470.4344482421875,
+    "text": "Collect a beverage In 5 different games"
+  },
+  {
+    "x_min": 611.6880493164062,
+    "y_min": 407.09503173828125,
+    "x_max": 676.8494873046875,
+    "y_max": 470.412841796875,
+    "text": "LORDS OF DISKONIA: Win a Quick Battle"
+  },
+  {
+    "x_min": 676.14404296875,
+    "y_min": 407.046630859375,
+    "x_max": 742.5360717773438,
+    "y_max": 470.51824951171875,
+    "text": "PAINT CHASEBeat 12 levels"
+  },
+  {
+    "x_min": 741.7386474609375,
+    "y_min": 406.5010070800781,
+    "x_max": 808.1387939453125,
+    "y_max": 470.5942077636719,
+    "text": "CARAMEL CARAMEL: Gold disk"
+  },
+  {
+    "x_min": 474.28936767578125,
+    "y_min": 470.3581237792969,
+    "x_max": 546.6278686523438,
+    "y_max": 528.8916625976562,
+    "text": "SEASIDE DRIVE: Dastroy the UFO In Stage 3"
+  },
+  {
+    "x_min": 545.9373779296875,
+    "y_min": 470.17047119140625,
+    "x_max": 612.1488037109375,
+    "y_max": 529.0094604492188,
+    "text": "WALDORF'S JOURNEY: Enter the palace with 6 Puffins"
+  },
+  {
+    "x_min": 611.5239868164062,
+    "y_min": 470.1605529785156,
+    "x_max": 676.8445434570312,
+    "y_max": 529.1217651367188,
+    "text": "ELFAZAR'S HAT.Clear Stage 3 (FrostinTown)"
+  },
+  {
+    "x_min": 676.37841796875,
+    "y_min": 470.27740478515625,
+    "x_max": 742.2809448242188,
+    "y_max": 529.1737670898438,
+    "text": "Enter a top 3 score on 2 arcade leaderboards"
+  },
+  {
+    "x_min": 741.6612548828125,
+    "y_min": 470.2466735839844,
+    "x_max": 806.1195068359375,
+    "y_max": 529.0506591796875,
+    "text": "CAMPANELLA 2: Defeat Rotondo al enc of Burrows Il"
+  },
+  {
+    "x_min": 475.1690673828125,
+    "y_min": 528.6275024414062,
+    "x_max": 546.6278686523438,
+    "y_max": 588.1835327148438,
+    "text": "Defeat 7 bosses"
+  },
+  {
+    "x_min": 545.9881591796875,
+    "y_min": 528.8339233398438,
+    "x_max": 611.9483642578125,
+    "y_max": 588.4951782226562,
+    "text": "RAKSHASA: Have O skulls by using bell pickups"
+  },
+  {
+    "x_min": 611.3193359375,
+    "y_min": 528.9129028320312,
+    "x_max": 677.0067749023438,
+    "y_max": 588.5640258789062,
+    "text": "PILOT QUEST: Make a friend at the crash site"
+  },
+  {
+    "x_min": 676.4529418945312,
+    "y_min": 528.9251098632812,
+    "x_max": 742.3428344726562,
+    "y_max": 588.5399169921875,
+    "text": "VALBRACE Clear Floor 1"
+  },
+  {
+    "x_min": 741.6531372070312,
+    "y_min": 528.8084716796875,
+    "x_max": 806.1196899414062,
+    "y_max": 588.54541015625,
+    "text": "SEASIDE DRIVE:Reach 200,000+ points"
+  },
+  {
+    "x_min": 474.843994140625,
+    "y_min": 588.0480346679688,
+    "x_max": 546.492919921875,
+    "y_max": 647.9238891601562,
+    "text": "RAILHEIST LAZY-COPS allowed; Beat Vangeancal and The Final Score"
+  },
+  {
+    "x_min": 545.887451171875,
+    "y_min": 588.4659423828125,
+    "x_max": 611.9992065429688,
+    "y_max": 648.299072265625,
+    "text": "KICK CLUB: Have 5 extra Ives at once"
+  },
+  {
+    "x_min": 611.5087890625,
+    "y_min": 588.4910888671875,
+    "x_max": 676.7160034179688,
+    "y_max": 648.171875,
+    "text": "AMY: Hot Fost Win 2 games with Amy; Fist Helt: Clear 2nd scare as Amy: Party House: Beat random scarario"
+  },
+  {
+    "x_min": 676.20703125,
+    "y_min": 588.4036865234375,
+    "x_max": 742.1248779296875,
+    "y_max": 648.1217041015625,
+    "text": "ROCK ONI ISLAND: Have 20 chickens in a main level"
+  },
+  {
+    "x_min": 741.5870361328125,
+    "y_min": 588.4113159179688,
+    "x_max": 806.0206298828125,
+    "y_max": 648.0382080078125,
+    "text": "WALDORF'S JOURNEY: Purchase four unique items in one run"
+  },
+  {
+    "x_min": 471.6528015136719,
+    "y_min": 647.5728149414062,
+    "x_max": 546.6988525390625,
+    "y_max": 709.479248046875,
+    "text": "CYBEROWLS Destroy the DIM SUM truck In Hong Kong"
+  },
+  {
+    "x_min": 546.1224975585938,
+    "y_min": 648.1152954101562,
+    "x_max": 612.5464477539062,
+    "y_max": 709.1018676757812,
+    "text": "PARTY HOUSE: Have a party with 4 Celebrities withoul gelling busted"
+  },
+  {
+    "x_min": 611.9168701171875,
+    "y_min": 647.9649047851562,
+    "x_max": 676.9921875,
+    "y_max": 709.021728515625,
+    "text": "PORGY: Retur 4 fish eggs to thelr mother"
+  },
+  {
+    "x_min": 676.571533203125,
+    "y_min": 647.9163818359375,
+    "x_max": 742.395751953125,
+    "y_max": 709.4117431640625,
+    "text": "PLANET ZOLDATH: Have 2 of each resource at once"
+  },
+  {
+    "x_min": 741.7578125,
+    "y_min": 647.6484375,
+    "x_max": 807.5234985351562,
+    "y_max": 711.4749755859375,
+    "text": "Collect 4 cherry disks"
+  }
+]

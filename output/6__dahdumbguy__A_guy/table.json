@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 441.321533203125,
+    "y_min": 349.98614501953125,
+    "x_max": 532.5933227539062,
+    "y_max": 431.3822937011719,
+    "text": "BARBUTA: Defeat the Mimic"
+  },
+  {
+    "x_min": 530.860107421875,
+    "y_min": 361.80755615234375,
+    "x_max": 607.1297607421875,
+    "y_max": 431.71929931640625,
+    "text": "PORGY: Collect 3 torpedo upgrades"
+  },
+  {
+    "x_min": 606.60888671875,
+    "y_min": 362.0979919433594,
+    "x_max": 682.9830932617188,
+    "y_max": 431.60052490234375,
+    "text": "FISTHELL: Survive 9 waves in the gym"
+  },
+  {
+    "x_min": 682.1094360351562,
+    "y_min": 362.32415771484375,
+    "x_max": 759.2882690429688,
+    "y_max": 431.5983581542969,
+    "text": "GIRLPOWER: Magic Garden: Save 50 opples;Cyber Owts:Beat Conge: Fist Helt Survive6 gym waves as Cat"
+  },
+  {
+    "x_min": 757.7520751953125,
+    "y_min": 353.19525146484375,
+    "x_max": 841.9664306640625,
+    "y_max": 431.1125183105469,
+    "text": "ONION DELIVERY: Deliver 8 onions in a single day and complete the day"
+  },
+  {
+    "x_min": 448.72698974609375,
+    "y_min": 431.0068359375,
+    "x_max": 531.9260864257812,
+    "y_max": 500.2305603027344,
+    "text": "Collect 6 gold disks"
+  },
+  {
+    "x_min": 531.1467895507812,
+    "y_min": 431.3775634765625,
+    "x_max": 606.929931640625,
+    "y_max": 500.2664794921875,
+    "text": "BUSHIDO BALL: Win the first match as every character"
+  },
+  {
+    "x_min": 606.585693359375,
+    "y_min": 431.39727783203125,
+    "x_max": 682.4232177734375,
+    "y_max": 500.3524475097656,
+    "text": "PARTY HOUSE: Beat any 3 of the 5 default scenarios"
+  },
+  {
+    "x_min": 681.9060668945312,
+    "y_min": 431.3014831542969,
+    "x_max": 759.0552368164062,
+    "y_max": 500.28558349609375,
+    "text": "MORTOL II: Activate all the switches"
+  },
+  {
+    "x_min": 758.5059204101562,
+    "y_min": 431.1357421875,
+    "x_max": 839.6060791015625,
+    "y_max": 500.1339111328125,
+    "text": "DEVILITION Have 6 villagers at once"
+  },
+  {
+    "x_min": 450.7962646484375,
+    "y_min": 500.1432189941406,
+    "x_max": 531.7513427734375,
+    "y_max": 569.0159912109375,
+    "text": "LORDS OF DISKONIA: Have 50+ gold"
+  },
+  {
+    "x_min": 531.1744384765625,
+    "y_min": 500.2773742675781,
+    "x_max": 607.0379028320312,
+    "y_max": 569.0689697265625,
+    "text": "CAMPANELLA 2: Clear Moire Woods Il or Rink II"
+  },
+  {
+    "x_min": 606.5518798828125,
+    "y_min": 500.2012939453125,
+    "x_max": 682.6751708984375,
+    "y_max": 569.1199951171875,
+    "text": "Find an egg in 10 different games"
+  },
+  {
+    "x_min": 682.1905517578125,
+    "y_min": 500.13079833984375,
+    "x_max": 758.8870239257812,
+    "y_max": 568.9225463867188,
+    "text": "CAMPANELLA Use BEAN- DRIP:score 6,000+ points"
+  },
+  {
+    "x_min": 758.383056640625,
+    "y_min": 499.9761657714844,
+    "x_max": 837.9718017578125,
+    "y_max": 569.1494140625,
+    "text": "RAKSHASA Gold disk"
+  },
+  {
+    "x_min": 450.5215148925781,
+    "y_min": 569.0598754882812,
+    "x_max": 531.735595703125,
+    "y_max": 638.0181884765625,
+    "text": "PLANET ZOLDATH: Eat 10 slabs of meat"
+  },
+  {
+    "x_min": 531.2546997070312,
+    "y_min": 569.1483154296875,
+    "x_max": 607.0716552734375,
+    "y_max": 637.5401000976562,
+    "text": "MINI&MAX Collect a blg shiny"
+  },
+  {
+    "x_min": 606.6517944335938,
+    "y_min": 569.0679931640625,
+    "x_max": 682.8565063476562,
+    "y_max": 637.3284301757812,
+    "text": "HYPER CONTENDER Beat Draft Mode(Default settings)"
+  },
+  {
+    "x_min": 682.4618530273438,
+    "y_min": 568.8997802734375,
+    "x_max": 758.7167358398438,
+    "y_max": 637.5321655273438,
+    "text": "ELFAZAR'S HAT: Clear Stage 3 (Frostin Town)"
+  },
+  {
+    "x_min": 758.1741333007812,
+    "y_min": 569.1992797851562,
+    "x_max": 839.1912841796875,
+    "y_max": 637.734130859375,
+    "text": "Enter a top 5 score on 4 arcade leaderboards"
+  },
+  {
+    "x_min": 448.335205078125,
+    "y_min": 637.9391479492188,
+    "x_max": 531.6943969726562,
+    "y_max": 709.2130126953125,
+    "text": "WALDORF'S JOURNEY: Ki 3 squids in three different ways"
+  },
+  {
+    "x_min": 531.1505126953125,
+    "y_min": 637.5123901367188,
+    "x_max": 606.8197631835938,
+    "y_max": 707.4578857421875,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 606.5433959960938,
+    "y_min": 637.3010864257812,
+    "x_max": 682.6280517578125,
+    "y_max": 707.3817138671875,
+    "text": "GOLFARIA: Collect 3 clubs"
+  },
+  {
+    "x_min": 682.1831665039062,
+    "y_min": 637.4158325195312,
+    "x_max": 758.7865600585938,
+    "y_max": 707.358642578125,
+    "text": "OVERBOLD: Gold disk"
+  },
+  {
+    "x_min": 758.1848754882812,
+    "y_min": 637.5643920898438,
+    "x_max": 841.6531982421875,
+    "y_max": 708.6135864257812,
+    "text": "SEASIDEDRIVE Clear Stage 1 with 3lives and exactly 10,000 points (defeat only the boss)"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 467.17474365234375,
+    "y_min": 399.32366943359375,
+    "x_max": 537.966064453125,
+    "y_max": 465.4299621582031,
+    "text": "CAMPANFLLA 2:Have 300 coins"
+  },
+  {
+    "x_min": 537.3115844726562,
+    "y_min": 399.60540771484375,
+    "x_max": 605.8873901367188,
+    "y_max": 465.7845764160156,
+    "text": "HARBUTA Visit at least 25 rooms"
+  },
+  {
+    "x_min": 605.6456298828125,
+    "y_min": 399.88714599609375,
+    "x_max": 675.6417846679688,
+    "y_max": 465.7635803222656,
+    "text": "ROCK ONI ISLAND Beal Initial Encounter w/o cavemen"
+  },
+  {
+    "x_min": 675.271240234375,
+    "y_min": 400.56585693359375,
+    "x_max": 745.1508178710938,
+    "y_max": 465.8271484375,
+    "text": "Enter a top 5 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 744.8223266601562,
+    "y_min": 400.4933776855469,
+    "x_max": 813.904052734375,
+    "y_max": 465.4278869628906,
+    "text": "PAINT CHASE: Reach a score of 360+"
+  },
+  {
+    "x_min": 467.5764465332031,
+    "y_min": 465.1372375488281,
+    "x_max": 537.855224609375,
+    "y_max": 529.7136840820312,
+    "text": "UFO OPEN Golfaria Hit a Parbot, Pingoif Gold Disk; Londs of Diskonia: Destroy 5 enemy disks"
+  },
+  {
+    "x_min": 537.3644409179688,
+    "y_min": 465.6908264160156,
+    "x_max": 606.5647583007812,
+    "y_max": 528.9558715820312,
+    "text": "SEASIDE DRIVE:Reach 200,000+ points"
+  },
+  {
+    "x_min": 606.1658935546875,
+    "y_min": 465.7162780761719,
+    "x_max": 675.255859375,
+    "y_max": 529.0272216796875,
+    "text": "PAINT CHASE:Beat 6 levels"
+  },
+  {
+    "x_min": 674.7681274414062,
+    "y_min": 465.70440673828125,
+    "x_max": 745.43359375,
+    "y_max": 529.065185546875,
+    "text": "PINGOLF: Gold disk"
+  },
+  {
+    "x_min": 745.0128173828125,
+    "y_min": 464.8241271972656,
+    "x_max": 813.5794067382812,
+    "y_max": 529.3677368164062,
+    "text": "ONION DELIVERY: Cornplele 2 days of deliverles"
+  },
+  {
+    "x_min": 467.8079833984375,
+    "y_min": 529.3984375,
+    "x_max": 537.6526489257812,
+    "y_max": 591.9486083984375,
+    "text": "NIGHT MANOR: Collect the diamond"
+  },
+  {
+    "x_min": 537.230712890625,
+    "y_min": 528.80517578125,
+    "x_max": 606.4052734375,
+    "y_max": 592.2964477539062,
+    "text": "PARTY HOUSE Beat 2 random scenarios"
+  },
+  {
+    "x_min": 606.2091674804688,
+    "y_min": 528.962646484375,
+    "x_max": 675.326171875,
+    "y_max": 592.4447631835938,
+    "text": "Collect 5 gold disks"
+  },
+  {
+    "x_min": 674.9349365234375,
+    "y_min": 529.0125122070312,
+    "x_max": 745.40380859375,
+    "y_max": 592.4757080078125,
+    "text": "RAKSHASA Gold disk"
+  },
+  {
+    "x_min": 745.036376953125,
+    "y_min": 529.185302734375,
+    "x_max": 813.3590087890625,
+    "y_max": 592.1261596679688,
+    "text": "HOT FOOT Win a game without using star abilities"
+  },
+  {
+    "x_min": 467.89306640625,
+    "y_min": 591.7793579101562,
+    "x_max": 537.5897216796875,
+    "y_max": 655.5833129882812,
+    "text": "MORTOL OPEN-TOMB allowed; Clear all world 2 levels"
+  },
+  {
+    "x_min": 537.1888427734375,
+    "y_min": 592.1942749023438,
+    "x_max": 606.3241577148438,
+    "y_max": 655.6946411132812,
+    "text": "NIGHT MANOR Complete the hiding minigame twice"
+  },
+  {
+    "x_min": 606.1487426757812,
+    "y_min": 592.3785400390625,
+    "x_max": 675.2984008789062,
+    "y_max": 655.79052734375,
+    "text": "CARAMEL CARAMEL TEST- LENS allowed; defeat Dino Lord in Dino Planet"
+  },
+  {
+    "x_min": 674.9495849609375,
+    "y_min": 592.370849609375,
+    "x_max": 745.2010498046875,
+    "y_max": 655.8841552734375,
+    "text": "CYBER OWLS: Complete 2 missions"
+  },
+  {
+    "x_min": 744.967041015625,
+    "y_min": 591.7900390625,
+    "x_max": 813.0126953125,
+    "y_max": 655.8817138671875,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 467.55548095703125,
+    "y_min": 655.5847778320312,
+    "x_max": 537.4640502929688,
+    "y_max": 719.9900512695312,
+    "text": "RAILHEIST Beat 5 levels"
+  },
+  {
+    "x_min": 537.22998046875,
+    "y_min": 655.6044921875,
+    "x_max": 606.0966796875,
+    "y_max": 719.6932373046875,
+    "text": "Buy an item from a shop in 12 different games"
+  },
+  {
+    "x_min": 606.0851440429688,
+    "y_min": 655.6329956054688,
+    "x_max": 675.21923828125,
+    "y_max": 719.769287109375,
+    "text": "WARPTANK Beat any 9 levels and talk to 3 NPCs"
+  },
+  {
+    "x_min": 675.1234130859375,
+    "y_min": 655.6726684570312,
+    "x_max": 745.3349609375,
+    "y_max": 719.6491088867188,
+    "text": "WALDORF'S JOURNEY: Have 35 shells at once"
+  },
+  {
+    "x_min": 745.0031127929688,
+    "y_min": 655.5928344726562,
+    "x_max": 813.0066528320312,
+    "y_max": 719.689697265625,
+    "text": "MORTOL: Beat a level with a total of 30 or more additional lives than you began the run with"
+  }
+]

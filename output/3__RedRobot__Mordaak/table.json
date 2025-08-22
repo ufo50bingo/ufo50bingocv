@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 474.232666015625,
+    "y_min": 408.7335510253906,
+    "x_max": 546.8506469726562,
+    "y_max": 470.200927734375,
+    "text": "Defeat 10 bosses"
+  },
+  {
+    "x_min": 546.2388305664062,
+    "y_min": 410.16558837890625,
+    "x_max": 610.5846557617188,
+    "y_max": 470.4081726074219,
+    "text": "GRIMSTONE: Defeat 15 enemies"
+  },
+  {
+    "x_min": 609.9715576171875,
+    "y_min": 409.99847412109375,
+    "x_max": 676.6683959960938,
+    "y_max": 470.3704833984375,
+    "text": "MOONCAT Gold disk"
+  },
+  {
+    "x_min": 676.14990234375,
+    "y_min": 410.01263427734375,
+    "x_max": 741.38232421875,
+    "y_max": 470.5281677246094,
+    "text": "WALDORF'S JOURNEY: Gold disk"
+  },
+  {
+    "x_min": 740.576171875,
+    "y_min": 406.8647155761719,
+    "x_max": 810.3538818359375,
+    "y_max": 470.7091064453125,
+    "text": "DEVILITION: Clear the screen of demons with at least 20 pieces remaining"
+  },
+  {
+    "x_min": 475.4864807128906,
+    "y_min": 470.10986328125,
+    "x_max": 546.9552001953125,
+    "y_max": 529.1840209960938,
+    "text": "KICKCLUB Have 5 extra lives at once"
+  },
+  {
+    "x_min": 546.188232421875,
+    "y_min": 470.3974914550781,
+    "x_max": 610.986083984375,
+    "y_max": 529.1661376953125,
+    "text": "VALBRACE Defeat the Phantom Knight on Floor 2"
+  },
+  {
+    "x_min": 610.44970703125,
+    "y_min": 470.35125732421875,
+    "x_max": 676.5616455078125,
+    "y_max": 529.3465576171875,
+    "text": "Find an easter egg UFO in 5 games"
+  },
+  {
+    "x_min": 676.16455078125,
+    "y_min": 470.53289794921875,
+    "x_max": 741.1300659179688,
+    "y_max": 529.2618408203125,
+    "text": "FIST HELL: Clear the first scare and enter the shap with $20 or more"
+  },
+  {
+    "x_min": 740.506103515625,
+    "y_min": 470.503662109375,
+    "x_max": 807.6087646484375,
+    "y_max": 529.0166625976562,
+    "text": "MORTOL II: Activate all the switches"
+  },
+  {
+    "x_min": 475.8173828125,
+    "y_min": 529.0634765625,
+    "x_max": 546.7816772460938,
+    "y_max": 588.3438720703125,
+    "text": "PARTY HOUSE:Have 6 trouble on screen at once"
+  },
+  {
+    "x_min": 546.18017578125,
+    "y_min": 529.1685180664062,
+    "x_max": 610.8597412109375,
+    "y_max": 588.5517578125,
+    "text": "PINGOLF: Score-2 or better on three holes"
+  },
+  {
+    "x_min": 610.4603881835938,
+    "y_min": 529.2588500976562,
+    "x_max": 676.5900268554688,
+    "y_max": 588.7025146484375,
+    "text": "OVERBOLD: Max out four upgrades"
+  },
+  {
+    "x_min": 676.2262573242188,
+    "y_min": 529.1895751953125,
+    "x_max": 741.555419921875,
+    "y_max": 588.5731811523438,
+    "text": "CYBER OWLS: Cloar Hong Kong anly destroying Road Toad"
+  },
+  {
+    "x_min": 740.7315063476562,
+    "y_min": 528.9388427734375,
+    "x_max": 807.0045166015625,
+    "y_max": 588.4832763671875,
+    "text": "TREASURE HUNTER: DiveK Open 2 dhests Waldeets Jouney Open 2 chests in a run"
+  },
+  {
+    "x_min": 475.8125,
+    "y_min": 588.3004760742188,
+    "x_max": 546.8370361328125,
+    "y_max": 648.2537841796875,
+    "text": "RAKSHASA: Revive yourself 6 times in one run"
+  },
+  {
+    "x_min": 546.239990234375,
+    "y_min": 588.5494995117188,
+    "x_max": 611.0512084960938,
+    "y_max": 648.2977294921875,
+    "text": "Collect 5 gold disks"
+  },
+  {
+    "x_min": 610.5799560546875,
+    "y_min": 588.6528930664062,
+    "x_max": 676.826416015625,
+    "y_max": 648.2304077148438,
+    "text": "BUSHIDO BALL: Win the first match as every character"
+  },
+  {
+    "x_min": 676.3727416992188,
+    "y_min": 588.5867919921875,
+    "x_max": 741.62255859375,
+    "y_max": 648.2725830078125,
+    "text": "WARPTANK Beat Healing Sector"
+  },
+  {
+    "x_min": 740.96240234375,
+    "y_min": 588.4081420898438,
+    "x_max": 806.408203125,
+    "y_max": 648.3828125,
+    "text": "ELFAZAR'S HAT:Clear Stage 3 (Frostin Town)"
+  },
+  {
+    "x_min": 474.2637939453125,
+    "y_min": 648.3789672851562,
+    "x_max": 547.2342529296875,
+    "y_max": 710.9074096679688,
+    "text": "STARWASPIR Clearwaws 1and 2 withoutuaing powerupe (EEE, GGG, or GEE)"
+  },
+  {
+    "x_min": 546.5064697265625,
+    "y_min": 648.242431640625,
+    "x_max": 611.1942138671875,
+    "y_max": 709.7705078125,
+    "text": "ONION DELIVERY: Have 99 seconds remalning"
+  },
+  {
+    "x_min": 610.7139892578125,
+    "y_min": 648.1826782226562,
+    "x_max": 677.5491943359375,
+    "y_max": 709.8715209960938,
+    "text": "DEVILITION: Gold disk"
+  },
+  {
+    "x_min": 677.1307983398438,
+    "y_min": 648.1638793945312,
+    "x_max": 741.4782104492188,
+    "y_max": 710.1402587890625,
+    "text": "Enter a top 5 score on 4 arcade leaderboards"
+  },
+  {
+    "x_min": 740.967529296875,
+    "y_min": 648.2019653320312,
+    "x_max": 807.920654296875,
+    "y_max": 710.842529296875,
+    "text": "HOTFOOT Win a game without using star abilities"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 466.134033203125,
+    "y_min": 400.4377136230469,
+    "x_max": 535.6690673828125,
+    "y_max": 463.40045166015625,
+    "text": "PILOT QUEST: Plant 4 seeds at the crash site"
+  },
+  {
+    "x_min": 535.012939453125,
+    "y_min": 400.65667724609375,
+    "x_max": 605.6624755859375,
+    "y_max": 463.8801574707031,
+    "text": "BARBUTA: Defeat the Mimic"
+  },
+  {
+    "x_min": 605.1102294921875,
+    "y_min": 399.83197021484375,
+    "x_max": 674.9862670898438,
+    "y_max": 463.9766845703125,
+    "text": "NINPEK: Eat 5 sandwiches"
+  },
+  {
+    "x_min": 674.5337524414062,
+    "y_min": 399.5391845703125,
+    "x_max": 745.4625854492188,
+    "y_max": 464.01708984375,
+    "text": "SEASIDE DRIVE: Reach 200,000+ points"
+  },
+  {
+    "x_min": 744.8973999023438,
+    "y_min": 398.843017578125,
+    "x_max": 816.0901489257812,
+    "y_max": 463.5848388671875,
+    "text": "Collect 2 cherry disks"
+  },
+  {
+    "x_min": 466.38970947265625,
+    "y_min": 462.3816223144531,
+    "x_max": 535.9042358398438,
+    "y_max": 527.5670166015625,
+    "text": "DEVILITION: Beal three levels while placing the maimumnumber of pieces each rourd"
+  },
+  {
+    "x_min": 535.4940185546875,
+    "y_min": 463.8382263183594,
+    "x_max": 605.5402221679688,
+    "y_max": 527.5795288085938,
+    "text": "Beat 8 levels In 3 different games"
+  },
+  {
+    "x_min": 605.2052001953125,
+    "y_min": 463.8941955566406,
+    "x_max": 675.0703125,
+    "y_max": 527.6102294921875,
+    "text": "STAR WASPIR: Have a 20x multipller"
+  },
+  {
+    "x_min": 674.4290771484375,
+    "y_min": 463.9605712890625,
+    "x_max": 745.3116455078125,
+    "y_max": 527.6513061523438,
+    "text": "MOONCAT: Find 2 of 3 eggs"
+  },
+  {
+    "x_min": 745.0360107421875,
+    "y_min": 463.16192626953125,
+    "x_max": 816.451416015625,
+    "y_max": 527.8513793945312,
+    "text": "MORTOLII: Activate all the swilches"
+  },
+  {
+    "x_min": 466.3731689453125,
+    "y_min": 527.4607543945312,
+    "x_max": 535.7261962890625,
+    "y_max": 591.585693359375,
+    "text": "MORTOL I: Gold disk"
+  },
+  {
+    "x_min": 535.2412109375,
+    "y_min": 527.5173950195312,
+    "x_max": 605.5752563476562,
+    "y_max": 591.4633178710938,
+    "text": "PAINT CHASE: Beat 12 levels"
+  },
+  {
+    "x_min": 605.4322509765625,
+    "y_min": 527.5564575195312,
+    "x_max": 675.155517578125,
+    "y_max": 591.4810180664062,
+    "text": "CAMPANELLA 2: Clear Moire Woods Il or Rink II"
+  },
+  {
+    "x_min": 674.7155151367188,
+    "y_min": 527.683349609375,
+    "x_max": 745.4413452148438,
+    "y_max": 591.4674072265625,
+    "text": "Find an egg in 10 different games"
+  },
+  {
+    "x_min": 745.0100708007812,
+    "y_min": 527.5408325195312,
+    "x_max": 816.0134887695312,
+    "y_max": 591.3287963867188,
+    "text": "BARBUTA Collect the reward from a green skull"
+  },
+  {
+    "x_min": 466.22808837890625,
+    "y_min": 591.5800170898438,
+    "x_max": 535.5908813476562,
+    "y_max": 654.7384033203125,
+    "text": "Collect 12 gifts for the garden"
+  },
+  {
+    "x_min": 535.2020874023438,
+    "y_min": 591.403076171875,
+    "x_max": 605.4197387695312,
+    "y_max": 654.9296264648438,
+    "text": "PARTY HOUSE: Get busted by the fire department"
+  },
+  {
+    "x_min": 605.1360473632812,
+    "y_min": 591.4177856445312,
+    "x_max": 675.0470581054688,
+    "y_max": 654.9229736328125,
+    "text": "BLOCK KOALA: WORM-1234 allowed; clear any 9 levels"
+  },
+  {
+    "x_min": 674.7384033203125,
+    "y_min": 591.4869995117188,
+    "x_max": 745.4987182617188,
+    "y_max": 654.7929077148438,
+    "text": "ROCK ON! ISLAND: Beat Inltial Encounter w/o cavemen"
+  },
+  {
+    "x_min": 745.2322998046875,
+    "y_min": 591.2084350585938,
+    "x_max": 815.4378662109375,
+    "y_max": 654.8804931640625,
+    "text": "HYPER CONTENDER: Wn 3 fights in a row on Hyper difficuly on detault ring seffings"
+  },
+  {
+    "x_min": 466.1686706542969,
+    "y_min": 654.6051025390625,
+    "x_max": 535.4442749023438,
+    "y_max": 719.5645141601562,
+    "text": "Gold disk"
+  },
+  {
+    "x_min": 535.1104736328125,
+    "y_min": 654.8359375,
+    "x_max": 605.398681640625,
+    "y_max": 719.3248291015625,
+    "text": "HOT FOOT: In one tournament"
+  },
+  {
+    "x_min": 604.9369506835938,
+    "y_min": 654.7670288085938,
+    "x_max": 674.8397216796875,
+    "y_max": 719.5513916015625,
+    "text": "TRIATHLON: Gold Disk any 3 of the 5 \"SPORT\" games"
+  },
+  {
+    "x_min": 674.6176147460938,
+    "y_min": 654.6242065429688,
+    "x_max": 745.633056640625,
+    "y_max": 719.6566772460938,
+    "text": "GOLFARIA: Collect 3 clubs"
+  },
+  {
+    "x_min": 745.313720703125,
+    "y_min": 654.6085815429688,
+    "x_max": 815.5545043945312,
+    "y_max": 719.5225830078125,
+    "text": "DEVILITION: Clear the screon of demons with al least 20 pieces remaining"
+  }
+]

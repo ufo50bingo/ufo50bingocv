@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 474.2749328613281,
+    "y_min": 410.23614501953125,
+    "x_max": 547.1561279296875,
+    "y_max": 470.5769958496094,
+    "text": "MOONCAT: VIsit 12 different rooms"
+  },
+  {
+    "x_min": 546.6804809570312,
+    "y_min": 409.7263488769531,
+    "x_max": 610.4320678710938,
+    "y_max": 470.5179138183594,
+    "text": "Increase your max HP in 6 games"
+  },
+  {
+    "x_min": 609.9051513671875,
+    "y_min": 407.7420349121094,
+    "x_max": 676.3268432617188,
+    "y_max": 470.4904479980469,
+    "text": "VALBRACE: Clear Floor 1"
+  },
+  {
+    "x_min": 675.9822998046875,
+    "y_min": 408.4304504394531,
+    "x_max": 740.6897583007812,
+    "y_max": 470.3791809082031,
+    "text": "MORTOL II: Activate all the switches"
+  },
+  {
+    "x_min": 740.4417724609375,
+    "y_min": 407.2290954589844,
+    "x_max": 810.0379638671875,
+    "y_max": 470.32958984375,
+    "text": "HYPER CONTENDER: Win 4 fights in a row without remalches"
+  },
+  {
+    "x_min": 475.0699462890625,
+    "y_min": 470.3869323730469,
+    "x_max": 546.815673828125,
+    "y_max": 529.6065673828125,
+    "text": "MINI&MAX Speak to King Mittens In the doorknob"
+  },
+  {
+    "x_min": 546.2671508789062,
+    "y_min": 470.4386901855469,
+    "x_max": 610.7542724609375,
+    "y_max": 529.4915771484375,
+    "text": "VELGRESS Hold 50 coins at once"
+  },
+  {
+    "x_min": 610.2314453125,
+    "y_min": 470.31951904296875,
+    "x_max": 676.742431640625,
+    "y_max": 529.290283203125,
+    "text": "AVIANOS: Gold disk"
+  },
+  {
+    "x_min": 676.32373046875,
+    "y_min": 470.3155212402344,
+    "x_max": 740.6226806640625,
+    "y_max": 529.0545043945312,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 740.1984252929688,
+    "y_min": 470.0892639160156,
+    "x_max": 807.2252807617188,
+    "y_max": 529.0097045898438,
+    "text": "ROCK ON! ISLAND: CLUB-PASS allowed; beal Jungle Rush"
+  },
+  {
+    "x_min": 474.8439025878906,
+    "y_min": 529.4021606445312,
+    "x_max": 546.6339721679688,
+    "y_max": 588.39208984375,
+    "text": "ARCADEACE Gold Disk any 3 of the 16 \"ARCADE\" games"
+  },
+  {
+    "x_min": 546.2448120117188,
+    "y_min": 529.4240112304688,
+    "x_max": 610.8279418945312,
+    "y_max": 588.551513671875,
+    "text": "BUG HUNTER: Complete 3 jobs in total (Loss/Reset OK)"
+  },
+  {
+    "x_min": 610.3209838867188,
+    "y_min": 529.260498046875,
+    "x_max": 676.6583251953125,
+    "y_max": 588.6035766601562,
+    "text": "PORGY: Reach the Abyss (lowest depth area)"
+  },
+  {
+    "x_min": 676.3648681640625,
+    "y_min": 528.9203491210938,
+    "x_max": 741.0303955078125,
+    "y_max": 588.6528930664062,
+    "text": "ELFAZAR'S HAT:Eam a continue in the bonus round"
+  },
+  {
+    "x_min": 740.7278442382812,
+    "y_min": 528.8396606445312,
+    "x_max": 807.0437622070312,
+    "y_max": 588.552978515625,
+    "text": "CAMPANELLA 2:Clear Moire Woodsll or Rink II"
+  },
+  {
+    "x_min": 474.935791015625,
+    "y_min": 588.243896484375,
+    "x_max": 546.7085571289062,
+    "y_max": 648.2471923828125,
+    "text": "CAMPANELLA 2:Have 300 coins"
+  },
+  {
+    "x_min": 546.1907348632812,
+    "y_min": 588.4982299804688,
+    "x_max": 610.9227905273438,
+    "y_max": 648.2379760742188,
+    "text": "GRIMSTONE: Reach Level 4 with any character"
+  },
+  {
+    "x_min": 610.5643920898438,
+    "y_min": 588.5691528320312,
+    "x_max": 676.500732421875,
+    "y_max": 648.2479858398438,
+    "text": "Collect 7 gifts for the garden"
+  },
+  {
+    "x_min": 676.1104736328125,
+    "y_min": 588.6263427734375,
+    "x_max": 741.5262451171875,
+    "y_max": 648.1895141601562,
+    "text": "VALBRACE: Dafeat the Phantom Knight on Floor 2"
+  },
+  {
+    "x_min": 741.1339111328125,
+    "y_min": 588.4744873046875,
+    "x_max": 806.976806640625,
+    "y_max": 648.0699462890625,
+    "text": "CAMOUFLAG Save 5 babies"
+  },
+  {
+    "x_min": 473.6807556152344,
+    "y_min": 648.21435546875,
+    "x_max": 546.433837890625,
+    "y_max": 710.4515380859375,
+    "text": "PLANET ZOLDATH: Collect the dungeon Map Piece"
+  },
+  {
+    "x_min": 545.8954467773438,
+    "y_min": 648.1127319335938,
+    "x_max": 611.102783203125,
+    "y_max": 709.6566772460938,
+    "text": "STAR WASPIR: Clear waves 1 and 2 without using powerups (EEE, GGG, or GEE)"
+  },
+  {
+    "x_min": 610.8759155273438,
+    "y_min": 648.133544921875,
+    "x_max": 676.617431640625,
+    "y_max": 709.5517578125,
+    "text": "BLOCK KOALA:Beat Z story levels as Koalarana (Pink Koala)"
+  },
+  {
+    "x_min": 676.297119140625,
+    "y_min": 648.0542602539062,
+    "x_max": 741.35546875,
+    "y_max": 710.2442016601562,
+    "text": "ONION DELIVERY: Complele 2 days of dellveries"
+  },
+  {
+    "x_min": 740.782958984375,
+    "y_min": 647.7848510742188,
+    "x_max": 808.5316162109375,
+    "y_max": 712.7127685546875,
+    "text": "Collect 3 cherry disks"
+  }
+]

@@ -34,7 +34,18 @@ def get_square_from_json(from_json: dict[str, Any]) -> Square:
 
 
 def serialize_board(board: list[Square]) -> str:
-    return json.dumps([square_to_jsonable(square) for square in board])
+    return json.dumps([square_to_jsonable(square) for square in board], indent=2)
+
+
+def deserialize_board_file(filename: str) -> list[Square]:
+    with open(filename, "r") as f:
+        serialized = f.read()
+    return deserialize_board(serialized)
+
+
+def serialize_board_to_file(board: list[Square], filename: str):
+    with open(filename, "w") as f:
+        f.write(serialize_board(board))
 
 
 def deserialize_board(serialized: str) -> list[Square]:

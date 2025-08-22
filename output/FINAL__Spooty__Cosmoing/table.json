@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 723.4739990234375,
+    "y_min": 640.4274291992188,
+    "x_max": 824.5763549804688,
+    "y_max": 729.2214965820312,
+    "text": "BLOCK KOALA:Beat 5 story levels"
+  },
+  {
+    "x_min": 823.4586791992188,
+    "y_min": 640.2529296875,
+    "x_max": 919.882568359375,
+    "y_max": 729.0272827148438,
+    "text": "WAR IS BAD: Attactics:Win 3 ranked battles in a row; Avianos: Win with a blessing from each ancestor"
+  },
+  {
+    "x_min": 919.0773315429688,
+    "y_min": 640.3729858398438,
+    "x_max": 1013.9781494140625,
+    "y_max": 729.5291137695312,
+    "text": "DEVILITION: Beat 5 rounds"
+  },
+  {
+    "x_min": 1013.2109985351562,
+    "y_min": 640.62451171875,
+    "x_max": 1111.536865234375,
+    "y_max": 729.654541015625,
+    "text": "CAMPANELLA 3:Beat Joe Pulp (Stage 3 Boss)"
+  },
+  {
+    "x_min": 1110.506591796875,
+    "y_min": 640.8411865234375,
+    "x_max": 1210.463623046875,
+    "y_max": 729.692138671875,
+    "text": "MORTOL II: Gold disk"
+  },
+  {
+    "x_min": 725.2744140625,
+    "y_min": 728.8667602539062,
+    "x_max": 823.6189575195312,
+    "y_max": 817.325439453125,
+    "text": "CAMPANELLA 2: Obtain the Friendship Bracelet"
+  },
+  {
+    "x_min": 822.6021118164062,
+    "y_min": 729.0450439453125,
+    "x_max": 918.9869995117188,
+    "y_max": 817.2699584960938,
+    "text": "CAMOUFLAGE Reach 70% completion or more"
+  },
+  {
+    "x_min": 918.2894287109375,
+    "y_min": 729.396728515625,
+    "x_max": 1012.642822265625,
+    "y_max": 817.2884521484375,
+    "text": "MINI &MAX: Collect 7 upgrades"
+  },
+  {
+    "x_min": 1012.1035766601562,
+    "y_min": 729.5880737304688,
+    "x_max": 1111.4227294921875,
+    "y_max": 817.5667724609375,
+    "text": "ollect a food item in 8 different games"
+  },
+  {
+    "x_min": 1110.5540771484375,
+    "y_min": 729.5307006835938,
+    "x_max": 1209.31298828125,
+    "y_max": 817.751220703125,
+    "text": "PILOT QUEST: Plant 4 seeds at the crash site"
+  },
+  {
+    "x_min": 726.1902465820312,
+    "y_min": 817.1217041015625,
+    "x_max": 823.2870483398438,
+    "y_max": 905.5867309570312,
+    "text": "Collect 4 gold disks"
+  },
+  {
+    "x_min": 822.7027587890625,
+    "y_min": 817.15185546875,
+    "x_max": 918.6640014648438,
+    "y_max": 905.1175537109375,
+    "text": "BUG HUNTER: Get 4 kills in one job by pushing bugs into pits"
+  },
+  {
+    "x_min": 918.032470703125,
+    "y_min": 817.136962890625,
+    "x_max": 1013.0392456054688,
+    "y_max": 905.2608032226562,
+    "text": "WALDORF'S JOURNEY: Gold disk"
+  },
+  {
+    "x_min": 1012.3026123046875,
+    "y_min": 817.0829467773438,
+    "x_max": 1111.3299560546875,
+    "y_max": 904.9257202148438,
+    "text": "MAGIC GARDEN: Obtain a score multiplier of 8x"
+  },
+  {
+    "x_min": 1110.5980224609375,
+    "y_min": 817.2094116210938,
+    "x_max": 1208.962158203125,
+    "y_max": 904.7989501953125,
+    "text": "PINGOLF: Score -2 or better on three holes"
+  },
+  {
+    "x_min": 727.0408935546875,
+    "y_min": 905.3800048828125,
+    "x_max": 823.4676513671875,
+    "y_max": 993.1829833984375,
+    "text": "FISTHELL Beat the 4th scare (Boardwalk Bash)"
+  },
+  {
+    "x_min": 822.8734741210938,
+    "y_min": 905.1573486328125,
+    "x_max": 918.7086791992188,
+    "y_max": 992.967041015625,
+    "text": "THE BIG BELL RACE: Give all opponents a lap headstart and win on 3 separate tracks"
+  },
+  {
+    "x_min": 918.1190185546875,
+    "y_min": 905.15625,
+    "x_max": 1015.1368408203125,
+    "y_max": 992.7822265625,
+    "text": "Defeat10 bosses"
+  },
+  {
+    "x_min": 1014.2633056640625,
+    "y_min": 905.1448974609375,
+    "x_max": 1111.5394287109375,
+    "y_max": 992.8710327148438,
+    "text": "STAR WASPIR: Have a 20x multiplier"
+  },
+  {
+    "x_min": 1110.94970703125,
+    "y_min": 904.8851318359375,
+    "x_max": 1209.0821533203125,
+    "y_max": 992.862548828125,
+    "text": "COMBATANTS Beat 'Surprise!'"
+  },
+  {
+    "x_min": 727.3665771484375,
+    "y_min": 992.7938232421875,
+    "x_max": 823.4732666015625,
+    "y_max": 1079.4219970703125,
+    "text": "ROCK ON! ISLAND: Have 20 chickens in a main level"
+  },
+  {
+    "x_min": 823.0580444335938,
+    "y_min": 992.5245361328125,
+    "x_max": 918.6589965820312,
+    "y_max": 1079.729736328125,
+    "text": "PINGOLF: Gold disk"
+  },
+  {
+    "x_min": 918.12890625,
+    "y_min": 992.5338134765625,
+    "x_max": 1014.9821166992188,
+    "y_max": 1079.8116455078125,
+    "text": "COMBATANTS Beat 4 levels"
+  },
+  {
+    "x_min": 1014.4317626953125,
+    "y_min": 992.5597534179688,
+    "x_max": 1111.376953125,
+    "y_max": 1079.5743408203125,
+    "text": "PAINT CHASE: Beat 12 levels"
+  },
+  {
+    "x_min": 1110.903564453125,
+    "y_min": 992.3907470703125,
+    "x_max": 1209.0390625,
+    "y_max": 1079.465087890625,
+    "text": "Collect 12 gifts for the garden"
+  }
+]

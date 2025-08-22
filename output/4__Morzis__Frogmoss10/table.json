@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 463.44268798828125,
+    "y_min": 413.5857238769531,
+    "x_max": 535.2066650390625,
+    "y_max": 479.47021484375,
+    "text": "PORGY: Reach the Abyss (lowest depth area)"
+  },
+  {
+    "x_min": 534.570068359375,
+    "y_min": 415.35089111328125,
+    "x_max": 601.4244384765625,
+    "y_max": 479.5409851074219,
+    "text": "HOT FOOT: Win three games in a row"
+  },
+  {
+    "x_min": 600.975830078125,
+    "y_min": 414.9367370605469,
+    "x_max": 667.3169555664062,
+    "y_max": 479.5050354003906,
+    "text": "MAGIC GARDEN: Reach a score of 10,000+"
+  },
+  {
+    "x_min": 666.9522705078125,
+    "y_min": 414.8927917480469,
+    "x_max": 733.0697021484375,
+    "y_max": 479.5323181152344,
+    "text": "AVIANOS: Win the campaign Hatchiing game without using any Miracles"
+  },
+  {
+    "x_min": 732.736328125,
+    "y_min": 413.3339538574219,
+    "x_max": 793.4156494140625,
+    "y_max": 479.9251708984375,
+    "text": "Defeat 10 bosses"
+  },
+  {
+    "x_min": 463.14520263671875,
+    "y_min": 479.4346923828125,
+    "x_max": 534.9368286132812,
+    "y_max": 539.09423828125,
+    "text": "GOLFARIA: Obtain the Brakes"
+  },
+  {
+    "x_min": 534.5845336914062,
+    "y_min": 479.5428466796875,
+    "x_max": 601.1981811523438,
+    "y_max": 538.8364868164062,
+    "text": "UFO OPEN: Golfariac Hit a Parbet; Pingolt. Gold Disk; Lords of Diskonia: Dostroy 5 enemy disks"
+  },
+  {
+    "x_min": 600.9744873046875,
+    "y_min": 479.47332763671875,
+    "x_max": 667.08642578125,
+    "y_max": 538.8946533203125,
+    "text": "NIGHT MANOR: Find 10 joumal entries"
+  },
+  {
+    "x_min": 666.642333984375,
+    "y_min": 479.52008056640625,
+    "x_max": 733.465576171875,
+    "y_max": 539.0167846679688,
+    "text": "PLANET ZOLDATH: Kill a Mosquilo"
+  },
+  {
+    "x_min": 733.3596801757812,
+    "y_min": 479.7847595214844,
+    "x_max": 793.1967163085938,
+    "y_max": 539.2722778320312,
+    "text": "CYBER OWLS HAWK-BASE allowed;Clear the H.AW.K. Base stage"
+  },
+  {
+    "x_min": 463.70166015625,
+    "y_min": 539.020263671875,
+    "x_max": 534.7701416015625,
+    "y_max": 599.94189453125,
+    "text": "COMBATANTS: Beat 'First Blood' without shooting"
+  },
+  {
+    "x_min": 534.404052734375,
+    "y_min": 538.8134155273438,
+    "x_max": 600.9508666992188,
+    "y_max": 599.6747436523438,
+    "text": "OVERBOLD Gold disk"
+  },
+  {
+    "x_min": 600.86376953125,
+    "y_min": 538.8784790039062,
+    "x_max": 667.2093505859375,
+    "y_max": 599.6617431640625,
+    "text": "GRIMSTONE Reach Level 4 with any character"
+  },
+  {
+    "x_min": 667.0132446289062,
+    "y_min": 538.9424438476562,
+    "x_max": 733.311767578125,
+    "y_max": 599.7092895507812,
+    "text": "Collect 12 gifts for the garden"
+  },
+  {
+    "x_min": 732.957275390625,
+    "y_min": 539.0855712890625,
+    "x_max": 792.8685302734375,
+    "y_max": 599.8997802734375,
+    "text": "HYPER CONTENDER Beat Draft Mode (Default setlings)"
+  },
+  {
+    "x_min": 464.1056823730469,
+    "y_min": 599.6380615234375,
+    "x_max": 535.0023193359375,
+    "y_max": 660.2473754882812,
+    "text": "Collect 2 cherry disks"
+  },
+  {
+    "x_min": 534.4462890625,
+    "y_min": 599.5852661132812,
+    "x_max": 601.0492553710938,
+    "y_max": 660.0955810546875,
+    "text": "MORTOLIE: Collect 10 keys"
+  },
+  {
+    "x_min": 600.7960205078125,
+    "y_min": 599.590576171875,
+    "x_max": 667.0069580078125,
+    "y_max": 660.2326049804688,
+    "text": "MOONCAT: Use 2 warps"
+  },
+  {
+    "x_min": 666.8386840820312,
+    "y_min": 599.6078491210938,
+    "x_max": 733.3096313476562,
+    "y_max": 660.1515502929688,
+    "text": "BUG HUNTER: Complete 3 jobs in total (Loss/ Reset OK)"
+  },
+  {
+    "x_min": 732.9884033203125,
+    "y_min": 599.72900390625,
+    "x_max": 792.6341552734375,
+    "y_max": 660.201171875,
+    "text": "DEVILITION Have 6 villagers at once"
+  },
+  {
+    "x_min": 464.55474853515625,
+    "y_min": 660.1419677734375,
+    "x_max": 534.697021484375,
+    "y_max": 720.0,
+    "text": "ELFAZAR'S HAT: Defeat Elfazar in Stage 4 (Grand Palace)"
+  },
+  {
+    "x_min": 534.3065795898438,
+    "y_min": 660.0795288085938,
+    "x_max": 601.0595092773438,
+    "y_max": 719.95263671875,
+    "text": "CAMPANELLA 3:Beat Joe Pulp (Stage 3 Boss)"
+  },
+  {
+    "x_min": 600.886962890625,
+    "y_min": 660.1873168945312,
+    "x_max": 666.8724365234375,
+    "y_max": 720.0,
+    "text": "Find an easter egg UFO in 5 games"
+  },
+  {
+    "x_min": 666.6220092773438,
+    "y_min": 660.0966796875,
+    "x_max": 733.4048461914062,
+    "y_max": 720.0,
+    "text": "MAGIC GARDEN: Gold disk"
+  },
+  {
+    "x_min": 733.5687866210938,
+    "y_min": 660.2142333984375,
+    "x_max": 792.876220703125,
+    "y_max": 720.0,
+    "text": "DIVERS: Reach level 3"
+  }
+]

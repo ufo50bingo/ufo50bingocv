@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 699.6168212890625,
+    "y_min": 597.6923217773438,
+    "x_max": 803.3572998046875,
+    "y_max": 694.8652954101562,
+    "text": "RAIL HEIST: Kill 5 chickens"
+  },
+  {
+    "x_min": 801.963134765625,
+    "y_min": 598.228759765625,
+    "x_max": 907.965087890625,
+    "y_max": 695.830322265625,
+    "text": "CAMPANELLA Have 20 lives"
+  },
+  {
+    "x_min": 906.948486328125,
+    "y_min": 598.8125610351562,
+    "x_max": 1012.47412109375,
+    "y_max": 695.6636962890625,
+    "text": "KICK CLUB: Eat 10 hidden desserts"
+  },
+  {
+    "x_min": 1011.4170532226562,
+    "y_min": 599.0403442382812,
+    "x_max": 1116.812744140625,
+    "y_max": 695.726806640625,
+    "text": "Collect a beverage in 6 different games"
+  },
+  {
+    "x_min": 1116.003173828125,
+    "y_min": 598.6168823242188,
+    "x_max": 1222.28662109375,
+    "y_max": 695.4762573242188,
+    "text": "DEVILITION: Gold disk"
+  },
+  {
+    "x_min": 700.6948852539062,
+    "y_min": 694.5260620117188,
+    "x_max": 803.8721923828125,
+    "y_max": 790.0410766601562,
+    "text": "Enter a top 5 score on 4 arcade leaderboards"
+  },
+  {
+    "x_min": 802.6859130859375,
+    "y_min": 695.6979370117188,
+    "x_max": 907.6727294921875,
+    "y_max": 789.9969482421875,
+    "text": "CARAMEL CARAMEL: TEST- LENS allowed; beat Ghost Planet without using the camera before the boss"
+  },
+  {
+    "x_min": 906.8409423828125,
+    "y_min": 695.6221923828125,
+    "x_max": 1012.1702880859375,
+    "y_max": 790.15771484375,
+    "text": "BLOCK KOALA: Beat 2 story levels as Koalarana (Pink Koala)"
+  },
+  {
+    "x_min": 1011.2744750976562,
+    "y_min": 695.654052734375,
+    "x_max": 1116.9388427734375,
+    "y_max": 789.9548950195312,
+    "text": "HOTFOOT: Get 3 blowouts in one toumament"
+  },
+  {
+    "x_min": 1116.110595703125,
+    "y_min": 695.19140625,
+    "x_max": 1223.1300048828125,
+    "y_max": 789.7891235351562,
+    "text": "RAILHEIST: Beat 5 levels"
+  },
+  {
+    "x_min": 699.913818359375,
+    "y_min": 789.9346923828125,
+    "x_max": 803.7304077148438,
+    "y_max": 885.9293823242188,
+    "text": "WARPTANK: SLIM-TANK allowed; clear Riot and Soft Sectors"
+  },
+  {
+    "x_min": 803.0839233398438,
+    "y_min": 789.9921875,
+    "x_max": 907.3358154296875,
+    "y_max": 885.8311157226562,
+    "text": "MINI & MAX: Speak to King Mittens in the doorknob"
+  },
+  {
+    "x_min": 906.675537109375,
+    "y_min": 790.0175170898438,
+    "x_max": 1012.247802734375,
+    "y_max": 885.666015625,
+    "text": "WARISBAD Attactics: Win 3 ranked battles in a row, Avianos: Win with a blessing from each ancestor"
+  },
+  {
+    "x_min": 1011.453125,
+    "y_min": 789.87646484375,
+    "x_max": 1116.986328125,
+    "y_max": 885.793701171875,
+    "text": "MAGIC GARDEN: Obtain a score multiplier of 8x"
+  },
+  {
+    "x_min": 1116.192626953125,
+    "y_min": 789.6055908203125,
+    "x_max": 1222.81591796875,
+    "y_max": 885.6390380859375,
+    "text": "QUIBBLE RACE: Bet against your sponsored Quibble and win the round"
+  },
+  {
+    "x_min": 699.8047485351562,
+    "y_min": 885.7171020507812,
+    "x_max": 803.7938842773438,
+    "y_max": 981.0087280273438,
+    "text": "ROCK ON! ISLAND:Clear 3 main levels"
+  },
+  {
+    "x_min": 802.7302856445312,
+    "y_min": 885.6416015625,
+    "x_max": 907.00830078125,
+    "y_max": 980.6426391601562,
+    "text": "VELGRESS: Hold 50 coins at once"
+  },
+  {
+    "x_min": 906.5345458984375,
+    "y_min": 885.5181884765625,
+    "x_max": 1012.285400390625,
+    "y_max": 980.5187377929688,
+    "text": "VAINGER: Collect 5 items"
+  },
+  {
+    "x_min": 1011.8953857421875,
+    "y_min": 885.6869506835938,
+    "x_max": 1117.3931884765625,
+    "y_max": 980.6744995117188,
+    "text": "PARTY HOUSE: Beat a random scenario"
+  },
+  {
+    "x_min": 1116.5997314453125,
+    "y_min": 885.3706665039062,
+    "x_max": 1222.896728515625,
+    "y_max": 980.3138427734375,
+    "text": "Collect 5 gold disks"
+  },
+  {
+    "x_min": 697.076416015625,
+    "y_min": 980.5745849609375,
+    "x_max": 803.9794311523438,
+    "y_max": 1078.0577392578125,
+    "text": "PORGY: Reach the Abyss (lowest depth area)"
+  },
+  {
+    "x_min": 802.6278076171875,
+    "y_min": 980.2389526367188,
+    "x_max": 907.2801513671875,
+    "y_max": 1075.811279296875,
+    "text": "Defeat 7 bosses"
+  },
+  {
+    "x_min": 906.9237060546875,
+    "y_min": 980.1346435546875,
+    "x_max": 1012.3018798828125,
+    "y_max": 1075.5306396484375,
+    "text": "MORTOL: OPEN-TOMB allowed; clear all world 2 levels"
+  },
+  {
+    "x_min": 1011.7339477539062,
+    "y_min": 980.227294921875,
+    "x_max": 1117.4796142578125,
+    "y_max": 1075.4951171875,
+    "text": "MOONCAT: Use 2 warps"
+  },
+  {
+    "x_min": 1117.0960693359375,
+    "y_min": 979.6773681640625,
+    "x_max": 1220.5831298828125,
+    "y_max": 1075.3114013671875,
+    "text": "OVERBOLD: Max out four upgrades"
+  }
+]

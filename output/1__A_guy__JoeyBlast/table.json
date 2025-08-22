@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 699.28662109375,
+    "y_min": 599.0570068359375,
+    "x_max": 803.8553466796875,
+    "y_max": 694.6691284179688,
+    "text": "MINI & MAX: Save the brainwashed mouse near the portrait"
+  },
+  {
+    "x_min": 803.0044555664062,
+    "y_min": 599.2392578125,
+    "x_max": 907.0745239257812,
+    "y_max": 695.7205200195312,
+    "text": "Increase your max HP in 4 games"
+  },
+  {
+    "x_min": 906.7562255859375,
+    "y_min": 599.3623657226562,
+    "x_max": 1011.7322998046875,
+    "y_max": 695.9226684570312,
+    "text": "MOONCAT: Use 2 warps"
+  },
+  {
+    "x_min": 1010.9465942382812,
+    "y_min": 599.2459716796875,
+    "x_max": 1116.2679443359375,
+    "y_max": 695.8829956054688,
+    "text": "VAINGER: Collect 1 keycode"
+  },
+  {
+    "x_min": 1115.6785888671875,
+    "y_min": 598.677490234375,
+    "x_max": 1220.85107421875,
+    "y_max": 695.48095703125,
+    "text": "GOLFARIA: Obtain the Block Buster"
+  },
+  {
+    "x_min": 699.9750366210938,
+    "y_min": 694.3194580078125,
+    "x_max": 804.12060546875,
+    "y_max": 793.6664428710938,
+    "text": "ONION DELIVERY: Gold disk"
+  },
+  {
+    "x_min": 803.61328125,
+    "y_min": 695.6136474609375,
+    "x_max": 906.9559326171875,
+    "y_max": 790.7119140625,
+    "text": "BUG HUNTER: Complete a job with your energy maxed out"
+  },
+  {
+    "x_min": 906.7327880859375,
+    "y_min": 695.8536987304688,
+    "x_max": 1011.5491943359375,
+    "y_max": 790.6729736328125,
+    "text": "BLOCK KOALA: Beat 5 story levels"
+  },
+  {
+    "x_min": 1010.723388671875,
+    "y_min": 695.7570190429688,
+    "x_max": 1116.4251708984375,
+    "y_max": 790.390625,
+    "text": "Defeat 7 bosses"
+  },
+  {
+    "x_min": 1115.9371337890625,
+    "y_min": 694.651611328125,
+    "x_max": 1221.2042236328125,
+    "y_max": 789.8333129882812,
+    "text": "AVIANOS: Win a Custom game with 8 Mountains (change no other settings)"
+  },
+  {
+    "x_min": 700.6332397460938,
+    "y_min": 792.297607421875,
+    "x_max": 803.7144165039062,
+    "y_max": 885.1635131835938,
+    "text": "Enter a top 3 score on 2 arcade leaderboards"
+  },
+  {
+    "x_min": 803.122314453125,
+    "y_min": 790.6458129882812,
+    "x_max": 907.3148193359375,
+    "y_max": 885.6948852539062,
+    "text": "PARTY HOUSE:Get a Climber to 9 popularity"
+  },
+  {
+    "x_min": 906.7196044921875,
+    "y_min": 790.5360717773438,
+    "x_max": 1011.4176025390625,
+    "y_max": 885.77783203125,
+    "text": "ELFAZAR'S HAT: Clear Stage 3 (Frostin Town)"
+  },
+  {
+    "x_min": 1011.0078125,
+    "y_min": 790.3311767578125,
+    "x_max": 1116.70654296875,
+    "y_max": 885.8128051757812,
+    "text": "GOLFARIA: Collect 3 clubs"
+  },
+  {
+    "x_min": 1116.1749267578125,
+    "y_min": 789.5703125,
+    "x_max": 1221.316162109375,
+    "y_max": 885.3103637695312,
+    "text": "NINPEK:Gold disk"
+  },
+  {
+    "x_min": 700.2178344726562,
+    "y_min": 884.9244995117188,
+    "x_max": 802.6144409179688,
+    "y_max": 981.0103759765625,
+    "text": "RAKSHASA: Beat the first stage"
+  },
+  {
+    "x_min": 802.0427856445312,
+    "y_min": 885.5267944335938,
+    "x_max": 907.2012939453125,
+    "y_max": 980.8856201171875,
+    "text": "HOT FOOT: Get 3 blowouts in one tournament"
+  },
+  {
+    "x_min": 906.79833984375,
+    "y_min": 885.6565551757812,
+    "x_max": 1011.84619140625,
+    "y_max": 980.7578125,
+    "text": "Collect 2 cherry disks"
+  },
+  {
+    "x_min": 1011.2431030273438,
+    "y_min": 885.7307739257812,
+    "x_max": 1116.6552734375,
+    "y_max": 980.8030395507812,
+    "text": "CAMPANELLA 3:Beat Galbrain"
+  },
+  {
+    "x_min": 1116.3389892578125,
+    "y_min": 884.7905883789062,
+    "x_max": 1221.1707763671875,
+    "y_max": 980.6383666992188,
+    "text": "KICK CLUB: Gold disk"
+  },
+  {
+    "x_min": 699.5892333984375,
+    "y_min": 980.5608520507812,
+    "x_max": 803.0260009765625,
+    "y_max": 1078.160400390625,
+    "text": "WALDORF'S JOURNEY: Have 35 shells at once"
+  },
+  {
+    "x_min": 802.3040161132812,
+    "y_min": 980.5781860351562,
+    "x_max": 906.9002685546875,
+    "y_max": 1077.2294921875,
+    "text": "DEVILITION: Clear the screen of demons with at least ten pieces remaining"
+  },
+  {
+    "x_min": 906.7902221679688,
+    "y_min": 980.3770141601562,
+    "x_max": 1012.1367797851562,
+    "y_max": 1077.2940673828125,
+    "text": "KICK CLUB: Beat Track World"
+  },
+  {
+    "x_min": 1011.7647094726562,
+    "y_min": 980.4183959960938,
+    "x_max": 1116.7083740234375,
+    "y_max": 1077.0726318359375,
+    "text": "CARAMEL CARAMEL: Score 8,000 points in the prologue"
+  },
+  {
+    "x_min": 1115.8646240234375,
+    "y_min": 979.9784545898438,
+    "x_max": 1220.99462890625,
+    "y_max": 1078.201171875,
+    "text": "UFO OPEN: Golfaria: Hit a Parbot; Pingolf. Gold Disk; Lords of Diskonia: Destroy 5 enemy disks"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 466.6574401855469,
+    "y_min": 401.2307434082031,
+    "x_max": 537.6654663085938,
+    "y_max": 464.9366760253906,
+    "text": "BUG HUNTER Complete a job with your energy maxed out"
+  },
+  {
+    "x_min": 537.3251953125,
+    "y_min": 401.7650451660156,
+    "x_max": 607.07470703125,
+    "y_max": 465.3703918457031,
+    "text": "ATTACTICS Beat 5 levels without losing any flags"
+  },
+  {
+    "x_min": 606.8724365234375,
+    "y_min": 401.606201171875,
+    "x_max": 674.925048828125,
+    "y_max": 465.56268310546875,
+    "text": "PILOT QUEST: Collect a ship part"
+  },
+  {
+    "x_min": 674.378662109375,
+    "y_min": 401.6584777832031,
+    "x_max": 745.0845336914062,
+    "y_max": 465.6610412597656,
+    "text": "PLANET ZOLDATH Eat 10 slabs of meat"
+  },
+  {
+    "x_min": 744.6813354492188,
+    "y_min": 401.1414794921875,
+    "x_max": 815.2120361328125,
+    "y_max": 464.93798828125,
+    "text": "Enter a top 3 score on 2 arcade leaderboards"
+  },
+  {
+    "x_min": 466.5090637207031,
+    "y_min": 464.2351989746094,
+    "x_max": 537.531982421875,
+    "y_max": 528.5098266601562,
+    "text": "WARPTANK: Complele the three levels in the initial hub room"
+  },
+  {
+    "x_min": 537.162109375,
+    "y_min": 465.40142822265625,
+    "x_max": 606.9224853515625,
+    "y_max": 528.5054931640625,
+    "text": "Increase your max HP In 6 games"
+  },
+  {
+    "x_min": 606.7256469726562,
+    "y_min": 465.5503845214844,
+    "x_max": 674.9949951171875,
+    "y_max": 528.6747436523438,
+    "text": "BUG HUNTER: Use WORK-HARD: complete Job 1"
+  },
+  {
+    "x_min": 674.6826171875,
+    "y_min": 465.5802001953125,
+    "x_max": 744.8939208984375,
+    "y_max": 528.7560424804688,
+    "text": "NIGHT MANOR: Collect the diamond"
+  },
+  {
+    "x_min": 744.6814575195312,
+    "y_min": 463.63031005859375,
+    "x_max": 816.2975463867188,
+    "y_max": 528.68212890625,
+    "text": "CYBEROWLS HAWK-BASE allowed,clear the HAWK Base stage"
+  },
+  {
+    "x_min": 466.491455078125,
+    "y_min": 528.4622802734375,
+    "x_max": 537.547607421875,
+    "y_max": 591.6275024414062,
+    "text": "MORTOL II: Activate all the switches"
+  },
+  {
+    "x_min": 537.0064086914062,
+    "y_min": 528.5099487304688,
+    "x_max": 606.989501953125,
+    "y_max": 591.4487915039062,
+    "text": "BUG HUNTER: Gold disk"
+  },
+  {
+    "x_min": 606.7756958007812,
+    "y_min": 528.63623046875,
+    "x_max": 675.318115234375,
+    "y_max": 591.474853515625,
+    "text": "RAIL HEIST: LAZY. COPS allowed, beat Rool Around while destroying every barel"
+  },
+  {
+    "x_min": 674.922119140625,
+    "y_min": 528.774658203125,
+    "x_max": 744.9121704101562,
+    "y_max": 591.3493041992188,
+    "text": "PILOTPARTY:Coect the Gain 4of thass games: Campanedla 1/23, PlanetZoldch, Plot Quest, The g Bell Race"
+  },
+  {
+    "x_min": 744.4696655273438,
+    "y_min": 528.5653076171875,
+    "x_max": 815.7938232421875,
+    "y_max": 591.0919189453125,
+    "text": "PLANET ZOLDATH: Have 2 of each resource at once"
+  },
+  {
+    "x_min": 466.42376708984375,
+    "y_min": 591.5202026367188,
+    "x_max": 537.5036010742188,
+    "y_max": 654.0617065429688,
+    "text": "Collect 2 cherry disks"
+  },
+  {
+    "x_min": 537.1517333984375,
+    "y_min": 591.4441528320312,
+    "x_max": 606.9664306640625,
+    "y_max": 654.060791015625,
+    "text": "VAINGER: Beat 3 bosses"
+  },
+  {
+    "x_min": 606.8486938476562,
+    "y_min": 591.4465942382812,
+    "x_max": 675.219482421875,
+    "y_max": 654.0743408203125,
+    "text": "BLOCK KOALA:Beat 5 story levels"
+  },
+  {
+    "x_min": 674.8760375976562,
+    "y_min": 591.277587890625,
+    "x_max": 745.0330200195312,
+    "y_max": 654.1956787109375,
+    "text": "BARBUTA: Defeat the Mimic"
+  },
+  {
+    "x_min": 744.85693359375,
+    "y_min": 590.961181640625,
+    "x_max": 815.6603393554688,
+    "y_max": 654.2341918945312,
+    "text": "FIST HELL: Clear the first scare and enter the shop with $20 or more"
+  },
+  {
+    "x_min": 465.9220886230469,
+    "y_min": 653.7843017578125,
+    "x_max": 537.56005859375,
+    "y_max": 718.1815185546875,
+    "text": "COMBATANTS Beat 4 levels"
+  },
+  {
+    "x_min": 537.1016845703125,
+    "y_min": 653.9732055664062,
+    "x_max": 607.20166015625,
+    "y_max": 716.4036254882812,
+    "text": "VELGRESS: Hold 50 coins at once"
+  },
+  {
+    "x_min": 607.1429443359375,
+    "y_min": 653.9923095703125,
+    "x_max": 675.1821899414062,
+    "y_max": 716.2261962890625,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 674.9966430664062,
+    "y_min": 654.035400390625,
+    "x_max": 744.9093627929688,
+    "y_max": 716.3744506835938,
+    "text": "FIST HELL: Survive 9 waves in the gym"
+  },
+  {
+    "x_min": 744.5010375976562,
+    "y_min": 653.9388427734375,
+    "x_max": 815.8120727539062,
+    "y_max": 716.8109741210938,
+    "text": "STAR WASPIR: Clear waves 1 and 2 without using powerups (EEE, GGG, or GEE)"
+  }
+]

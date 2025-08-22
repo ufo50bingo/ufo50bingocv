@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 697.7138671875,
+    "y_min": 598.4513549804688,
+    "x_max": 802.177734375,
+    "y_max": 695.7493286132812,
+    "text": "WALDORF'S JOURNEY: Gold disk"
+  },
+  {
+    "x_min": 801.07666015625,
+    "y_min": 598.4434204101562,
+    "x_max": 907.6229858398438,
+    "y_max": 696.883056640625,
+    "text": "Collect 6 gold disks"
+  },
+  {
+    "x_min": 906.76513671875,
+    "y_min": 598.918701171875,
+    "x_max": 1006.5313110351562,
+    "y_max": 696.8468017578125,
+    "text": "VELGRESS: Cherry disk without Upgrades or Jump Pads"
+  },
+  {
+    "x_min": 1004.6493530273438,
+    "y_min": 599.4689331054688,
+    "x_max": 1118.9661865234375,
+    "y_max": 696.642822265625,
+    "text": "BUSHIDO BALL: Win a 16-point match on Hyper speed with all other options default"
+  },
+  {
+    "x_min": 1116.9925537109375,
+    "y_min": 599.4502563476562,
+    "x_max": 1220.3291015625,
+    "y_max": 695.4647216796875,
+    "text": "PLANET ZOLDATH: Eat 10 slabs of meat"
+  },
+  {
+    "x_min": 699.3284912109375,
+    "y_min": 695.064697265625,
+    "x_max": 802.2561645507812,
+    "y_max": 791.825439453125,
+    "text": "QUIBBLE RACE:WILD- BETS allowed; Have $25,000"
+  },
+  {
+    "x_min": 801.4539794921875,
+    "y_min": 696.6973876953125,
+    "x_max": 907.2862548828125,
+    "y_max": 791.8795776367188,
+    "text": "GRIMSTONE Defeat 15 enemies"
+  },
+  {
+    "x_min": 906.9324951171875,
+    "y_min": 696.3917236328125,
+    "x_max": 1007.4652709960938,
+    "y_max": 792.1424560546875,
+    "text": "VALBRACE: Give the Red Knight 5 items"
+  },
+  {
+    "x_min": 1006.3153686523438,
+    "y_min": 696.0540161132812,
+    "x_max": 1116.6085205078125,
+    "y_max": 792.0723266601562,
+    "text": "GRIDLOCK: Rock On! Island: CLUB- PASS allowed, Beat The Spiral; Devilition: Beat 5 rounds; Cyber Owls: Rescue an owl"
+  },
+  {
+    "x_min": 1115.803466796875,
+    "y_min": 694.5808715820312,
+    "x_max": 1217.651611328125,
+    "y_max": 792.0737915039062,
+    "text": "MINI& MAX: Save the brainwashed mouse near the portrait"
+  },
+  {
+    "x_min": 699.96630859375,
+    "y_min": 791.6708374023438,
+    "x_max": 802.5524291992188,
+    "y_max": 886.3585205078125,
+    "text": "Buy an item from a shop in 10 different games"
+  },
+  {
+    "x_min": 801.4581298828125,
+    "y_min": 791.7239990234375,
+    "x_max": 907.23046875,
+    "y_max": 886.4072875976562,
+    "text": "WALDORF'S JOURNEY: Enter the palace with 6 Puffins"
+  },
+  {
+    "x_min": 906.661376953125,
+    "y_min": 791.692138671875,
+    "x_max": 1006.0562744140625,
+    "y_max": 886.3400268554688,
+    "text": "\u2605ROCK ON! ISLAND: Beat Initial Encounter w/o cavemen"
+  },
+  {
+    "x_min": 1005.3150634765625,
+    "y_min": 791.8555297851562,
+    "x_max": 1116.3421630859375,
+    "y_max": 886.5453491210938,
+    "text": "OVERBOLD: Purchase 3 price hiked items in one run"
+  },
+  {
+    "x_min": 1115.624755859375,
+    "y_min": 791.8816528320312,
+    "x_max": 1216.793701171875,
+    "y_max": 886.541015625,
+    "text": "\u2605 BUG HUNTER: Use WORK-HARD; complete Job 1"
+  },
+  {
+    "x_min": 699.7723388671875,
+    "y_min": 886.3727416992188,
+    "x_max": 802.372314453125,
+    "y_max": 981.43017578125,
+    "text": "RAIL HEIST LAZY- COPS allowed; beat Root Around while destroying every barrel"
+  },
+  {
+    "x_min": 801.54833984375,
+    "y_min": 886.3563232421875,
+    "x_max": 907.1730346679688,
+    "y_max": 981.467041015625,
+    "text": "CAMPANELLA 3:Beat Joe Pulp (Stage 3 Boss)"
+  },
+  {
+    "x_min": 907.0108642578125,
+    "y_min": 886.154052734375,
+    "x_max": 1005.265625,
+    "y_max": 981.3564453125,
+    "text": "Enter a top 5 score on 4 arcade leaderboards"
+  },
+  {
+    "x_min": 1004.8551025390625,
+    "y_min": 886.505859375,
+    "x_max": 1116.628173828125,
+    "y_max": 981.410888671875,
+    "text": "COMBATANTS Slay a spider"
+  },
+  {
+    "x_min": 1115.043212890625,
+    "y_min": 886.23974609375,
+    "x_max": 1217.2901611328125,
+    "y_max": 981.2061767578125,
+    "text": "PAINT CHASE: Beat 12 levels"
+  },
+  {
+    "x_min": 699.57275390625,
+    "y_min": 981.1068115234375,
+    "x_max": 802.0179443359375,
+    "y_max": 1079.05615234375,
+    "text": "PILOTQUEST Defeat Unktomi (Spider boss)"
+  },
+  {
+    "x_min": 801.22802734375,
+    "y_min": 981.2179565429688,
+    "x_max": 907.0972290039062,
+    "y_max": 1078.3988037109375,
+    "text": "WARPTANK Collect 3 coffees"
+  },
+  {
+    "x_min": 907.498046875,
+    "y_min": 981.0396728515625,
+    "x_max": 1007.0940551757812,
+    "y_max": 1078.446044921875,
+    "text": "BUSHIDO BALL: Win the first match as every character"
+  },
+  {
+    "x_min": 1005.2161865234375,
+    "y_min": 981.0817260742188,
+    "x_max": 1116.4447021484375,
+    "y_max": 1078.53955078125,
+    "text": "MORTOL: Beat a level with a total of 30 or more additional lives than you began the run with"
+  },
+  {
+    "x_min": 1115.2322998046875,
+    "y_min": 980.837158203125,
+    "x_max": 1218.6766357421875,
+    "y_max": 1079.339599609375,
+    "text": "Defeat 10 bosses"
+  }
+]

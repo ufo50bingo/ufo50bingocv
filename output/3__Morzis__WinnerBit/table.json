@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 700.1640625,
+    "y_min": 597.3704833984375,
+    "x_max": 804.9688110351562,
+    "y_max": 695.8530883789062,
+    "text": "GOLFARIA: Achieve 20% Completion"
+  },
+  {
+    "x_min": 803.6649780273438,
+    "y_min": 597.0693969726562,
+    "x_max": 907.6664428710938,
+    "y_max": 696.510986328125,
+    "text": "PLANET ZOLDATH: Max out health by collecting 4 energy cubes"
+  },
+  {
+    "x_min": 906.46875,
+    "y_min": 597.783203125,
+    "x_max": 1011.1331176757812,
+    "y_max": 697.0331420898438,
+    "text": "BUG HUNTER Use 3 different 4-cost modules in one job"
+  },
+  {
+    "x_min": 1010.388916015625,
+    "y_min": 597.5028076171875,
+    "x_max": 1116.479248046875,
+    "y_max": 697.1598510742188,
+    "text": "Collect 4 gold disks"
+  },
+  {
+    "x_min": 1115.334716796875,
+    "y_min": 597.3529052734375,
+    "x_max": 1220.483154296875,
+    "y_max": 695.7913208007812,
+    "text": "PINGOLF: Hole-in-one on 3 different courses"
+  },
+  {
+    "x_min": 700.497802734375,
+    "y_min": 695.2360229492188,
+    "x_max": 805.3104248046875,
+    "y_max": 793.7962646484375,
+    "text": "Collect 12 gifts for the garden"
+  },
+  {
+    "x_min": 804.543212890625,
+    "y_min": 696.08251953125,
+    "x_max": 907.57666015625,
+    "y_max": 791.3176879882812,
+    "text": "MAGIC GARDEN: Gold disk"
+  },
+  {
+    "x_min": 907.1343383789062,
+    "y_min": 696.5538330078125,
+    "x_max": 1011.7284545898438,
+    "y_max": 791.5051879882812,
+    "text": "VAINGER: Get the Force Mod from Verde Sector"
+  },
+  {
+    "x_min": 1010.5772705078125,
+    "y_min": 696.5740966796875,
+    "x_max": 1116.5081787109375,
+    "y_max": 791.5294799804688,
+    "text": "MOONCAT: Use 2 warps"
+  },
+  {
+    "x_min": 1115.732177734375,
+    "y_min": 695.1470336914062,
+    "x_max": 1218.9417724609375,
+    "y_max": 792.3287963867188,
+    "text": "PLANET ZOLDATH: Have 2 of each resource at once"
+  },
+  {
+    "x_min": 700.3905029296875,
+    "y_min": 792.6890869140625,
+    "x_max": 805.0479736328125,
+    "y_max": 885.6109008789062,
+    "text": "COMBATANTS Beat 'First Blood' without shooting"
+  },
+  {
+    "x_min": 804.3264770507812,
+    "y_min": 791.1688232421875,
+    "x_max": 908.28564453125,
+    "y_max": 886.2440185546875,
+    "text": "CAMPANELLA Have 20 lives"
+  },
+  {
+    "x_min": 907.5069580078125,
+    "y_min": 791.2548217773438,
+    "x_max": 1012.0087280273438,
+    "y_max": 886.4118041992188,
+    "text": "Increase your max HP in 6 games"
+  },
+  {
+    "x_min": 1011.0466918945312,
+    "y_min": 791.3347778320312,
+    "x_max": 1116.516845703125,
+    "y_max": 886.2628173828125,
+    "text": "MORTOL II: Collect 10 keys"
+  },
+  {
+    "x_min": 1115.6190185546875,
+    "y_min": 791.8945922851562,
+    "x_max": 1218.307861328125,
+    "y_max": 885.4642333984375,
+    "text": "VALBRACE: ClearFloor 1"
+  },
+  {
+    "x_min": 700.5863647460938,
+    "y_min": 885.3817138671875,
+    "x_max": 804.7662963867188,
+    "y_max": 981.7411499023438,
+    "text": "RAKSHASA: Beat the first stage"
+  },
+  {
+    "x_min": 804.1005859375,
+    "y_min": 886.0916137695312,
+    "x_max": 908.4525146484375,
+    "y_max": 981.6767578125,
+    "text": "PORGY: Defeat a boss"
+  },
+  {
+    "x_min": 907.9879760742188,
+    "y_min": 886.2144165039062,
+    "x_max": 1011.911865234375,
+    "y_max": 982.0757446289062,
+    "text": "PAINT CHASE:Beat 6 levels"
+  },
+  {
+    "x_min": 1011.2243041992188,
+    "y_min": 886.1763305664062,
+    "x_max": 1117.1199951171875,
+    "y_max": 982.2835693359375,
+    "text": "NIGHT MANOR: Successfully complete the hiding minigame in five different rooms"
+  },
+  {
+    "x_min": 1116.262939453125,
+    "y_min": 885.18701171875,
+    "x_max": 1218.15283203125,
+    "y_max": 981.890869140625,
+    "text": "WAR IS BAD: Affactics: Win 3 ranked battles in a row; Avianos: Win with a blessing from each ancestor"
+  },
+  {
+    "x_min": 699.7909545898438,
+    "y_min": 981.2615356445312,
+    "x_max": 804.5643310546875,
+    "y_max": 1079.0758056640625,
+    "text": "KICKCLUB: Have 5 extra lives at once"
+  },
+  {
+    "x_min": 804.2047729492188,
+    "y_min": 981.2042846679688,
+    "x_max": 909.3575439453125,
+    "y_max": 1078.2161865234375,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 908.8008422851562,
+    "y_min": 981.5123291015625,
+    "x_max": 1011.3566284179688,
+    "y_max": 1077.517333984375,
+    "text": "HYPER CONTENDER: Beat Draft Mode with code PAST-RULE"
+  },
+  {
+    "x_min": 1011.2020263671875,
+    "y_min": 981.9346923828125,
+    "x_max": 1117.3857421875,
+    "y_max": 1078.0771484375,
+    "text": "ROCKON! ISLAND: CLUB- PASS allowed; beat Terror Overhead"
+  },
+  {
+    "x_min": 1116.669189453125,
+    "y_min": 981.31201171875,
+    "x_max": 1218.7073974609375,
+    "y_max": 1078.92626953125,
+    "text": "SEASIDE DRIVE:Beat Stage 2"
+  }
+]

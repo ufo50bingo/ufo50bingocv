@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 466.43585205078125,
+    "y_min": 399.8396301269531,
+    "x_max": 537.7374267578125,
+    "y_max": 464.9608459472656,
+    "text": "PORGY: Achieve 20% Completion"
+  },
+  {
+    "x_min": 536.912353515625,
+    "y_min": 400.2961730957031,
+    "x_max": 607.4869995117188,
+    "y_max": 465.33428955078125,
+    "text": "\u2605 Collect 4 gold disks"
+  },
+  {
+    "x_min": 606.390380859375,
+    "y_min": 400.56280517578125,
+    "x_max": 674.1714477539062,
+    "y_max": 465.6600646972656,
+    "text": "CARAMEL CARAMEL: Score 8.000+ points in the prologue"
+  },
+  {
+    "x_min": 673.2227172851562,
+    "y_min": 400.0452880859375,
+    "x_max": 744.38623046875,
+    "y_max": 465.62896728515625,
+    "text": "PINGOLF: Score -2 or better on three holes"
+  },
+  {
+    "x_min": 743.3157958984375,
+    "y_min": 399.82861328125,
+    "x_max": 815.7836303710938,
+    "y_max": 464.6220397949219,
+    "text": "BUG HUNTER Get4 kills in one job by pushing bugs into pits"
+  },
+  {
+    "x_min": 465.90093994140625,
+    "y_min": 464.1744384765625,
+    "x_max": 537.72802734375,
+    "y_max": 528.6112060546875,
+    "text": "CAMPANELLA Defeat the Stage B Boss"
+  },
+  {
+    "x_min": 536.7564086914062,
+    "y_min": 465.2152404785156,
+    "x_max": 607.0421142578125,
+    "y_max": 528.083251953125,
+    "text": "MAGIC GARDEN:Use OVER-GROW Save 30+ oppies in a run"
+  },
+  {
+    "x_min": 606.3206176757812,
+    "y_min": 465.38812255859375,
+    "x_max": 674.4683227539062,
+    "y_max": 528.0171508789062,
+    "text": "RAILHEIST Collect 9 total stars"
+  },
+  {
+    "x_min": 673.45068359375,
+    "y_min": 465.3525695800781,
+    "x_max": 744.73291015625,
+    "y_max": 528.0700073242188,
+    "text": "DAY JOB: Bug Hunter:Beat a job; Onion Delivery: Complete 2 daye; Rai Heist: Earn 3 pacifist stars"
+  },
+  {
+    "x_min": 743.996826171875,
+    "y_min": 464.48388671875,
+    "x_max": 816.325439453125,
+    "y_max": 528.0706787109375,
+    "text": "GRIMSTONE Reach Level 4 with any character"
+  },
+  {
+    "x_min": 466.1446533203125,
+    "y_min": 528.35302734375,
+    "x_max": 537.3894653320312,
+    "y_max": 591.2186889648438,
+    "text": "ollect a food Item in 8 different games"
+  },
+  {
+    "x_min": 536.6581420898438,
+    "y_min": 527.8668212890625,
+    "x_max": 606.6730346679688,
+    "y_max": 591.0523071289062,
+    "text": "VAINGER: Coilect1 keycode"
+  },
+  {
+    "x_min": 606.2290649414062,
+    "y_min": 527.8802490234375,
+    "x_max": 674.7181396484375,
+    "y_max": 591.2128295898438,
+    "text": "SEASIDE DRIVE: Clear Stage 1 with 3 lives and exaclly 10,000 points (defeat only the boss)"
+  },
+  {
+    "x_min": 673.91796875,
+    "y_min": 527.9119262695312,
+    "x_max": 744.733154296875,
+    "y_max": 591.3670043945312,
+    "text": "GOLFARIA Hit 3 eagles"
+  },
+  {
+    "x_min": 743.9944458007812,
+    "y_min": 527.9354858398438,
+    "x_max": 815.99609375,
+    "y_max": 591.3735961914062,
+    "text": "CAMPANELLA Gold disk"
+  },
+  {
+    "x_min": 466.3137512207031,
+    "y_min": 590.9967651367188,
+    "x_max": 537.4266967773438,
+    "y_max": 654.099853515625,
+    "text": "MINI &MAX: Rid the books of Silverfish"
+  },
+  {
+    "x_min": 536.63818359375,
+    "y_min": 590.8053588867188,
+    "x_max": 606.792236328125,
+    "y_max": 653.743408203125,
+    "text": "PLANET ZOLDATH: Collect the trade Map Plece"
+  },
+  {
+    "x_min": 606.2362060546875,
+    "y_min": 590.8775634765625,
+    "x_max": 674.8006591796875,
+    "y_max": 653.564453125,
+    "text": "\u2605 Defeat 7 bosses"
+  },
+  {
+    "x_min": 674.0078735351562,
+    "y_min": 591.1264038085938,
+    "x_max": 744.7003173828125,
+    "y_max": 653.5865478515625,
+    "text": "DEVILITION: Have 6 villagersat once"
+  },
+  {
+    "x_min": 743.954833984375,
+    "y_min": 591.2122802734375,
+    "x_max": 815.8031616210938,
+    "y_max": 653.5681762695312,
+    "text": "AVIANOS:WIn a Fledgling game in the campaign"
+  },
+  {
+    "x_min": 465.5938720703125,
+    "y_min": 653.8233642578125,
+    "x_max": 537.484130859375,
+    "y_max": 717.63427734375,
+    "text": "ELFAZAR'S HAT:Clear Stage 3 (Frostin Town)"
+  },
+  {
+    "x_min": 536.4287109375,
+    "y_min": 653.4258422851562,
+    "x_max": 606.951416015625,
+    "y_max": 716.634521484375,
+    "text": "BLOCK KOALA:Beat 5 story levels"
+  },
+  {
+    "x_min": 606.4531860351562,
+    "y_min": 653.282470703125,
+    "x_max": 674.6194458007812,
+    "y_max": 716.999755859375,
+    "text": "HYPER CONTENDER:Wn 4 fights in a row without rematcheo an default ring sefings"
+  },
+  {
+    "x_min": 673.8298950195312,
+    "y_min": 653.2603149414062,
+    "x_max": 744.6573486328125,
+    "y_max": 716.9717407226562,
+    "text": "MORTOL: OPEN-TOMB allowed; clear all world 3 levels"
+  },
+  {
+    "x_min": 743.73486328125,
+    "y_min": 653.25927734375,
+    "x_max": 816.0972900390625,
+    "y_max": 717.811279296875,
+    "text": "\u2605 Collect 7 gifts for the garden"
+  }
+]

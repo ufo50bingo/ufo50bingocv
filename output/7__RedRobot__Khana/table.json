@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 465.7147521972656,
+    "y_min": 400.2508544921875,
+    "x_max": 534.5267944335938,
+    "y_max": 463.185791015625,
+    "text": "SEASIDE DRIVE: Win the bonus game"
+  },
+  {
+    "x_min": 534.12255859375,
+    "y_min": 400.3281555175781,
+    "x_max": 605.6549682617188,
+    "y_max": 463.97589111328125,
+    "text": "NIGHT MANOR: Succesafully complete the hiding minigame in five different rooms"
+  },
+  {
+    "x_min": 604.8367919921875,
+    "y_min": 400.5545654296875,
+    "x_max": 674.7374877929688,
+    "y_max": 463.96575927734375,
+    "text": "CYBEROWLS HAWK-BASE allowed, clear the H.A.W.K Base stage"
+  },
+  {
+    "x_min": 674.161376953125,
+    "y_min": 400.6164855957031,
+    "x_max": 745.4083251953125,
+    "y_max": 464.02313232421875,
+    "text": "Increase your max HP in 6 games"
+  },
+  {
+    "x_min": 744.7052612304688,
+    "y_min": 400.58709716796875,
+    "x_max": 815.85107421875,
+    "y_max": 463.7265625,
+    "text": "HYPER CONTENDER Beat Draft Mode (Default settings)"
+  },
+  {
+    "x_min": 465.6201477050781,
+    "y_min": 463.1825256347656,
+    "x_max": 534.783447265625,
+    "y_max": 527.705810546875,
+    "text": "Collect 2 cherry disks"
+  },
+  {
+    "x_min": 534.32177734375,
+    "y_min": 463.98895263671875,
+    "x_max": 605.1795654296875,
+    "y_max": 527.5664672851562,
+    "text": "NINPEK:Eat 5 sandwiches"
+  },
+  {
+    "x_min": 604.8043212890625,
+    "y_min": 463.9655456542969,
+    "x_max": 674.8070678710938,
+    "y_max": 527.6808471679688,
+    "text": "MOONCAT Use 2 warps"
+  },
+  {
+    "x_min": 674.2678833007812,
+    "y_min": 463.9493713378906,
+    "x_max": 745.2633666992188,
+    "y_max": 527.7899169921875,
+    "text": "CARAMEL CARAMEL: Score B.000+ points in the prologue"
+  },
+  {
+    "x_min": 744.8590087890625,
+    "y_min": 463.2140197753906,
+    "x_max": 815.9063720703125,
+    "y_max": 527.8351440429688,
+    "text": "SEASIDE DRIVE: Gold disk"
+  },
+  {
+    "x_min": 464.7755432128906,
+    "y_min": 527.4284057617188,
+    "x_max": 534.8345336914062,
+    "y_max": 591.86181640625,
+    "text": "CAMPANELLA Finish Stage C with 2000 points or less (kill only bosses)"
+  },
+  {
+    "x_min": 534.12451171875,
+    "y_min": 527.4974365234375,
+    "x_max": 605.448486328125,
+    "y_max": 591.7158813476562,
+    "text": "PILOT QUEST: Defeat Big Borlg (large alien in the central ruins)"
+  },
+  {
+    "x_min": 605.2442626953125,
+    "y_min": 527.5604248046875,
+    "x_max": 674.9510498046875,
+    "y_max": 591.8844604492188,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 674.4302978515625,
+    "y_min": 527.7138061523438,
+    "x_max": 745.3856811523438,
+    "y_max": 591.7802124023438,
+    "text": "MINL&MAX Speak to King Mitlens in the doorknob"
+  },
+  {
+    "x_min": 744.766845703125,
+    "y_min": 527.5961303710938,
+    "x_max": 816.1563110351562,
+    "y_max": 591.9102783203125,
+    "text": "VAINGER Defeat a boss"
+  },
+  {
+    "x_min": 464.1419982910156,
+    "y_min": 591.7307739257812,
+    "x_max": 535.1802978515625,
+    "y_max": 655.0068359375,
+    "text": "LORDS OF DISKONIA: Have 50+ gold"
+  },
+  {
+    "x_min": 534.5403442382812,
+    "y_min": 591.6663208007812,
+    "x_max": 605.5585327148438,
+    "y_max": 655.174560546875,
+    "text": "CAMPANELLA: Collect 5 coffees"
+  },
+  {
+    "x_min": 605.3056030273438,
+    "y_min": 591.744384765625,
+    "x_max": 674.8717651367188,
+    "y_max": 655.1390380859375,
+    "text": "ONION DELIVERY: HIt 6 time boxes in one day and complete the day"
+  },
+  {
+    "x_min": 674.4854736328125,
+    "y_min": 591.712890625,
+    "x_max": 745.4263305664062,
+    "y_max": 655.0281372070312,
+    "text": "VALBRACE: Defaat the Phantom Knight on Floor 2"
+  },
+  {
+    "x_min": 745.1296997070312,
+    "y_min": 591.741943359375,
+    "x_max": 816.1337280273438,
+    "y_max": 654.69873046875,
+    "text": "Enter a top 3 score on 2 arcade leaderboards"
+  },
+  {
+    "x_min": 463.8633728027344,
+    "y_min": 654.7975463867188,
+    "x_max": 535.0379638671875,
+    "y_max": 719.4741821289062,
+    "text": "OVERBOLD: Gold disk"
+  },
+  {
+    "x_min": 534.6695556640625,
+    "y_min": 654.9689331054688,
+    "x_max": 605.3551025390625,
+    "y_max": 719.2944946289062,
+    "text": "TREASURE HUNTER:D Bartuta: Opan 2 chaats in mach; Waldarf's Joumay: Open 2 chests in a run"
+  },
+  {
+    "x_min": 605.09912109375,
+    "y_min": 654.8345336914062,
+    "x_max": 674.7439575195312,
+    "y_max": 719.2828979492188,
+    "text": "WALDORF'S JOURNEY: Have four pumfins at once"
+  },
+  {
+    "x_min": 674.4977416992188,
+    "y_min": 654.6898193359375,
+    "x_max": 745.25732421875,
+    "y_max": 719.472900390625,
+    "text": "ROCKON! ISLAND: Have 20 chickens in a main level"
+  },
+  {
+    "x_min": 744.9201049804688,
+    "y_min": 654.3989868164062,
+    "x_max": 815.7343139648438,
+    "y_max": 719.6317138671875,
+    "text": "HOT FOOT: Get 3 blowouts In one loumament"
+  }
+]

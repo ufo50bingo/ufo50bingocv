@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 717.8966064453125,
+    "y_min": 641.3870239257812,
+    "x_max": 818.0809936523438,
+    "y_max": 730.28466796875,
+    "text": "NIGHT MANOR: Find 10 journal entries"
+  },
+  {
+    "x_min": 817.2938232421875,
+    "y_min": 640.7975463867188,
+    "x_max": 913.849609375,
+    "y_max": 730.1220092773438,
+    "text": "Buy an item from a shop in 10 different games"
+  },
+  {
+    "x_min": 913.4800415039062,
+    "y_min": 640.3588256835938,
+    "x_max": 1009.881591796875,
+    "y_max": 730.3296508789062,
+    "text": "MORTOL II: Defeat two mini bosses without damaging them as the Bomber"
+  },
+  {
+    "x_min": 1009.6055908203125,
+    "y_min": 640.1793212890625,
+    "x_max": 1107.2181396484375,
+    "y_max": 730.4921264648438,
+    "text": "VELGRESS: Gold disk"
+  },
+  {
+    "x_min": 1106.1673583984375,
+    "y_min": 640.9061889648438,
+    "x_max": 1208.2042236328125,
+    "y_max": 730.7504272460938,
+    "text": "RAKSHASA: Have 0 skulls by using bell pickups"
+  },
+  {
+    "x_min": 720.8242797851562,
+    "y_min": 730.10888671875,
+    "x_max": 817.847412109375,
+    "y_max": 818.5526733398438,
+    "text": "FIST HELL: Survive 9 waves in the gym"
+  },
+  {
+    "x_min": 817.3900146484375,
+    "y_min": 730.168212890625,
+    "x_max": 913.97509765625,
+    "y_max": 818.4861450195312,
+    "text": "WARPTANK: Complete the three levels in the initial hub room"
+  },
+  {
+    "x_min": 913.2897338867188,
+    "y_min": 730.3960571289062,
+    "x_max": 1009.5716552734375,
+    "y_max": 818.6591796875,
+    "text": "CAMPANELLA Defeat the Stage B Boss"
+  },
+  {
+    "x_min": 1009.3932495117188,
+    "y_min": 730.4610595703125,
+    "x_max": 1106.9530029296875,
+    "y_max": 818.8900146484375,
+    "text": "Beat 4 levels in 5 different games"
+  },
+  {
+    "x_min": 1106.3739013671875,
+    "y_min": 730.7119140625,
+    "x_max": 1206.179443359375,
+    "y_max": 818.8973999023438,
+    "text": "DEVILITION: Beat 3 rounds while placing the maximum number of pieces each round"
+  },
+  {
+    "x_min": 722.15087890625,
+    "y_min": 818.350341796875,
+    "x_max": 817.8019409179688,
+    "y_max": 905.8958129882812,
+    "text": "Collect 12 gifts for the garden"
+  },
+  {
+    "x_min": 817.2330322265625,
+    "y_min": 818.3484497070312,
+    "x_max": 914.0208740234375,
+    "y_max": 905.956298828125,
+    "text": "CAMOUFLAGE Reach 70% completion or more"
+  },
+  {
+    "x_min": 913.3966064453125,
+    "y_min": 818.4961547851562,
+    "x_max": 1009.3729248046875,
+    "y_max": 906.1083374023438,
+    "text": "FIST HELL: Have $50 at once"
+  },
+  {
+    "x_min": 1009.1831665039062,
+    "y_min": 818.8680419921875,
+    "x_max": 1106.979736328125,
+    "y_max": 906.3192749023438,
+    "text": "PAINT CHASE: Beat 6 levels"
+  },
+  {
+    "x_min": 1106.791015625,
+    "y_min": 818.6918334960938,
+    "x_max": 1205.85205078125,
+    "y_max": 906.6575927734375,
+    "text": "HYPER CONTENDER: Beat Draft Mode (Default settings)"
+  },
+  {
+    "x_min": 722.8292236328125,
+    "y_min": 905.937744140625,
+    "x_max": 817.4421997070312,
+    "y_max": 994.7783203125,
+    "text": "WALDORF'S JOURNEY: Read 5 signs"
+  },
+  {
+    "x_min": 816.950439453125,
+    "y_min": 906.0200805664062,
+    "x_max": 913.98388671875,
+    "y_max": 994.1825561523438,
+    "text": "MAGIC GARDEN: Gold disk"
+  },
+  {
+    "x_min": 913.672119140625,
+    "y_min": 906.1636962890625,
+    "x_max": 1009.7979125976562,
+    "y_max": 993.9713134765625,
+    "text": "UFO OPEN: Golfaria: Hit a Parbot; Pingolf: Gold Disk; Lords of Diskonia: Destroy 5 enemy disks"
+  },
+  {
+    "x_min": 1009.801025390625,
+    "y_min": 906.31298828125,
+    "x_max": 1105.0703125,
+    "y_max": 994.295166015625,
+    "text": "BARBUTA: Defeat the Mimic"
+  },
+  {
+    "x_min": 1104.9332275390625,
+    "y_min": 906.7958374023438,
+    "x_max": 1206.3299560546875,
+    "y_max": 994.2715454101562,
+    "text": "NIGHTMANOR Successfully complete the hiding minigame in five different rooms"
+  },
+  {
+    "x_min": 723.170654296875,
+    "y_min": 994.5894775390625,
+    "x_max": 817.4231567382812,
+    "y_max": 1079.58740234375,
+    "text": "CAMPANELLA 2: Obtain 6 power- up items in one run (square icons on left of screen)"
+  },
+  {
+    "x_min": 816.9904174804688,
+    "y_min": 994.0533447265625,
+    "x_max": 914.45458984375,
+    "y_max": 1079.63818359375,
+    "text": "OVERBOLD: Complete a wave with $1000+ stakes without using bombs"
+  },
+  {
+    "x_min": 914.10693359375,
+    "y_min": 993.7944946289062,
+    "x_max": 1010.5101318359375,
+    "y_max": 1079.7481689453125,
+    "text": "MAGIC GARDEN: Save 10+ Oppies at once twice"
+  },
+  {
+    "x_min": 1010.36669921875,
+    "y_min": 993.9703979492188,
+    "x_max": 1103.2412109375,
+    "y_max": 1079.537841796875,
+    "text": "CYBER OWLS: Rescue each owl in the GETM- EOUT terminal code mini-game"
+  },
+  {
+    "x_min": 1103.005859375,
+    "y_min": 993.8635864257812,
+    "x_max": 1206.97216796875,
+    "y_max": 1079.1292724609375,
+    "text": "Collect 3 cherry disks"
+  }
+]

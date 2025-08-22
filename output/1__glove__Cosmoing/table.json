@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 717.8156127929688,
+    "y_min": 640.5133666992188,
+    "x_max": 817.6350708007812,
+    "y_max": 727.8043212890625,
+    "text": "PLANET ZOLDATH: Collect the dungeon Map Piece"
+  },
+  {
+    "x_min": 816.841552734375,
+    "y_min": 640.1636352539062,
+    "x_max": 914.32568359375,
+    "y_max": 728.0186767578125,
+    "text": "CAMOUFLAGE Collect 10 oranges"
+  },
+  {
+    "x_min": 914.0634765625,
+    "y_min": 640.2161865234375,
+    "x_max": 1009.955322265625,
+    "y_max": 727.8121337890625,
+    "text": "MINI & MAX: Slay the Water Bear in the west pot"
+  },
+  {
+    "x_min": 1009.719970703125,
+    "y_min": 640.4426879882812,
+    "x_max": 1107.8370361328125,
+    "y_max": 727.7766723632812,
+    "text": "MAGIC GARDEN: Defeat an enemy worth 500 points"
+  },
+  {
+    "x_min": 1107.7994384765625,
+    "y_min": 641.6666259765625,
+    "x_max": 1207.3531494140625,
+    "y_max": 728.2574462890625,
+    "text": "Enter a top 5 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 721.6996459960938,
+    "y_min": 727.7470092773438,
+    "x_max": 817.6152954101562,
+    "y_max": 815.7608642578125,
+    "text": "OVERBOLD: Complete a wave with $1000+ stakes without using mines"
+  },
+  {
+    "x_min": 816.8906860351562,
+    "y_min": 727.879150390625,
+    "x_max": 913.8889770507812,
+    "y_max": 815.8220825195312,
+    "text": "Defeat 10 bosses"
+  },
+  {
+    "x_min": 913.2947998046875,
+    "y_min": 727.7181396484375,
+    "x_max": 1009.7291259765625,
+    "y_max": 815.6751098632812,
+    "text": "ELFAZAR'S HAT: Clear Stage 3 (Frostin Town)"
+  },
+  {
+    "x_min": 1009.6126708984375,
+    "y_min": 727.6574096679688,
+    "x_max": 1107.08837890625,
+    "y_max": 815.3909912109375,
+    "text": "AVIANOS: Max out blessings from one Ancestor"
+  },
+  {
+    "x_min": 1107.03564453125,
+    "y_min": 728.0469970703125,
+    "x_max": 1206.7645263671875,
+    "y_max": 815.3680419921875,
+    "text": "BARBUTA: Wield both secret weapons"
+  },
+  {
+    "x_min": 722.4595947265625,
+    "y_min": 815.5831298828125,
+    "x_max": 817.625244140625,
+    "y_max": 902.8732299804688,
+    "text": "MOONCAT: Use 2 warps"
+  },
+  {
+    "x_min": 817.0995483398438,
+    "y_min": 815.6366577148438,
+    "x_max": 913.8670654296875,
+    "y_max": 903.095458984375,
+    "text": "PORGY: Collect 3 torpedo upgrades"
+  },
+  {
+    "x_min": 913.399169921875,
+    "y_min": 815.5946655273438,
+    "x_max": 1009.8231201171875,
+    "y_max": 903.10009765625,
+    "text": "HYPER CONTENDER: Gold disk"
+  },
+  {
+    "x_min": 1009.5445556640625,
+    "y_min": 815.2918090820312,
+    "x_max": 1106.028076171875,
+    "y_max": 903.08251953125,
+    "text": "Buy an item from a shop in 8 different games"
+  },
+  {
+    "x_min": 1105.873291015625,
+    "y_min": 815.196044921875,
+    "x_max": 1206.6820068359375,
+    "y_max": 902.8706665039062,
+    "text": "CAMPANELLA Gold disk"
+  },
+  {
+    "x_min": 722.3424072265625,
+    "y_min": 902.9019165039062,
+    "x_max": 817.7496948242188,
+    "y_max": 990.7039794921875,
+    "text": "Find an egg in 8 games"
+  },
+  {
+    "x_min": 817.2330322265625,
+    "y_min": 903.0825805664062,
+    "x_max": 913.5908813476562,
+    "y_max": 990.9658203125,
+    "text": "WARPTANK: Talk to 3 NPCs"
+  },
+  {
+    "x_min": 913.2938842773438,
+    "y_min": 903.1090698242188,
+    "x_max": 1009.5538330078125,
+    "y_max": 991.1431274414062,
+    "text": "GOLFARIA: Hit 3 eagles"
+  },
+  {
+    "x_min": 1009.6910400390625,
+    "y_min": 903.0812377929688,
+    "x_max": 1106.959228515625,
+    "y_max": 991.1118774414062,
+    "text": "NINPEK: Score 16,000+ points"
+  },
+  {
+    "x_min": 1106.5576171875,
+    "y_min": 902.7197875976562,
+    "x_max": 1206.3331298828125,
+    "y_max": 990.9730224609375,
+    "text": "MAGIC GARDEN: Obtain a score multiplier of 8x"
+  },
+  {
+    "x_min": 722.2030029296875,
+    "y_min": 990.4302978515625,
+    "x_max": 817.7041625976562,
+    "y_max": 1079.1182861328125,
+    "text": "BUG HUNTER: Use 3 different 4-cost modules in one job"
+  },
+  {
+    "x_min": 817.226806640625,
+    "y_min": 990.7884521484375,
+    "x_max": 913.6390380859375,
+    "y_max": 1079.017822265625,
+    "text": "MORTOL: Accumulate a total of +30 or more lives on the map"
+  },
+  {
+    "x_min": 913.66650390625,
+    "y_min": 990.8262329101562,
+    "x_max": 1009.8602905273438,
+    "y_max": 1079.2777099609375,
+    "text": "Collect 15 gifts for the garden"
+  },
+  {
+    "x_min": 1010.0274047851562,
+    "y_min": 990.9515991210938,
+    "x_max": 1108.751953125,
+    "y_max": 1079.119140625,
+    "text": "COMBATANTS Beat 4 levels"
+  },
+  {
+    "x_min": 1108.21435546875,
+    "y_min": 990.6765747070312,
+    "x_max": 1206.8173828125,
+    "y_max": 1078.5460205078125,
+    "text": "WARPTANK Complete the three levels in the initial hub room"
+  }
+]

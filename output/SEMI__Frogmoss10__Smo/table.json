@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 721.61181640625,
+    "y_min": 641.1730346679688,
+    "x_max": 823.1566772460938,
+    "y_max": 729.0980224609375,
+    "text": "AVIANOS: Max out blessings from one Ancestor"
+  },
+  {
+    "x_min": 822.3023071289062,
+    "y_min": 641.31494140625,
+    "x_max": 919.5167236328125,
+    "y_max": 729.3704223632812,
+    "text": "ELFAZAR'S HAT: Clear stages 1 and 2 without any upgrades or healing"
+  },
+  {
+    "x_min": 918.676513671875,
+    "y_min": 641.2515869140625,
+    "x_max": 1011.25146484375,
+    "y_max": 729.4259033203125,
+    "text": "Collect 6 gold disks"
+  },
+  {
+    "x_min": 1010.7825927734375,
+    "y_min": 641.8676147460938,
+    "x_max": 1110.89208984375,
+    "y_max": 729.4679565429688,
+    "text": "CAMPANELLA 3:Beat Joe Pulp (Stage 3 Boss)"
+  },
+  {
+    "x_min": 1110.434326171875,
+    "y_min": 642.7015991210938,
+    "x_max": 1210.698974609375,
+    "y_max": 729.7081909179688,
+    "text": "OVERBOLD: Gold disk"
+  },
+  {
+    "x_min": 723.8173217773438,
+    "y_min": 729.5603637695312,
+    "x_max": 822.4315185546875,
+    "y_max": 817.19677734375,
+    "text": "MORTOL: Beat a level with a total of 30 or more additional lives than you began the run with"
+  },
+  {
+    "x_min": 821.7732543945312,
+    "y_min": 729.6532592773438,
+    "x_max": 917.7235107421875,
+    "y_max": 816.8570556640625,
+    "text": "MAGIC GARDEN: Reach a score of 50,000+"
+  },
+  {
+    "x_min": 917.5055541992188,
+    "y_min": 729.4866943359375,
+    "x_max": 1011.544189453125,
+    "y_max": 816.8883666992188,
+    "text": "PINGOLF: Score under par on 5 courses"
+  },
+  {
+    "x_min": 1010.8236694335938,
+    "y_min": 729.4677124023438,
+    "x_max": 1110.7138671875,
+    "y_max": 817.0007934570312,
+    "text": "BUSHIDO BALL: Win a 16-point match on Hyper speedwith all other options default"
+  },
+  {
+    "x_min": 1110.3438720703125,
+    "y_min": 729.6669311523438,
+    "x_max": 1208.24609375,
+    "y_max": 817.2820434570312,
+    "text": "\u2605WAR IS BAD: Attactics: Win 3 ranked battles in a row; Avlanos Win with a blessing from each ancestor"
+  },
+  {
+    "x_min": 724.6968383789062,
+    "y_min": 817.1156005859375,
+    "x_max": 822.0414428710938,
+    "y_max": 905.349609375,
+    "text": "NINPEK: Score 16,000+ points"
+  },
+  {
+    "x_min": 821.4845581054688,
+    "y_min": 816.8916015625,
+    "x_max": 917.9972534179688,
+    "y_max": 904.847900390625,
+    "text": "nter a top 3 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 917.5868530273438,
+    "y_min": 816.9176025390625,
+    "x_max": 1012.2047119140625,
+    "y_max": 905.3834838867188,
+    "text": "WALDORF'S JOURNEY: Gold disk"
+  },
+  {
+    "x_min": 1011.7212524414062,
+    "y_min": 816.9492797851562,
+    "x_max": 1111.049072265625,
+    "y_max": 905.3456420898438,
+    "text": "PARTY HOUSE: Beat a random scenario having purchased the maximum number of Old Friendsand Rich Pals"
+  },
+  {
+    "x_min": 1110.363037109375,
+    "y_min": 817.205322265625,
+    "x_max": 1207.66845703125,
+    "y_max": 905.07373046875,
+    "text": "MORTOL II: In one run, defeat at least 2 enemies with each player class"
+  },
+  {
+    "x_min": 726.3131103515625,
+    "y_min": 905.0685424804688,
+    "x_max": 821.5296630859375,
+    "y_max": 993.1080322265625,
+    "text": "ELFAZAR'S HAT: Defeat Elfazar in Stage 4(Grand Palace)"
+  },
+  {
+    "x_min": 820.9854736328125,
+    "y_min": 904.969970703125,
+    "x_max": 918.8416137695312,
+    "y_max": 993.2971801757812,
+    "text": "CAMPANELLA Collect 5 coffees"
+  },
+  {
+    "x_min": 918.3997192382812,
+    "y_min": 905.395263671875,
+    "x_max": 1012.5523071289062,
+    "y_max": 993.2755126953125,
+    "text": "LORDS OF DISKONIA: Have 5 enemy disks drown"
+  },
+  {
+    "x_min": 1012.1564331054688,
+    "y_min": 905.3743896484375,
+    "x_max": 1110.94580078125,
+    "y_max": 993.3334350585938,
+    "text": "Collect a food item in 8 different games"
+  },
+  {
+    "x_min": 1110.3795166015625,
+    "y_min": 905.0699462890625,
+    "x_max": 1207.9893798828125,
+    "y_max": 992.9612426757812,
+    "text": "MORTOL: Beat 2 levels without killing any enemies"
+  },
+  {
+    "x_min": 727.149658203125,
+    "y_min": 992.9796142578125,
+    "x_max": 821.6880493164062,
+    "y_max": 1079.8865966796875,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 821.3155517578125,
+    "y_min": 993.1392822265625,
+    "x_max": 918.6513671875,
+    "y_max": 1080.0,
+    "text": "FIST HELL: Have $50 at once"
+  },
+  {
+    "x_min": 918.4287719726562,
+    "y_min": 993.1382446289062,
+    "x_max": 1013.3353271484375,
+    "y_max": 1079.6834716796875,
+    "text": "MAGIC GARDEN: Obtain a score multiplier of 8x"
+  },
+  {
+    "x_min": 1013.1815185546875,
+    "y_min": 992.9511108398438,
+    "x_max": 1110.338134765625,
+    "y_max": 1079.9141845703125,
+    "text": "THE BIG BELL RACE:KO an opponent with 3 unique power- ups"
+  },
+  {
+    "x_min": 1110.130615234375,
+    "y_min": 992.6085815429688,
+    "x_max": 1208.157470703125,
+    "y_max": 1079.1212158203125,
+    "text": "SEASIDE DRIVE: Destroy the UFO in Stage 3"
+  }
+]

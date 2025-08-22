@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 716.366943359375,
+    "y_min": 641.0717163085938,
+    "x_max": 818.31103515625,
+    "y_max": 729.4461669921875,
+    "text": "MINI&MAX: Turn off the lamp"
+  },
+  {
+    "x_min": 816.9348754882812,
+    "y_min": 641.118896484375,
+    "x_max": 914.8621215820312,
+    "y_max": 729.449951171875,
+    "text": "PILOT QUEST: Plant 4 seeds at the crash site"
+  },
+  {
+    "x_min": 913.8480834960938,
+    "y_min": 640.0137939453125,
+    "x_max": 1008.332275390625,
+    "y_max": 729.3084106445312,
+    "text": "WARPTANK: SLIM-TANK allowed;clear Riot and Soft Sectors"
+  },
+  {
+    "x_min": 1007.2787475585938,
+    "y_min": 637.2340698242188,
+    "x_max": 1109.6759033203125,
+    "y_max": 729.748046875,
+    "text": "KICKCLUB: Beat Track World"
+  },
+  {
+    "x_min": 1108.6318359375,
+    "y_min": 634.3603515625,
+    "x_max": 1206.802734375,
+    "y_max": 729.6101684570312,
+    "text": "Increase your max HP in 6 games"
+  },
+  {
+    "x_min": 721.1201171875,
+    "y_min": 729.3013916015625,
+    "x_max": 817.5233764648438,
+    "y_max": 817.6055908203125,
+    "text": "LORDS OF DISKONIA: Have 50+ gold"
+  },
+  {
+    "x_min": 816.7081298828125,
+    "y_min": 729.2914428710938,
+    "x_max": 913.607421875,
+    "y_max": 817.60400390625,
+    "text": "Enter a top 3 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 913.1112670898438,
+    "y_min": 729.1077880859375,
+    "x_max": 1009.3345947265625,
+    "y_max": 817.5244750976562,
+    "text": "OVERBOLD: Gold disk"
+  },
+  {
+    "x_min": 1008.8659057617188,
+    "y_min": 729.3251953125,
+    "x_max": 1108.5263671875,
+    "y_max": 817.3502807617188,
+    "text": "CAMOUFLAGE Get eaten by a Frog, Gator, & Bird"
+  },
+  {
+    "x_min": 1107.914306640625,
+    "y_min": 729.5714111328125,
+    "x_max": 1206.033935546875,
+    "y_max": 817.209716796875,
+    "text": "CAMPANELLA: Finish Stage C with 2000 points or less (kill only bosses)"
+  },
+  {
+    "x_min": 722.2867431640625,
+    "y_min": 817.3922119140625,
+    "x_max": 817.7557983398438,
+    "y_max": 904.8856811523438,
+    "text": "CAMPANELLA 2: Have 300 coins"
+  },
+  {
+    "x_min": 816.9361572265625,
+    "y_min": 817.30859375,
+    "x_max": 913.3900146484375,
+    "y_max": 904.5919799804688,
+    "text": "PINGOLF: Gold disk"
+  },
+  {
+    "x_min": 912.86572265625,
+    "y_min": 817.057373046875,
+    "x_max": 1009.6056518554688,
+    "y_max": 904.5692138671875,
+    "text": "STAR WASPIR: Score 50,000+ points"
+  },
+  {
+    "x_min": 1009.4073486328125,
+    "y_min": 816.9415893554688,
+    "x_max": 1108.4111328125,
+    "y_max": 904.8250732421875,
+    "text": "Defeat 7 bosses"
+  },
+  {
+    "x_min": 1108.1202392578125,
+    "y_min": 816.8384399414062,
+    "x_max": 1205.5679931640625,
+    "y_max": 905.1477661132812,
+    "text": "RAKSHASA: Revive yourself 6 times in one run"
+  },
+  {
+    "x_min": 722.3137817382812,
+    "y_min": 904.8042602539062,
+    "x_max": 817.7635498046875,
+    "y_max": 992.6854248046875,
+    "text": "AMY: Hot Foot Win 2 games with Amy: Fist Hell: Clear 2nd scare as Amy: Party House: Beat a random scenario"
+  },
+  {
+    "x_min": 817.1420288085938,
+    "y_min": 904.6156616210938,
+    "x_max": 913.7981567382812,
+    "y_max": 992.5916748046875,
+    "text": "CAMPANELLA: Gold disk"
+  },
+  {
+    "x_min": 913.200927734375,
+    "y_min": 904.63671875,
+    "x_max": 1009.6503295898438,
+    "y_max": 992.7256469726562,
+    "text": "AVIANOS: Win a Custom game with 8 Mountains (change no other settings)"
+  },
+  {
+    "x_min": 1009.4075927734375,
+    "y_min": 904.8265380859375,
+    "x_max": 1107.7457275390625,
+    "y_max": 992.9226684570312,
+    "text": "COMBATANTS Beat 'Surprise!'"
+  },
+  {
+    "x_min": 1106.5169677734375,
+    "y_min": 904.9970092773438,
+    "x_max": 1206.366455078125,
+    "y_max": 992.7808227539062,
+    "text": "MOONCAT: Defeat 6 unique enemy types"
+  },
+  {
+    "x_min": 721.819580078125,
+    "y_min": 992.3046264648438,
+    "x_max": 817.7545166015625,
+    "y_max": 1079.26708984375,
+    "text": "OVERBOLD: Complete a wave with $1000+ stakes without using bombs"
+  },
+  {
+    "x_min": 817.491943359375,
+    "y_min": 992.3743896484375,
+    "x_max": 913.5056762695312,
+    "y_max": 1079.44775390625,
+    "text": "BLOCK KOALA: Beat 5 story levels"
+  },
+  {
+    "x_min": 913.1407470703125,
+    "y_min": 992.4746704101562,
+    "x_max": 1009.3856201171875,
+    "y_max": 1079.514404296875,
+    "text": "Collect 2 cherry disks"
+  },
+  {
+    "x_min": 1009.201904296875,
+    "y_min": 992.5828247070312,
+    "x_max": 1106.9150390625,
+    "y_max": 1079.2138671875,
+    "text": "PORGY: Achieve 20% Completion"
+  },
+  {
+    "x_min": 1106.626220703125,
+    "y_min": 992.2913208007812,
+    "x_max": 1205.3509521484375,
+    "y_max": 1078.4024658203125,
+    "text": "BARBUTA: Collect the reward from a green skull"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 700.577392578125,
+    "y_min": 598.5030517578125,
+    "x_max": 806.098876953125,
+    "y_max": 698.3400268554688,
+    "text": "PARTY HOUSE: Beat a random scenario"
+  },
+  {
+    "x_min": 805.1451416015625,
+    "y_min": 598.8911743164062,
+    "x_max": 907.9359741210938,
+    "y_max": 698.7076416015625,
+    "text": "HOTFOOT Gold disk"
+  },
+  {
+    "x_min": 906.8491821289062,
+    "y_min": 599.5225219726562,
+    "x_max": 1011.771484375,
+    "y_max": 698.8909912109375,
+    "text": "Collect 3 cherry disks"
+  },
+  {
+    "x_min": 1010.859130859375,
+    "y_min": 600.59375,
+    "x_max": 1117.552001953125,
+    "y_max": 698.7793579101562,
+    "text": "GOLFARIA: Collect 3 clubs"
+  },
+  {
+    "x_min": 1116.7686767578125,
+    "y_min": 600.3546752929688,
+    "x_max": 1219.980224609375,
+    "y_max": 697.9465942382812,
+    "text": "ONION DELIVERY: Have 99 seconds remaining"
+  },
+  {
+    "x_min": 701.0721435546875,
+    "y_min": 697.746337890625,
+    "x_max": 806.0971069335938,
+    "y_max": 795.2124633789062,
+    "text": "NIGHT MANOR:Gold disk"
+  },
+  {
+    "x_min": 805.2457885742188,
+    "y_min": 698.4025268554688,
+    "x_max": 908.029296875,
+    "y_max": 793.7827758789062,
+    "text": "MORTOL: LEAF-HEAD allowed; tum 10 enemies into vines"
+  },
+  {
+    "x_min": 907.2332153320312,
+    "y_min": 698.562255859375,
+    "x_max": 1011.5595092773438,
+    "y_max": 794.1195068359375,
+    "text": "PORGY: Collect 3 torpedo upgrades"
+  },
+  {
+    "x_min": 1010.6719360351562,
+    "y_min": 698.4421997070312,
+    "x_max": 1117.44580078125,
+    "y_max": 794.2010498046875,
+    "text": "DEVILITION: Gold disk"
+  },
+  {
+    "x_min": 1116.5411376953125,
+    "y_min": 697.3400268554688,
+    "x_max": 1219.869140625,
+    "y_max": 794.3370361328125,
+    "text": "UFO OPEN: Golfaria: Hit a Parbot; Pingolf Gold Disk; Lords of Diskonia: Destroy 5 enemy disks"
+  },
+  {
+    "x_min": 700.8757934570312,
+    "y_min": 794.4840698242188,
+    "x_max": 805.62158203125,
+    "y_max": 887.9537963867188,
+    "text": "ATTACTICS: Score 1000+ points in Survival Mode"
+  },
+  {
+    "x_min": 805.1336059570312,
+    "y_min": 793.7095947265625,
+    "x_max": 907.50341796875,
+    "y_max": 888.7413940429688,
+    "text": "\u2605 Defeat10 bosses"
+  },
+  {
+    "x_min": 907.031982421875,
+    "y_min": 793.9609985351562,
+    "x_max": 1011.985595703125,
+    "y_max": 889.0049438476562,
+    "text": "CYBER OWLS: Earn a 1-Up (extra owl)"
+  },
+  {
+    "x_min": 1011.2606201171875,
+    "y_min": 794.054931640625,
+    "x_max": 1117.214111328125,
+    "y_max": 888.8927612304688,
+    "text": "MORTOL: Beat a level with a total of 30 or more additional lives than you began the run with"
+  },
+  {
+    "x_min": 1116.406494140625,
+    "y_min": 794.1957397460938,
+    "x_max": 1219.19873046875,
+    "y_max": 888.229736328125,
+    "text": "THE BIG BELLRACE: Gold disk"
+  },
+  {
+    "x_min": 700.791259765625,
+    "y_min": 887.2918701171875,
+    "x_max": 805.569580078125,
+    "y_max": 983.9541015625,
+    "text": "VELGRESS: Gold disk"
+  },
+  {
+    "x_min": 805.1902465820312,
+    "y_min": 888.6502685546875,
+    "x_max": 907.5526733398438,
+    "y_max": 983.8561401367188,
+    "text": "MINI&MAX: Speak to King Mittens in the doorknob"
+  },
+  {
+    "x_min": 906.9794921875,
+    "y_min": 888.850341796875,
+    "x_max": 1012.232177734375,
+    "y_max": 983.9789428710938,
+    "text": "ONION DELIVERY: Complete a day of deliveries driving only in reverse"
+  },
+  {
+    "x_min": 1011.708984375,
+    "y_min": 888.80126953125,
+    "x_max": 1117.2337646484375,
+    "y_max": 983.9268188476562,
+    "text": "\u2605 Increase your max HP in 6 games"
+  },
+  {
+    "x_min": 1116.65673828125,
+    "y_min": 887.856689453125,
+    "x_max": 1218.9315185546875,
+    "y_max": 983.741455078125,
+    "text": "BARBUTA: Collect the reward from a green skull"
+  },
+  {
+    "x_min": 700.4696655273438,
+    "y_min": 983.5604248046875,
+    "x_max": 805.2801513671875,
+    "y_max": 1079.5072021484375,
+    "text": "nter a top 5 score on 4 arcade leaderboards"
+  },
+  {
+    "x_min": 805.15234375,
+    "y_min": 983.647216796875,
+    "x_max": 907.1949462890625,
+    "y_max": 1079.27001953125,
+    "text": "PARTY HOUSE: Get busted by the fire department"
+  },
+  {
+    "x_min": 906.86572265625,
+    "y_min": 983.7372436523438,
+    "x_max": 1012.0233764648438,
+    "y_max": 1079.3798828125,
+    "text": "PAINT CHASE: Reach a score of 240+"
+  },
+  {
+    "x_min": 1011.9424438476562,
+    "y_min": 983.7240600585938,
+    "x_max": 1117.2864990234375,
+    "y_max": 1079.125732421875,
+    "text": "HYPER CONTENDER Use PAST- RULE; beat Draft Mode"
+  },
+  {
+    "x_min": 1116.3707275390625,
+    "y_min": 983.3580322265625,
+    "x_max": 1218.7884521484375,
+    "y_max": 1079.560302734375,
+    "text": "VALBRACE: Clear Floor 1"
+  }
+]

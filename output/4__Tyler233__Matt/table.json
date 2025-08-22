@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 697.7403564453125,
+    "y_min": 599.384521484375,
+    "x_max": 802.48388671875,
+    "y_max": 695.5271606445312,
+    "text": "Collect 10 gifts for the garden"
+  },
+  {
+    "x_min": 801.4608154296875,
+    "y_min": 599.39453125,
+    "x_max": 906.9827880859375,
+    "y_max": 696.4528198242188,
+    "text": "RAIL HEIST: Collect 9 Devil Stars"
+  },
+  {
+    "x_min": 906.7639770507812,
+    "y_min": 599.2401123046875,
+    "x_max": 1009.231689453125,
+    "y_max": 696.6445922851562,
+    "text": "CAMOUFLAGE Get eaten by a Frog, Gator, & Bird"
+  },
+  {
+    "x_min": 1007.8345947265625,
+    "y_min": 599.2434692382812,
+    "x_max": 1117.0672607421875,
+    "y_max": 696.6566772460938,
+    "text": "PORGY: Reach the Abyss (lowest depth area)"
+  },
+  {
+    "x_min": 1114.9915771484375,
+    "y_min": 599.3672485351562,
+    "x_max": 1220.3218994140625,
+    "y_max": 696.9193725585938,
+    "text": "VELGRESS: Collect all 3 keys in a single run"
+  },
+  {
+    "x_min": 699.0679321289062,
+    "y_min": 694.90869140625,
+    "x_max": 802.6567993164062,
+    "y_max": 792.106689453125,
+    "text": "ATTACTICS: Beat 8 levels"
+  },
+  {
+    "x_min": 801.81982421875,
+    "y_min": 696.3135986328125,
+    "x_max": 907.2604370117188,
+    "y_max": 792.1044921875,
+    "text": "DEVILITION: Beat three levels while placing the maximum number of pieces each round"
+  },
+  {
+    "x_min": 907.019775390625,
+    "y_min": 696.2186889648438,
+    "x_max": 1009.5633544921875,
+    "y_max": 792.1826171875,
+    "text": "TRIATHLON: Gold Disk any 3 of the 5 \"SPORT\" games"
+  },
+  {
+    "x_min": 1008.916748046875,
+    "y_min": 696.2857055664062,
+    "x_max": 1117.787353515625,
+    "y_max": 792.053466796875,
+    "text": "MAGIC GARDEN: Reach a score of 10,000+"
+  },
+  {
+    "x_min": 1116.2060546875,
+    "y_min": 696.4695434570312,
+    "x_max": 1218.88427734375,
+    "y_max": 791.4053344726562,
+    "text": "FIST HELL: Clear the first scare and enter the shop with $20 or more"
+  },
+  {
+    "x_min": 699.9461059570312,
+    "y_min": 791.7595825195312,
+    "x_max": 802.6019287109375,
+    "y_max": 886.64697265625,
+    "text": "GOLFARIA: Achieve 20% Completion"
+  },
+  {
+    "x_min": 801.6875,
+    "y_min": 791.8280639648438,
+    "x_max": 906.9669799804688,
+    "y_max": 886.3607788085938,
+    "text": "SEASIDE DRIVE: Win the bonus game"
+  },
+  {
+    "x_min": 907.1303100585938,
+    "y_min": 791.8475952148438,
+    "x_max": 1010.1136474609375,
+    "y_max": 886.3181762695312,
+    "text": "PINGOLF Hole-in-one on 3 different courses"
+  },
+  {
+    "x_min": 1009.1771850585938,
+    "y_min": 791.7982177734375,
+    "x_max": 1117.1781005859375,
+    "y_max": 886.47802734375,
+    "text": "CAMOUFLAGE Escape with 3/3 collectibles on 5 levels"
+  },
+  {
+    "x_min": 1115.53466796875,
+    "y_min": 791.1318969726562,
+    "x_max": 1218.10693359375,
+    "y_max": 886.1475830078125,
+    "text": "Find an egg in 10 different games"
+  },
+  {
+    "x_min": 700.4310913085938,
+    "y_min": 886.3684692382812,
+    "x_max": 802.5435180664062,
+    "y_max": 981.557373046875,
+    "text": "BUG HUNTER Complete a job with your energy maxed out"
+  },
+  {
+    "x_min": 801.6906127929688,
+    "y_min": 886.2095336914062,
+    "x_max": 907.2472534179688,
+    "y_max": 981.631591796875,
+    "text": "Collect 3 cherry disks"
+  },
+  {
+    "x_min": 907.3115844726562,
+    "y_min": 886.03564453125,
+    "x_max": 1008.9534912109375,
+    "y_max": 981.64013671875,
+    "text": "ATTACTICS: Reach Lieutenant in ranked mode"
+  },
+  {
+    "x_min": 1007.7149047851562,
+    "y_min": 885.9906005859375,
+    "x_max": 1115.85400390625,
+    "y_max": 981.6158447265625,
+    "text": "MOONCAT: Use 2 warps"
+  },
+  {
+    "x_min": 1115.0692138671875,
+    "y_min": 885.5848999023438,
+    "x_max": 1217.941650390625,
+    "y_max": 980.7977905273438,
+    "text": "MORTOL II: Collect 5 keys while using code BENE- DIKT"
+  },
+  {
+    "x_min": 700.19482421875,
+    "y_min": 981.2518920898438,
+    "x_max": 802.26416015625,
+    "y_max": 1079.1668701171875,
+    "text": "PARTY HOUSE:Have 6 trouble on screen at once"
+  },
+  {
+    "x_min": 801.3660888671875,
+    "y_min": 981.27587890625,
+    "x_max": 907.0032958984375,
+    "y_max": 1078.4075927734375,
+    "text": "CAMPANELLA 3:Clear 4 waves 100%"
+  },
+  {
+    "x_min": 907.2686157226562,
+    "y_min": 981.26611328125,
+    "x_max": 1010.5833740234375,
+    "y_max": 1077.872802734375,
+    "text": "BUG HUNTER: Earn 3 kills with one module use"
+  },
+  {
+    "x_min": 1009.3380126953125,
+    "y_min": 981.0967407226562,
+    "x_max": 1116.36181640625,
+    "y_max": 1077.5008544921875,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 1115.4124755859375,
+    "y_min": 979.7651977539062,
+    "x_max": 1218.7056884765625,
+    "y_max": 1078.328369140625,
+    "text": "MORTOL: OPEN-TOMB allowed; Clear all world 3 levels"
+  }
+]

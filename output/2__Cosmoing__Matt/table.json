@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 467.64874267578125,
+    "y_min": 400.511474609375,
+    "x_max": 537.7260131835938,
+    "y_max": 463.5184326171875,
+    "text": "OVERBOLD Max out four upgrades"
+  },
+  {
+    "x_min": 536.6441650390625,
+    "y_min": 400.81219482421875,
+    "x_max": 604.780029296875,
+    "y_max": 464.0870056152344,
+    "text": "Increase your max HP In 5 games"
+  },
+  {
+    "x_min": 604.1898193359375,
+    "y_min": 400.8407287597656,
+    "x_max": 673.5927734375,
+    "y_max": 463.949462890625,
+    "text": "LORDS OF DISKONIA: Win a Qulck Battle"
+  },
+  {
+    "x_min": 672.8335571289062,
+    "y_min": 400.8197326660156,
+    "x_max": 742.2042846679688,
+    "y_max": 463.97808837890625,
+    "text": "MORTOL: Clear all levels in World 1"
+  },
+  {
+    "x_min": 741.9857177734375,
+    "y_min": 400.6549072265625,
+    "x_max": 812.9898681640625,
+    "y_max": 463.4764404296875,
+    "text": "CAMPANELLA 2:Obtain 6 power-upiems in one run (square loons on let of screnn)"
+  },
+  {
+    "x_min": 467.7978820800781,
+    "y_min": 463.1714172363281,
+    "x_max": 536.8983764648438,
+    "y_max": 527.495849609375,
+    "text": "KICKCLUB Have 5 extra lives at once"
+  },
+  {
+    "x_min": 536.4489135742188,
+    "y_min": 464.0229797363281,
+    "x_max": 604.7747192382812,
+    "y_max": 527.3961791992188,
+    "text": "PILOT QUEST: Defeat Unktomi (Spider boss)"
+  },
+  {
+    "x_min": 604.5132446289062,
+    "y_min": 464.00421142578125,
+    "x_max": 673.22412109375,
+    "y_max": 527.2412719726562,
+    "text": "STAR WASPIR: Clear waves 1 and 2 without using powerups EEE.GGG.Or GEE)"
+  },
+  {
+    "x_min": 672.7088623046875,
+    "y_min": 464.0353698730469,
+    "x_max": 742.1436767578125,
+    "y_max": 527.4219970703125,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 741.739013671875,
+    "y_min": 463.04644775390625,
+    "x_max": 812.5184326171875,
+    "y_max": 527.3956909179688,
+    "text": "PLANET ZOLDATH Max oul health by collecting 4 energy cubes"
+  },
+  {
+    "x_min": 467.8797607421875,
+    "y_min": 527.3682250976562,
+    "x_max": 536.8739624023438,
+    "y_max": 590.8775024414062,
+    "text": "AMY: Hot Foot: Win 2 games with Amy, Fist Hell: Clear 2nd scare as Amy; Party House: Beat a random soenarlo"
+  },
+  {
+    "x_min": 536.2791748046875,
+    "y_min": 527.278076171875,
+    "x_max": 604.9174194335938,
+    "y_max": 590.767822265625,
+    "text": "MAGIC GARDEN: Save 10+ Oppies at once twice"
+  },
+  {
+    "x_min": 604.4608764648438,
+    "y_min": 527.19921875,
+    "x_max": 673.6224365234375,
+    "y_max": 590.808837890625,
+    "text": "VALBRACE Give the Red Knight 5 ltems"
+  },
+  {
+    "x_min": 673.18798828125,
+    "y_min": 527.3009643554688,
+    "x_max": 742.3094482421875,
+    "y_max": 590.9058227539062,
+    "text": "MINI& MAX: Retur the stolen Termite Egg to the outlet"
+  },
+  {
+    "x_min": 741.8792114257812,
+    "y_min": 527.1766967773438,
+    "x_max": 811.9736328125,
+    "y_max": 590.8944702148438,
+    "text": "WALDORF'S JOURNEY: Purchase four unique ilems in one run"
+  },
+  {
+    "x_min": 468.37603759765625,
+    "y_min": 590.9175415039062,
+    "x_max": 536.8488159179688,
+    "y_max": 654.0382080078125,
+    "text": "ATTACTICS Reach Lleutenant In ranked mode"
+  },
+  {
+    "x_min": 536.2678833007812,
+    "y_min": 590.7522583007812,
+    "x_max": 604.761474609375,
+    "y_max": 653.9833984375,
+    "text": "SEASIDE DRME: Clear Stage 1 with 3 lives and exactly 10,000 points (defeat only the boss)"
+  },
+  {
+    "x_min": 604.4981689453125,
+    "y_min": 590.8051147460938,
+    "x_max": 673.5875244140625,
+    "y_max": 653.9192504882812,
+    "text": "Enter a top 5 score on 3 arcade leaderboard:"
+  },
+  {
+    "x_min": 673.133056640625,
+    "y_min": 590.8795166015625,
+    "x_max": 742.4046630859375,
+    "y_max": 654.0419311523438,
+    "text": "THE BIG BELL RACE:KO an opponent witm 3 unique power-ups"
+  },
+  {
+    "x_min": 742.0137939453125,
+    "y_min": 590.7363891601562,
+    "x_max": 811.60009765625,
+    "y_max": 654.01171875,
+    "text": "PAINT CHASE: Reach a score of 240+"
+  },
+  {
+    "x_min": 468.2861633300781,
+    "y_min": 653.8157958984375,
+    "x_max": 536.816162109375,
+    "y_max": 718.1353149414062,
+    "text": "PORGY: Collect 3 fuel tanks"
+  },
+  {
+    "x_min": 536.244873046875,
+    "y_min": 653.821533203125,
+    "x_max": 604.587158203125,
+    "y_max": 717.8917236328125,
+    "text": "ONION DELIVERY: Deliver 10 onions in a single day"
+  },
+  {
+    "x_min": 604.4070434570312,
+    "y_min": 653.8095703125,
+    "x_max": 673.5049438476562,
+    "y_max": 717.92626953125,
+    "text": "CAMPANEL Gold disk"
+  },
+  {
+    "x_min": 673.131103515625,
+    "y_min": 653.8400268554688,
+    "x_max": 742.4822998046875,
+    "y_max": 717.5543823242188,
+    "text": "PILOT QUEST: Collect 5 Zoldnaks"
+  },
+  {
+    "x_min": 742.1695556640625,
+    "y_min": 653.8243408203125,
+    "x_max": 812.2272338867188,
+    "y_max": 718.77490234375,
+    "text": "Collect 4 gold disks"
+  }
+]

@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 479.62396240234375,
+    "y_min": 599.1233520507812,
+    "x_max": 581.9191284179688,
+    "y_max": 696.0681762695312,
+    "text": "OVERBOLD: Gold disk"
+  },
+  {
+    "x_min": 581.2415771484375,
+    "y_min": 600.25146484375,
+    "x_max": 685.9412841796875,
+    "y_max": 695.8768310546875,
+    "text": "AMY: Win 2 Hot Foot games with Amy. Clear 2nd scare as Amy in Fist Hell, and beat a random Party House scenario"
+  },
+  {
+    "x_min": 685.157958984375,
+    "y_min": 600.7787475585938,
+    "x_max": 790.8163452148438,
+    "y_max": 695.8121337890625,
+    "text": "ATTACTICS: Reach Lieutenant in ranked mode"
+  },
+  {
+    "x_min": 790.2456665039062,
+    "y_min": 600.9224853515625,
+    "x_max": 895.6885375976562,
+    "y_max": 695.74267578125,
+    "text": "PARTY HOUSE: Have 6 trouble on screen at once"
+  },
+  {
+    "x_min": 894.5691528320312,
+    "y_min": 601.39404296875,
+    "x_max": 1007.8017578125,
+    "y_max": 695.5949096679688,
+    "text": "KICK CLUB: Eat 10 hidden desserts"
+  },
+  {
+    "x_min": 480.7015686035156,
+    "y_min": 695.9134521484375,
+    "x_max": 581.549072265625,
+    "y_max": 790.205078125,
+    "text": "RAKSHASA: Use each of the three weapon types in one run"
+  },
+  {
+    "x_min": 580.931396484375,
+    "y_min": 695.7681274414062,
+    "x_max": 685.1376342773438,
+    "y_max": 790.0278930664062,
+    "text": "MOONCAT: Gold disk"
+  },
+  {
+    "x_min": 684.8255615234375,
+    "y_min": 695.6533813476562,
+    "x_max": 790.666015625,
+    "y_max": 789.879638671875,
+    "text": "AVIANOS: Use BLUE-BEAK; complete Trials 4 and 5"
+  },
+  {
+    "x_min": 790.2157592773438,
+    "y_min": 695.516845703125,
+    "x_max": 895.7490234375,
+    "y_max": 790.1583251953125,
+    "text": "Collect 5 gold disks"
+  },
+  {
+    "x_min": 894.8035278320312,
+    "y_min": 695.2557373046875,
+    "x_max": 1003.5367431640625,
+    "y_max": 789.9734497070312,
+    "text": "ATTACTICS Beat 8 levels"
+  },
+  {
+    "x_min": 481.046630859375,
+    "y_min": 790.4044799804688,
+    "x_max": 581.5626220703125,
+    "y_max": 885.9666137695312,
+    "text": "ALPHA TRILOGY: Gold Velgress, Overbold, and Quibble Race as Alpha"
+  },
+  {
+    "x_min": 580.9981689453125,
+    "y_min": 789.974853515625,
+    "x_max": 684.8812255859375,
+    "y_max": 885.9149780273438,
+    "text": "DEVILITION Have 6 villagers at once"
+  },
+  {
+    "x_min": 684.6473999023438,
+    "y_min": 789.8977661132812,
+    "x_max": 790.6655883789062,
+    "y_max": 885.712646484375,
+    "text": "BARBUTA Die to the Red Phantom"
+  },
+  {
+    "x_min": 790.5223388671875,
+    "y_min": 790.0476684570312,
+    "x_max": 895.8465576171875,
+    "y_max": 885.6740112304688,
+    "text": "ONION DELIVERY: Have 99 seconds remaining"
+  },
+  {
+    "x_min": 894.910888671875,
+    "y_min": 789.8150634765625,
+    "x_max": 1002.5574951171875,
+    "y_max": 885.5946655273438,
+    "text": "PILOT QUEST: Find a ship part"
+  },
+  {
+    "x_min": 480.733154296875,
+    "y_min": 885.7679443359375,
+    "x_max": 581.2466430664062,
+    "y_max": 980.4489135742188,
+    "text": "PORGY: Collect 3 torpedo upgrades"
+  },
+  {
+    "x_min": 580.9087524414062,
+    "y_min": 885.73828125,
+    "x_max": 685.0672607421875,
+    "y_max": 980.749755859375,
+    "text": "MORTOL: Clear all world 2 levels using OPEN-TOMB"
+  },
+  {
+    "x_min": 684.804443359375,
+    "y_min": 885.6669921875,
+    "x_max": 790.528076171875,
+    "y_max": 980.5822143554688,
+    "text": "Collect a food item in 5 different games"
+  },
+  {
+    "x_min": 790.6490478515625,
+    "y_min": 885.600341796875,
+    "x_max": 895.8076782226562,
+    "y_max": 980.5657348632812,
+    "text": "MAGIC GARDEN: Reach a score of 10,000+"
+  },
+  {
+    "x_min": 894.9906616210938,
+    "y_min": 885.4921875,
+    "x_max": 1002.3857421875,
+    "y_max": 980.4319458007812,
+    "text": "GRIMSTONE: Learn 3 Skills"
+  },
+  {
+    "x_min": 480.79901123046875,
+    "y_min": 980.1818237304688,
+    "x_max": 581.7841186523438,
+    "y_max": 1076.0418701171875,
+    "text": "MORTOL II: Defeat all three mini bosses"
+  },
+  {
+    "x_min": 581.306640625,
+    "y_min": 980.412109375,
+    "x_max": 685.244384765625,
+    "y_max": 1075.8463134765625,
+    "text": "PARTY HOUSE: Get a Climber to 9 popularity"
+  },
+  {
+    "x_min": 684.7627563476562,
+    "y_min": 980.1815795898438,
+    "x_max": 790.769775390625,
+    "y_max": 1075.9647216796875,
+    "text": "MORTOL: Use LEAF-HEAD turn 10 enemies into vines"
+  },
+  {
+    "x_min": 790.6970825195312,
+    "y_min": 980.0645751953125,
+    "x_max": 895.6222534179688,
+    "y_max": 1075.7801513671875,
+    "text": "PILOT QUEST: Defeat Big Borlg (large alien in the central ruins"
+  },
+  {
+    "x_min": 894.8543090820312,
+    "y_min": 979.8867797851562,
+    "x_max": 1002.8885498046875,
+    "y_max": 1076.42138671875,
+    "text": "Find an easter egg UFO in 4 games"
+  }
+]

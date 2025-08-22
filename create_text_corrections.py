@@ -1,20 +1,18 @@
 import os
-import pickle
-from changelog import get_changelog_from_pickle
-from find_table import Cell
+from changelog import deserialize_changelog_file
 from match import GoalCompletion
 from parse_csv import get_all_matches
 from color import Color
+from square import deserialize_board_file
 from text_correction import add_correction, get_best_matches, get_confirmed_text
 
 matches = get_all_matches()
 for match in matches:
-    changelog_path = os.path.join(match.dir, "changelog.pickle")
+    changelog_path = os.path.join(match.dir, "changelog.txt")
     if not os.path.isfile(changelog_path):
         continue
-    changelog = get_changelog_from_pickle(changelog_path)
-    with open(os.path.join(match.dir, "table.pickle"), "rb") as f:
-        table: list[Cell] = pickle.load(f)
+    changelog = deserialize_changelog_file(changelog_path)
+    table = deserialize_board_file(os.path.join(match.dir, "table.json"))
     final_board = GoalCompletion.get_final_board_from_changelog(changelog)
     has_change = False
     for i in range(0, 25):

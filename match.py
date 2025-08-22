@@ -1,14 +1,13 @@
 import json
 import math
 import os
-import pickle
 import subprocess
 import cv2
 
-from changelog import Change
+from changelog import Change, serialize_changelog_to_file
 from find_table import get_best_table_from_image
 from make_url import get_url_at_time
-from square import Square
+from square import Square, deserialize_board_file, serialize_board_to_file
 from text_correction import get_confirmed_text
 from color import Color
 from video import get_named_colors
@@ -331,16 +330,14 @@ class MatchWithVideo(Match):
         self.cap.set(cv2.CAP_PROP_POS_FRAMES, self.fps * sec)
 
     def get_table(self) -> list[Square]:
-        # TODO: fix this
-        pickle_name = os.path.join(self.dir, "table.pickle")
-        if os.path.isfile(pickle_name):
-            with open(pickle_name, "rb") as file:
-                return pickle.load(file)
+        table_json_name = os.path.join(self.dir, "table.json")
+        if os.path.isfile(table_json_name):
+            return deserialize_board_file(table_json_name)
 
         # Unfortunately the best video quality for this is 360p.
         if self.id == "2__Marshmallow__CodeMeRight1":
             raise Exception(
-                "Video quality too poor for OCR. Create table.pickle manually"
+                "Video quality too poor for OCR. Create table.json manually"
             )
 
         height = self.cap.get(cv2.CAP_PROP_FRAME_HEIGHT)
@@ -366,8 +363,7 @@ class MatchWithVideo(Match):
 
             print(f"Done OCRing table for id {self.id}")
 
-            with open(pickle_name, "wb") as file:
-                pickle.dump(table, file)
+            serialize_board_to_file(table, table_json_name)
             return table
 
         while time <= max_time:
@@ -391,9 +387,7 @@ class MatchWithVideo(Match):
 
             print(f"Done OCRing table for id {self.id}")
 
-            with open(pickle_name, "wb") as file:
-                pickle.dump(table, file)
-
+            serialize_board_to_file(table, table_json_name)
             return table
         raise Exception(f"Failed to find table at ANY time for id {self.id}")
 
@@ -414,26 +408,6 @@ class MatchWithVideo(Match):
             print(f"Found more than 3 colors at time {time}: {counter}")
             return None
         return colors
-
-    # def is_done(self, colors: list[Color]) -> bool:
-    #     counter = Counter([c for c in colors if c != Color.BLACK])
-    #     high_first = counter.most_common()
-    #     high_score = 0
-    #     low_score = 0
-    #     if len(high_first) > 0:
-    #         high_score = high_first[0][1]
-    #     if len(high_first) > 1:
-    #         low_score = high_first[1][1]
-    #     is_exact = (self.p1_score == high_score and self.p2_score == low_score) or (
-    #         self.p1_score == low_score and self.p2_score == high_score
-    #     )
-    #     is_at_least = (self.p1_score <= high_score and self.p2_score <= low_score) or (
-    #         self.p1_score <= low_score and self.p2_score <= high_score
-    #     )
-    #     if is_at_least and not is_exact:
-    #         with open(os.path.join(self.dir, "FINAL_SCORE_WRONG.txt"), "w") as file:
-    #             file.write("FINAL SCORE WRONG")
-    #     return is_at_least
 
     # return value is
     # (first_done_time, [time, list of colors])
@@ -486,9 +460,6 @@ class MatchWithVideo(Match):
 
     def get_changelog(self) -> tuple[bool, list[Change]]:
         states = self.get_distinct_states()
-        pickle_name = os.path.join(self.dir, "states.pickle")
-        with open(pickle_name, "wb") as file:
-            pickle.dump(states, file)
         changelog: list[Change] = []
         for i in range(1, len(states)):
             old_colors = states[i - 1][1]
@@ -498,9 +469,9 @@ class MatchWithVideo(Match):
                     changelog.append(
                         Change(time=states[i][0], square_index=j, color=new_colors[j])
                     )
-        pickle_name = os.path.join(self.dir, "changelog.pickle")
-        with open(pickle_name, "wb") as file:
-            pickle.dump(changelog, file)
+
+        changelog_filename = os.path.join(self.dir, "changelog.txt")
+        serialize_changelog_to_file(changelog, changelog_filename)
         final_stats = GoalCompletion.get_final_stats(changelog)
         wrong_end_state = final_stats is None or not GoalCompletion.verify_stats(
             final_stats, self

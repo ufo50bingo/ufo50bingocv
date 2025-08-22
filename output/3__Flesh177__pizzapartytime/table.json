@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 700.3740844726562,
+    "y_min": 598.8162841796875,
+    "x_max": 805.5939331054688,
+    "y_max": 695.654541015625,
+    "text": "STAR WASPIR: Clear waves 1 and 2 without using powerups (EEE, GGG, or GEE)"
+  },
+  {
+    "x_min": 805.0121459960938,
+    "y_min": 599.5104370117188,
+    "x_max": 908.4777221679688,
+    "y_max": 697.3264770507812,
+    "text": "MINI&MAX: Save the brainwashed mouse near the portrait"
+  },
+  {
+    "x_min": 908.2606201171875,
+    "y_min": 599.8466186523438,
+    "x_max": 1012.309326171875,
+    "y_max": 697.4434814453125,
+    "text": "ONION DELIVERY: Have 99 seconds remaining"
+  },
+  {
+    "x_min": 1011.881591796875,
+    "y_min": 600.4276733398438,
+    "x_max": 1116.6563720703125,
+    "y_max": 697.3431396484375,
+    "text": "SEASIDE DRIVE: Win the bonus game"
+  },
+  {
+    "x_min": 1116.6611328125,
+    "y_min": 600.3409423828125,
+    "x_max": 1219.717041015625,
+    "y_max": 696.494140625,
+    "text": "Beat 4 levels in 5 different games"
+  },
+  {
+    "x_min": 700.6266479492188,
+    "y_min": 696.2384033203125,
+    "x_max": 806.2072143554688,
+    "y_max": 794.5037841796875,
+    "text": "PARTY HOUSE: Get busted by the fire department"
+  },
+  {
+    "x_min": 805.8018798828125,
+    "y_min": 697.0601806640625,
+    "x_max": 907.656982421875,
+    "y_max": 791.810302734375,
+    "text": "Enter a top 3 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 907.605712890625,
+    "y_min": 697.2000732421875,
+    "x_max": 1012.5027465820312,
+    "y_max": 791.6201171875,
+    "text": "NIGHT MANOR:Find 10 joumal entries"
+  },
+  {
+    "x_min": 1011.8325805664062,
+    "y_min": 697.0880737304688,
+    "x_max": 1116.7005615234375,
+    "y_max": 791.74755859375,
+    "text": "PILOT QUEST:Find a ship part"
+  },
+  {
+    "x_min": 1116.3070068359375,
+    "y_min": 696.1563720703125,
+    "x_max": 1219.5479736328125,
+    "y_max": 792.871826171875,
+    "text": "HOT FOOT: Get 3 blowouts in one tournament"
+  },
+  {
+    "x_min": 700.7493286132812,
+    "y_min": 792.921875,
+    "x_max": 806.2430419921875,
+    "y_max": 886.1063232421875,
+    "text": "CAMOUFLAGE Reach 70% completion or more"
+  },
+  {
+    "x_min": 805.7133178710938,
+    "y_min": 791.541015625,
+    "x_max": 908.5858764648438,
+    "y_max": 886.4439697265625,
+    "text": "AVIANOS: Win the campaign Hatchling game without using any Miracles"
+  },
+  {
+    "x_min": 908.4329833984375,
+    "y_min": 791.4427490234375,
+    "x_max": 1012.5342407226562,
+    "y_max": 886.708984375,
+    "text": "HOTFOOT: Win three games in a row"
+  },
+  {
+    "x_min": 1011.94287109375,
+    "y_min": 791.545166015625,
+    "x_max": 1116.92236328125,
+    "y_max": 886.6760864257812,
+    "text": "Increase your max HP in 6 games"
+  },
+  {
+    "x_min": 1116.2579345703125,
+    "y_min": 791.9846801757812,
+    "x_max": 1219.0640869140625,
+    "y_max": 885.1290893554688,
+    "text": "BUSHIDO BALL: Win a 16-point match on Hyper speed w/ no time limit"
+  },
+  {
+    "x_min": 700.8663940429688,
+    "y_min": 885.7191162109375,
+    "x_max": 805.9086303710938,
+    "y_max": 981.822265625,
+    "text": "Collect 4 gold disks"
+  },
+  {
+    "x_min": 805.255126953125,
+    "y_min": 886.2655639648438,
+    "x_max": 909.6815185546875,
+    "y_max": 981.8164672851562,
+    "text": "PORGY: Reach the Abyss (lowest depth area)"
+  },
+  {
+    "x_min": 909.5914306640625,
+    "y_min": 886.4149169921875,
+    "x_max": 1012.7415771484375,
+    "y_max": 982.1790161132812,
+    "text": "PILOTQUEST: Defeat Big Borlg (large alien in the central ruins)"
+  },
+  {
+    "x_min": 1012.3182373046875,
+    "y_min": 886.4157104492188,
+    "x_max": 1117.024658203125,
+    "y_max": 982.5681762695312,
+    "text": "MOONCAT: Visit 12 different rooms"
+  },
+  {
+    "x_min": 1116.5428466796875,
+    "y_min": 884.4691162109375,
+    "x_max": 1219.0003662109375,
+    "y_max": 982.5542602539062,
+    "text": "NINPEK Collect 3 crowns"
+  },
+  {
+    "x_min": 700.0114135742188,
+    "y_min": 981.3572387695312,
+    "x_max": 804.8523559570312,
+    "y_max": 1079.11376953125,
+    "text": "OVERBOLD: Complete a wave with $800+ stakes without shooting"
+  },
+  {
+    "x_min": 804.5586547851562,
+    "y_min": 981.5320434570312,
+    "x_max": 909.1748657226562,
+    "y_max": 1078.390625,
+    "text": "MAGIC GARDEN:SaVe 10+ Oppies at once twice"
+  },
+  {
+    "x_min": 908.8478393554688,
+    "y_min": 981.9492797851562,
+    "x_max": 1012.7567138671875,
+    "y_max": 1078.09716796875,
+    "text": "UFO OPEN: Golfaria:Hit a Parbot, Pingolf Gold Disk; Lords of Diskonia: Destroy 5 enemy disks"
+  },
+  {
+    "x_min": 1012.614990234375,
+    "y_min": 982.126708984375,
+    "x_max": 1117.469482421875,
+    "y_max": 1077.48046875,
+    "text": "ROCKON! ISLAND:Beat Initial Encounter w/o cavemen"
+  },
+  {
+    "x_min": 1116.4310302734375,
+    "y_min": 981.9219360351562,
+    "x_max": 1219.0494384765625,
+    "y_max": 1078.135986328125,
+    "text": "CARAMEL CARAMEL Score 50,000+ points"
+  }
+]

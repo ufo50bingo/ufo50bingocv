@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 463.951904296875,
+    "y_min": 399.17303466796875,
+    "x_max": 534.8283081054688,
+    "y_max": 463.5091552734375,
+    "text": "BUG HUNTER: Push 4 bugs into pits"
+  },
+  {
+    "x_min": 534.40380859375,
+    "y_min": 399.1547546386719,
+    "x_max": 605.0875244140625,
+    "y_max": 463.822265625,
+    "text": "Findaneaster egg UFO In 3 games"
+  },
+  {
+    "x_min": 604.7066650390625,
+    "y_min": 399.3910217285156,
+    "x_max": 674.585205078125,
+    "y_max": 463.6575012207031,
+    "text": "MAGIC GARDEN: Defeat an enemy worth at least 500 points"
+  },
+  {
+    "x_min": 674.2471313476562,
+    "y_min": 399.82281494140625,
+    "x_max": 744.2416381835938,
+    "y_max": 463.7715759277344,
+    "text": "NINPEK:Use HARD-LOOP. defeat the boss with a score of 20,000+"
+  },
+  {
+    "x_min": 743.760009765625,
+    "y_min": 400.11676025390625,
+    "x_max": 814.466796875,
+    "y_max": 463.29327392578125,
+    "text": "WALDORF'S JOURNEY: Purchase four unique items in one run"
+  },
+  {
+    "x_min": 464.49468994140625,
+    "y_min": 463.56744384765625,
+    "x_max": 534.8416137695312,
+    "y_max": 527.7601928710938,
+    "text": "PLANET ZOLDATH: Colloct the dungeon Map Piece"
+  },
+  {
+    "x_min": 534.4750366210938,
+    "y_min": 463.8295593261719,
+    "x_max": 604.6936645507812,
+    "y_max": 527.7793579101562,
+    "text": "WARPTANK: Beat Healing Sector"
+  },
+  {
+    "x_min": 604.5380859375,
+    "y_min": 463.71942138671875,
+    "x_max": 674.3543090820312,
+    "y_max": 527.9237060546875,
+    "text": "CAMPANELLA 2:Have 300 coins"
+  },
+  {
+    "x_min": 673.9718627929688,
+    "y_min": 463.712646484375,
+    "x_max": 744.1268920898438,
+    "y_max": 528.0675048828125,
+    "text": "Collect 5 gold disks"
+  },
+  {
+    "x_min": 743.89111328125,
+    "y_min": 462.9959716796875,
+    "x_max": 814.20458984375,
+    "y_max": 528.6705932617188,
+    "text": "BARBUTA: Defeat the Mimic"
+  },
+  {
+    "x_min": 464.6815490722656,
+    "y_min": 527.6904907226562,
+    "x_max": 534.9124755859375,
+    "y_max": 591.6327514648438,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 534.3939819335938,
+    "y_min": 527.8012084960938,
+    "x_max": 604.5098266601562,
+    "y_max": 591.694580078125,
+    "text": "LORDS OF DISKONIA: Have 50+ gold"
+  },
+  {
+    "x_min": 604.4951171875,
+    "y_min": 527.941650390625,
+    "x_max": 674.435791015625,
+    "y_max": 591.7625732421875,
+    "text": "MORTOL: Clear all world 2 levels using OPEN-TOMB"
+  },
+  {
+    "x_min": 674.0557861328125,
+    "y_min": 528.0827026367188,
+    "x_max": 744.1824340820312,
+    "y_max": 591.824951171875,
+    "text": "STAR WASPIR: Have a 20x multiplier"
+  },
+  {
+    "x_min": 743.8504028320312,
+    "y_min": 528.4656982421875,
+    "x_max": 813.831787109375,
+    "y_max": 591.4207153320312,
+    "text": "PINGOLF: Score under par on 5 courses"
+  },
+  {
+    "x_min": 464.855712890625,
+    "y_min": 591.616943359375,
+    "x_max": 534.947509765625,
+    "y_max": 655.4263916015625,
+    "text": "CAMPANELLA Have 15 lives"
+  },
+  {
+    "x_min": 534.5811767578125,
+    "y_min": 591.6294555664062,
+    "x_max": 604.7647094726562,
+    "y_max": 655.3508911132812,
+    "text": "PORGY: Collect the Buster Torpedos"
+  },
+  {
+    "x_min": 604.64892578125,
+    "y_min": 591.7144165039062,
+    "x_max": 674.4476928710938,
+    "y_max": 655.4183959960938,
+    "text": "Enter a top 5 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 674.08056640625,
+    "y_min": 591.80517578125,
+    "x_max": 744.2529907226562,
+    "y_max": 655.5431518554688,
+    "text": "VALBRACE Defeat the crone"
+  },
+  {
+    "x_min": 744.0750732421875,
+    "y_min": 591.2096557617188,
+    "x_max": 813.896728515625,
+    "y_max": 655.5634155273438,
+    "text": "WARPTANK: Talk to 3 NPCs"
+  },
+  {
+    "x_min": 464.8694152832031,
+    "y_min": 655.311767578125,
+    "x_max": 534.4468994140625,
+    "y_max": 719.580322265625,
+    "text": "PARTY HOUSE: Have 6 star guests on screen at once"
+  },
+  {
+    "x_min": 534.5647583007812,
+    "y_min": 655.3248291015625,
+    "x_max": 604.8906860351562,
+    "y_max": 719.375,
+    "text": "VELGRESS: Cherry disk without Upgrades or Jump Pads"
+  },
+  {
+    "x_min": 604.8277587890625,
+    "y_min": 655.3245849609375,
+    "x_max": 674.390625,
+    "y_max": 719.5244140625,
+    "text": "GOLFARIA: Obtain the Brakes"
+  },
+  {
+    "x_min": 674.3201293945312,
+    "y_min": 655.4644775390625,
+    "x_max": 744.228759765625,
+    "y_max": 719.3179321289062,
+    "text": "HYPER CONTENDER: Win 4 fights in a row without rematches"
+  },
+  {
+    "x_min": 743.9769897460938,
+    "y_min": 655.4376220703125,
+    "x_max": 813.794189453125,
+    "y_max": 719.68359375,
+    "text": "Collect 10 gifts for the garden"
+  }
+]
