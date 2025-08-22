@@ -20,8 +20,9 @@ for i in range(len(all_matches)):
 
         with_video.cap.release()
         # if there's a problem with the final score, don't delete the video
-        if final_score_matches:
-            os.remove(with_video.video_filename)
+        # don't remove videos at all now that youtube is rate-limiting me
+        # if final_score_matches:
+        #     os.remove(with_video.video_filename)
 
         elapsed_time = time.time() - start_time
         print(

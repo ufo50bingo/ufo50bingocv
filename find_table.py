@@ -243,14 +243,5 @@ def get_best_table_from_image(img_path: str) -> list[Square] | None:
     table = find_table(cells)
     if table is not None:
         draw_cells(table, "ocrtext.png", "celldebug.png")
-        return [
-            Square(
-                x_min=cell.x_min,
-                y_min=cell.y_min,
-                x_max=cell.x_max,
-                y_max=cell.y_max,
-                text=cell.text,
-            )
-            for cell in table
-        ]
+        return [get_square_from_cell(cell) for cell in table]
     return None

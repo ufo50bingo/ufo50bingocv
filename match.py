@@ -298,6 +298,8 @@ class Match:
                 and fname.count(".") == 1
             ):
                 return MatchWithVideo(self, os.path.join(self.dir, fname))
+        # temporary while youtube is being stupid
+        raise Exception("No video downloading allowed now")
 
         print(f"Downloading video for {self.id}")
         cmd = [

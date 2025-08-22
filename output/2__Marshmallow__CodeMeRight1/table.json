@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 234.0,
+    "y_min": 208.0,
+    "x_max": 268.4,
+    "y_max": 359.9,
+    "text": "Defeat 10 bosses"
+  },
+  {
+    "x_min": 268.4,
+    "y_min": 208.0,
+    "x_max": 302.79999999999995,
+    "y_max": 359.9,
+    "text": "VELGRESS: Clear out a shop's stock"
+  },
+  {
+    "x_min": 302.8,
+    "y_min": 208.0,
+    "x_max": 337.2,
+    "y_max": 359.9,
+    "text": "MOONCAT: Visit 12 different rooms"
+  },
+  {
+    "x_min": 337.2,
+    "y_min": 208.0,
+    "x_max": 371.59999999999997,
+    "y_max": 359.9,
+    "text": "MINI & MAX: Speak to King Mittens in the doorknob"
+  },
+  {
+    "x_min": 371.6,
+    "y_min": 208.0,
+    "x_max": 406.0,
+    "y_max": 359.9,
+    "text": "OVERBOLD: Clear a round with maximum stakes"
+  },
+  {
+    "x_min": 234.0,
+    "y_min": 489.0,
+    "x_max": 268.4,
+    "y_max": 359.9,
+    "text": "AVIANOS: Control 15+ tiles at once"
+  },
+  {
+    "x_min": 268.4,
+    "y_min": 489.0,
+    "x_max": 302.79999999999995,
+    "y_max": 359.9,
+    "text": "VALBRACE: Defeat the crone"
+  },
+  {
+    "x_min": 302.8,
+    "y_min": 489.0,
+    "x_max": 337.2,
+    "y_max": 359.9,
+    "text": "Buy an item from a shop in 8 different games"
+  },
+  {
+    "x_min": 337.2,
+    "y_min": 489.0,
+    "x_max": 371.59999999999997,
+    "y_max": 359.9,
+    "text": "ONION DELIVERY: Deliver 8 onions in a single day and complete the day"
+  },
+  {
+    "x_min": 371.6,
+    "y_min": 489.0,
+    "x_max": 406.0,
+    "y_max": 359.9,
+    "text": "CARAMEL CARAMEL: Beat the Egg"
+  },
+  {
+    "x_min": 234.0,
+    "y_min": 770.0,
+    "x_max": 268.4,
+    "y_max": 359.9,
+    "text": "PLANET ZOLDATH: Eat 10 slabs of meat"
+  },
+  {
+    "x_min": 268.4,
+    "y_min": 770.0,
+    "x_max": 302.79999999999995,
+    "y_max": 359.9,
+    "text": "PAINT CHASE: Reach a score of 240+"
+  },
+  {
+    "x_min": 302.8,
+    "y_min": 770.0,
+    "x_max": 337.2,
+    "y_max": 359.9,
+    "text": "GRIMSTONE: Collect the money from the burned house"
+  },
+  {
+    "x_min": 337.2,
+    "y_min": 770.0,
+    "x_max": 371.59999999999997,
+    "y_max": 359.9,
+    "text": "MORTOL: Using BENS-MODE; beat 2-C with 65+ Lives"
+  },
+  {
+    "x_min": 371.6,
+    "y_min": 770.0,
+    "x_max": 406.0,
+    "y_max": 359.9,
+    "text": "Collect 4 cherry disks"
+  },
+  {
+    "x_min": 234.0,
+    "y_min": 1051.0,
+    "x_max": 268.4,
+    "y_max": 359.9,
+    "text": "PILOT QUEST: Defeat Big Borlg (large alien in the central ruins)"
+  },
+  {
+    "x_min": 268.4,
+    "y_min": 1051.0,
+    "x_max": 302.79999999999995,
+    "y_max": 359.9,
+    "text": "ARCADE ACE: Gold Disk any 3 of the ARCADE games"
+  },
+  {
+    "x_min": 302.8,
+    "y_min": 1051.0,
+    "x_max": 337.2,
+    "y_max": 359.9,
+    "text": "HOT FOOT: Win three games in a row"
+  },
+  {
+    "x_min": 337.2,
+    "y_min": 1051.0,
+    "x_max": 371.59999999999997,
+    "y_max": 359.9,
+    "text": "VAINGER: Collect 5 items"
+  },
+  {
+    "x_min": 371.6,
+    "y_min": 1051.0,
+    "x_max": 406.0,
+    "y_max": 359.9,
+    "text": "CAMOUFLAGE: Gold disk"
+  },
+  {
+    "x_min": 234.0,
+    "y_min": 1332.0,
+    "x_max": 268.4,
+    "y_max": 359.9,
+    "text": "KICK CLUB: Have 5 extra lives at once"
+  },
+  {
+    "x_min": 268.4,
+    "y_min": 1332.0,
+    "x_max": 302.79999999999995,
+    "y_max": 359.9,
+    "text": "BLOCK KOALA: Beat 5 story levels"
+  },
+  {
+    "x_min": 302.8,
+    "y_min": 1332.0,
+    "x_max": 337.2,
+    "y_max": 359.9,
+    "text": "RAIL HEIST: Collect 9 Devil Stars"
+  },
+  {
+    "x_min": 337.2,
+    "y_min": 1332.0,
+    "x_max": 371.59999999999997,
+    "y_max": 359.9,
+    "text": "Collect 15 gifts for the garden"
+  },
+  {
+    "x_min": 371.6,
+    "y_min": 1332.0,
+    "x_max": 406.0,
+    "y_max": 359.9,
+    "text": "MOONCAT: Use 2 warps"
+  }
+]

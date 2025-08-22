@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 10.206306457519531,
+    "y_min": 392.2105712890625,
+    "x_max": 79.0561294555664,
+    "y_max": 461.4044494628906,
+    "text": "CYBER OWLS: Complete 2 missions"
+  },
+  {
+    "x_min": 78.65775299072266,
+    "y_min": 392.5180358886719,
+    "x_max": 151.3736114501953,
+    "y_max": 461.2956237792969,
+    "text": "Find an egg in 8 games"
+  },
+  {
+    "x_min": 150.9976348876953,
+    "y_min": 392.7314758300781,
+    "x_max": 222.78192138671875,
+    "y_max": 461.3551940917969,
+    "text": "GRIMSTONE Learn 3 Skills"
+  },
+  {
+    "x_min": 222.54690551757812,
+    "y_min": 392.3698425292969,
+    "x_max": 295.009521484375,
+    "y_max": 461.3952331542969,
+    "text": "MAGIC GARDEN: Reach a score of 50,000+"
+  },
+  {
+    "x_min": 294.65814208984375,
+    "y_min": 390.3599853515625,
+    "x_max": 370.96307373046875,
+    "y_max": 461.3638610839844,
+    "text": "MORTOL II: Gold dilsk"
+  },
+  {
+    "x_min": 10.628927230834961,
+    "y_min": 461.4413146972656,
+    "x_max": 78.8758773803711,
+    "y_max": 526.1880493164062,
+    "text": "VELGRESS Gold disk without Jump Pads"
+  },
+  {
+    "x_min": 78.48992919921875,
+    "y_min": 461.3429260253906,
+    "x_max": 151.21412658691406,
+    "y_max": 526.1106567382812,
+    "text": "PINGOLF: Gold disk"
+  },
+  {
+    "x_min": 150.85369873046875,
+    "y_min": 461.4344482421875,
+    "x_max": 222.8510284423828,
+    "y_max": 526.0900268554688,
+    "text": "ROCKON! ISLAND: Beat Initial Encounter wio upgrading at the cave"
+  },
+  {
+    "x_min": 222.4948272705078,
+    "y_min": 461.3953857421875,
+    "x_max": 295.3453674316406,
+    "y_max": 526.1827392578125,
+    "text": "Collect 10 gifts for the garden"
+  },
+  {
+    "x_min": 294.9135437011719,
+    "y_min": 461.2679748535156,
+    "x_max": 370.4031982421875,
+    "y_max": 525.8108520507812,
+    "text": "WALDORF'S JOURNEY: Knock 2 pigs into the water"
+  },
+  {
+    "x_min": 10.576074600219727,
+    "y_min": 526.171630859375,
+    "x_max": 78.67028045654297,
+    "y_max": 591.8356323242188,
+    "text": "Enter a top 3 score on 2 arcade leaderboards"
+  },
+  {
+    "x_min": 78.36790466308594,
+    "y_min": 526.0950927734375,
+    "x_max": 151.27557373046875,
+    "y_max": 591.8062744140625,
+    "text": "PORGY: Collect 3 fuel tanks"
+  },
+  {
+    "x_min": 150.9354705810547,
+    "y_min": 526.0994873046875,
+    "x_max": 222.81781005859375,
+    "y_max": 591.791015625,
+    "text": "MORTOL: Clear all world 2 levels using OPEN-TOMB"
+  },
+  {
+    "x_min": 222.6536407470703,
+    "y_min": 526.1376342773438,
+    "x_max": 295.0967102050781,
+    "y_max": 591.95166015625,
+    "text": "OVERBOLD: Max out four upgrades"
+  },
+  {
+    "x_min": 294.74212646484375,
+    "y_min": 525.9100952148438,
+    "x_max": 369.1917419433594,
+    "y_max": 591.7876586914062,
+    "text": "WARPTANK: Collect 3 coffees"
+  },
+  {
+    "x_min": 10.29177474975586,
+    "y_min": 591.742919921875,
+    "x_max": 78.86408996582031,
+    "y_max": 657.1567993164062,
+    "text": "ROCK ONI ISLAND: Use CLUB-PASS beat Jungle Rush"
+  },
+  {
+    "x_min": 78.50491333007812,
+    "y_min": 591.7957153320312,
+    "x_max": 151.0443572998047,
+    "y_max": 656.9413452148438,
+    "text": "RAIL HEIST: Use LAZY- COPS; Beat Vengeancel and The Final Score"
+  },
+  {
+    "x_min": 150.7421875,
+    "y_min": 591.7127685546875,
+    "x_max": 222.91561889648438,
+    "y_max": 657.176025390625,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 222.72708129882812,
+    "y_min": 591.8572387695312,
+    "x_max": 295.0407409667969,
+    "y_max": 657.085205078125,
+    "text": "CAMPANELLA: Use BEAN- DRIP; Score 8.000 points in the Bonus Game"
+  },
+  {
+    "x_min": 294.6732482910156,
+    "y_min": 591.6725463867188,
+    "x_max": 368.7535400390625,
+    "y_max": 657.1812133789062,
+    "text": "PLANET ZOLDATH Collect the dungeon Map Piece"
+  },
+  {
+    "x_min": 9.911174774169922,
+    "y_min": 657.1220092773438,
+    "x_max": 78.63964080810547,
+    "y_max": 709.9058227539062,
+    "text": "MINI &MAX: Rid the books of Silverfish"
+  },
+  {
+    "x_min": 78.2842025756836,
+    "y_min": 657.01708984375,
+    "x_max": 151.05897521972656,
+    "y_max": 709.7245483398438,
+    "text": "RAKSHASA: Gold disk"
+  },
+  {
+    "x_min": 150.89126586914062,
+    "y_min": 657.053466796875,
+    "x_max": 223.05514526367188,
+    "y_max": 709.6060180664062,
+    "text": "NIGHT MANOR: Find 10 joumnal"
+  },
+  {
+    "x_min": 222.76675415039062,
+    "y_min": 657.0897216796875,
+    "x_max": 295.1730041503906,
+    "y_max": 709.3350830078125,
+    "text": "PAINT CHASE: Beat 12 levels"
+  },
+  {
+    "x_min": 294.9510498046875,
+    "y_min": 657.2017822265625,
+    "x_max": 368.79864501953125,
+    "y_max": 709.54248046875,
+    "text": "Collect 5 gold dlsks"
+  }
+]

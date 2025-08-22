@@ -44,8 +44,9 @@ def deserialize_board_file(filename: str) -> list[Square]:
 
 
 def serialize_board_to_file(board: list[Square], filename: str):
+    serialized = serialize_board(board)
     with open(filename, "w") as f:
-        f.write(serialize_board(board))
+        f.write(serialized)
 
 
 def deserialize_board(serialized: str) -> list[Square]:

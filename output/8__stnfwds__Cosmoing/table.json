@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 722.4141845703125,
+    "y_min": 642.982177734375,
+    "x_max": 824.1058349609375,
+    "y_max": 729.4031982421875,
+    "text": "PINGOLF: Score -2 or better on three holes"
+  },
+  {
+    "x_min": 823.0067749023438,
+    "y_min": 642.2868041992188,
+    "x_max": 918.3115844726562,
+    "y_max": 729.1061401367188,
+    "text": "MORTOL II: Defeat two mini bosses without damaging them as the Bomber"
+  },
+  {
+    "x_min": 917.7393188476562,
+    "y_min": 641.3743896484375,
+    "x_max": 1013.5742797851562,
+    "y_max": 729.624267578125,
+    "text": "CARAMEL CARAMEL: TEST- LENS allowed; defeat Dino Lord in Dino Planet"
+  },
+  {
+    "x_min": 1012.4180908203125,
+    "y_min": 639.8934936523438,
+    "x_max": 1111.277099609375,
+    "y_max": 729.8583374023438,
+    "text": "PLANET ZOLDATH: Kill a Mosquito"
+  },
+  {
+    "x_min": 1110.6343994140625,
+    "y_min": 640.5948486328125,
+    "x_max": 1208.656005859375,
+    "y_max": 729.8251342773438,
+    "text": "DAYJOB: BuS Hunter: Beat a job; Onion Delivery: Complete 2 days; Rail Heist: Eam 3 pacifist stars"
+  },
+  {
+    "x_min": 725.5812377929688,
+    "y_min": 729.4155883789062,
+    "x_max": 822.8509521484375,
+    "y_max": 817.4945068359375,
+    "text": "DEVILITION: Beat 5 rounds"
+  },
+  {
+    "x_min": 822.37890625,
+    "y_min": 729.2464599609375,
+    "x_max": 917.853515625,
+    "y_max": 817.3969116210938,
+    "text": "Buy an item from a shop in 10 different games"
+  },
+  {
+    "x_min": 917.2859497070312,
+    "y_min": 729.7803344726562,
+    "x_max": 1014.1137084960938,
+    "y_max": 817.273193359375,
+    "text": "STAR WASPIR: Score 50,000+ points"
+  },
+  {
+    "x_min": 1013.5375366210938,
+    "y_min": 729.8995971679688,
+    "x_max": 1110.589599609375,
+    "y_max": 817.248291015625,
+    "text": "RAIL HEIST: Collect 9 Devil Stars"
+  },
+  {
+    "x_min": 1109.9901123046875,
+    "y_min": 729.8292846679688,
+    "x_max": 1207.6595458984375,
+    "y_max": 817.2863159179688,
+    "text": "HOTFOOT Get 3 blowouts in one tournament"
+  },
+  {
+    "x_min": 725.83837890625,
+    "y_min": 817.2286987304688,
+    "x_max": 822.8328857421875,
+    "y_max": 905.00390625,
+    "text": "VALBRACE: Defeat the Phantom Knight on Floor 2"
+  },
+  {
+    "x_min": 822.3565063476562,
+    "y_min": 817.214111328125,
+    "x_max": 918.5855712890625,
+    "y_max": 905.085205078125,
+    "text": "BUG HUNTER: Complete a job with your energy maxed out"
+  },
+  {
+    "x_min": 918.2357177734375,
+    "y_min": 817.1771240234375,
+    "x_max": 1014.2305908203125,
+    "y_max": 905.3529663085938,
+    "text": "CAMOUFLAGE Collect 10 oranges"
+  },
+  {
+    "x_min": 1013.554443359375,
+    "y_min": 817.091552734375,
+    "x_max": 1110.812744140625,
+    "y_max": 905.3411254882812,
+    "text": "Collect 7 gifts \u9752 for the garden"
+  },
+  {
+    "x_min": 1110.17041015625,
+    "y_min": 817.0821533203125,
+    "x_max": 1207.7301025390625,
+    "y_max": 905.1381225585938,
+    "text": "PORGY: Collect 3 torpedo upgrades"
+  },
+  {
+    "x_min": 725.9156494140625,
+    "y_min": 905.018310546875,
+    "x_max": 822.7928466796875,
+    "y_max": 993.010009765625,
+    "text": "Collect 6 gold \u2605 disks"
+  },
+  {
+    "x_min": 822.2134399414062,
+    "y_min": 904.994384765625,
+    "x_max": 919.178955078125,
+    "y_max": 992.3731079101562,
+    "text": "KICK CLUB: Eat 10 hidden desserts"
+  },
+  {
+    "x_min": 918.5473022460938,
+    "y_min": 905.3104248046875,
+    "x_max": 1013.1586303710938,
+    "y_max": 992.4158935546875,
+    "text": "ATTACTICS: Score 1000+ points in Survival Mode"
+  },
+  {
+    "x_min": 1012.612060546875,
+    "y_min": 905.4219360351562,
+    "x_max": 1110.9517822265625,
+    "y_max": 992.9611206054688,
+    "text": "WALDORF'S JOURNEY: Kill 3 squids in three different ways"
+  },
+  {
+    "x_min": 1110.1571044921875,
+    "y_min": 905.0914916992188,
+    "x_max": 1207.458740234375,
+    "y_max": 993.135009765625,
+    "text": "ONION DELIVERY: Deliver 8 onions in a single day and complete the day"
+  },
+  {
+    "x_min": 725.6931762695312,
+    "y_min": 992.583984375,
+    "x_max": 821.8919677734375,
+    "y_max": 1079.7701416015625,
+    "text": "VAINGER: Collect the Multi Mod from Latom Sector"
+  },
+  {
+    "x_min": 821.3193359375,
+    "y_min": 992.1834716796875,
+    "x_max": 918.2927856445312,
+    "y_max": 1080.0,
+    "text": "WARPTANK: Complete the three levels in the initial hub room"
+  },
+  {
+    "x_min": 918.4896240234375,
+    "y_min": 992.28125,
+    "x_max": 1013.1618041992188,
+    "y_max": 1079.9027099609375,
+    "text": "Beat 8 levels in 3 different \u9752 games"
+  },
+  {
+    "x_min": 1012.60302734375,
+    "y_min": 992.72412109375,
+    "x_max": 1110.3197021484375,
+    "y_max": 1079.8607177734375,
+    "text": "MAGIC GARDEN Defeat an enemy worth at least 500 points"
+  },
+  {
+    "x_min": 1110.0987548828125,
+    "y_min": 992.9793090820312,
+    "x_max": 1207.5836181640625,
+    "y_max": 1079.6702880859375,
+    "text": "PLANET ZOLDATH: Collect the dungeon Map Piece"
+  }
+]

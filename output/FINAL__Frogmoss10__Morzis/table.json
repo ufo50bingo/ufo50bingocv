@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 700.8434448242188,
+    "y_min": 599.8780517578125,
+    "x_max": 806.5007934570312,
+    "y_max": 698.0408325195312,
+    "text": "MAGIC GARDEN: Reach a score of 10,000+"
+  },
+  {
+    "x_min": 805.6293334960938,
+    "y_min": 600.0416870117188,
+    "x_max": 909.7046508789062,
+    "y_max": 698.7044067382812,
+    "text": "BUG HUNTER: Complete a job with your energy maxed out"
+  },
+  {
+    "x_min": 908.915771484375,
+    "y_min": 599.3717651367188,
+    "x_max": 1012.0958862304688,
+    "y_max": 699.1051025390625,
+    "text": "Collect 3 cherry disks"
+  },
+  {
+    "x_min": 1011.3547973632812,
+    "y_min": 599.0197143554688,
+    "x_max": 1118.9931640625,
+    "y_max": 698.9238891601562,
+    "text": "THE BIG BELL RACE: KO an opponent with 3 unique power ups"
+  },
+  {
+    "x_min": 1118.1697998046875,
+    "y_min": 597.6353149414062,
+    "x_max": 1221.257080078125,
+    "y_max": 698.3531494140625,
+    "text": "RAKSHASA: Beatthe first Mid Boss w/ 4+ skulls"
+  },
+  {
+    "x_min": 701.1792602539062,
+    "y_min": 697.9779663085938,
+    "x_max": 806.2290649414062,
+    "y_max": 794.3314819335938,
+    "text": "STAR WASPIR: Clear wave 1 without dying and a score of exactly 600 (defeat only the boss)"
+  },
+  {
+    "x_min": 805.6927490234375,
+    "y_min": 698.6494750976562,
+    "x_max": 909.9254150390625,
+    "y_max": 793.9345703125,
+    "text": "AVIANOS:Win a Fledgling game in the campaign"
+  },
+  {
+    "x_min": 909.7723388671875,
+    "y_min": 698.8705444335938,
+    "x_max": 1011.8994140625,
+    "y_max": 793.7052612304688,
+    "text": "ROCKON! ISLAND: CLUB- PASS allowed; beat Terror Overhead"
+  },
+  {
+    "x_min": 1011.2578735351562,
+    "y_min": 698.6456298828125,
+    "x_max": 1117.5970458984375,
+    "y_max": 793.9266967773438,
+    "text": "GOLFARIA Rescue 2 green balls"
+  },
+  {
+    "x_min": 1116.8001708984375,
+    "y_min": 697.443115234375,
+    "x_max": 1220.6907958984375,
+    "y_max": 794.1997680664062,
+    "text": "Beat 4 levels in 5 different games"
+  },
+  {
+    "x_min": 701.8067626953125,
+    "y_min": 794.2877197265625,
+    "x_max": 806.1541137695312,
+    "y_max": 888.4166259765625,
+    "text": "ONION DELIVERY: Hit 6 time boxes in one day and complete the day"
+  },
+  {
+    "x_min": 805.5844116210938,
+    "y_min": 793.7513427734375,
+    "x_max": 909.3248901367188,
+    "y_max": 888.7704467773438,
+    "text": "nter a top 3 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 909.093505859375,
+    "y_min": 793.7224731445312,
+    "x_max": 1011.9154052734375,
+    "y_max": 888.9363403320312,
+    "text": "COMBATANTS Beat'First Blood' without shooting"
+  },
+  {
+    "x_min": 1011.5487670898438,
+    "y_min": 793.8756103515625,
+    "x_max": 1117.6304931640625,
+    "y_max": 888.8282470703125,
+    "text": "SEASIDE DRIVE: Destroy the UFO in Stage 3"
+  },
+  {
+    "x_min": 1116.869873046875,
+    "y_min": 794.0923461914062,
+    "x_max": 1219.891845703125,
+    "y_max": 888.8927001953125,
+    "text": "GOLFARIA Achieve 20% Completion"
+  },
+  {
+    "x_min": 702.0324096679688,
+    "y_min": 888.3085327148438,
+    "x_max": 806.12353515625,
+    "y_max": 983.8897094726562,
+    "text": "LORDS OF DISKONIA Have 50+ gold"
+  },
+  {
+    "x_min": 805.6063842773438,
+    "y_min": 888.7135620117188,
+    "x_max": 907.9559326171875,
+    "y_max": 983.5575561523438,
+    "text": "MORTOL II: Defeat two mini bosses without damaging them as the Bomber"
+  },
+  {
+    "x_min": 907.6448974609375,
+    "y_min": 888.7380981445312,
+    "x_max": 1012.3624267578125,
+    "y_max": 983.7190551757812,
+    "text": "CAMPANELLA Have 20 lives"
+  },
+  {
+    "x_min": 1011.8372802734375,
+    "y_min": 888.6865234375,
+    "x_max": 1117.5662841796875,
+    "y_max": 983.666748046875,
+    "text": "\u2605Buy an item from a shop in 10 different games"
+  },
+  {
+    "x_min": 1116.9981689453125,
+    "y_min": 888.6625366210938,
+    "x_max": 1219.734130859375,
+    "y_max": 983.6533203125,
+    "text": "DEVILITION: Beat 5 rounds"
+  },
+  {
+    "x_min": 702.1260375976562,
+    "y_min": 983.5927734375,
+    "x_max": 805.862060546875,
+    "y_max": 1079.322021484375,
+    "text": "GIRLPOWER: Magic Garden: Save 50 oppies; Cyber Owls: Beat Congo: Fist Hell: Survive 6 gym waves as Cat"
+  },
+  {
+    "x_min": 805.4054565429688,
+    "y_min": 983.3472290039062,
+    "x_max": 908.0038452148438,
+    "y_max": 1078.892822265625,
+    "text": "PARTY HOUSE:Get a Climber to 9 popularity"
+  },
+  {
+    "x_min": 907.9602661132812,
+    "y_min": 983.5335693359375,
+    "x_max": 1012.0043334960938,
+    "y_max": 1079.4810791015625,
+    "text": "MORTOLII: Activate all the switches"
+  },
+  {
+    "x_min": 1012.0120239257812,
+    "y_min": 983.4609985351562,
+    "x_max": 1117.8392333984375,
+    "y_max": 1079.509033203125,
+    "text": "Gold disk"
+  },
+  {
+    "x_min": 1117.0391845703125,
+    "y_min": 983.2095336914062,
+    "x_max": 1220.31494140625,
+    "y_max": 1079.7314453125,
+    "text": "disk"
+  }
+]
