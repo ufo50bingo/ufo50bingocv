@@ -4,6 +4,8 @@ from paddleocr import PaddleOCR, TableCellsDetection
 from PIL import Image, ImageDraw
 from typing import Any
 
+from square import Square
+
 
 def approx(a: float, b: float, tolerance: float) -> bool:
     return abs(a - b) <= tolerance
@@ -221,7 +223,17 @@ def get_texts(data: dict[str, Any]) -> list[Text]:
     return texts
 
 
-def get_best_table_from_image(img_path: str) -> list[Cell] | None:
+def get_square_from_cell(cell: Cell) -> Square:
+    return Square(
+        x_min=cell.x_min,
+        y_min=cell.y_min,
+        x_max=cell.x_max,
+        y_max=cell.y_max,
+        text=cell.text,
+    )
+
+
+def get_best_table_from_image(img_path: str) -> list[Square] | None:
     ocr_data = run_ocr_model(img_path, "ocrtext.png")
     texts = get_texts(ocr_data)
     cell_data = run_table_model(img_path, output_img_path="tempimg.png")
@@ -231,33 +243,14 @@ def get_best_table_from_image(img_path: str) -> list[Cell] | None:
     table = find_table(cells)
     if table is not None:
         draw_cells(table, "ocrtext.png", "celldebug.png")
-    return table
-
-
-# img_path = "videotest.jpg"
-# table = get_best_table_from_image(img_path)
-# if table is not None:
-#     draw_cells(table, img_path, "videotest_out.jpg")
-#     for i in range(0, len(table)):
-#         print(table[i].text)
-#         if i % 5 == 4:
-#             print("----------------------------")
-
-# base = "videotest"
-# img_path = "./{}.jpg".format(base)
-# dir = "./{}/".format(base)
-
-# cell_data = run_table_model(img_path, dir, "{}cell_json.json".format(dir))
-# # cell_data = load_json("./tableoutput/tableres.json")
-# cells = get_sorted_cells(cell_data, 0.2)
-# table = find_table(cells)
-
-# if table is None:
-#     raise Exception("could not find table!")
-
-# print(table[4].x_min, table[4].y_min, table[4].x_max, table[4].y_max)
-
-# ocr_data = load_json("./output/test_res.json")
-# ocr_data = run_ocr_model(img_path, dir, "{}ocr_json.json".format(dir))
-# texts = get_texts(ocr_data)
-# print([cell.get_contained_text(texts, 0.05) for cell in table])
+        return [
+            Square(
+                x_min=cell.x_min,
+                y_min=cell.y_min,
+                x_max=cell.x_max,
+                y_max=cell.y_max,
+                text=cell.text,
+            )
+            for cell in table
+        ]
+    return None

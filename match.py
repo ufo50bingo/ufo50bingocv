@@ -6,8 +6,9 @@ import subprocess
 import cv2
 
 from changelog import Change
-from find_table import Cell, get_best_table_from_image
+from find_table import get_best_table_from_image
 from make_url import get_url_at_time
+from square import Square
 from text_correction import get_confirmed_text
 from color import Color
 from video import get_named_colors
@@ -185,7 +186,7 @@ class GoalCompletion:
     @staticmethod
     def get_from_changelog(
         changelog: list[Change],
-        table: list[Cell],
+        table: list[Square],
         match: "Match",
     ) -> list["GoalCompletion"]:
         final_stats = GoalCompletion.get_final_stats(changelog)
@@ -329,7 +330,8 @@ class MatchWithVideo(Match):
     def move_to_sec(self, sec: float):
         self.cap.set(cv2.CAP_PROP_POS_FRAMES, self.fps * sec)
 
-    def get_table(self) -> list[Cell]:
+    def get_table(self) -> list[Square]:
+        # TODO: fix this
         pickle_name = os.path.join(self.dir, "table.pickle")
         if os.path.isfile(pickle_name):
             with open(pickle_name, "rb") as file:
