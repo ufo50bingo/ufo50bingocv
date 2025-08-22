@@ -9,7 +9,7 @@ all_matches = get_all_matches()
 for i in range(len(all_matches)):
     try:
         match = all_matches[i]
-        if os.path.isfile(os.path.join(match.dir, "changelog.pickle")):
+        if os.path.isfile(os.path.join(match.dir, "changelog.txt")):
             continue
         print(
             f"Starting match {match.id} ({i+1} of {len(all_matches)}) at {datetime.datetime.now().time()}"

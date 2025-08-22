@@ -1,5 +1,4 @@
 import math
-import pickle
 from color import Color
 
 
@@ -19,12 +18,6 @@ def get_changelog_from_tuples(tuples: list[tuple[float, int, Color]]) -> list[Ch
     return [
         Change(time=tuple[0], square_index=tuple[1], color=tuple[2]) for tuple in tuples
     ]
-
-
-def get_changelog_from_pickle(filename: str) -> list[Change]:
-    with open(filename, "rb") as f:
-        tuples: list[tuple[float, int, Color]] = pickle.load(f)
-    return get_changelog_from_tuples(tuples)
 
 
 def serialize_changelog(changelog: list[Change]) -> str:
