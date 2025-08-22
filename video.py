@@ -1,7 +1,8 @@
 import cv2
 
 from color import Color
-from find_table import Cell, get_best_table_from_image
+from find_table import get_best_table_from_image
+from square import Square
 
 
 def get_reference_colors() -> dict[Color, list[cv2.typing.Scalar]]:
@@ -47,7 +48,7 @@ def get_closest_color_name(
     return best_name
 
 
-def find_table_from_video(cap: cv2.VideoCapture) -> list[Cell] | None:
+def find_table_from_video(cap: cv2.VideoCapture) -> list[Square] | None:
     fps = cap.get(cv2.CAP_PROP_FPS)
     ten_mins = fps * 60 * 10
     cur_frame = ten_mins
@@ -67,7 +68,7 @@ def find_table_from_video(cap: cv2.VideoCapture) -> list[Cell] | None:
 
 
 # get a 1/4 size rectangle with the same center as Cell
-def get_center_rect(cell: Cell, frame: cv2.typing.MatLike) -> cv2.typing.MatLike:
+def get_center_rect(cell: Square, frame: cv2.typing.MatLike) -> cv2.typing.MatLike:
     x_delta = (cell.x_max - cell.x_min) / 8
     y_delta = (cell.y_max - cell.y_min) / 8
 
@@ -84,7 +85,7 @@ def get_center_rect(cell: Cell, frame: cv2.typing.MatLike) -> cv2.typing.MatLike
 
 # color is bgr instead of rgb
 def get_raw_colors(
-    table: list[Cell], frame: cv2.typing.MatLike
+    table: list[Square], frame: cv2.typing.MatLike
 ) -> list[cv2.typing.Scalar]:
     return [
         cv2.mean(
@@ -98,7 +99,9 @@ def get_raw_colors(
 
 
 def get_named_colors(
-    table: list[Cell], frame: cv2.typing.MatLike, color_restrictions: None | set[Color]
+    table: list[Square],
+    frame: cv2.typing.MatLike,
+    color_restrictions: None | set[Color],
 ) -> list[Color]:
     raw_colors = get_raw_colors(table, frame)
     valid_colors = (
