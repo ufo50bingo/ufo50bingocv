@@ -1,17 +1,8 @@
 import csv
 import pickle
 import os
-from match import GoalCompletion, Match
-
-
-# TODO: import from parse_csv
-def get_all_matches() -> list[Match]:
-    with open("all_matches.csv", newline="") as file:
-        matches = csv.reader(file)
-        # skip header
-        next(matches)
-        return [Match(row) for row in matches]
-
+from match import GoalCompletion
+from parse_csv import get_all_matches
 
 matches = get_all_matches()
 all_goal_completions: list[list[str]] = []

@@ -5,6 +5,7 @@ import pickle
 import subprocess
 import cv2
 
+from changelog import Change
 from find_table import Cell, get_best_table_from_image
 from make_url import get_url_at_time
 from text_correction import get_confirmed_text
@@ -32,14 +33,16 @@ class GoalCompletion:
         self.end_time = end_time
 
     @staticmethod
-    def print_changelog(changelog: list[tuple[float, int, Color]]):
+    def print_changelog(changelog: list[Change]):
         for change in changelog:
-            hrs = math.trunc(change[0] / 3600)
-            remaining = change[0] - 3600 * hrs
+            hrs = math.trunc(change.time / 3600)
+            remaining = change.time - 3600 * hrs
             mins = math.trunc(remaining / 60)
             remaining = remaining - 60 * mins
             secs = round(remaining)
-            print(f"{hrs}:{mins:02d}:{secs:02d} - {change[1]} - {change[2].value}")
+            print(
+                f"{hrs}:{mins:02d}:{secs:02d} - {change.square_index} - {change.color.value}"
+            )
 
     @staticmethod
     def print_distinct_states(distinct_states: list[tuple[float, list[Color]]]):
@@ -64,17 +67,17 @@ class GoalCompletion:
 
     @staticmethod
     def get_final_board_from_changelog(
-        changelog: list[tuple[float, int, Color]],
+        changelog: list[Change],
     ) -> list[Color]:
         final_board = [Color.BLACK for _ in range(0, 25)]
         for c in changelog:
-            final_board[c[1]] = c[2]
+            final_board[c.square_index] = c.color
         return final_board
 
     # (winner color, winner score, has bingo, loser color, loser score)
     @staticmethod
     def get_final_stats(
-        changelog: list[tuple[float, int, Color]],
+        changelog: list[Change],
     ) -> None | tuple[Color, int, bool, Color, int]:
         final_board = GoalCompletion.get_final_board_from_changelog(changelog)
         bingo_lines = [
@@ -123,9 +126,9 @@ class GoalCompletion:
         if len(most_common) == 1:
             color2_score = 0
             remaining_colors = [
-                change[2]
+                change.color
                 for change in changelog
-                if change[2] != Color.BLACK and change[2] != color1
+                if change.color != Color.BLACK and change.color != color1
             ]
             if len(remaining_colors) > 0:
                 color2 = remaining_colors[0]
@@ -148,9 +151,9 @@ class GoalCompletion:
         else:
             losing_color = None
             for c in reversed(changelog):
-                if c[2] == Color.BLACK or final_board[c[1]] != c[2]:
+                if c.color == Color.BLACK or final_board[c.square_index] != c.color:
                     continue
-                losing_color = c[2]
+                losing_color = c.color
                 break
             if losing_color is None:
                 return None
@@ -180,7 +183,7 @@ class GoalCompletion:
 
     @staticmethod
     def get_from_changelog(
-        changelog: list[tuple[float, int, Color]],
+        changelog: list[Change],
         table: list[Cell],
         match: "Match",
     ) -> list["GoalCompletion"]:
@@ -191,8 +194,8 @@ class GoalCompletion:
 
         goal_index_to_changelog_indices: dict[int, list[int]] = {}
         for changelog_index in range(len(changelog)):
-            item = changelog[changelog_index]
-            goal_index = item[1]
+            change = changelog[changelog_index]
+            goal_index = change.square_index
             existing = goal_index_to_changelog_indices.get(goal_index)
             if existing is None:
                 existing = [changelog_index]
@@ -202,22 +205,22 @@ class GoalCompletion:
         completions: list[GoalCompletion] = []
         for goal_index, changelog_indices in goal_index_to_changelog_indices.items():
             final_change = changelog[changelog_indices[-1]]
-            final_color = final_change[2]
+            final_color = final_change.color
             # if goal ended black, don't track the completion
             if final_color == Color.BLACK:
                 continue
-            end_time = final_change[0]
+            end_time = final_change.time
             first_change_of_same_color = next(
                 c_index
                 for c_index in changelog_indices
-                if changelog[c_index][2] == final_color
+                if changelog[c_index].color == final_color
             )
             c_index = first_change_of_same_color - 1
             start_time = match.start
             while c_index >= 0:
                 change = changelog[c_index]
-                if change[2] == final_color:
-                    start_time = change[0]
+                if change.color == final_color:
+                    start_time = change.time
                     break
                 c_index -= 1
 
@@ -240,12 +243,15 @@ class GoalCompletion:
 
     # week, tier, player name, opponent name, goal, time(mins), start_url, end_url
     def get_csv_row(self) -> list[str]:
+        confirmed_text = get_confirmed_text(self.text)
+        if confirmed_text is None:
+            raise Exception(f"Trying to write unconfirmed text to csv: {self.text}")
         return [
             self.match.week,
             self.match.tier,
             self.player_name,
             self.opponent_name,
-            get_confirmed_text(self.text),
+            confirmed_text,
             f"{(self.end_time - self.start_time) / 60:.1f}",
             get_url_at_time(self.match.vod, self.start_time),
             get_url_at_time(self.match.vod, self.end_time),
@@ -475,18 +481,20 @@ class MatchWithVideo(Match):
             cv2.imwrite(self.frame_name, frame)
         return states
 
-    def get_changelog(self) -> tuple[bool, list[tuple[float, int, Color]]]:
+    def get_changelog(self) -> tuple[bool, list[Change]]:
         states = self.get_distinct_states()
         pickle_name = os.path.join(self.dir, "states.pickle")
         with open(pickle_name, "wb") as file:
             pickle.dump(states, file)
-        changelog: list[tuple[float, int, Color]] = []
+        changelog: list[Change] = []
         for i in range(1, len(states)):
             old_colors = states[i - 1][1]
             new_colors = states[i][1]
             for j in range(0, 25):
                 if old_colors[j] != new_colors[j]:
-                    changelog.append((states[i][0], j, new_colors[j]))
+                    changelog.append(
+                        Change(time=states[i][0], square_index=j, color=new_colors[j])
+                    )
         pickle_name = os.path.join(self.dir, "changelog.pickle")
         with open(pickle_name, "wb") as file:
             pickle.dump(changelog, file)
@@ -504,7 +512,7 @@ class MatchWithVideo(Match):
                 )
                 file.write(f"Expected stats: {expected_stats}")
         all_colors = {
-            change[2].value for change in changelog if change[2] != Color.BLACK
+            change.color.value for change in changelog if change.color != Color.BLACK
         }
         if len(all_colors) != 2:
             with open(os.path.join(self.dir, "BAD_COLORS.txt"), "w") as file:
