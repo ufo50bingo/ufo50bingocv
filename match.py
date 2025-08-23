@@ -271,11 +271,12 @@ class Match:
         self.date = row[4]
         self.streamer = row[5]
         self.start = float(row[6])
-        self.vod = row[7]
-        self.p1_score = int(row[8])
-        self.p2_score = int(row[9])
-        self.bingo = row[10] == "P1" or row[10] == "P2"
-        self.winner_name = row[11]
+        self.board_start = float(row[7])
+        self.vod = row[8]
+        self.p1_score = int(row[9])
+        self.p2_score = int(row[10])
+        self.bingo = row[11] == "P1" or row[11] == "P2"
+        self.winner_name = row[12]
         self.p1_is_winner = self.winner_name == self.p1_name
         self.id = (self.week + "__" + self.p1_name + "__" + self.p2_name).replace(
             " ", "_"
@@ -351,7 +352,7 @@ class MatchWithVideo(Match):
             os.remove(self.video_filename)
             raise Exception("Video quality too poor for OCR. Try again")
         print(f"Starting to OCR for id {self.id}")
-        time = self.start
+        time = self.board_start
         max_time = self.cap.get(cv2.CAP_PROP_FRAME_COUNT) / self.fps
 
         override_path = os.path.join(self.dir, "ocr_override_frame.png")
@@ -429,7 +430,7 @@ class MatchWithVideo(Match):
 
         states: list[tuple[float, list[Color]]] = []
         recent_colors = None
-        time = self.start
+        time = self.board_start
         max_time = self.cap.get(cv2.CAP_PROP_FRAME_COUNT) / self.fps
         frame = None
         while time <= max_time:
