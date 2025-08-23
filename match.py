@@ -246,7 +246,7 @@ class GoalCompletion:
             )
         return completions
 
-    # week, tier, player name, opponent name, goal, time(mins), start_url, end_url
+    # week, tier, date, player name, opponent name, goal, time(mins), start_url, end_url
     def get_csv_row(self) -> list[str]:
         confirmed_text = get_confirmed_text(self.text)
         if confirmed_text is None:
@@ -254,6 +254,7 @@ class GoalCompletion:
         return [
             self.match.week,
             self.match.tier,
+            self.match.date,
             self.player_name,
             self.opponent_name,
             confirmed_text,

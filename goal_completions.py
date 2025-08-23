@@ -25,6 +25,7 @@ with open("goal_completions.csv", "w", encoding="utf8", newline="") as f:
         [
             "Week",
             "Tier",
+            "Date",
             "Player",
             "Opponent",
             "Goal",
