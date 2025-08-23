@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 700.8707275390625,
+    "y_min": 599.6158447265625,
+    "x_max": 806.213623046875,
+    "y_max": 698.73486328125,
+    "text": "OVERBOLD: Max out four upgrades"
+  },
+  {
+    "x_min": 805.0673828125,
+    "y_min": 599.428955078125,
+    "x_max": 909.389892578125,
+    "y_max": 698.8571166992188,
+    "text": "MAGIC GARDEN:Use OVER-GROW; Save 30+ oppies in a run"
+  },
+  {
+    "x_min": 909.0120849609375,
+    "y_min": 599.7052001953125,
+    "x_max": 1012.143310546875,
+    "y_max": 699.2517700195312,
+    "text": "Find an easter egg UFO in 5 games"
+  },
+  {
+    "x_min": 1011.6490478515625,
+    "y_min": 600.9157104492188,
+    "x_max": 1117.21337890625,
+    "y_max": 699.2461547851562,
+    "text": "VALBRACE: Collect the zweihander"
+  },
+  {
+    "x_min": 1116.5810546875,
+    "y_min": 600.650390625,
+    "x_max": 1219.7220458984375,
+    "y_max": 698.6174926757812,
+    "text": "PAINT CHASE:Beat 12 levels"
+  },
+  {
+    "x_min": 700.7166137695312,
+    "y_min": 698.2047119140625,
+    "x_max": 805.8698120117188,
+    "y_max": 795.1900024414062,
+    "text": "DIVERS: Purchase Godblood"
+  },
+  {
+    "x_min": 805.374267578125,
+    "y_min": 698.7017211914062,
+    "x_max": 909.2152709960938,
+    "y_max": 793.9066772460938,
+    "text": "HOTFOOT: Win 2 games in a row without jumping"
+  },
+  {
+    "x_min": 908.758056640625,
+    "y_min": 698.9881591796875,
+    "x_max": 1012.2888793945312,
+    "y_max": 794.2639770507812,
+    "text": "VELGRESS: Gold disk"
+  },
+  {
+    "x_min": 1011.5443115234375,
+    "y_min": 698.9740600585938,
+    "x_max": 1117.311279296875,
+    "y_max": 794.2427978515625,
+    "text": "AVIANOS:Win a Custom game with 8 Mountains (change no other settings)"
+  },
+  {
+    "x_min": 1116.5399169921875,
+    "y_min": 698.0681762695312,
+    "x_max": 1219.1707763671875,
+    "y_max": 795.22509765625,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 700.9341430664062,
+    "y_min": 794.6310424804688,
+    "x_max": 805.9379272460938,
+    "y_max": 888.6062622070312,
+    "text": "CYBER OWLS:Eam a 1-Up (extra owl)"
+  },
+  {
+    "x_min": 805.3787231445312,
+    "y_min": 793.8426513671875,
+    "x_max": 908.6257934570312,
+    "y_max": 888.724609375,
+    "text": "nter a top 5 score on 4 arcade leaderboards"
+  },
+  {
+    "x_min": 908.2954711914062,
+    "y_min": 794.024169921875,
+    "x_max": 1012.2789916992188,
+    "y_max": 888.8960571289062,
+    "text": "BUG HUNTER: Gold disk"
+  },
+  {
+    "x_min": 1011.6640014648438,
+    "y_min": 794.202880859375,
+    "x_max": 1117.09228515625,
+    "y_max": 888.9127197265625,
+    "text": "PILOT QUEST:Make a friend at the crash site"
+  },
+  {
+    "x_min": 1116.37548828125,
+    "y_min": 794.9930419921875,
+    "x_max": 1219.3892822265625,
+    "y_max": 888.2860107421875,
+    "text": "PINGOLF: Gold disk"
+  },
+  {
+    "x_min": 701.08544921875,
+    "y_min": 888.3257446289062,
+    "x_max": 805.8041381835938,
+    "y_max": 983.738037109375,
+    "text": "PARTY HOUSE: Have a party with 4 Celebrities without getting busted"
+  },
+  {
+    "x_min": 805.165283203125,
+    "y_min": 888.6607666015625,
+    "x_max": 908.2914428710938,
+    "y_max": 983.77392578125,
+    "text": "PLANET ZOLDATH: Have 2 of each resource at once"
+  },
+  {
+    "x_min": 908.02734375,
+    "y_min": 888.7032470703125,
+    "x_max": 1012.3303833007812,
+    "y_max": 984.06787109375,
+    "text": "NIGHT MANOR: Gold disk"
+  },
+  {
+    "x_min": 1011.7877197265625,
+    "y_min": 888.796875,
+    "x_max": 1116.895751953125,
+    "y_max": 983.9317016601562,
+    "text": "SRIDLOCK: Rock On! Island: CLUB- PASS allowed, Beat The Spiral; Devition: Beat 5rounds:Cyber Owls: Rescue an ow"
+  },
+  {
+    "x_min": 1116.3660888671875,
+    "y_min": 887.891357421875,
+    "x_max": 1219.50048828125,
+    "y_max": 984.0722045898438,
+    "text": "BARBUTA: Defeat the Mimic"
+  },
+  {
+    "x_min": 700.4950561523438,
+    "y_min": 983.4485473632812,
+    "x_max": 805.5947265625,
+    "y_max": 1079.540771484375,
+    "text": "Collect 4 cherry disks"
+  },
+  {
+    "x_min": 805.330078125,
+    "y_min": 983.521240234375,
+    "x_max": 907.623779296875,
+    "y_max": 1079.028076171875,
+    "text": "WALDORF'S JOURNEY: Enter the palace with 6 Puffins"
+  },
+  {
+    "x_min": 907.4536743164062,
+    "y_min": 983.7547607421875,
+    "x_max": 1012.1939697265625,
+    "y_max": 1079.2471923828125,
+    "text": "CAMPANELLA: Defeat the Stage B Boss"
+  },
+  {
+    "x_min": 1011.8905029296875,
+    "y_min": 983.583740234375,
+    "x_max": 1117.0809326171875,
+    "y_max": 1078.865966796875,
+    "text": "MOONCAT: Visit 12 different rooms"
+  },
+  {
+    "x_min": 1116.4554443359375,
+    "y_min": 983.50634765625,
+    "x_max": 1219.289306640625,
+    "y_max": 1078.8873291015625,
+    "text": "PLANET ZOLDATH: Eat 10 slabs of meat"
+  }
+]

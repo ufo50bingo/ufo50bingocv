@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 466.45806884765625,
+    "y_min": 399.30377197265625,
+    "x_max": 535.2813110351562,
+    "y_max": 463.47576904296875,
+    "text": "VAINGER: Collect 1 keycode"
+  },
+  {
+    "x_min": 534.575927734375,
+    "y_min": 399.3003234863281,
+    "x_max": 606.3628540039062,
+    "y_max": 464.03759765625,
+    "text": "CAMOUFLAGE Reach 70% completion or more"
+  },
+  {
+    "x_min": 605.6392822265625,
+    "y_min": 399.5834045410156,
+    "x_max": 675.1104736328125,
+    "y_max": 463.99298095703125,
+    "text": "Collect a beverage in 6 different games"
+  },
+  {
+    "x_min": 674.6497192382812,
+    "y_min": 400.0732727050781,
+    "x_max": 745.54345703125,
+    "y_max": 463.9629821777344,
+    "text": "DIVERS:Open the chest containing the Parasite Hammer"
+  },
+  {
+    "x_min": 744.91943359375,
+    "y_min": 399.9324645996094,
+    "x_max": 815.7675170898438,
+    "y_max": 463.5724792480469,
+    "text": "PORGY: Collect the Buster Torpedos"
+  },
+  {
+    "x_min": 466.3277587890625,
+    "y_min": 463.1997375488281,
+    "x_max": 535.4471435546875,
+    "y_max": 527.7196044921875,
+    "text": "RAKSHASA Beat the first Mid Boss w/ 4+ skulls"
+  },
+  {
+    "x_min": 535.0697631835938,
+    "y_min": 463.8939208984375,
+    "x_max": 605.7881469726562,
+    "y_max": 527.662353515625,
+    "text": "RAILHEIST Kill 5 chickens"
+  },
+  {
+    "x_min": 605.3146362304688,
+    "y_min": 463.8290710449219,
+    "x_max": 675.0537109375,
+    "y_max": 527.848876953125,
+    "text": "MORTOL: LEAF-HEAD allowed;turn10 enemies into vines"
+  },
+  {
+    "x_min": 674.4444580078125,
+    "y_min": 463.8060302734375,
+    "x_max": 745.29736328125,
+    "y_max": 527.8460083007812,
+    "text": "\u2605 OVERBOLD Cherry disk"
+  },
+  {
+    "x_min": 744.93359375,
+    "y_min": 462.9599304199219,
+    "x_max": 816.8641357421875,
+    "y_max": 527.8098754882812,
+    "text": "Beat 4 levels In 5 different games"
+  },
+  {
+    "x_min": 466.391357421875,
+    "y_min": 527.5504150390625,
+    "x_max": 535.74072265625,
+    "y_max": 591.5216064453125,
+    "text": "ONION DELIVERY: Complete a day of dellveries driving only in reverse"
+  },
+  {
+    "x_min": 535.1575317382812,
+    "y_min": 527.6127319335938,
+    "x_max": 605.4390258789062,
+    "y_max": 591.3762817382812,
+    "text": "JRIATHLON: Gold Disk any 3 of the 5 \"SPORT games"
+  },
+  {
+    "x_min": 605.141357421875,
+    "y_min": 527.78271484375,
+    "x_max": 674.8560791015625,
+    "y_max": 591.4097290039062,
+    "text": "PARTYHOUSE: Have a party with 4 Celabrities without getting busted"
+  },
+  {
+    "x_min": 674.4483032226562,
+    "y_min": 527.8598022460938,
+    "x_max": 745.3984985351562,
+    "y_max": 591.4105834960938,
+    "text": "QUIBBLERACE Bet against your sponsored Quibble and win the round"
+  },
+  {
+    "x_min": 745.023193359375,
+    "y_min": 527.4338989257812,
+    "x_max": 816.6796875,
+    "y_max": 591.4610595703125,
+    "text": "\u2605 NINPEK: Gold disk"
+  },
+  {
+    "x_min": 466.59014892578125,
+    "y_min": 591.4906616210938,
+    "x_max": 535.5834350585938,
+    "y_max": 654.7150268554688,
+    "text": "MORTOLII: In one run, deteat at least 2 enemies with each player class"
+  },
+  {
+    "x_min": 535.0508422851562,
+    "y_min": 591.3978881835938,
+    "x_max": 605.4490356445312,
+    "y_max": 654.7680053710938,
+    "text": "VALBRACE: Level up at a throne"
+  },
+  {
+    "x_min": 605.150634765625,
+    "y_min": 591.3631591796875,
+    "x_max": 674.819091796875,
+    "y_max": 654.9546508789062,
+    "text": "MINI &MAX Return the stolen Termite Egg to the outlet"
+  },
+  {
+    "x_min": 674.3734130859375,
+    "y_min": 591.4140625,
+    "x_max": 745.3345336914062,
+    "y_max": 654.9393920898438,
+    "text": "Enter a top 3 score on 2 arcade leaderboards"
+  },
+  {
+    "x_min": 745.0234985351562,
+    "y_min": 591.3185424804688,
+    "x_max": 816.3674926757812,
+    "y_max": 654.76220703125,
+    "text": "CAMPANELLA 3. Clear 4 waves 100%"
+  },
+  {
+    "x_min": 466.32623291015625,
+    "y_min": 654.6268310546875,
+    "x_max": 535.2447509765625,
+    "y_max": 719.4539794921875,
+    "text": "\u2605 Collect 6 gold disks"
+  },
+  {
+    "x_min": 534.8049926757812,
+    "y_min": 654.6514892578125,
+    "x_max": 605.5865478515625,
+    "y_max": 719.2137451171875,
+    "text": "BUSHIDO BALL: Win a 16-point match on Hyper speed with all ofther options default"
+  },
+  {
+    "x_min": 605.4876708984375,
+    "y_min": 654.737548828125,
+    "x_max": 675.012939453125,
+    "y_max": 719.3776245117188,
+    "text": "MOONCAT. Use 2 warps"
+  },
+  {
+    "x_min": 674.685546875,
+    "y_min": 654.7113037109375,
+    "x_max": 745.250732421875,
+    "y_max": 719.1761474609375,
+    "text": "WARPTANK: SLIM-TANK allowed; clear Riot and Soft Sectors"
+  },
+  {
+    "x_min": 745.0054321289062,
+    "y_min": 654.577880859375,
+    "x_max": 816.2163696289062,
+    "y_max": 719.3858032226562,
+    "text": "COMBATANTS Slay a spider"
+  }
+]

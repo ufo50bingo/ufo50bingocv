@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 466.07781982421875,
+    "y_min": 399.58502197265625,
+    "x_max": 535.1744995117188,
+    "y_max": 464.9931640625,
+    "text": "Clear waves 1 and 2 withoul using powerups (EEE, GGG, or GEE)"
+  },
+  {
+    "x_min": 534.6019287109375,
+    "y_min": 399.3746643066406,
+    "x_max": 604.8349609375,
+    "y_max": 465.3929748535156,
+    "text": "Collect 5 gold disks"
+  },
+  {
+    "x_min": 603.62744140625,
+    "y_min": 398.9535217285156,
+    "x_max": 673.2922973632812,
+    "y_max": 465.431884765625,
+    "text": "PILOTQUEST Defeat Unktoml (Spiderboss)"
+  },
+  {
+    "x_min": 673.1112060546875,
+    "y_min": 398.24798583984375,
+    "x_max": 743.7383422851562,
+    "y_max": 465.4514465332031,
+    "text": "PAINT CHASE Reach a score of 240+"
+  },
+  {
+    "x_min": 743.0516967773438,
+    "y_min": 397.6922607421875,
+    "x_max": 813.4708251953125,
+    "y_max": 464.7688293457031,
+    "text": "BUG HUNTER Complete your first job"
+  },
+  {
+    "x_min": 466.7297668457031,
+    "y_min": 464.4916076660156,
+    "x_max": 535.1810913085938,
+    "y_max": 529.2085571289062,
+    "text": "MORTOL: Beat 2 levels without killling any enemles"
+  },
+  {
+    "x_min": 534.5995483398438,
+    "y_min": 465.3452453613281,
+    "x_max": 604.3653564453125,
+    "y_max": 529.0707397460938,
+    "text": "ROCKON! ISLAND: Have 20 chickens in a main level"
+  },
+  {
+    "x_min": 603.8563842773438,
+    "y_min": 465.2702331542969,
+    "x_max": 673.8470458984375,
+    "y_max": 528.9392700195312,
+    "text": "WARPTANK Collect 3 coffees"
+  },
+  {
+    "x_min": 673.153564453125,
+    "y_min": 465.11834716796875,
+    "x_max": 743.6131591796875,
+    "y_max": 528.999267578125,
+    "text": "ARCADE ACE: Gold Dlsk any 3 of the 16 \"ARCADE\" games"
+  },
+  {
+    "x_min": 743.0511474609375,
+    "y_min": 464.51104736328125,
+    "x_max": 812.6473999023438,
+    "y_max": 529.2471313476562,
+    "text": "MORTOL II: Defeat all three mini bosses"
+  },
+  {
+    "x_min": 466.81317138671875,
+    "y_min": 529.034912109375,
+    "x_max": 535.0411376953125,
+    "y_max": 592.0195922851562,
+    "text": "Find an egg in 10 different games"
+  },
+  {
+    "x_min": 534.4213256835938,
+    "y_min": 528.8867797851562,
+    "x_max": 604.1357421875,
+    "y_max": 591.8583374023438,
+    "text": "MOONCAT Find 2 of 3 eggs"
+  },
+  {
+    "x_min": 603.82958984375,
+    "y_min": 528.7088623046875,
+    "x_max": 674.2335205078125,
+    "y_max": 591.9832763671875,
+    "text": "NINPEK: Gold disk"
+  },
+  {
+    "x_min": 673.5250854492188,
+    "y_min": 528.7886962890625,
+    "x_max": 743.6727905273438,
+    "y_max": 592.1870727539062,
+    "text": "GRIMSTONE Have 3 Skills leamed at once"
+  },
+  {
+    "x_min": 743.0494384765625,
+    "y_min": 528.9453125,
+    "x_max": 812.3192138671875,
+    "y_max": 591.99755859375,
+    "text": "LORDS OF DISKONIA: Have 5 enemy disks drown"
+  },
+  {
+    "x_min": 466.5365295410156,
+    "y_min": 591.9588012695312,
+    "x_max": 535.0908813476562,
+    "y_max": 655.4276123046875,
+    "text": "PAINT CHASE! EVEN-COAT allowed;bea courses 18.17, and 20 whille destraying all spike mines"
+  },
+  {
+    "x_min": 534.4068603515625,
+    "y_min": 591.7456665039062,
+    "x_max": 604.17041015625,
+    "y_max": 655.4984130859375,
+    "text": "MORTOL II: Collect 10 keys"
+  },
+  {
+    "x_min": 603.82861328125,
+    "y_min": 591.727783203125,
+    "x_max": 674.079345703125,
+    "y_max": 655.5972290039062,
+    "text": "Defeat 10 bosses"
+  },
+  {
+    "x_min": 673.4158935546875,
+    "y_min": 591.9423828125,
+    "x_max": 744.2366943359375,
+    "y_max": 655.5206909179688,
+    "text": "CARAMEL CARAMEL:TEST- LENS allowed; beat Chost Planet without using the camera bafore the boss"
+  },
+  {
+    "x_min": 743.6063232421875,
+    "y_min": 591.853515625,
+    "x_max": 812.165771484375,
+    "y_max": 655.2603759765625,
+    "text": "WALDORF'S JOURNEY:Kill 3 squids in three different ways"
+  },
+  {
+    "x_min": 466.27130126953125,
+    "y_min": 655.3170776367188,
+    "x_max": 534.8426513671875,
+    "y_max": 719.231201171875,
+    "text": "DEVILITION: Gold disk"
+  },
+  {
+    "x_min": 534.4573364257812,
+    "y_min": 655.30517578125,
+    "x_max": 604.301025390625,
+    "y_max": 718.782470703125,
+    "text": "PLANET ZOLDATH: Collect the overworld ground Map Piece"
+  },
+  {
+    "x_min": 604.0648803710938,
+    "y_min": 655.2651977539062,
+    "x_max": 673.9584350585938,
+    "y_max": 718.7850952148438,
+    "text": "CYBER OWLS: Eam a 1-Up (extra oM)"
+  },
+  {
+    "x_min": 673.4341430664062,
+    "y_min": 655.2738647460938,
+    "x_max": 744.3624877929688,
+    "y_max": 718.9216918945312,
+    "text": "ROCK ONI ISLAND: Beat Initial Encounter w/o cavemen"
+  },
+  {
+    "x_min": 743.7847900390625,
+    "y_min": 655.03173828125,
+    "x_max": 812.1783447265625,
+    "y_max": 719.4872436523438,
+    "text": "Enter a top 3 score on 3 arcade leaderboards"
+  }
+]

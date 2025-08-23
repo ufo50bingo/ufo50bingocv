@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 698.9625244140625,
+    "y_min": 598.705078125,
+    "x_max": 802.2684936523438,
+    "y_max": 695.373046875,
+    "text": "Collect a beverage in 6 different games"
+  },
+  {
+    "x_min": 801.6728515625,
+    "y_min": 598.0985717773438,
+    "x_max": 907.0261840820312,
+    "y_max": 696.0338745117188,
+    "text": "GOLFARIA Obtain the Block Buster"
+  },
+  {
+    "x_min": 906.1268310546875,
+    "y_min": 596.60205078125,
+    "x_max": 1006.3357543945312,
+    "y_max": 695.5961303710938,
+    "text": "MAGIC GARDEN: Use OVER-GROW; Save 30+ oppies in a run"
+  },
+  {
+    "x_min": 1006.2682495117188,
+    "y_min": 596.6536865234375,
+    "x_max": 1116.192138671875,
+    "y_max": 695.6521606445312,
+    "text": "HOT FOOT: Win 2 games in a row without jumping"
+  },
+  {
+    "x_min": 1115.0179443359375,
+    "y_min": 596.5060424804688,
+    "x_max": 1219.5924072265625,
+    "y_max": 694.8014526367188,
+    "text": "OVERBOLD: Cherry disk"
+  },
+  {
+    "x_min": 699.6663818359375,
+    "y_min": 694.1800537109375,
+    "x_max": 802.5286254882812,
+    "y_max": 791.3510131835938,
+    "text": "LORDS OF DISKONIA Have 50+ gold"
+  },
+  {
+    "x_min": 801.99169921875,
+    "y_min": 695.935546875,
+    "x_max": 906.722900390625,
+    "y_max": 791.3270874023438,
+    "text": "MORTOL II: Defeat all three mini bosses"
+  },
+  {
+    "x_min": 906.6748046875,
+    "y_min": 695.4168090820312,
+    "x_max": 1007.8551635742188,
+    "y_max": 791.2462158203125,
+    "text": "ARCADE ACE: Gold Disk any 3 of the 16 \"ARCADE\" games"
+  },
+  {
+    "x_min": 1006.9791259765625,
+    "y_min": 695.2710571289062,
+    "x_max": 1115.884765625,
+    "y_max": 791.3433837890625,
+    "text": "FIST HELL: Destroy 2 UFOs"
+  },
+  {
+    "x_min": 1114.9010009765625,
+    "y_min": 694.2036743164062,
+    "x_max": 1217.871337890625,
+    "y_max": 791.26416015625,
+    "text": "VELGRESS: Hold 50 coins at once"
+  },
+  {
+    "x_min": 700.142578125,
+    "y_min": 791.0936889648438,
+    "x_max": 802.778564453125,
+    "y_max": 885.8320922851562,
+    "text": "VAINGER: Collect 1 keycode"
+  },
+  {
+    "x_min": 801.9393920898438,
+    "y_min": 791.06005859375,
+    "x_max": 907.163818359375,
+    "y_max": 885.8243408203125,
+    "text": "PLANET ZOLDATH: Max out health by collecting 4 energy cubes"
+  },
+  {
+    "x_min": 906.959716796875,
+    "y_min": 790.956298828125,
+    "x_max": 1007.5079956054688,
+    "y_max": 886.1253662109375,
+    "text": "BUSHIDO BALL: Gold disk with Default Options"
+  },
+  {
+    "x_min": 1006.8233642578125,
+    "y_min": 791.0302734375,
+    "x_max": 1115.681640625,
+    "y_max": 886.3411254882812,
+    "text": "BLOCK KOALA: WORM-1234 allowed; clear any 9 levels"
+  },
+  {
+    "x_min": 1114.6729736328125,
+    "y_min": 790.9913330078125,
+    "x_max": 1217.8568115234375,
+    "y_max": 886.2657470703125,
+    "text": "Collect 4 cherry disks"
+  },
+  {
+    "x_min": 700.2457885742188,
+    "y_min": 885.6138305664062,
+    "x_max": 802.7930908203125,
+    "y_max": 981.3466796875,
+    "text": "ONION DELIVERY: Deliver 10 onions in a single day"
+  },
+  {
+    "x_min": 802.0570678710938,
+    "y_min": 885.7314453125,
+    "x_max": 907.0887451171875,
+    "y_max": 981.5177001953125,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 907.350341796875,
+    "y_min": 885.8930053710938,
+    "x_max": 1005.5863037109375,
+    "y_max": 981.6130981445312,
+    "text": "KICK CLUB: Have 5 extra lives at once"
+  },
+  {
+    "x_min": 1004.8626708984375,
+    "y_min": 886.0722045898438,
+    "x_max": 1115.50048828125,
+    "y_max": 981.5515747070312,
+    "text": "MORTOL Eamn six 1-ups by  killing enemies"
+  },
+  {
+    "x_min": 1114.655517578125,
+    "y_min": 885.913330078125,
+    "x_max": 1217.4229736328125,
+    "y_max": 981.286376953125,
+    "text": "PORGY: Reach the Abyss (lowest depth area)"
+  },
+  {
+    "x_min": 699.7158813476562,
+    "y_min": 981.1029663085938,
+    "x_max": 802.5543212890625,
+    "y_max": 1078.976318359375,
+    "text": "\u2605 NIGHT MANOR:Gold disk"
+  },
+  {
+    "x_min": 801.8125610351562,
+    "y_min": 981.14794921875,
+    "x_max": 907.0145263671875,
+    "y_max": 1077.993408203125,
+    "text": "PAINTCHASE Beat 7 levels without using power ups (boost pads allowed)"
+  },
+  {
+    "x_min": 907.3265380859375,
+    "y_min": 981.1547241210938,
+    "x_max": 1005.6260986328125,
+    "y_max": 1077.8045654296875,
+    "text": "ROCK ON! ISLAND CLUB-PASS allowed; beat Jungle Rush"
+  },
+  {
+    "x_min": 1004.66259765625,
+    "y_min": 981.0093383789062,
+    "x_max": 1116.676513671875,
+    "y_max": 1078.2315673828125,
+    "text": "Collect 7 gifts for the garden"
+  },
+  {
+    "x_min": 1115.3563232421875,
+    "y_min": 980.8345336914062,
+    "x_max": 1217.313720703125,
+    "y_max": 1078.787353515625,
+    "text": "ELFAZAR'S HAT: Clear Stage 3 (Frostin Town)"
+  }
+]

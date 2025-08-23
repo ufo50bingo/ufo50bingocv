@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 701.2316284179688,
+    "y_min": 599.7473754882812,
+    "x_max": 806.256103515625,
+    "y_max": 698.3914184570312,
+    "text": "TREASURE UNTER: Divers & Barbuta: Open 2 chests in each; Waldorfs Joumney: Open 2 chests in a run"
+  },
+  {
+    "x_min": 805.3090209960938,
+    "y_min": 600.1766967773438,
+    "x_max": 908.3599853515625,
+    "y_max": 698.777587890625,
+    "text": "BLOCK KOALA: Beat 2 story levels as Koalarana (Pink Koala)"
+  },
+  {
+    "x_min": 907.959716796875,
+    "y_min": 599.7179565429688,
+    "x_max": 1012.3751220703125,
+    "y_max": 699.0548095703125,
+    "text": "PILOT QUEST:Make a friend at the crash site"
+  },
+  {
+    "x_min": 1011.705322265625,
+    "y_min": 599.534912109375,
+    "x_max": 1117.93896484375,
+    "y_max": 699.1067504882812,
+    "text": "RAKSHASA Revive yourself 6 times in one run"
+  },
+  {
+    "x_min": 1117.269775390625,
+    "y_min": 598.718505859375,
+    "x_max": 1220.36572265625,
+    "y_max": 698.5916748046875,
+    "text": "GRIMSTONE: Reach Level 4 with any character"
+  },
+  {
+    "x_min": 701.184326171875,
+    "y_min": 698.1506958007812,
+    "x_max": 805.85595703125,
+    "y_max": 795.82080078125,
+    "text": "DIVERS Purchase Godblood"
+  },
+  {
+    "x_min": 805.268310546875,
+    "y_min": 698.5267333984375,
+    "x_max": 907.9785766601562,
+    "y_max": 794.2989501953125,
+    "text": "GOLFARIA Rescue 2 green balls"
+  },
+  {
+    "x_min": 907.6968383789062,
+    "y_min": 698.704345703125,
+    "x_max": 1012.6849365234375,
+    "y_max": 794.1142578125,
+    "text": "\u2605 Collect 5 gold disks"
+  },
+  {
+    "x_min": 1012.12060546875,
+    "y_min": 698.6947021484375,
+    "x_max": 1117.7938232421875,
+    "y_max": 794.2620849609375,
+    "text": "BUSHIDO BALL: Win the first match as everycharacter"
+  },
+  {
+    "x_min": 1117.1290283203125,
+    "y_min": 697.9679565429688,
+    "x_max": 1219.515625,
+    "y_max": 794.3946533203125,
+    "text": "LORDS OF DISKONIA Have 5 enemy disks drown"
+  },
+  {
+    "x_min": 701.1068115234375,
+    "y_min": 795.4268798828125,
+    "x_max": 805.6492919921875,
+    "y_max": 888.2338256835938,
+    "text": "NIGHT MANOR: Successfully complete the hiding minigame twice"
+  },
+  {
+    "x_min": 805.2928466796875,
+    "y_min": 794.1485595703125,
+    "x_max": 908.712158203125,
+    "y_max": 888.712890625,
+    "text": "ELFAZAR'S HAT: Clear stages 1 and 2 without any upgrades or healing"
+  },
+  {
+    "x_min": 908.4408569335938,
+    "y_min": 793.9635620117188,
+    "x_max": 1012.5942993164062,
+    "y_max": 888.822265625,
+    "text": "CARAMEL CARAMEL: Gold disk"
+  },
+  {
+    "x_min": 1012.2359619140625,
+    "y_min": 794.1469116210938,
+    "x_max": 1118.2830810546875,
+    "y_max": 888.8523559570312,
+    "text": "ONION DELIVERYHt6 time boxes one day and T complete the day"
+  },
+  {
+    "x_min": 1117.62939453125,
+    "y_min": 794.2389526367188,
+    "x_max": 1219.21337890625,
+    "y_max": 888.2821655273438,
+    "text": "nter a top 5 score on 4 arcade leaderboards"
+  },
+  {
+    "x_min": 700.9954833984375,
+    "y_min": 886.6246337890625,
+    "x_max": 805.622314453125,
+    "y_max": 984.0248413085938,
+    "text": "ELFAZAR'S HAT:Clear Stage 3 (Frostin Town)"
+  },
+  {
+    "x_min": 805.3626098632812,
+    "y_min": 888.5599975585938,
+    "x_max": 909.2606811523438,
+    "y_max": 983.8011474609375,
+    "text": "Increase your max HP in 6 games"
+  },
+  {
+    "x_min": 909.1366577148438,
+    "y_min": 888.6873779296875,
+    "x_max": 1012.2728271484375,
+    "y_max": 983.8739624023438,
+    "text": "DEVILITION: Beat 5 rounds"
+  },
+  {
+    "x_min": 1011.76708984375,
+    "y_min": 888.7181396484375,
+    "x_max": 1118.0543212890625,
+    "y_max": 983.6710815429688,
+    "text": "SEASIDE DRIVE: Destroy the UFO in Stage 3"
+  },
+  {
+    "x_min": 1117.5634765625,
+    "y_min": 887.7066650390625,
+    "x_max": 1219.188232421875,
+    "y_max": 983.8489379882812,
+    "text": "OVERBOLD Cherry disk"
+  },
+  {
+    "x_min": 700.8795166015625,
+    "y_min": 983.6790161132812,
+    "x_max": 805.9105224609375,
+    "y_max": 1079.8673095703125,
+    "text": "CAMPANELLA Defeat the Stage B Boss"
+  },
+  {
+    "x_min": 805.5882568359375,
+    "y_min": 983.8094482421875,
+    "x_max": 909.1829223632812,
+    "y_max": 1079.2886962890625,
+    "text": "MORTOLI Defeat two mini bosses without damaging them as the Bomber"
+  },
+  {
+    "x_min": 908.9271850585938,
+    "y_min": 983.6495971679688,
+    "x_max": 1012.12060546875,
+    "y_max": 1079.632568359375,
+    "text": "VAINGER: Collect 1 keycode"
+  },
+  {
+    "x_min": 1012.0645751953125,
+    "y_min": 983.414794921875,
+    "x_max": 1117.724853515625,
+    "y_max": 1079.473388671875,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 1116.8857421875,
+    "y_min": 983.2923583984375,
+    "x_max": 1219.191650390625,
+    "y_max": 1079.34228515625,
+    "text": "WALDORF'S JOURNEY: Have 35 shells at once"
+  }
+]

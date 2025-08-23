@@ -1,6 +1,7 @@
 import json
 import math
 import os
+import pickle
 import subprocess
 import cv2
 
@@ -464,6 +465,9 @@ class MatchWithVideo(Match):
     def get_changelog(self) -> tuple[bool, list[Change]]:
         states = self.get_distinct_states()
         changelog: list[Change] = []
+        # pickle_name = os.path.join(self.dir, "states.pickle")
+        # with open(pickle_name, "wb") as file:
+        #     pickle.dump(states, file)
         for i in range(1, len(states)):
             old_colors = states[i - 1][1]
             new_colors = states[i][1]

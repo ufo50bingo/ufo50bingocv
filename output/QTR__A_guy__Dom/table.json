@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 700.7068481445312,
+    "y_min": 600.4376220703125,
+    "x_max": 806.4706420898438,
+    "y_max": 698.3546752929688,
+    "text": "DIVERS: Purchase Godblood"
+  },
+  {
+    "x_min": 805.67626953125,
+    "y_min": 601.0543212890625,
+    "x_max": 908.885498046875,
+    "y_max": 698.8150634765625,
+    "text": "Beat 4 levels in 5 different games"
+  },
+  {
+    "x_min": 908.4678344726562,
+    "y_min": 600.927978515625,
+    "x_max": 1012.57861328125,
+    "y_max": 698.969970703125,
+    "text": "ATTACTICS: Beat 5 levels without losing any flags"
+  },
+  {
+    "x_min": 1012.4510498046875,
+    "y_min": 600.7172241210938,
+    "x_max": 1117.7296142578125,
+    "y_max": 698.9266357421875,
+    "text": "AVIANOS: Win a Custom game with 8 Mountains (change no other settings)"
+  },
+  {
+    "x_min": 1117.6614990234375,
+    "y_min": 600.2092895507812,
+    "x_max": 1219.569091796875,
+    "y_max": 698.56201171875,
+    "text": "VELGRESS: Collect all 3 keys in a single run"
+  },
+  {
+    "x_min": 701.3521118164062,
+    "y_min": 698.3291015625,
+    "x_max": 805.7908935546875,
+    "y_max": 795.5610961914062,
+    "text": "MINI&MAX Slay the Water Bear in the west pot"
+  },
+  {
+    "x_min": 805.510009765625,
+    "y_min": 698.6566772460938,
+    "x_max": 908.0418701171875,
+    "y_max": 793.8934936523438,
+    "text": "BARBUTA: Gold disk"
+  },
+  {
+    "x_min": 908.0567626953125,
+    "y_min": 698.788330078125,
+    "x_max": 1012.7832641601562,
+    "y_max": 794.112060546875,
+    "text": "WALDORF'S JOURNEY: Enter the palace with 6 Puffins"
+  },
+  {
+    "x_min": 1012.5154418945312,
+    "y_min": 698.807861328125,
+    "x_max": 1117.453369140625,
+    "y_max": 794.4788818359375,
+    "text": "\u2605Buy an item from a shop in 10 different games"
+  },
+  {
+    "x_min": 1117.1134033203125,
+    "y_min": 698.1925659179688,
+    "x_max": 1219.8271484375,
+    "y_max": 795.2521362304688,
+    "text": "CAMOUFLAGE Save 5 babies"
+  },
+  {
+    "x_min": 701.2282104492188,
+    "y_min": 794.753662109375,
+    "x_max": 805.58642578125,
+    "y_max": 888.5067749023438,
+    "text": "GIRLPOWER: Magic Garden: Save 50 oppies; Cyber Owls: Beat Congo; Fist Hell: Survive 6 gym waves as Cat"
+  },
+  {
+    "x_min": 805.1315307617188,
+    "y_min": 793.7802124023438,
+    "x_max": 907.9896240234375,
+    "y_max": 888.8726806640625,
+    "text": "PORGY: Reach the Abyss (lowest depth area)"
+  },
+  {
+    "x_min": 907.9556884765625,
+    "y_min": 794.0151977539062,
+    "x_max": 1012.8162841796875,
+    "y_max": 888.8197021484375,
+    "text": "ONION DELIVERY: Deliver 8 onions in a single day and complete the day"
+  },
+  {
+    "x_min": 1012.744873046875,
+    "y_min": 794.2681884765625,
+    "x_max": 1117.77783203125,
+    "y_max": 888.845947265625,
+    "text": "MORTOL: Beat a level with a total of 30 or more additional lives than you began the run with"
+  },
+  {
+    "x_min": 1117.385986328125,
+    "y_min": 794.8826293945312,
+    "x_max": 1219.501220703125,
+    "y_max": 888.108154296875,
+    "text": "PLANET ZOLDATH: Collect the dungeon Map Piece"
+  },
+  {
+    "x_min": 701.136962890625,
+    "y_min": 887.8836669921875,
+    "x_max": 806.05810546875,
+    "y_max": 983.8231811523438,
+    "text": "MOONCAT Visit 12 different rooms"
+  },
+  {
+    "x_min": 805.7295532226562,
+    "y_min": 888.7041015625,
+    "x_max": 908.988037109375,
+    "y_max": 983.859130859375,
+    "text": "MINI&MAX: Collect a big shiny"
+  },
+  {
+    "x_min": 909.0159912109375,
+    "y_min": 888.6712646484375,
+    "x_max": 1012.853515625,
+    "y_max": 983.8265991210938,
+    "text": "\u2605 Collect 10 gifts for the garden"
+  },
+  {
+    "x_min": 1012.4827270507812,
+    "y_min": 888.6468505859375,
+    "x_max": 1117.611083984375,
+    "y_max": 983.7857666015625,
+    "text": "RAIL HEIST: Beat 4 levels while bringing back a money crate intact"
+  },
+  {
+    "x_min": 1117.5703125,
+    "y_min": 887.6329956054688,
+    "x_max": 1219.0660400390625,
+    "y_max": 983.82421875,
+    "text": "CAMPANELLA 2:Defeat Rotondo at end of Burrows Il"
+  },
+  {
+    "x_min": 701.0518798828125,
+    "y_min": 983.6886596679688,
+    "x_max": 806.0918579101562,
+    "y_max": 1079.8927001953125,
+    "text": "CAMPANELLA: Defeat the Stage B Boss"
+  },
+  {
+    "x_min": 805.8734130859375,
+    "y_min": 983.8532104492188,
+    "x_max": 909.7603759765625,
+    "y_max": 1079.5260009765625,
+    "text": "THE BIG BELL RACE:KO an opponent with 3 unique power- ups"
+  },
+  {
+    "x_min": 909.7449340820312,
+    "y_min": 983.6302490234375,
+    "x_max": 1011.912109375,
+    "y_max": 1079.7086181640625,
+    "text": "VALBRACE Give the Red Knight 5 items"
+  },
+  {
+    "x_min": 1012.4054565429688,
+    "y_min": 983.5277099609375,
+    "x_max": 1117.265380859375,
+    "y_max": 1079.78759765625,
+    "text": "BARBUTA:Fill all8 item slots"
+  },
+  {
+    "x_min": 1116.9339599609375,
+    "y_min": 983.5498657226562,
+    "x_max": 1219.0233154296875,
+    "y_max": 1079.879638671875,
+    "text": "Collect 2 cherry disks"
+  }
+]

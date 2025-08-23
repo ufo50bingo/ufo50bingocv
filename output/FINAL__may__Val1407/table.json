@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 722.8340454101562,
+    "y_min": 639.653564453125,
+    "x_max": 822.9075317382812,
+    "y_max": 729.5333251953125,
+    "text": "ONION DELIVERY: Deliver 8 onions in a single day and complete the day"
+  },
+  {
+    "x_min": 821.62841796875,
+    "y_min": 639.6242065429688,
+    "x_max": 922.1878662109375,
+    "y_max": 729.7945556640625,
+    "text": "PILOT QUEST: Defeat Unktomi (Spider boss)"
+  },
+  {
+    "x_min": 920.1671142578125,
+    "y_min": 640.239990234375,
+    "x_max": 1013.2652587890625,
+    "y_max": 729.523193359375,
+    "text": "WALDORF'S JOURNEY: Gold disk"
+  },
+  {
+    "x_min": 1012.1292114257812,
+    "y_min": 640.9953002929688,
+    "x_max": 1111.6053466796875,
+    "y_max": 729.3577880859375,
+    "text": "MOONCAT: Defeat 6 unique enemy types"
+  },
+  {
+    "x_min": 1110.03173828125,
+    "y_min": 641.5357055664062,
+    "x_max": 1211.2723388671875,
+    "y_max": 729.4635620117188,
+    "text": "Find an egg in 10 different games"
+  },
+  {
+    "x_min": 723.51708984375,
+    "y_min": 729.5408325195312,
+    "x_max": 822.5403442382812,
+    "y_max": 817.1517333984375,
+    "text": "PAINT CHASE:Beat 12 levels"
+  },
+  {
+    "x_min": 821.355712890625,
+    "y_min": 729.7205200195312,
+    "x_max": 920.336181640625,
+    "y_max": 817.008056640625,
+    "text": "Collect 5 gold disks"
+  },
+  {
+    "x_min": 919.2014770507812,
+    "y_min": 729.7347412109375,
+    "x_max": 1013.6864013671875,
+    "y_max": 817.2294311523438,
+    "text": "PLANET ZOLDATH: Eat 10 slabs of meat"
+  },
+  {
+    "x_min": 1012.7649536132812,
+    "y_min": 729.5690307617188,
+    "x_max": 1111.3349609375,
+    "y_max": 817.2667846679688,
+    "text": "STAR WASPIR: Clear wave 3"
+  },
+  {
+    "x_min": 1110.255615234375,
+    "y_min": 729.3653564453125,
+    "x_max": 1208.8387451171875,
+    "y_max": 817.1492919921875,
+    "text": "MORTOL: Beat 2 levels without killing any enemies"
+  },
+  {
+    "x_min": 724.508056640625,
+    "y_min": 817.0712280273438,
+    "x_max": 822.5696411132812,
+    "y_max": 905.8900146484375,
+    "text": "DIVERS: Obtain any Lance weapon"
+  },
+  {
+    "x_min": 821.4511108398438,
+    "y_min": 817.0805053710938,
+    "x_max": 920.4048461914062,
+    "y_max": 904.9173583984375,
+    "text": "CAMPANELLA 3: Beat Joe Pulp (Stage 3 Boss)"
+  },
+  {
+    "x_min": 919.4959716796875,
+    "y_min": 817.3880004882812,
+    "x_max": 1013.203369140625,
+    "y_max": 904.906982421875,
+    "text": "BUSHIDO BALL: Win a 16-point match on Hyper speed with all other oplions default"
+  },
+  {
+    "x_min": 1012.378662109375,
+    "y_min": 817.3023681640625,
+    "x_max": 1111.4332275390625,
+    "y_max": 905.0655517578125,
+    "text": "PILOT PARTY: Collect the Gift in 4 of these  games: Campanella 1/2/3, Planet Zoldath, Pilot Quest, The Big Bell Race"
+  },
+  {
+    "x_min": 1110.3212890625,
+    "y_min": 816.801513671875,
+    "x_max": 1207.9981689453125,
+    "y_max": 904.7460327148438,
+    "text": "ELFAZAR'S HAT: Eam a continue in the bonus round"
+  },
+  {
+    "x_min": 726.9332885742188,
+    "y_min": 905.5708618164062,
+    "x_max": 822.2471313476562,
+    "y_max": 993.051513671875,
+    "text": "Enter a top 3 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 821.4014282226562,
+    "y_min": 904.9740600585938,
+    "x_max": 920.18212890625,
+    "y_max": 992.822265625,
+    "text": "MORTOL: Earn six 1-ups by killing enemies"
+  },
+  {
+    "x_min": 919.0735473632812,
+    "y_min": 904.8856811523438,
+    "x_max": 1012.8063354492188,
+    "y_max": 992.4594116210938,
+    "text": "VALBRACE: Clear Floor 1"
+  },
+  {
+    "x_min": 1011.7981567382812,
+    "y_min": 905.1696166992188,
+    "x_max": 1111.5244140625,
+    "y_max": 992.5872802734375,
+    "text": "FIST HELL: Have $50 at once"
+  },
+  {
+    "x_min": 1110.4329833984375,
+    "y_min": 904.9193115234375,
+    "x_max": 1208.611083984375,
+    "y_max": 992.6603393554688,
+    "text": "NIGHT MANOR: Collect the diamond"
+  },
+  {
+    "x_min": 726.5745239257812,
+    "y_min": 992.7297973632812,
+    "x_max": 822.7386474609375,
+    "y_max": 1079.41357421875,
+    "text": "GRIMSTONE: Reach Level 4 with any character"
+  },
+  {
+    "x_min": 821.7952270507812,
+    "y_min": 992.6162109375,
+    "x_max": 919.05322265625,
+    "y_max": 1079.737060546875,
+    "text": "CYBEROWLS GETM-EOUT allowed, rescue each owl in the mini-game"
+  },
+  {
+    "x_min": 918.5384521484375,
+    "y_min": 992.3116455078125,
+    "x_max": 1012.4807739257812,
+    "y_max": 1079.7406005859375,
+    "text": "Beat 8 levels in 3 different games"
+  },
+  {
+    "x_min": 1011.6865234375,
+    "y_min": 992.34375,
+    "x_max": 1111.4158935546875,
+    "y_max": 1079.65380859375,
+    "text": "DEVILITION: Beat 5 rounds"
+  },
+  {
+    "x_min": 1110.36279296875,
+    "y_min": 992.3292846679688,
+    "x_max": 1209.1669921875,
+    "y_max": 1079.307373046875,
+    "text": "PILOTQUEST: Return a ship part to the crash site"
+  }
+]

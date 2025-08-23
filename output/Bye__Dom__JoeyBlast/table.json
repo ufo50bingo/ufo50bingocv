@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 700.1098022460938,
+    "y_min": 600.0321044921875,
+    "x_max": 806.299072265625,
+    "y_max": 698.4383544921875,
+    "text": "VALBRACE: Defeat the Phantom Knight on Floor 2"
+  },
+  {
+    "x_min": 805.4503173828125,
+    "y_min": 600.4569702148438,
+    "x_max": 909.122802734375,
+    "y_max": 698.9551391601562,
+    "text": "Beat 2 levels in 8 different games"
+  },
+  {
+    "x_min": 908.771728515625,
+    "y_min": 600.5513305664062,
+    "x_max": 1011.6597900390625,
+    "y_max": 699.2276611328125,
+    "text": "MOONCAT: Gold disk"
+  },
+  {
+    "x_min": 1011.0393676757812,
+    "y_min": 600.3575439453125,
+    "x_max": 1116.922607421875,
+    "y_max": 699.1824951171875,
+    "text": "PLANET ZOLDATH: Eat 10 slabs of meat"
+  },
+  {
+    "x_min": 1116.244873046875,
+    "y_min": 598.9708251953125,
+    "x_max": 1220.6441650390625,
+    "y_max": 698.0615234375,
+    "text": "CARAMEL CARAMEL:TEST- LENS allowed; defeat Dino Lord in Dino Planet"
+  },
+  {
+    "x_min": 700.40576171875,
+    "y_min": 698.122802734375,
+    "x_max": 806.1395874023438,
+    "y_max": 795.1554565429688,
+    "text": "RAILHEIST: LAZY COPS allowed; beat Root Around while destroying every barrel"
+  },
+  {
+    "x_min": 805.1600341796875,
+    "y_min": 698.8037109375,
+    "x_max": 909.3140258789062,
+    "y_max": 794.0137329101562,
+    "text": "VAINGER: Collect the Multi Mod from Latom Sector"
+  },
+  {
+    "x_min": 908.7156982421875,
+    "y_min": 698.9634399414062,
+    "x_max": 1012.3796997070312,
+    "y_max": 793.83935546875,
+    "text": "PILOTQUEST: Defeat Big Borlg (large alien in the central ruins)"
+  },
+  {
+    "x_min": 1011.4043579101562,
+    "y_min": 698.7860717773438,
+    "x_max": 1117.2891845703125,
+    "y_max": 793.8294677734375,
+    "text": "ARCADEACE: Gold Disk any 3 of the 16 \"ARCADE games"
+  },
+  {
+    "x_min": 1116.442626953125,
+    "y_min": 697.5564575195312,
+    "x_max": 1220.0262451171875,
+    "y_max": 794.6705932617188,
+    "text": "NIGHT MANOR: Collect the diamond"
+  },
+  {
+    "x_min": 700.716552734375,
+    "y_min": 794.5394897460938,
+    "x_max": 805.7150268554688,
+    "y_max": 888.1217651367188,
+    "text": "nter a top 3 score on 3 arcade leaderboards"
+  },
+  {
+    "x_min": 805.1891479492188,
+    "y_min": 793.9122924804688,
+    "x_max": 909.3160400390625,
+    "y_max": 888.7904052734375,
+    "text": "STAR WASPIR: Score 50,000+ points"
+  },
+  {
+    "x_min": 908.8580932617188,
+    "y_min": 793.7073364257812,
+    "x_max": 1012.3545532226562,
+    "y_max": 888.9537353515625,
+    "text": "FIST HELL: Clear the first scare and enter the shop with $20 or more"
+  },
+  {
+    "x_min": 1011.6860961914062,
+    "y_min": 793.7005615234375,
+    "x_max": 1117.3155517578125,
+    "y_max": 889.0421752929688,
+    "text": "GRIMSTONE: Reach Level 4 with any character"
+  },
+  {
+    "x_min": 1116.6280517578125,
+    "y_min": 794.379638671875,
+    "x_max": 1219.4351806640625,
+    "y_max": 888.2850341796875,
+    "text": "RAIL HEIST: Collect 9 total stars"
+  },
+  {
+    "x_min": 700.81884765625,
+    "y_min": 886.646484375,
+    "x_max": 805.5630493164062,
+    "y_max": 983.1887817382812,
+    "text": "ELFAZAR'S HAT:Clear Stage 3 (Frostin Town)"
+  },
+  {
+    "x_min": 805.1990356445312,
+    "y_min": 888.5043334960938,
+    "x_max": 909.2645263671875,
+    "y_max": 983.7472534179688,
+    "text": "CYBEROWLS Clear Hong Kong only destroying Road Toad"
+  },
+  {
+    "x_min": 908.7999267578125,
+    "y_min": 888.7850341796875,
+    "x_max": 1012.1911010742188,
+    "y_max": 983.8816528320312,
+    "text": "Find an easter egg UFO in 5 games"
+  },
+  {
+    "x_min": 1011.5694580078125,
+    "y_min": 888.8673706054688,
+    "x_max": 1117.3538818359375,
+    "y_max": 983.5811767578125,
+    "text": "THE BIG BELLRACE: Gold disk"
+  },
+  {
+    "x_min": 1117.0487060546875,
+    "y_min": 887.7962646484375,
+    "x_max": 1219.624267578125,
+    "y_max": 983.7334594726562,
+    "text": "MORTOL Earn six 1-ups by  killing enemies"
+  },
+  {
+    "x_min": 700.4432983398438,
+    "y_min": 983.3739624023438,
+    "x_max": 805.4633178710938,
+    "y_max": 1079.6314697265625,
+    "text": "PILOT QUEST: Collect 5 Zoldnaks"
+  },
+  {
+    "x_min": 804.970703125,
+    "y_min": 983.6143188476562,
+    "x_max": 908.4456787109375,
+    "y_max": 1079.54296875,
+    "text": "RAKSHASA: Have 0 skulls by using bell pickups"
+  },
+  {
+    "x_min": 908.318359375,
+    "y_min": 983.6923217773438,
+    "x_max": 1011.7177734375,
+    "y_max": 1079.707763671875,
+    "text": "WALDORF'S JOURNEY: Kill 3 squids in three different ways"
+  },
+  {
+    "x_min": 1011.6056518554688,
+    "y_min": 983.5479736328125,
+    "x_max": 1117.7593994140625,
+    "y_max": 1079.3306884765625,
+    "text": "CAMOUFLAGE Reach 70% completion or more"
+  },
+  {
+    "x_min": 1116.83203125,
+    "y_min": 983.3345947265625,
+    "x_max": 1219.3621826171875,
+    "y_max": 1079.3883056640625,
+    "text": "\u2605 Collect 3 cherry disks"
+  }
+]

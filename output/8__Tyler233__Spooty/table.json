@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 698.5331420898438,
+    "y_min": 599.34716796875,
+    "x_max": 803.2476806640625,
+    "y_max": 694.7471923828125,
+    "text": "OVERBOLD: Cherry disk"
+  },
+  {
+    "x_min": 802.2230224609375,
+    "y_min": 599.3240356445312,
+    "x_max": 906.84912109375,
+    "y_max": 695.6614990234375,
+    "text": "ATTACTICS: Beat 5 levels without losing any flags"
+  },
+  {
+    "x_min": 905.9388427734375,
+    "y_min": 598.9569091796875,
+    "x_max": 1011.4908447265625,
+    "y_max": 695.8319091796875,
+    "text": "GOLFARIA: Obtain the Brakes"
+  },
+  {
+    "x_min": 1010.5584106445312,
+    "y_min": 598.8275146484375,
+    "x_max": 1116.0084228515625,
+    "y_max": 695.7364501953125,
+    "text": "Buy an item from a shop in 10 different games"
+  },
+  {
+    "x_min": 1115.2738037109375,
+    "y_min": 598.6276245117188,
+    "x_max": 1221.376708984375,
+    "y_max": 695.2177734375,
+    "text": "COMBATANTS Beat 'First Blood' without shooting"
+  },
+  {
+    "x_min": 698.865478515625,
+    "y_min": 693.967529296875,
+    "x_max": 804.0933227539062,
+    "y_max": 790.5074462890625,
+    "text": "Collect 12 gifts for the garden"
+  },
+  {
+    "x_min": 803.4891967773438,
+    "y_min": 695.4828491210938,
+    "x_max": 907.1318969726562,
+    "y_max": 790.295166015625,
+    "text": "PARTY HOUSE: Have 6 trouble on screen at once"
+  },
+  {
+    "x_min": 906.6091918945312,
+    "y_min": 695.62744140625,
+    "x_max": 1011.1516723632812,
+    "y_max": 790.2356567382812,
+    "text": "MAGIC GARDEN: Reach a score of50,000+"
+  },
+  {
+    "x_min": 1010.266357421875,
+    "y_min": 695.576171875,
+    "x_max": 1116.25048828125,
+    "y_max": 790.0478515625,
+    "text": "STAR WASPIR: Clear waves 1 and 2 without using powerups(EEE GGG, or GEE)"
+  },
+  {
+    "x_min": 1115.8297119140625,
+    "y_min": 694.8058471679688,
+    "x_max": 1221.2845458984375,
+    "y_max": 789.8615112304688,
+    "text": "KICKCLUB: Have 5 extra lives at once"
+  },
+  {
+    "x_min": 699.0985107421875,
+    "y_min": 790.265869140625,
+    "x_max": 804.4420776367188,
+    "y_max": 885.7514038085938,
+    "text": "NIGHT MANOR: Find 10 journal entries"
+  },
+  {
+    "x_min": 803.4544067382812,
+    "y_min": 790.267333984375,
+    "x_max": 906.5409545898438,
+    "y_max": 885.5805053710938,
+    "text": "VAINGER: Collect 1 keycode"
+  },
+  {
+    "x_min": 906.2678833007812,
+    "y_min": 790.0678100585938,
+    "x_max": 1011.496337890625,
+    "y_max": 885.7493896484375,
+    "text": "Collect 5 gold disks"
+  },
+  {
+    "x_min": 1010.6746826171875,
+    "y_min": 789.9873657226562,
+    "x_max": 1116.7371826171875,
+    "y_max": 886.0875244140625,
+    "text": "DIVERS Reach level 3"
+  },
+  {
+    "x_min": 1116.33935546875,
+    "y_min": 789.7124633789062,
+    "x_max": 1220.84423828125,
+    "y_max": 886.1624145507812,
+    "text": "ATTACTICS Reach Lieutenant in ranked mode"
+  },
+  {
+    "x_min": 698.9938354492188,
+    "y_min": 885.7012939453125,
+    "x_max": 803.0639038085938,
+    "y_max": 981.0830688476562,
+    "text": "PAINTCHASE: EVEN-COAT allowed; beat courses 16, 17, and 20 while destroying all spike mines"
+  },
+  {
+    "x_min": 802.2661743164062,
+    "y_min": 885.50244140625,
+    "x_max": 906.6150512695312,
+    "y_max": 980.859619140625,
+    "text": "PILOT QUEST: Defeat Big Borlg (large alien in the central ruins)"
+  },
+  {
+    "x_min": 906.4776000976562,
+    "y_min": 885.646728515625,
+    "x_max": 1011.6824340820312,
+    "y_max": 980.7752685546875,
+    "text": "PORGY: Reach the Abyss (lowest depth area)"
+  },
+  {
+    "x_min": 1010.9277954101562,
+    "y_min": 886.0023803710938,
+    "x_max": 1116.6517333984375,
+    "y_max": 980.859130859375,
+    "text": "SEASIDE DRIVE: Reach 200,000+ points"
+  },
+  {
+    "x_min": 1116.070068359375,
+    "y_min": 886.0350952148438,
+    "x_max": 1220.6015625,
+    "y_max": 980.737060546875,
+    "text": "GRIDLOCK:Rock On!Island: CLUB- PASS allowed, Beat The Spiral; Devilition: Beat 5 rounds; Cyber Owls: Rescue an owl"
+  },
+  {
+    "x_min": 699.0263671875,
+    "y_min": 980.6803588867188,
+    "x_max": 803.1572875976562,
+    "y_max": 1076.5341796875,
+    "text": "DEVILITION: Have 6 villagers at once"
+  },
+  {
+    "x_min": 802.332763671875,
+    "y_min": 980.6453857421875,
+    "x_max": 907.030029296875,
+    "y_max": 1074.38232421875,
+    "text": "Defeat a boss in 5 different games"
+  },
+  {
+    "x_min": 906.646240234375,
+    "y_min": 980.4017333984375,
+    "x_max": 1011.8184814453125,
+    "y_max": 1075.0335693359375,
+    "text": "BUSHIDO BALL: Win the first match as every character"
+  },
+  {
+    "x_min": 1011.2490234375,
+    "y_min": 980.5394287109375,
+    "x_max": 1116.732666015625,
+    "y_max": 1075.8951416015625,
+    "text": "CYBER OWLS: Clear Hong Kong only destroying Road Toad"
+  },
+  {
+    "x_min": 1115.9583740234375,
+    "y_min": 980.1051025390625,
+    "x_max": 1221.1971435546875,
+    "y_max": 1075.936279296875,
+    "text": "WALDORF'S JOURNEY Purchase four unique items in one run"
+  }
+]

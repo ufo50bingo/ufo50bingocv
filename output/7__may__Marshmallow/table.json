@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 723.93994140625,
+    "y_min": 640.748046875,
+    "x_max": 822.3373413085938,
+    "y_max": 729.2061767578125,
+    "text": "BUG HUNTER: Get 4 kills in one job by pushing bugs into pits"
+  },
+  {
+    "x_min": 821.5541381835938,
+    "y_min": 640.8662719726562,
+    "x_max": 919.4568481445312,
+    "y_max": 729.2447509765625,
+    "text": "PAINT CHASE: Reach a score of 240+"
+  },
+  {
+    "x_min": 918.3103637695312,
+    "y_min": 641.902099609375,
+    "x_max": 1013.42138671875,
+    "y_max": 729.6080322265625,
+    "text": "MINI & MAX: Collect 7 upgrades"
+  },
+  {
+    "x_min": 1012.180908203125,
+    "y_min": 642.7529296875,
+    "x_max": 1111.5516357421875,
+    "y_max": 729.5090942382812,
+    "text": "UFO OPEN: Golfaria: Hit a ParbotPingolf Gold Disk; Lords of \u5341 Diskonia: Destroy 5 enemy disks"
+  },
+  {
+    "x_min": 1110.609130859375,
+    "y_min": 643.38916015625,
+    "x_max": 1209.9605712890625,
+    "y_max": 729.644775390625,
+    "text": "MAGIC GARDEN: Obtain a score multiplier of 8x"
+  },
+  {
+    "x_min": 725.1989135742188,
+    "y_min": 729.0179443359375,
+    "x_max": 822.6026611328125,
+    "y_max": 817.2716064453125,
+    "text": "Collect 4 cherry disks"
+  },
+  {
+    "x_min": 821.9444580078125,
+    "y_min": 729.2547607421875,
+    "x_max": 918.531005859375,
+    "y_max": 817.0685424804688,
+    "text": "GOLFARIA: Achieve 20% Completion"
+  },
+  {
+    "x_min": 918.2528686523438,
+    "y_min": 729.4861450195312,
+    "x_max": 1011.6480712890625,
+    "y_max": 816.94580078125,
+    "text": "DEVILITION: Beat 5 rounds"
+  },
+  {
+    "x_min": 1011.033203125,
+    "y_min": 729.5781860351562,
+    "x_max": 1111.154541015625,
+    "y_max": 817.2945556640625,
+    "text": "VALBRACE: Level up at a throne"
+  },
+  {
+    "x_min": 1110.56005859375,
+    "y_min": 729.5979614257812,
+    "x_max": 1208.181640625,
+    "y_max": 817.4342041015625,
+    "text": "LORDS OF DISKONIA: Have 50+ gold"
+  },
+  {
+    "x_min": 726.5660400390625,
+    "y_min": 816.954345703125,
+    "x_max": 822.5760498046875,
+    "y_max": 905.22265625,
+    "text": "CAMPANELLA 2: Collect two scrolls in a run"
+  },
+  {
+    "x_min": 821.935302734375,
+    "y_min": 816.9527587890625,
+    "x_max": 919.1185302734375,
+    "y_max": 905.24560546875,
+    "text": "PORGY: Reach the Abyss (lowest depth area)"
+  },
+  {
+    "x_min": 918.641845703125,
+    "y_min": 816.7945556640625,
+    "x_max": 1012.1141967773438,
+    "y_max": 905.5224609375,
+    "text": "Beat 4 levels in 5 different \u7f16 games"
+  },
+  {
+    "x_min": 1011.1661987304688,
+    "y_min": 817.1297607421875,
+    "x_max": 1111.4290771484375,
+    "y_max": 905.4660034179688,
+    "text": "MORTOL: OPEN-TOMB allowed; clear all world 3 levels"
+  },
+  {
+    "x_min": 1110.48486328125,
+    "y_min": 817.3692016601562,
+    "x_max": 1207.7164306640625,
+    "y_max": 905.42724609375,
+    "text": "HYPER CONTENDER: Wn 4 fights in a row without rematches on all default settings"
+  },
+  {
+    "x_min": 726.7703247070312,
+    "y_min": 905.1471557617188,
+    "x_max": 822.5382690429688,
+    "y_max": 993.5577392578125,
+    "text": "VAINGER:Get the Force Mod from Verde Sector"
+  },
+  {
+    "x_min": 821.962890625,
+    "y_min": 905.3441162109375,
+    "x_max": 919.6286010742188,
+    "y_max": 993.1172485351562,
+    "text": "RAIL HEIST.LAZY- COPS allowed: beat Root Around while destroying every barrel"
+  },
+  {
+    "x_min": 919.211669921875,
+    "y_min": 905.56689453125,
+    "x_max": 1013.3599243164062,
+    "y_max": 993.07568359375,
+    "text": "CAMPANELLA: Have 20 lives"
+  },
+  {
+    "x_min": 1012.6635131835938,
+    "y_min": 905.3673706054688,
+    "x_max": 1111.503173828125,
+    "y_max": 993.2827758789062,
+    "text": "THE BIG BELL RACE: Gold disk"
+  },
+  {
+    "x_min": 1110.6907958984375,
+    "y_min": 905.4163208007812,
+    "x_max": 1207.9664306640625,
+    "y_max": 993.1597290039062,
+    "text": "Increase your max HP in 6 \u2605 games"
+  },
+  {
+    "x_min": 725.7579345703125,
+    "y_min": 993.0439453125,
+    "x_max": 822.26171875,
+    "y_max": 1079.593505859375,
+    "text": "STARWASPIR: Clear waves 1 and 2 without using powerups (EEE, GGG, or GEE)"
+  },
+  {
+    "x_min": 821.833251953125,
+    "y_min": 992.7489624023438,
+    "x_max": 919.34619140625,
+    "y_max": 1079.78759765625,
+    "text": "Collect 12 gifts for the garden"
+  },
+  {
+    "x_min": 919.3986206054688,
+    "y_min": 992.7269897460938,
+    "x_max": 1013.023193359375,
+    "y_max": 1079.8121337890625,
+    "text": "COMBATANTS Slay a spider"
+  },
+  {
+    "x_min": 1012.5813598632812,
+    "y_min": 992.8428344726562,
+    "x_max": 1111.2413330078125,
+    "y_max": 1079.4715576171875,
+    "text": "OVERBOLD: Purchase 3 price hiked items in one run"
+  },
+  {
+    "x_min": 1111.092529296875,
+    "y_min": 992.4922485351562,
+    "x_max": 1208.4925537109375,
+    "y_max": 1079.5103759765625,
+    "text": "PINGOLF: Gold disk"
+  }
+]

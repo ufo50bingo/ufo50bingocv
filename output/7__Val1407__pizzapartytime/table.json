@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 463.2506103515625,
+    "y_min": 405.8341064453125,
+    "x_max": 535.4346923828125,
+    "y_max": 468.73236083984375,
+    "text": "MOONCAT: Use 2 warps"
+  },
+  {
+    "x_min": 534.60986328125,
+    "y_min": 406.41912841796875,
+    "x_max": 602.8565063476562,
+    "y_max": 468.7347717285156,
+    "text": "BUG HUNTER: Complete a job with your onergy maxed out"
+  },
+  {
+    "x_min": 601.8988647460938,
+    "y_min": 405.0941467285156,
+    "x_max": 670.6082153320312,
+    "y_max": 468.78155517578125,
+    "text": "MINI & MAX: Turn off the lamp"
+  },
+  {
+    "x_min": 670.4702758789062,
+    "y_min": 403.87677001953125,
+    "x_max": 741.1129760742188,
+    "y_max": 468.6038513183594,
+    "text": "Find an egg in 10 different games"
+  },
+  {
+    "x_min": 740.5948486328125,
+    "y_min": 402.7511901855469,
+    "x_max": 805.1091918945312,
+    "y_max": 468.419921875,
+    "text": "THE BIG BELLRACE: Gold disk"
+  },
+  {
+    "x_min": 463.8128662109375,
+    "y_min": 468.5078430175781,
+    "x_max": 535.3133544921875,
+    "y_max": 530.82763671875,
+    "text": "Collect 4 cherry disks"
+  },
+  {
+    "x_min": 534.6965942382812,
+    "y_min": 468.5843200683594,
+    "x_max": 603.2381591796875,
+    "y_max": 531.2357177734375,
+    "text": "BLOCK KOALA: Beat 5 story levels"
+  },
+  {
+    "x_min": 602.831298828125,
+    "y_min": 468.5361328125,
+    "x_max": 670.9227905273438,
+    "y_max": 531.33935546875,
+    "text": "RAKSHASA: Use each of the three weapon types in one run"
+  },
+  {
+    "x_min": 670.5633544921875,
+    "y_min": 468.44775390625,
+    "x_max": 740.99609375,
+    "y_max": 531.3976440429688,
+    "text": "AVIANOS: Win the campaign Hatchling game without using any Miracles"
+  },
+  {
+    "x_min": 740.695556640625,
+    "y_min": 468.2882385253906,
+    "x_max": 805.5269775390625,
+    "y_max": 531.525390625,
+    "text": "CAMOUFLAGE Reach 70% completion or more"
+  },
+  {
+    "x_min": 464.6259765625,
+    "y_min": 530.40625,
+    "x_max": 535.2056274414062,
+    "y_max": 592.7617797851562,
+    "text": "BARBUTA: Obtain the Rod and Blood Sword"
+  },
+  {
+    "x_min": 534.6735229492188,
+    "y_min": 531.2887573242188,
+    "x_max": 603.1088256835938,
+    "y_max": 592.6897583007812,
+    "text": "CAMPANELLA2 Obtain 6 power- up items in one run (square icons on left of screen)"
+  },
+  {
+    "x_min": 602.5292358398438,
+    "y_min": 531.3355102539062,
+    "x_max": 670.9461059570312,
+    "y_max": 592.712890625,
+    "text": "Defeat 10 bosses"
+  },
+  {
+    "x_min": 670.7164306640625,
+    "y_min": 531.358642578125,
+    "x_max": 740.934326171875,
+    "y_max": 592.5894775390625,
+    "text": "SEASIDE DRIVE: Destroy the UFO in Stage 3"
+  },
+  {
+    "x_min": 740.589111328125,
+    "y_min": 531.2163696289062,
+    "x_max": 805.32666015625,
+    "y_max": 592.8781127929688,
+    "text": "BUG HUNTER Gat 4kills in one job by pushing bugs into pits"
+  },
+  {
+    "x_min": 464.94281005859375,
+    "y_min": 592.5145874023438,
+    "x_max": 535.0347290039062,
+    "y_max": 655.06640625,
+    "text": "PARTY HOUSE:Beat a random scenario"
+  },
+  {
+    "x_min": 534.4803466796875,
+    "y_min": 592.6337890625,
+    "x_max": 603.090576171875,
+    "y_max": 655.2453002929688,
+    "text": "ELFAZAR'S HAT: Clear Stage 1 (White Pea)"
+  },
+  {
+    "x_min": 602.8504028320312,
+    "y_min": 592.6535034179688,
+    "x_max": 670.8800048828125,
+    "y_max": 655.3720092773438,
+    "text": "VALBRACE: Level up at a throne"
+  },
+  {
+    "x_min": 670.5948486328125,
+    "y_min": 592.57666015625,
+    "x_max": 740.8417358398438,
+    "y_max": 655.3065185546875,
+    "text": "PILOT QUEST: Defeat Unktomi (Spider boss)"
+  },
+  {
+    "x_min": 740.4705200195312,
+    "y_min": 592.6719970703125,
+    "x_max": 805.2161254882812,
+    "y_max": 655.1962890625,
+    "text": "ALPHA TRILOGY: Gold Disk Voigroos, Overbold, and Quibble Race as Apha"
+  },
+  {
+    "x_min": 465.543212890625,
+    "y_min": 654.9728393554688,
+    "x_max": 534.8800659179688,
+    "y_max": 716.998046875,
+    "text": "RAIL HEIST: Collect 9 total stars"
+  },
+  {
+    "x_min": 534.397216796875,
+    "y_min": 655.1283569335938,
+    "x_max": 603.6347045898438,
+    "y_max": 716.9010620117188,
+    "text": "Collect 12 gifts for the garden"
+  },
+  {
+    "x_min": 603.3410034179688,
+    "y_min": 655.1976318359375,
+    "x_max": 670.6077880859375,
+    "y_max": 716.8870239257812,
+    "text": "PAINT CHASE: Beat 7 levals without using power ups (boost pads allowed)"
+  },
+  {
+    "x_min": 670.3016357421875,
+    "y_min": 655.020263671875,
+    "x_max": 740.8076171875,
+    "y_max": 717.2218017578125,
+    "text": "BARBUTA: Collect the reward from a green skull"
+  },
+  {
+    "x_min": 740.55517578125,
+    "y_min": 654.8612670898438,
+    "x_max": 804.8702392578125,
+    "y_max": 717.5416870117188,
+    "text": "HOT FOOT: Get 3 blowouts In one tournament"
+  }
+]

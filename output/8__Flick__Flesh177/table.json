@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 701.2723388671875,
+    "y_min": 600.3399658203125,
+    "x_max": 805.6520385742188,
+    "y_max": 698.8547973632812,
+    "text": "PLANET ZOLDATH: Collect the dungeon Map Piece"
+  },
+  {
+    "x_min": 804.9154052734375,
+    "y_min": 600.3699340820312,
+    "x_max": 911.64697265625,
+    "y_max": 699.1532592773438,
+    "text": "PILOT QUEST: Plant 4 seeds at the crash site"
+  },
+  {
+    "x_min": 910.8067626953125,
+    "y_min": 599.7113037109375,
+    "x_max": 1013.1336669921875,
+    "y_max": 699.1260375976562,
+    "text": "Beat2levels in 8 different games"
+  },
+  {
+    "x_min": 1012.4367065429688,
+    "y_min": 599.711181640625,
+    "x_max": 1117.6754150390625,
+    "y_max": 698.7865600585938,
+    "text": "MOONCAT Defeat6 unique enemy types"
+  },
+  {
+    "x_min": 1117.01025390625,
+    "y_min": 599.2235107421875,
+    "x_max": 1221.3240966796875,
+    "y_max": 697.9797973632812,
+    "text": "FISTHELL Destroy 2 UFOs"
+  },
+  {
+    "x_min": 701.554443359375,
+    "y_min": 698.3815307617188,
+    "x_max": 805.6220703125,
+    "y_max": 794.527099609375,
+    "text": "LORDS OF DISKONIA: Have 50+ gold"
+  },
+  {
+    "x_min": 805.23388671875,
+    "y_min": 698.7994384765625,
+    "x_max": 909.4019165039062,
+    "y_max": 794.079345703125,
+    "text": "HOTFOOT Get 3 blowouts in one tourament"
+  },
+  {
+    "x_min": 908.6563720703125,
+    "y_min": 698.804443359375,
+    "x_max": 1012.9347534179688,
+    "y_max": 794.061279296875,
+    "text": "DIVERS: Obtain any Lance weapon"
+  },
+  {
+    "x_min": 1012.0671997070312,
+    "y_min": 698.48095703125,
+    "x_max": 1117.474853515625,
+    "y_max": 793.841064453125,
+    "text": "VELGRESS: Hold 50 coins at once"
+  },
+  {
+    "x_min": 1116.665771484375,
+    "y_min": 697.2715454101562,
+    "x_max": 1221.0596923828125,
+    "y_max": 793.7720947265625,
+    "text": "DAYJOB:Bug Hunter. Beat a job; Onion Delivery: Complete 2 days; Rail Heist: Eam 3 pacifist stars"
+  },
+  {
+    "x_min": 701.0033569335938,
+    "y_min": 794.4608154296875,
+    "x_max": 805.4954833984375,
+    "y_max": 888.3045654296875,
+    "text": "VAINGER Defeat a boss"
+  },
+  {
+    "x_min": 804.9014282226562,
+    "y_min": 793.9349365234375,
+    "x_max": 908.5047607421875,
+    "y_max": 888.7186889648438,
+    "text": "nter a top 3 score on 2 arcade leaderboards"
+  },
+  {
+    "x_min": 908.1972045898438,
+    "y_min": 793.9627685546875,
+    "x_max": 1012.8522338867188,
+    "y_max": 889.04736328125,
+    "text": "CAMPANELLA 3:Clear 4 waves 100%"
+  },
+  {
+    "x_min": 1012.2293701171875,
+    "y_min": 793.6622924804688,
+    "x_max": 1117.1741943359375,
+    "y_max": 888.96630859375,
+    "text": "WARPTANK: SLIM-TANK allowed, clear Riot and Soft Sectors"
+  },
+  {
+    "x_min": 1116.289794921875,
+    "y_min": 793.6355590820312,
+    "x_max": 1219.8934326171875,
+    "y_max": 888.49951171875,
+    "text": "MORTOLI: Gold disk"
+  },
+  {
+    "x_min": 701.5900268554688,
+    "y_min": 888.198486328125,
+    "x_max": 805.3516235351562,
+    "y_max": 983.8189086914062,
+    "text": "CAMPANELLA: Finish Stage C with 2000 points or less (kill only bosses)"
+  },
+  {
+    "x_min": 804.6749267578125,
+    "y_min": 888.679931640625,
+    "x_max": 908.7749633789062,
+    "y_max": 983.7346801757812,
+    "text": "VAINGER: Get the Force Mod from Verde Sector"
+  },
+  {
+    "x_min": 908.4986572265625,
+    "y_min": 888.8964233398438,
+    "x_max": 1012.859130859375,
+    "y_max": 983.9427490234375,
+    "text": "PAINT CHASE: Beat 6 levels"
+  },
+  {
+    "x_min": 1012.35498046875,
+    "y_min": 888.8383178710938,
+    "x_max": 1117.2042236328125,
+    "y_max": 983.6397094726562,
+    "text": "ollect a food item in 8 different games"
+  },
+  {
+    "x_min": 1116.6552734375,
+    "y_min": 888.2002563476562,
+    "x_max": 1219.65966796875,
+    "y_max": 983.4735107421875,
+    "text": "WALDORF'S JOURNEY: Purchase four unique items in one run"
+  },
+  {
+    "x_min": 701.1771240234375,
+    "y_min": 983.54345703125,
+    "x_max": 805.4749145507812,
+    "y_max": 1079.5457763671875,
+    "text": "Collect 3 cherry disks"
+  },
+  {
+    "x_min": 805.0128784179688,
+    "y_min": 983.5532836914062,
+    "x_max": 908.6157836914062,
+    "y_max": 1079.416259765625,
+    "text": "WARPTANK: Beat Healing Sector"
+  },
+  {
+    "x_min": 908.671142578125,
+    "y_min": 983.6499633789062,
+    "x_max": 1012.63720703125,
+    "y_max": 1079.426025390625,
+    "text": "MORTOL: LEAF-HEAD allowed; turn 10 enemies into vines"
+  },
+  {
+    "x_min": 1012.6710815429688,
+    "y_min": 983.3870849609375,
+    "x_max": 1117.153564453125,
+    "y_max": 1079.35205078125,
+    "text": "NINPEK:Use HARD-LOOP defeat the boss with a score of 20,000+"
+  },
+  {
+    "x_min": 1116.783203125,
+    "y_min": 983.109130859375,
+    "x_max": 1219.8250732421875,
+    "y_max": 1079.2158203125,
+    "text": "ROCKON! ISLAND:Have 20 chickens in a main level"
+  }
+]

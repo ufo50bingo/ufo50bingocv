@@ -1,0 +1,177 @@
+[
+  {
+    "x_min": 465.5905456542969,
+    "y_min": 400.83990478515625,
+    "x_max": 535.1312866210938,
+    "y_max": 463.22894287109375,
+    "text": "LORDS OF DISKONIA: Have 5 enemy disks drown"
+  },
+  {
+    "x_min": 534.6625366210938,
+    "y_min": 400.8592224121094,
+    "x_max": 605.4133911132812,
+    "y_max": 464.1942138671875,
+    "text": "PARTY HOUSE: Have 6 trouble on screen at once"
+  },
+  {
+    "x_min": 605.1389770507812,
+    "y_min": 399.8207702636719,
+    "x_max": 674.4849853515625,
+    "y_max": 464.3826904296875,
+    "text": "PILOT QUEST: Defeat Unktomi (Spider boss)"
+  },
+  {
+    "x_min": 674.1429443359375,
+    "y_min": 399.3945617675781,
+    "x_max": 744.9986572265625,
+    "y_max": 464.23828125,
+    "text": "Collect 4 gold disks"
+  },
+  {
+    "x_min": 744.6175537109375,
+    "y_min": 399.06854248046875,
+    "x_max": 815.8743896484375,
+    "y_max": 463.4736633300781,
+    "text": "AVIANOS:Win the campaign Hatchling game without using any Mlracles"
+  },
+  {
+    "x_min": 465.9588623046875,
+    "y_min": 462.61492919921875,
+    "x_max": 535.1489868164062,
+    "y_max": 528.0108032226562,
+    "text": "Collect 12 gifts for the garden"
+  },
+  {
+    "x_min": 534.6892700195312,
+    "y_min": 464.1914978027344,
+    "x_max": 605.2860107421875,
+    "y_max": 527.9287109375,
+    "text": "GRIMSTONE Reach Level 4 with any character"
+  },
+  {
+    "x_min": 604.8927612304688,
+    "y_min": 464.3136291503906,
+    "x_max": 674.4122314453125,
+    "y_max": 527.91943359375,
+    "text": "PAINT CHASE: Beal 7 levels without using power ups (boost pads allowed)"
+  },
+  {
+    "x_min": 674.03759765625,
+    "y_min": 464.1824035644531,
+    "x_max": 744.8743896484375,
+    "y_max": 527.9669799804688,
+    "text": "OVERBOLD: Purchase 3 price hiked Items in one run"
+  },
+  {
+    "x_min": 744.6090698242188,
+    "y_min": 463.0089416503906,
+    "x_max": 816.2335205078125,
+    "y_max": 527.893310546875,
+    "text": "DIVERS: Obtain any Lance weapon"
+  },
+  {
+    "x_min": 466.11907958984375,
+    "y_min": 527.8009033203125,
+    "x_max": 535.120361328125,
+    "y_max": 591.6730346679688,
+    "text": "MORTOL: Earn six 1-ups by killing enemies"
+  },
+  {
+    "x_min": 534.7984619140625,
+    "y_min": 527.8855590820312,
+    "x_max": 605.3282470703125,
+    "y_max": 591.7112426757812,
+    "text": "WARPTANK: Beat any 9 levels and talk to 3 NPCs"
+  },
+  {
+    "x_min": 605.1881103515625,
+    "y_min": 527.8048706054688,
+    "x_max": 674.572021484375,
+    "y_max": 591.8402099609375,
+    "text": "Collect a food Item in 8 different games"
+  },
+  {
+    "x_min": 674.20751953125,
+    "y_min": 527.8711547851562,
+    "x_max": 745.1232299804688,
+    "y_max": 591.7779541015625,
+    "text": "BUG HUNTER: Buy 3 4-cost modules in one job"
+  },
+  {
+    "x_min": 744.8319091796875,
+    "y_min": 527.79443359375,
+    "x_max": 815.7836303710938,
+    "y_max": 591.47705078125,
+    "text": "MAGIC GARDEN: Gold disk"
+  },
+  {
+    "x_min": 466.4342041015625,
+    "y_min": 591.5047607421875,
+    "x_max": 535.0231323242188,
+    "y_max": 654.8997192382812,
+    "text": "ONION DELIVERY: HI 6 Ime baxes in one day and complete the day"
+  },
+  {
+    "x_min": 534.5736083984375,
+    "y_min": 591.6192626953125,
+    "x_max": 605.3306884765625,
+    "y_max": 655.2411499023438,
+    "text": "CAMPANELLA Score 20.000+ points"
+  },
+  {
+    "x_min": 605.1295776367188,
+    "y_min": 591.7383422851562,
+    "x_max": 674.4444580078125,
+    "y_max": 655.093994140625,
+    "text": "HOT FOOT Get a blowout without using star abilities"
+  },
+  {
+    "x_min": 674.1895141601562,
+    "y_min": 591.6590576171875,
+    "x_max": 745.2399291992188,
+    "y_max": 655.0091552734375,
+    "text": "PORGY: Achieve 20% Completion"
+  },
+  {
+    "x_min": 745.0017700195312,
+    "y_min": 591.288330078125,
+    "x_max": 816.0247192382812,
+    "y_max": 655.0185546875,
+    "text": "Beat 8 levels in 3 different games"
+  },
+  {
+    "x_min": 466.381103515625,
+    "y_min": 654.7564697265625,
+    "x_max": 534.7918090820312,
+    "y_max": 719.4475708007812,
+    "text": "MORTOL I: Gold disk"
+  },
+  {
+    "x_min": 534.6792602539062,
+    "y_min": 655.0012817382812,
+    "x_max": 605.5059204101562,
+    "y_max": 719.2661743164062,
+    "text": "GIRL POWER: Magio Garden: Save 50 opples: Oyber Oals: Baat Congo; Fist Hall: Survive 0 gym wwves an Cat"
+  },
+  {
+    "x_min": 605.2301635742188,
+    "y_min": 654.8538818359375,
+    "x_max": 674.4445190429688,
+    "y_max": 719.0142211914062,
+    "text": "ELFAZAR'S HAT:Clear Stage 3 (Frostin Town)"
+  },
+  {
+    "x_min": 674.3118896484375,
+    "y_min": 654.704833984375,
+    "x_max": 745.1464233398438,
+    "y_max": 719.1652221679688,
+    "text": "CYBER OWLS Complete 2 non-rescue mlssions"
+  },
+  {
+    "x_min": 744.699951171875,
+    "y_min": 654.4903564453125,
+    "x_max": 815.8013305664062,
+    "y_max": 719.3072509765625,
+    "text": "VELGRESS Clear out a shop's stock"
+  }
+]
