@@ -1,12 +1,5 @@
-Finish downloading remaining videos when youtube stops blocking it
-Update spreadsheet and code to have different match start/board start times
 Figure out how to use filter views
-Go through remaining errors and manually fix changelog (e.g. Val Mimic 40 min time)
-Add missing item for Kanvas week 1
-Correct remaining text
 Merge equivalent goal names
-Fix smo vs winnerbit issue with half black frame
-Investigate a few more extremely short/long completions
 Filter out color changes that last less than 10(?) seconds
 Reorganize code a bit (move GoalCompletion)
 
