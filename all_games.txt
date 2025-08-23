@@ -18,7 +18,6 @@ Campanella
 Golfaria
 The Big Bell Race
 Warptank
-Waldorf's Journey
 Waldorf’s Journey
 Porgy
 Onion Delivery
@@ -41,7 +40,6 @@ Star Waspir
 Grimstone
 Lords of Diskonia
 Night Manor
-Elfazar's Hat
 Elfazar’s Hat
 Pilot Quest
 Mini & Max

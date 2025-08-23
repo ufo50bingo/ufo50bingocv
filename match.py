@@ -1,15 +1,12 @@
 import json
 import math
 import os
-import pickle
 import subprocess
 import cv2
 
 from changelog import Change, serialize_changelog_to_file
 from find_table import get_best_table_from_image
-from make_url import get_url_at_time
 from square import Square, deserialize_board_file, serialize_board_to_file
-from text_correction import get_confirmed_text
 from color import Color
 from video import get_named_colors
 from collections import Counter
@@ -245,23 +242,6 @@ class GoalCompletion:
                 )
             )
         return completions
-
-    # week, tier, date, player name, opponent name, goal, time(mins), start_url, end_url
-    def get_csv_row(self) -> list[str]:
-        confirmed_text = get_confirmed_text(self.text)
-        if confirmed_text is None:
-            raise Exception(f"Trying to write unconfirmed text to csv: {self.text}")
-        return [
-            self.match.week,
-            self.match.tier,
-            self.match.date,
-            self.player_name,
-            self.opponent_name,
-            confirmed_text,
-            f"{(self.end_time - self.start_time) / 60:.1f}",
-            get_url_at_time(self.match.vod, self.start_time),
-            get_url_at_time(self.match.vod, self.end_time),
-        ]
 
 
 class Match:
