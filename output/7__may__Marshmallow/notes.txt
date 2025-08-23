@@ -1,0 +1,4 @@
+Actual stats: (<Color.BROWN: 'brown'>, 12, False, <Color.BLUE: 'blue'>, 11)
+Expected stats: (11, False, 11)
+
+NOTE: Had to hardcode this because the after-time goal changed the winner
