@@ -17,8 +17,8 @@ for match in matches:
     has_change = False
     for i in range(0, 25):
         # if square is black we won't generate a goal completion, so we don't care about the text
-        if final_board[i] == Color.BLACK:
-            continue
+        # if final_board[i] == Color.BLACK:
+        #     continue
         text = table[i].text
         if get_confirmed_text(text) is not None:
             continue

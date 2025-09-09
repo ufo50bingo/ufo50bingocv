@@ -266,6 +266,7 @@ class Match:
         self.id = (self.week + "__" + self.p1_name + "__" + self.p2_name).replace(
             " ", "_"
         )
+        self.timestr = row[13]
 
         self.dir = os.path.join("output", self.id)
 

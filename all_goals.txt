@@ -193,6 +193,7 @@ MOONCAT: Find 2 of 3 eggs
 MOONCAT: Gold disk
 MOONCAT: Use 2 warps
 MOONCAT: Visit 12 different rooms
+MOONCAT: Visit 25 different rooms
 MORTOL II: Activate all the switches
 MORTOL II: Collect 10 keys
 MORTOL II: Defeat all three mini bosses
@@ -383,3 +384,11 @@ BUSHIDO BALL: Win a 16-point match on Hyper speed w/ no time limit
 BUG HUNTER: Get 4 kils by stomping on bugs
 BUG HUNTER: Get 4 kills by pushing bugs into pits
 CAMPANELLA: Finish Stage C with 2000 points or less (kill only bosses)
+Collect 7 gold disks
+PAINT CHASE: Reach a score of 200+
+ONION DELIVERY: Deliver 12 onions in a single day
+AVIANOS: Use BLUE-BEAK; complete Trials 4 and 5
+PAINT CHASE: Reach a score of 360+
+OVERBOLD: Gold disk with exactly $900 stake in round 7
+HYPER CONTENDER: Win 4 fights in a row on all default settings
+CAMPANELLA: Use BEAN-DRIP; Score 8,000 points in the Bonus Game
